@@ -1,0 +1,841 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2024-12-24T09:27:18Z",
+    "timestamp_areas_base": "2024-12-24T04:06:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 14601368,
+      "lat": 50.9204003,
+      "lon": -1.4746218
+    },
+    {
+      "type": "node",
+      "id": 160280778,
+      "lat": 50.9204041,
+      "lon": -1.4738922
+    },
+    {
+      "type": "node",
+      "id": 2448228510,
+      "lat": 50.9204071,
+      "lon": -1.4742268
+    },
+    {
+      "type": "way",
+      "id": 55037098,
+      "nodes": [
+        160280778,
+        2448228510,
+        14601368
+      ],
+      "tags": {
+        "alt_name": "Bournemouth Main Lin",
+        "bridge": "yes",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "55 mph",
+        "name": "South Western Main Line",
+        "note": "Original GPX track contained some inaccuracies and so the segments were adjusted using existing footpath data and Landsat, to make it fit.",
+        "note_2": "updated further, from yahoo imagery in solent area",
+        "passenger": "national",
+        "passenger_lines": "2",
+        "railway": "rail",
+        "ref": "BML2",
+        "usage": "main",
+        "voltage": "750"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759226682,
+      "nodes": [
+        7091719300,
+        7091719299,
+        7091719298,
+        7091719297,
+        7091719296,
+        7091719295,
+        7091719294,
+        7091719293,
+        7091719300
+      ],
+      "tags": {
+        "building": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269418,
+      "lat": 50.921201,
+      "lon": -1.4754073
+    },
+    {
+      "type": "node",
+      "id": 2773938,
+      "lat": 50.9216722,
+      "lon": -1.4737051,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9739121,
+      "lat": 50.9222535,
+      "lon": -1.4713033
+    },
+    {
+      "type": "node",
+      "id": 9739123,
+      "lat": 50.9224007,
+      "lon": -1.4708755
+    },
+    {
+      "type": "node",
+      "id": 16570752,
+      "lat": 50.9219875,
+      "lon": -1.4727591
+    },
+    {
+      "type": "node",
+      "id": 160373993,
+      "lat": 50.9219652,
+      "lon": -1.4724634
+    },
+    {
+      "type": "node",
+      "id": 160374529,
+      "lat": 50.9221383,
+      "lon": -1.4719995
+    },
+    {
+      "type": "node",
+      "id": 160374530,
+      "lat": 50.9223106,
+      "lon": -1.4710424
+    },
+    {
+      "type": "node",
+      "id": 250524066,
+      "lat": 50.923811,
+      "lon": -1.4752364,
+      "tags": {
+        "surface": "paving_stones",
+        "traffic_calming": "table"
+      }
+    },
+    {
+      "type": "node",
+      "id": 317010867,
+      "lat": 50.9214255,
+      "lon": -1.4738529
+    },
+    {
+      "type": "node",
+      "id": 317011123,
+      "lat": 50.9234867,
+      "lon": -1.4751214
+    },
+    {
+      "type": "node",
+      "id": 317011124,
+      "lat": 50.9231716,
+      "lon": -1.474967,
+      "tags": {
+        "surface": "paving_stones",
+        "traffic_calming": "table"
+      }
+    },
+    {
+      "type": "node",
+      "id": 317011125,
+      "lat": 50.9230573,
+      "lon": -1.4748963
+    },
+    {
+      "type": "node",
+      "id": 317011126,
+      "lat": 50.9229488,
+      "lon": -1.474834
+    },
+    {
+      "type": "node",
+      "id": 317011127,
+      "lat": 50.9228323,
+      "lon": -1.4747836
+    },
+    {
+      "type": "node",
+      "id": 317011128,
+      "lat": 50.9227123,
+      "lon": -1.4747394
+    },
+    {
+      "type": "node",
+      "id": 317011129,
+      "lat": 50.9220135,
+      "lon": -1.4745842
+    },
+    {
+      "type": "node",
+      "id": 317011130,
+      "lat": 50.9218675,
+      "lon": -1.4745477
+    },
+    {
+      "type": "node",
+      "id": 317011131,
+      "lat": 50.9217651,
+      "lon": -1.4744823
+    },
+    {
+      "type": "node",
+      "id": 317011132,
+      "lat": 50.9216875,
+      "lon": -1.474392
+    },
+    {
+      "type": "node",
+      "id": 317011133,
+      "lat": 50.921606,
+      "lon": -1.4742952
+    },
+    {
+      "type": "node",
+      "id": 1126558449,
+      "lat": 50.9244233,
+      "lon": -1.4753434
+    },
+    {
+      "type": "node",
+      "id": 1126558695,
+      "lat": 50.9236715,
+      "lon": -1.4751969
+    },
+    {
+      "type": "node",
+      "id": 1396782379,
+      "lat": 50.9218686,
+      "lon": -1.4732002
+    },
+    {
+      "type": "node",
+      "id": 2467086124,
+      "lat": 50.9209662,
+      "lon": -1.4762492
+    },
+    {
+      "type": "node",
+      "id": 2467086126,
+      "lat": 50.921249,
+      "lon": -1.4752367
+    },
+    {
+      "type": "node",
+      "id": 3646662629,
+      "lat": 50.9223617,
+      "lon": -1.470923
+    },
+    {
+      "type": "node",
+      "id": 3646662634,
+      "lat": 50.9223414,
+      "lon": -1.4709609,
+      "tags": {
+        "direction": "forward",
+        "highway": "give_way"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3646662637,
+      "lat": 50.9222797,
+      "lon": -1.4711456
+    },
+    {
+      "type": "node",
+      "id": 6388110104,
+      "lat": 50.9221628,
+      "lon": -1.4746174
+    },
+    {
+      "type": "node",
+      "id": 6388110123,
+      "lat": 50.9219363,
+      "lon": -1.4745649
+    },
+    {
+      "type": "node",
+      "id": 6394053801,
+      "lat": 50.9223067,
+      "lon": -1.4746494
+    },
+    {
+      "type": "node",
+      "id": 9047675195,
+      "lat": 50.9243178,
+      "lon": -1.4753334
+    },
+    {
+      "type": "node",
+      "id": 9609486440,
+      "lat": 50.9223802,
+      "lon": -1.4746657,
+      "tags": {
+        "surface": "paving_stones",
+        "traffic_calming": "table"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9743665936,
+      "lat": 50.9215202,
+      "lon": -1.4741236
+    },
+    {
+      "type": "node",
+      "id": 9743665937,
+      "lat": 50.9214773,
+      "lon": -1.4740113
+    },
+    {
+      "type": "node",
+      "id": 9743679655,
+      "lat": 50.9220283,
+      "lon": -1.4725722
+    },
+    {
+      "type": "node",
+      "id": 10589376537,
+      "lat": 50.9215751,
+      "lon": -1.4742334,
+      "tags": {
+        "surface": "paving_stones",
+        "traffic_calming": "table"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612599552,
+      "lat": 50.9221996,
+      "lon": -1.471629,
+      "tags": {
+        "bus": "yes",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3358560,
+      "nodes": [
+        2773938,
+        1396782379,
+        16570752,
+        9743679655,
+        160374529,
+        10612599552,
+        9739121,
+        3646662637,
+        160374530,
+        3646662634,
+        3646662629,
+        9739123
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "expressway": "no",
+        "highway": "primary_link",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "oneway": "yes",
+        "ref": "A35",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28835783,
+      "nodes": [
+        1126558449,
+        9047675195,
+        250524066,
+        1126558695,
+        317011123,
+        317011124,
+        317011125,
+        317011126,
+        317011127,
+        317011128,
+        9609486440,
+        6394053801,
+        6388110104,
+        317011129,
+        6388110123,
+        317011130,
+        317011131,
+        317011132,
+        317011133
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "maxspeed:type": "sign",
+        "name": "Test Lane",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238905064,
+      "nodes": [
+        2467086124,
+        269418,
+        2467086126
+      ],
+      "tags": {
+        "cycleway": "no",
+        "dual_carriageway": "yes",
+        "embankment": "yes",
+        "expressway": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "name": "Redbridge Causeway",
+        "oneway": "yes",
+        "ref": "A35",
+        "shoulder": "no",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238905091,
+      "nodes": [
+        2773938,
+        160373993
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "dual_carriageway": "yes",
+        "expressway": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "name": "Redbridge Flyover",
+        "oneway": "yes",
+        "ref": "A35",
+        "shoulder": "no",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1060532407,
+      "nodes": [
+        317011133,
+        10589376537,
+        9743665936,
+        9743665937,
+        317010867
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "maxheight": "default",
+        "maxspeed": "20 mph",
+        "maxspeed:type": "sign",
+        "name": "Test Lane",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2773938,
+      "lat": 50.9216722,
+      "lon": -1.4737051,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2467086126,
+      "lat": 50.921249,
+      "lon": -1.4752367
+    },
+    {
+      "type": "way",
+      "id": 134112844,
+      "nodes": [
+        2467086126,
+        2773938
+      ],
+      "tags": {
+        "bridge": "yes",
+        "cycleway:both": "no",
+        "dual_carriageway": "yes",
+        "expressway": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "maxweight:signed": "no",
+        "name": "Redbridge Causeway",
+        "oneway": "yes",
+        "ref": "A35",
+        "shoulder": "no",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759226682,
+      "nodes": [
+        7091719300,
+        7091719299,
+        7091719298,
+        7091719297,
+        7091719296,
+        7091719295,
+        7091719294,
+        7091719293,
+        7091719300
+      ],
+      "tags": {
+        "building": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254865,
+      "lat": 50.9218909,
+      "lon": -1.4723974
+    },
+    {
+      "type": "node",
+      "id": 254866,
+      "lat": 50.9216137,
+      "lon": -1.4734683
+    },
+    {
+      "type": "node",
+      "id": 9739125,
+      "lat": 50.9219422,
+      "lon": -1.4705573
+    },
+    {
+      "type": "node",
+      "id": 10222179,
+      "lat": 50.9220146,
+      "lon": -1.4709601
+    },
+    {
+      "type": "node",
+      "id": 10222180,
+      "lat": 50.9219578,
+      "lon": -1.4714532
+    },
+    {
+      "type": "node",
+      "id": 160372521,
+      "lat": 50.9218284,
+      "lon": -1.4721459
+    },
+    {
+      "type": "node",
+      "id": 253866189,
+      "lat": 50.9213186,
+      "lon": -1.4733544
+    },
+    {
+      "type": "node",
+      "id": 317010865,
+      "lat": 50.9213522,
+      "lon": -1.4735226
+    },
+    {
+      "type": "node",
+      "id": 317010866,
+      "lat": 50.9213949,
+      "lon": -1.4737231
+    },
+    {
+      "type": "node",
+      "id": 317010867,
+      "lat": 50.9214255,
+      "lon": -1.4738529
+    },
+    {
+      "type": "node",
+      "id": 317011133,
+      "lat": 50.921606,
+      "lon": -1.4742952
+    },
+    {
+      "type": "node",
+      "id": 1126558489,
+      "lat": 50.9219996,
+      "lon": -1.4708366
+    },
+    {
+      "type": "node",
+      "id": 1126558833,
+      "lat": 50.9219994,
+      "lon": -1.4711932
+    },
+    {
+      "type": "node",
+      "id": 3646662625,
+      "lat": 50.921977,
+      "lon": -1.4707429
+    },
+    {
+      "type": "node",
+      "id": 3646662638,
+      "lat": 50.9220147,
+      "lon": -1.471046
+    },
+    {
+      "type": "node",
+      "id": 7884404112,
+      "lat": 50.9218626,
+      "lon": -1.4719628
+    },
+    {
+      "type": "node",
+      "id": 8490276874,
+      "lat": 50.9217986,
+      "lon": -1.4727688,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9581552906,
+      "lat": 50.921747,
+      "lon": -1.4726195,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9743665936,
+      "lat": 50.9215202,
+      "lon": -1.4741236
+    },
+    {
+      "type": "node",
+      "id": 9743665937,
+      "lat": 50.9214773,
+      "lon": -1.4740113
+    },
+    {
+      "type": "node",
+      "id": 10589376537,
+      "lat": 50.9215751,
+      "lon": -1.4742334,
+      "tags": {
+        "surface": "paving_stones",
+        "traffic_calming": "table"
+      }
+    },
+    {
+      "type": "way",
+      "id": 3358561,
+      "nodes": [
+        9739125,
+        3646662625,
+        1126558489,
+        10222179,
+        3646662638,
+        1126558833,
+        10222180,
+        7884404112,
+        160372521,
+        9581552906,
+        254866
+      ],
+      "tags": {
+        "cycleway:left": "separate",
+        "cycleway:right": "no",
+        "expressway": "no",
+        "highway": "primary_link",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "oneway": "yes",
+        "ref": "A35",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238907758,
+      "nodes": [
+        254865,
+        8490276874,
+        254866
+      ],
+      "tags": {
+        "cycleway:both": "no",
+        "dual_carriageway": "yes",
+        "expressway": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "name": "Redbridge Flyover",
+        "oneway": "yes",
+        "ref": "A35",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 309184793,
+      "nodes": [
+        253866189,
+        317010865,
+        317010866,
+        317010867
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "maxspeed:type": "sign",
+        "name": "Old Redbridge Road",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1060532407,
+      "nodes": [
+        317011133,
+        10589376537,
+        9743665936,
+        9743665937,
+        317010867
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "maxheight": "default",
+        "maxspeed": "20 mph",
+        "maxspeed:type": "sign",
+        "name": "Test Lane",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254866,
+      "lat": 50.9216137,
+      "lon": -1.4734683
+    },
+    {
+      "type": "node",
+      "id": 16570733,
+      "lat": 50.9211477,
+      "lon": -1.4751496
+    },
+    {
+      "type": "node",
+      "id": 2321314124,
+      "lat": 50.9214946,
+      "lon": -1.4739025
+    },
+    {
+      "type": "node",
+      "id": 7967729353,
+      "lat": 50.9213165,
+      "lon": -1.4745368
+    },
+    {
+      "type": "way",
+      "id": 139071595,
+      "nodes": [
+        254866,
+        2321314124,
+        7967729353,
+        16570733
+      ],
+      "tags": {
+        "bridge": "yes",
+        "cycleway:left": "separate",
+        "cycleway:right": "no",
+        "dual_carriageway": "yes",
+        "expressway": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "2",
+        "lit": "yes",
+        "maxspeed": "40 mph",
+        "maxspeed:type": "sign",
+        "maxweight:signed": "no",
+        "name": "Redbridge Causeway",
+        "oneway": "yes",
+        "ref": "A35",
+        "shoulder": "no",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 759226682,
+      "nodes": [
+        7091719300,
+        7091719299,
+        7091719298,
+        7091719297,
+        7091719296,
+        7091719295,
+        7091719294,
+        7091719293,
+        7091719300
+      ],
+      "tags": {
+        "building": "yes"
+      }
+    }
+
+  ]
+}
