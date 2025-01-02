@@ -38,7 +38,7 @@ area["name"="Southampton"][boundary=administrative]->.southampton;
 
 
 (
-  way[bridge](area.southampton)(area.unitedkingdom);
+  way[bridge](area.southampton)(area.unitedkingdom)[highway!~"^(proposed)$"];
 )->.bridges;
 
 foreach .bridges -> .bridge {
