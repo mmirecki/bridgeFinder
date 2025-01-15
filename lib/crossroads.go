@@ -1,59 +1,13 @@
 package lib
 
 import (
-	"fmt"
 	"github.com/mmirecki/bridgeFinder/data"
 )
 
 const NODE = "node"
 const WAY = "way"
 
-func GetCrossRoads(way data.Way) ([]*data.UnderWay, error) {
-
-	minLat, maxLat, minLng, maxLng := getBoundingBox(way)
-
-	query := fmt.Sprintf(`[out:json];
-way(%f, %f, %f,  %f)[highway][highway!~"^(path|track|cycleway|footway|service|steps)$"];
-(._;>;);
-out;
-`, minLat, minLng, maxLat, maxLng)
-
-	//way, err := overpassWayQuery(query)
-	elements, err := OverpassQuery[data.Element](query)
-	if err != nil {
-		fmt.Println("Error:", err)
-		return nil, err
-	}
-
-	ways := ProcessElements(way.Id, elements)
-
-	crossRoads := ExtractCrossRoads(way, ways)
-
-	return crossRoads, nil
-
-}
-
-func WaysIntersect(bridgeWay, way data.Way) (*data.UnderWay, bool) {
-	for i := 0; i < len(bridgeWay.Nodes)-1; i++ {
-		nodeA := bridgeWay.Nodes[i]
-		nodeB := bridgeWay.Nodes[i+1]
-
-		segment := data.Segment{data.LatLng{Lat: nodeA.Lat, Lng: nodeA.Lng}, data.LatLng{Lat: nodeB.Lat, Lng: nodeB.Lng}}
-
-		bridgeNodeA := way.Nodes[len(way.Nodes)-1]
-		for _, bn := range way.Nodes {
-			bridgeSegement := data.Segment{data.LatLng{Lat: bridgeNodeA.Lat, Lng: bridgeNodeA.Lng}, data.LatLng{Lat: bn.Lat, Lng: bn.Lng}}
-
-			if Intersect(bridgeSegement, segment) {
-				return &data.UnderWay{Way: bridgeWay, Overhead: way, IntersectingSegment: segment}, true
-			}
-			bridgeNodeA = bn
-		}
-	}
-	return nil, false
-}
-
-func ExtractCrossRoads(bridgeWay data.Way, ways []data.Way) []*data.UnderWay {
+func ExtractCrossRoads(bridgeWay data.Way, ways []data.Way) ([]*data.UnderWay, error) {
 	result := []*data.UnderWay{}
 outer:
 	for _, w := range ways {
@@ -72,14 +26,18 @@ outer:
 				bridgeSegement := data.Segment{data.LatLng{Lat: bridgeNodeA.Lat, Lng: bridgeNodeA.Lng}, data.LatLng{Lat: bridgeNodeB.Lat, Lng: bridgeNodeB.Lng}}
 
 				if Intersect(bridgeSegement, segment) {
-					result = append(result, &data.UnderWay{Way: w, Overhead: bridgeWay, IntersectingSegment: segment, MaxHeight: w.MaxHeight})
+					intersectionPoint, err := FindIntersectionPoint(bridgeSegement, segment)
+					if err != nil {
+						return nil, err
+					}
+					result = append(result, &data.UnderWay{Way: w, Overhead: bridgeWay, IntersectingSegment: segment, IntersectingBridgeSegment: bridgeSegement, MaxHeight: w.MaxHeight, IntersectionPoint: intersectionPoint})
 
 					continue outer
 				}
 			}
 		}
 	}
-	return result
+	return result, nil
 }
 
 func getBoundingBox(way data.Way) (float64, float64, float64, float64) {

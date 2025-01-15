@@ -9,7 +9,7 @@ import (
 	"net/url"
 )
 
-func OverpassQuery[X any](query string) ([]X, error) {
+func OverpassQuery[X any](query string) ([]X, []byte, error) {
 	var overpassResp struct {
 		Elements []X `json:"elements"`
 	}
@@ -23,29 +23,29 @@ func OverpassQuery[X any](query string) ([]X, error) {
 	// Send HTTP request
 	resp, err := http.Get(apiURL)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 	defer resp.Body.Close()
 
 	// Read response body
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
 	// Parse JSON response
 	//var overpassResp OverpassWaysResponse
 	err = json.Unmarshal(body, &overpassResp)
 	if err != nil {
-		return nil, err
+		return nil, nil, err
 	}
 
 	// Check if way was found
 	if len(overpassResp.Elements) == 0 {
-		return nil, fmt.Errorf("elements not found")
+		return nil, nil, fmt.Errorf("elements not found")
 	}
 
-	return overpassResp.Elements, nil
+	return overpassResp.Elements, body, nil
 }
 
 func OverpassFile(fileContents []byte) ([]data.Element, error) {

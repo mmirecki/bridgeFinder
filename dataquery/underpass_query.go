@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"github.com/mmirecki/bridgeFinder/data"
 	"github.com/mmirecki/bridgeFinder/lib"
+	"github.com/mmirecki/bridgeFinder/reporting"
 )
 
 //go:embed bridges_southampton_10m.json
@@ -26,64 +27,6 @@ func DebugFileQuery() ([]data.Element, error) {
 	return elements, err
 }
 
-func SouthamptonUnderpassQuery() ([]data.Element, error) {
-	query := `[out:json][timeout: 600];
-
-area["name"="Southampton"][boundary=administrative]->.southampton;
-{{geocodeArea:United Kingdom}}->.unitedkingdom;
-
-(
-  way(759226682);
-)->.delimiter;
-
-
-(
-  way[bridge](area.southampton)(area.unitedkingdom)[highway!~"^(proposed)$"];
-)->.bridges;
-
-foreach .bridges -> .bridge {
-   (.bridge;.bridge >;)->.bridge;
-
-  
-  (
-  way(around.bridge:100)[highway][highway!~"^(path|track|cycleway|footway|service|steps|pedestrian|unclassified)$"][!bridge]; 
-)->.underWays;
-
-  (.underWays;.underWays >;)->.underWays;
-  .underWays out body;
-  
-     .bridge out body;
-  
-     .delimiter out body;
-}
-`
-	elements, err := lib.OverpassQuery[data.Element](query)
-	return elements, err
-}
-
-func SouthamptonCoordinatesUnderpassQuery() ([]data.Element, error) {
-	query := `[out:json];
-
-(
-  way[bridge](50.89, -1.34, 50.96, -1.52);
-)->.bridges;
-
-foreach .bridges -> .bridge {
-   (.bridge;.bridge >;)->.bridge;
-   .bridge out body;
-  
-  (
-  way(around.bridge:10)[highway][highway!~"^(path|track|cycleway|footway|service|steps|pedestrian)$"][!bridge]; 
-)->.underWays;
-
-  (.underWays;.underWays >;)->.underWays;
-  .underWays out body;
-}
-`
-	elements, err := lib.OverpassQuery[data.Element](query)
-	return elements, err
-}
-
 func CoordinatesUnderpassQuery(minLat, minLng, maxLat, maxLng float64) ([]data.Element, error) {
 	query := `[out:json][timeout: 600];
 
@@ -99,7 +42,7 @@ func CoordinatesUnderpassQuery(minLat, minLng, maxLat, maxLng float64) ([]data.E
 foreach .bridges -> .bridge {
   (.bridge;.bridge >;)->.bridge;
   (
-  way(around.bridge:100)[highway][highway!~"^(path|track|cycleway|footway|service|steps|pedestrian|unclassified)$"][!bridge]; 
+  way(around.bridge:100)[highway][highway!~"^(path|track|cycleway|footway|service|steps|pedestrian|unclassified|proposed)$"][!bridge]; 
 )->.underWays;
   (.underWays;.underWays >;)->.underWays;
 
@@ -109,7 +52,11 @@ foreach .bridges -> .bridge {
 }
 `
 	query = fmt.Sprintf(query, minLat, minLng, maxLat, maxLng)
-	elements, err := lib.OverpassQuery[data.Element](query)
+	elements, body, err := lib.OverpassQuery[data.Element](query)
+	if err != nil {
+		return nil, err
+	}
+	reporting.WriteOsmResults(body, minLng, minLat)
 	return elements, err
 }
 
@@ -125,7 +72,7 @@ type BridgeInputData struct {
 }
 
 func NewDataSetForBounds(minLat, minLng, maxLat, maxLng float64) (*DataSet, error) {
-	//elements, err := SouthamptonCoordinatesUnderpassQuery()
+
 	elements, err := CoordinatesUnderpassQuery(minLat, minLng, maxLat, maxLng)
 
 	//elements, err := SouthamptonFileQuery()
@@ -138,8 +85,7 @@ func NewDataSetForBounds(minLat, minLng, maxLat, maxLng float64) (*DataSet, erro
 }
 
 func NewDataSet() (*DataSet, error) {
-	//elements, err := SouthamptonCoordinatesUnderpassQuery()
-	//elements, err := SouthamptonFileQuery()
+
 	elements, err := DebugFileQuery()
 	if err != nil {
 		return nil, err
@@ -192,7 +138,6 @@ func (d *DataSet) NextBridge() (*BridgeInputData, bool) {
 			}
 			nodes[element.Id] = node
 		}
-
 	}
 }
 

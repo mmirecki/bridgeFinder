@@ -20,11 +20,13 @@ type CameraPosition struct {
 }
 
 type UnderWay struct {
-	Way                 Way
-	Overhead            Way
-	IntersectingSegment Segment
-	CameraPositions     []CameraPosition
-	Results             []Result
+	Way                       Way
+	Overhead                  Way
+	IntersectingSegment       Segment
+	IntersectingBridgeSegment Segment
+	CameraPositions           []CameraPosition
+	Results                   []Result
+	IntersectionPoint         LatLng
 
 	// Is this bridge in the set received from Routing?
 	IsExactKnownBridge bool

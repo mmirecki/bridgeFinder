@@ -1,6 +1,9 @@
 package lib
 
-import "github.com/mmirecki/bridgeFinder/data"
+import (
+	"errors"
+	"github.com/mmirecki/bridgeFinder/data"
+)
 
 // Point represents a point in 2D space
 
@@ -84,4 +87,34 @@ func max(a, b float64) float64 {
 		return a
 	}
 	return b
+}
+
+func FindIntersectionPoint(seg1, seg2 data.Segment) (data.LatLng, error) {
+	dx1 := seg1.End.Lng - seg1.Start.Lng
+	dy1 := seg1.End.Lat - seg1.Start.Lat
+	dx2 := seg2.End.Lng - seg2.Start.Lng
+	dy2 := seg2.End.Lat - seg2.Start.Lat
+
+	denominator := dx1*dy2 - dy1*dx2
+
+	if denominator == 0 {
+		return data.LatLng{}, errors.New("segments are parallel or coincident")
+	}
+
+	numerator1 := (seg2.Start.Lng-seg1.Start.Lng)*dy2 - (seg2.Start.Lat-seg1.Start.Lat)*dx2
+	numerator2 := (seg2.Start.Lng-seg1.Start.Lng)*dy1 - (seg2.Start.Lat-seg1.Start.Lat)*dx1
+
+	t1 := numerator1 / denominator
+	t2 := numerator2 / denominator
+
+	if t1 < 0 || t1 > 1 || t2 < 0 || t2 > 1 {
+		return data.LatLng{}, errors.New("segments do not intersect")
+	}
+
+	intersection := data.LatLng{
+		Lat: seg1.Start.Lat + t1*dy1,
+		Lng: seg1.Start.Lng + t1*dx1,
+	}
+
+	return intersection, nil
 }

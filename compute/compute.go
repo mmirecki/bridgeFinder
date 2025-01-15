@@ -22,6 +22,7 @@ func ComputeDebug(knownBridges map[int64]known_uk_bridges.KnownBridge) ([]*data.
 func computeSquare(knownBridges map[int64]known_uk_bridges.KnownBridge, minLat, minLng, maxLat, maxLng float64) ([]*data.UnderWay, error) {
 
 	inputDataSet, err := dataquery.NewDataSetForBounds(minLat, minLng, maxLat, maxLng)
+
 	if err != nil {
 		return nil, err
 	}
@@ -36,7 +37,10 @@ func computeSquare(knownBridges map[int64]known_uk_bridges.KnownBridge, minLat, 
 			continue
 		}
 
-		underWays := lib.ExtractCrossRoads(data.Bridge, data.PotentialUnderWays)
+		underWays, err := lib.ExtractCrossRoads(data.Bridge, data.PotentialUnderWays)
+		if err != nil {
+			return nil, err
+		}
 		GetNeighbours(underWays, data.PotentialUnderWays)
 
 		CheckKnownBridges(underWays, knownBridges)
@@ -65,7 +69,10 @@ func ComputeForSouthampton(knownBridges map[int64]known_uk_bridges.KnownBridge) 
 			continue
 		}
 
-		underWays := lib.ExtractCrossRoads(data.Bridge, data.PotentialUnderWays)
+		underWays, err := lib.ExtractCrossRoads(data.Bridge, data.PotentialUnderWays)
+		if err != nil {
+			return nil, err
+		}
 		GetNeighbours(underWays, data.PotentialUnderWays)
 
 		CheckKnownBridges(underWays, knownBridges)

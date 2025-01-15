@@ -14,7 +14,12 @@ func main() {
 
 	//ways := computeForArea(knownBridges, 50.98, -1.5, 51.0, -1.48)
 	//ways := computeForArea(knownBridges, 50.98, -1.5, 51.0, -1.48)
+	// (50.89, -1.34, 50.96, -1.52); - southampton
+	//ways, err := compute.ComputeArea(knownBridges, data.LatLng{Lng: -1.5, Lat: 50.8}, data.LatLng{Lng: -1.48, Lat: 51.0})
+
+	//if true {
 	ways, err := compute.ComputeArea(knownBridges, data.LatLng{Lng: utils.UK_MIN_LNG, Lat: utils.UK_MIN_LAT}, data.LatLng{Lng: utils.UK_MAX_LNG, Lat: utils.UK_MAX_LAT})
+	//}
 	if err != nil {
 		fmt.Printf("&&&&&&&&&&&&&&&&&&&&&&&&&\n")
 		fmt.Printf("Error: %v\n", err)
