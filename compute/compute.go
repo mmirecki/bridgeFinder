@@ -19,9 +19,15 @@ func ComputeDebug(knownBridges map[int64]known_uk_bridges.KnownBridge) ([]*data.
 
 }
 
-func computeSquare(knownBridges map[int64]known_uk_bridges.KnownBridge, minLat, minLng, maxLat, maxLng float64) ([]*data.UnderWay, error) {
+func computeSquare(knownBridges map[int64]known_uk_bridges.KnownBridge, minLat, minLng, maxLat, maxLng float64, useCache bool) ([]*data.UnderWay, error) {
 
-	inputDataSet, err := dataquery.NewDataSetForBounds(minLat, minLng, maxLat, maxLng)
+	var err error
+	var inputDataSet *dataquery.DataSet
+	if useCache {
+		inputDataSet, err = dataquery.NewDataSetFromFiles(minLat, minLng, maxLat, maxLng)
+	} else {
+		inputDataSet, err = dataquery.NewDataSetForBounds(minLat, minLng, maxLat, maxLng)
+	}
 
 	if err != nil {
 		return nil, err

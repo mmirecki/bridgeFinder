@@ -9,10 +9,24 @@ import (
 	"net/url"
 )
 
-func OverpassQuery[X any](query string) ([]X, []byte, error) {
+func ParseElements(bytes []byte) ([]data.Element, error) {
 	var overpassResp struct {
-		Elements []X `json:"elements"`
+		Elements []data.Element `json:"elements"`
 	}
+	// Parse JSON response
+	//var overpassResp OverpassWaysResponse
+	err := json.Unmarshal(bytes, &overpassResp)
+	if err != nil {
+		return nil, err
+	}
+	// Check if way was found
+	if len(overpassResp.Elements) == 0 {
+		return nil, fmt.Errorf("elements not found")
+	}
+	return overpassResp.Elements, nil
+}
+
+func OverpassQuery(query string) ([]data.Element, []byte, error) {
 
 	// URL encode the query
 	encodedQuery := url.QueryEscape(query)
@@ -33,19 +47,8 @@ func OverpassQuery[X any](query string) ([]X, []byte, error) {
 		return nil, nil, err
 	}
 
-	// Parse JSON response
-	//var overpassResp OverpassWaysResponse
-	err = json.Unmarshal(body, &overpassResp)
-	if err != nil {
-		return nil, nil, err
-	}
-
-	// Check if way was found
-	if len(overpassResp.Elements) == 0 {
-		return nil, nil, fmt.Errorf("elements not found")
-	}
-
-	return overpassResp.Elements, body, nil
+	elements, err := ParseElements(body)
+	return elements, body, nil
 }
 
 func OverpassFile(fileContents []byte) ([]data.Element, error) {

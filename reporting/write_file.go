@@ -20,6 +20,12 @@ func WriteOsmResults(data []byte, lng, lat float64) error {
 	return nil
 }
 
+// TODO: Why is this here?
+func ReadOsmResults(lng, lat float64) ([]byte, error) {
+	fileName := fmt.Sprintf("%.2f_%.2f.osm_data", lat, lng)
+	return os.ReadFile("OUTPUT/OSM_CACHE/" + fileName)
+}
+
 func WriteErrorToFile(reportedErr error, lngN int, latN int, lng, lat float64) error {
 	file, err := os.OpenFile("OUTPUT/results/ERROR_FILE", os.O_APPEND|os.O_WRONLY|os.O_CREATE, 0600)
 	if err != nil {
@@ -138,7 +144,7 @@ func WriteByWayToFile(waysById map[int64][]*data.UnderWay) error {
 	defer file.Close()
 	defer verboseFile.Close()
 
-	file.WriteString("WayId;<Bridge Id, Intersection Lat, Intersection Lng, Height, NodesIds ...; > \n")
+	file.WriteString("WayId, NodeIds... ;<Bridge Id, Intersection Lat, Intersection Lng, Height, NodesIds ...; > \n")
 
 	for wayId, ways := range waysById {
 		//file.WriteString(fmt.Sprintf("WayId: %d\n", wayId))
@@ -149,21 +155,25 @@ func WriteByWayToFile(waysById map[int64][]*data.UnderWay) error {
 
 }
 func FileDumpByWayId(writer io.StringWriter, wayId int64, ways []*data.UnderWay) {
-	wayStrings := []string{}
+	overheadWayStrings := []string{}
+
+	nodes := []string{}
+
+	for _, node := range ways[0].Way.Nodes {
+		nodes = append(nodes, fmt.Sprintf("%d", node.Id))
+	}
 
 	for _, way := range ways {
-
-		nodes := []string{}
-		for _, node := range way.Way.Nodes {
-			nodes = append(nodes, fmt.Sprintf("%d", node.Id))
+		overheadNodes := []string{}
+		for _, node := range way.Overhead.Nodes {
+			overheadNodes = append(overheadNodes, fmt.Sprintf("%d", node.Id))
 		}
-		nodesString := strings.Join(nodes, ",")
 
-		wayStrings = append(wayStrings, fmt.Sprintf(" %d, %f, %f, %s, %s", way.Overhead.Id, way.IntersectionPoint.Lat, way.IntersectionPoint.Lng, way.MaxHeight, nodesString))
+		overheadWayStrings = append(overheadWayStrings, fmt.Sprintf(" %d, %f, %f, %s, %s", way.Overhead.Id, way.IntersectionPoint.Lat, way.IntersectionPoint.Lng, way.MaxHeight, strings.Join(overheadNodes, ",")))
 
 	}
-	wayString := fmt.Sprintf("%d; %s", wayId, strings.Join(wayStrings, ";"))
-	writer.WriteString(wayString)
+	wayString := fmt.Sprintf("%d, %s; %s", wayId, strings.Join(nodes, ","), strings.Join(overheadWayStrings, ";"))
+	writer.WriteString(wayString + "\n")
 }
 
 func FileDumpByWayId_Verbose(writer io.StringWriter, underWaysById []*data.UnderWay) {
@@ -180,6 +190,7 @@ func FileDumpByWayId_Verbose(writer io.StringWriter, underWaysById []*data.Under
 			writer.WriteString(fmt.Sprintf("          %s  \n", position.ImageLink))
 		}
 	}
+	writer.WriteString("\n")
 
 }
 

@@ -52,7 +52,7 @@ foreach .bridges -> .bridge {
 }
 `
 	query = fmt.Sprintf(query, minLat, minLng, maxLat, maxLng)
-	elements, body, err := lib.OverpassQuery[data.Element](query)
+	elements, body, err := lib.OverpassQuery(query)
 	if err != nil {
 		return nil, err
 	}
@@ -69,6 +69,21 @@ type BridgeInputData struct {
 	Bridge             data.Way
 	PotentialUnderWays []data.Way
 	UnderWays          []*data.UnderWay
+}
+
+func NewDataSetFromFiles(minLat, minLng, maxLat, maxLng float64) (*DataSet, error) {
+
+	data, err := reporting.ReadOsmResults(minLng, minLat)
+	if err != nil {
+		return nil, err
+	}
+	elements, err := lib.ParseElements(data)
+	if err != nil {
+		return nil, err
+	}
+	return &DataSet{
+		elements: elements,
+	}, nil
 }
 
 func NewDataSetForBounds(minLat, minLng, maxLat, maxLng float64) (*DataSet, error) {

@@ -8,7 +8,7 @@ import (
 	"github.com/mmirecki/bridgeFinder/utils"
 )
 
-func ComputeArea(knownBridges map[int64]known_uk_bridges.KnownBridge, minLatLng, maxLatLnt data.LatLng) ([]*data.UnderWay, error) {
+func ComputeArea(knownBridges map[int64]known_uk_bridges.KnownBridge, minLatLng, maxLatLnt data.LatLng, useCache bool) ([]*data.UnderWay, error) {
 
 	combinedWays := []*data.UnderWay{}
 	combinedStats := data.BatchStats{}
@@ -32,7 +32,7 @@ func ComputeArea(knownBridges map[int64]known_uk_bridges.KnownBridge, minLatLng,
 				continue
 			}
 
-			ways, err := computeSquare(knownBridges, lat, lng, endLat, endLng)
+			ways, err := computeSquare(knownBridges, lat, lng, endLat, endLng, useCache)
 			if err != nil {
 				reporting.WriteErrorToFile(err, lngN, latN, lng, lat)
 				continue
@@ -53,13 +53,14 @@ func ComputeArea(knownBridges map[int64]known_uk_bridges.KnownBridge, minLatLng,
 			continue
 		}
 
-		fmt.Printf("Way: %v\n", way)
+		//fmt.Printf("Way: %v\n", way)
 
 		if _, ok := waysById[way.Way.Id]; !ok {
 			waysById[way.Way.Id] = []*data.UnderWay{}
 		}
 		waysById[way.Way.Id] = append(waysById[way.Way.Id], way)
 	}
+
 	reporting.WriteByWayToFile(waysById)
 
 	fmt.Printf("Combined stats: %+v\n", combinedStats)
