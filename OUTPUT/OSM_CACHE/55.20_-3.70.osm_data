@@ -1,0 +1,149 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:39:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 770805440,
+  "lat": 55.2005446,
+  "lon": -3.6015138
+},
+{
+  "type": "node",
+  "id": 770805455,
+  "lat": 55.2005260,
+  "lon": -3.6012725
+},
+{
+  "type": "way",
+  "id": 61852953,
+  "nodes": [
+    770805455,
+    770805440
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 770805431,
+  "lat": 55.2175919,
+  "lon": -3.6002402
+},
+{
+  "type": "node",
+  "id": 770807283,
+  "lat": 55.2176271,
+  "lon": -3.6001655
+},
+{
+  "type": "way",
+  "id": 61853010,
+  "nodes": [
+    770807283,
+    770805431
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9106087097,
+  "lat": 55.2331009,
+  "lon": -3.6108626
+},
+{
+  "type": "node",
+  "id": 9106087098,
+  "lat": 55.2330401,
+  "lon": -3.6109591
+},
+{
+  "type": "way",
+  "id": 984967047,
+  "nodes": [
+    9106087098,
+    9106087097
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "cycleway",
+    "layer": "1",
+    "name": "The Ae-Line",
+    "oneway": "yes",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

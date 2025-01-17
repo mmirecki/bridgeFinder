@@ -1,0 +1,58 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:49:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 901505583,
+  "lat": 57.0964274,
+  "lon": -5.4930622
+},
+{
+  "type": "node",
+  "id": 1291035777,
+  "lat": 57.0964714,
+  "lon": -5.4928890
+},
+{
+  "type": "way",
+  "id": 113875895,
+  "nodes": [
+    1291035777,
+    901505583
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "note": "route adjusted using Bing",
+    "source": "Scottish Popular Edition",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

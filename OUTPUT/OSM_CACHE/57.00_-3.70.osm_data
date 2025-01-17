@@ -1,0 +1,104 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:40:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 54667801,
+  "lat": 57.0405223,
+  "lon": -3.6767379
+},
+{
+  "type": "node",
+  "id": 54667803,
+  "lat": 57.0406606,
+  "lon": -3.6766610
+},
+{
+  "type": "way",
+  "id": 7318803,
+  "nodes": [
+    54667803,
+    54667801
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "suspension",
+    "highway": "path",
+    "layer": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 304587894,
+  "lat": 57.0285459,
+  "lon": -3.6272325
+},
+{
+  "type": "node",
+  "id": 304587898,
+  "lat": 57.0285095,
+  "lon": -3.6273733
+},
+{
+  "type": "way",
+  "id": 27737776,
+  "nodes": [
+    304587894,
+    304587898
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "The largely aluminium footbridge across the Luibeg Burn",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "name": "Luibeg Footbridge",
+    "source": "survey",
+    "surface": "metal"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

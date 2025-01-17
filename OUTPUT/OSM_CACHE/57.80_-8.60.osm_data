@@ -1,0 +1,147 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T15:07:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8151232641,
+  "lat": 57.8115265,
+  "lon": -8.5676784
+},
+{
+  "type": "node",
+  "id": 8151232642,
+  "lat": 57.8115542,
+  "lon": -8.5677619
+},
+{
+  "type": "way",
+  "id": 875753200,
+  "nodes": [
+    8151232642,
+    8151232641
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "lit": "no",
+    "sidewalk": "shared"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1451059216,
+  "lat": 57.8109966,
+  "lon": -8.5715988
+},
+{
+  "type": "node",
+  "id": 8151232643,
+  "lat": 57.8109821,
+  "lon": -8.5714679
+},
+{
+  "type": "way",
+  "id": 875753202,
+  "nodes": [
+    1451059216,
+    8151232643
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "lit": "no",
+    "sidewalk": "shared"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1904684864,
+  "lat": 57.8126724,
+  "lon": -8.5669115
+},
+{
+  "type": "node",
+  "id": 8151232649,
+  "lat": 57.8126811,
+  "lon": -8.5669264
+},
+{
+  "type": "way",
+  "id": 875753207,
+  "nodes": [
+    8151232649,
+    1904684864
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Sràid a' Bhaile",
+    "name:en": "The Street"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

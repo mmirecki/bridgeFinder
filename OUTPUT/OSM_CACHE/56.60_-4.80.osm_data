@@ -1,0 +1,359 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:07:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 9803797,
+  "lat": 56.6011366,
+  "lon": -4.7495022
+},
+{
+  "type": "node",
+  "id": 9803799,
+  "lat": 56.6031030,
+  "lon": -4.7526592
+},
+{
+  "type": "node",
+  "id": 9803800,
+  "lat": 56.6047575,
+  "lon": -4.7546312
+},
+{
+  "type": "node",
+  "id": 9803807,
+  "lat": 56.6080095,
+  "lon": -4.7573188
+},
+{
+  "type": "node",
+  "id": 641887885,
+  "lat": 56.6066192,
+  "lon": -4.7562665
+},
+{
+  "type": "node",
+  "id": 641887898,
+  "lat": 56.6064162,
+  "lon": -4.7561017
+},
+{
+  "type": "node",
+  "id": 2482251162,
+  "lat": 56.6020629,
+  "lon": -4.7511194
+},
+{
+  "type": "node",
+  "id": 2482251163,
+  "lat": 56.6025577,
+  "lon": -4.7518831
+},
+{
+  "type": "node",
+  "id": 2482251164,
+  "lat": 56.6038505,
+  "lon": -4.7536119
+},
+{
+  "type": "node",
+  "id": 2482251165,
+  "lat": 56.6043414,
+  "lon": -4.7541657
+},
+{
+  "type": "node",
+  "id": 2482251166,
+  "lat": 56.6055043,
+  "lon": -4.7553480
+},
+{
+  "type": "node",
+  "id": 8863670410,
+  "lat": 56.6005983,
+  "lon": -4.7485069
+},
+{
+  "type": "way",
+  "id": 50463483,
+  "nodes": [
+    641887885,
+    9803807
+  ],
+  "tags": {
+    "access:conditional": "no @ snow",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "operator": "Transport Scotland",
+    "ref": "A82",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 57718090,
+  "nodes": [
+    8863670410,
+    9803797,
+    2482251162,
+    2482251163,
+    9803799,
+    2482251164,
+    2482251165,
+    9803800,
+    2482251166,
+    641887898
+  ],
+  "tags": {
+    "access:conditional": "no @ snow",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "operator": "Transport Scotland",
+    "ref": "A82",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 641887885,
+  "lat": 56.6066192,
+  "lon": -4.7562665
+},
+{
+  "type": "node",
+  "id": 641887898,
+  "lat": 56.6064162,
+  "lon": -4.7561017
+},
+{
+  "type": "way",
+  "id": 50463459,
+  "nodes": [
+    641887898,
+    641887885
+  ],
+  "tags": {
+    "access:conditional": "no @ snow",
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Bà Bridge",
+    "operator": "Transport Scotland",
+    "ref": "A82",
+    "source": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9803797,
+  "lat": 56.6011366,
+  "lon": -4.7495022
+},
+{
+  "type": "node",
+  "id": 9803799,
+  "lat": 56.6031030,
+  "lon": -4.7526592
+},
+{
+  "type": "node",
+  "id": 9803800,
+  "lat": 56.6047575,
+  "lon": -4.7546312
+},
+{
+  "type": "node",
+  "id": 641887898,
+  "lat": 56.6064162,
+  "lon": -4.7561017
+},
+{
+  "type": "node",
+  "id": 715584752,
+  "lat": 56.5994142,
+  "lon": -4.7463178
+},
+{
+  "type": "node",
+  "id": 2482251162,
+  "lat": 56.6020629,
+  "lon": -4.7511194
+},
+{
+  "type": "node",
+  "id": 2482251163,
+  "lat": 56.6025577,
+  "lon": -4.7518831
+},
+{
+  "type": "node",
+  "id": 2482251164,
+  "lat": 56.6038505,
+  "lon": -4.7536119
+},
+{
+  "type": "node",
+  "id": 2482251165,
+  "lat": 56.6043414,
+  "lon": -4.7541657
+},
+{
+  "type": "node",
+  "id": 2482251166,
+  "lat": 56.6055043,
+  "lon": -4.7553480
+},
+{
+  "type": "node",
+  "id": 8863670409,
+  "lat": 56.5995498,
+  "lon": -4.7465684
+},
+{
+  "type": "node",
+  "id": 8863670410,
+  "lat": 56.6005983,
+  "lon": -4.7485069
+},
+{
+  "type": "node",
+  "id": 8863670411,
+  "lat": 56.6005414,
+  "lon": -4.7484017
+},
+{
+  "type": "way",
+  "id": 57718090,
+  "nodes": [
+    8863670410,
+    9803797,
+    2482251162,
+    2482251163,
+    9803799,
+    2482251164,
+    2482251165,
+    9803800,
+    2482251166,
+    641887898
+  ],
+  "tags": {
+    "access:conditional": "no @ snow",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "operator": "Transport Scotland",
+    "ref": "A82",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 957929976,
+  "nodes": [
+    715584752,
+    8863670409,
+    8863670411
+  ],
+  "tags": {
+    "access:conditional": "no @ snow",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "operator": "Transport Scotland",
+    "ref": "A82",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8863670410,
+  "lat": 56.6005983,
+  "lon": -4.7485069
+},
+{
+  "type": "node",
+  "id": 8863670411,
+  "lat": 56.6005414,
+  "lon": -4.7484017
+},
+{
+  "type": "way",
+  "id": 957929977,
+  "nodes": [
+    8863670411,
+    8863670410
+  ],
+  "tags": {
+    "access:conditional": "no @ snow",
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "operator": "Transport Scotland",
+    "ref": "A82",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

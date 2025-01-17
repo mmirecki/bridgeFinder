@@ -1,0 +1,337 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:32:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2172199506,
+  "lat": 56.9129131,
+  "lon": -6.1612203
+},
+{
+  "type": "node",
+  "id": 2172199509,
+  "lat": 56.9129475,
+  "lon": -6.1610991
+},
+{
+  "type": "way",
+  "id": 314599638,
+  "nodes": [
+    2172199509,
+    2172199506
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2172199701,
+  "lat": 56.9152210,
+  "lon": -6.1542717
+},
+{
+  "type": "node",
+  "id": 2172199708,
+  "lat": 56.9152712,
+  "lon": -6.1542693
+},
+{
+  "type": "way",
+  "id": 314599639,
+  "nodes": [
+    2172199701,
+    2172199708
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3768682213,
+  "lat": 56.9187223,
+  "lon": -6.1528372
+},
+{
+  "type": "node",
+  "id": 3768682214,
+  "lat": 56.9187786,
+  "lon": -6.1528900
+},
+{
+  "type": "way",
+  "id": 373394178,
+  "nodes": [
+    3768682214,
+    3768682213
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7845409734,
+  "lat": 56.9245611,
+  "lon": -6.1490620
+},
+{
+  "type": "node",
+  "id": 7845409735,
+  "lat": 56.9245423,
+  "lon": -6.1491638
+},
+{
+  "type": "way",
+  "id": 840789581,
+  "nodes": [
+    7845409735,
+    7845409734
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "highway_authority_ref": "U1098",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "name": "Cleadale Township Road",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3768682209,
+  "lat": 56.9151139,
+  "lon": -6.1472136
+},
+{
+  "type": "node",
+  "id": 3768682211,
+  "lat": 56.9152130,
+  "lon": -6.1472323
+},
+{
+  "type": "way",
+  "id": 373394170,
+  "nodes": [
+    3768682209,
+    3768682211
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source:location": "OS_OpenData_StreetView",
+    "source:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1749047381,
+  "lat": 56.9206096,
+  "lon": -6.1457875
+},
+{
+  "type": "node",
+  "id": 7845409725,
+  "lat": 56.9206667,
+  "lon": -6.1457964
+},
+{
+  "type": "way",
+  "id": 840789577,
+  "nodes": [
+    1749047381,
+    7845409725
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source:location": "OS_OpenData_StreetView",
+    "source:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3768682215,
+  "lat": 56.9225921,
+  "lon": -6.1463349
+},
+{
+  "type": "node",
+  "id": 3768682216,
+  "lat": 56.9226427,
+  "lon": -6.1463821
+},
+{
+  "type": "way",
+  "id": 373394171,
+  "nodes": [
+    3768682215,
+    3768682216
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source:location": "OS_OpenData_StreetView",
+    "source:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

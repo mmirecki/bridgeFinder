@@ -1,0 +1,386 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T20:18:49Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 245245403,
+  "lat": 53.8836146,
+  "lon": -0.5917032
+},
+{
+  "type": "node",
+  "id": 245245405,
+  "lat": 53.8836290,
+  "lon": -0.5921804
+},
+{
+  "type": "way",
+  "id": 24614452,
+  "nodes": [
+    245245403,
+    245245405
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "designation": "public_bridleway",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "layer": "1",
+    "name": "Hudson Way",
+    "prow_ref": "Etton BR 5",
+    "railway": "abandoned",
+    "source:prow_ref": "east_riding_district_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9991527272,
+  "lat": 53.8836348,
+  "lon": -0.5921666
+},
+{
+  "type": "node",
+  "id": 9991527273,
+  "lat": 53.8836223,
+  "lon": -0.5916845
+},
+{
+  "type": "way",
+  "id": 1122698790,
+  "nodes": [
+    9991527272,
+    9991527273
+  ],
+  "tags": {
+    "abandoned:railway": "rail",
+    "bridge": "yes",
+    "layer": "1",
+    "name": "Market Weighton and Beverley",
+    "railway": "abandoned",
+    "ref": "BMW"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1245949954,
+  "lat": 53.8730281,
+  "lon": -0.5502055
+},
+{
+  "type": "node",
+  "id": 1245949958,
+  "lat": 53.8766837,
+  "lon": -0.5518059
+},
+{
+  "type": "node",
+  "id": 1245949967,
+  "lat": 53.8799691,
+  "lon": -0.5531121
+},
+{
+  "type": "node",
+  "id": 1245949981,
+  "lat": 53.8773716,
+  "lon": -0.5519104
+},
+{
+  "type": "node",
+  "id": 1245949988,
+  "lat": 53.8790040,
+  "lon": -0.5527289
+},
+{
+  "type": "node",
+  "id": 1245949993,
+  "lat": 53.8687954,
+  "lon": -0.5488757
+},
+{
+  "type": "node",
+  "id": 1245949999,
+  "lat": 53.8728701,
+  "lon": -0.5495329
+},
+{
+  "type": "node",
+  "id": 1245950002,
+  "lat": 53.8797124,
+  "lon": -0.5529379
+},
+{
+  "type": "node",
+  "id": 1245950021,
+  "lat": 53.8785831,
+  "lon": -0.5525199
+},
+{
+  "type": "node",
+  "id": 1245950031,
+  "lat": 53.8687315,
+  "lon": -0.5488358
+},
+{
+  "type": "node",
+  "id": 1245950037,
+  "lat": 53.8729138,
+  "lon": -0.5495749
+},
+{
+  "type": "node",
+  "id": 1245950048,
+  "lat": 53.8808781,
+  "lon": -0.5544710
+},
+{
+  "type": "node",
+  "id": 1245950057,
+  "lat": 53.8731201,
+  "lon": -0.5504821
+},
+{
+  "type": "node",
+  "id": 1245950060,
+  "lat": 53.8782135,
+  "lon": -0.5522065
+},
+{
+  "type": "node",
+  "id": 1245950071,
+  "lat": 53.8687470,
+  "lon": -0.5487016
+},
+{
+  "type": "way",
+  "id": 108643581,
+  "nodes": [
+    1245950057,
+    1245949954,
+    1245950037,
+    1245949999
+  ],
+  "tags": {
+    "designation": "public_bridleway",
+    "highway": "bridleway",
+    "source": "GPS",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 108643596,
+  "nodes": [
+    1245950071,
+    1245950031,
+    1245949993,
+    1245950057,
+    1245949958,
+    1245949981,
+    1245950060,
+    1245950021,
+    1245949988,
+    1245950002,
+    1245949967,
+    1245950048
+  ],
+  "tags": {
+    "designation": "public_bridleway",
+    "highway": "bridleway",
+    "source": "GPS",
+    "surface": "grass"
+  }
+},
+{
+  "type": "node",
+  "id": 1245949979,
+  "lat": 53.8729008,
+  "lon": -0.5503006
+},
+{
+  "type": "node",
+  "id": 1245950011,
+  "lat": 53.8729152,
+  "lon": -0.5505060
+},
+{
+  "type": "way",
+  "id": 108643588,
+  "nodes": [
+    1245949979,
+    1245950011
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "designation": "public_bridleway",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "name": "Hudson Way",
+    "prow_ref": "Etton BR 5",
+    "railway": "abandoned",
+    "source:prow_ref": "east_riding_district_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 150572566,
+  "lat": 53.8718575,
+  "lon": -0.5065219
+},
+{
+  "type": "node",
+  "id": 366613463,
+  "lat": 53.8723787,
+  "lon": -0.5069551
+},
+{
+  "type": "node",
+  "id": 11725219640,
+  "lat": 53.8719081,
+  "lon": -0.5065639
+},
+{
+  "type": "way",
+  "id": 15220719,
+  "nodes": [
+    150572566,
+    11725219640,
+    366613463
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "highway": "unclassified",
+    "lane_markings": "no",
+    "layer": "1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 36240518,
+  "lat": 53.8895066,
+  "lon": -0.5002940
+},
+{
+  "type": "node",
+  "id": 36240519,
+  "lat": 53.8895981,
+  "lon": -0.5004300
+},
+{
+  "type": "way",
+  "id": 316673598,
+  "nodes": [
+    36240518,
+    36240519
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Moor Bridge",
+    "highway": "unclassified",
+    "name": "Bracken Lane"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

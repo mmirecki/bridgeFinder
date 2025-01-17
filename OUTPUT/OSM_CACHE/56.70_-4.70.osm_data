@@ -1,0 +1,668 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:09:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4556334275,
+  "lat": 56.7299555,
+  "lon": -4.6475019
+},
+{
+  "type": "node",
+  "id": 4556334276,
+  "lat": 56.7300527,
+  "lon": -4.6477809
+},
+{
+  "type": "way",
+  "id": 459913518,
+  "nodes": [
+    4556334275,
+    4556334276
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "50 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "ref:elr": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2934633395,
+  "lat": 56.7414304,
+  "lon": -4.6650266
+},
+{
+  "type": "node",
+  "id": 2934633503,
+  "lat": 56.7415402,
+  "lon": -4.6648383
+},
+{
+  "type": "way",
+  "id": 289927635,
+  "nodes": [
+    2934633503,
+    2934633395
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6868367947,
+  "lat": 56.7409639,
+  "lon": -4.6656521
+},
+{
+  "type": "node",
+  "id": 6868367948,
+  "lat": 56.7408832,
+  "lon": -4.6655473
+},
+{
+  "type": "way",
+  "id": 733416243,
+  "nodes": [
+    6868367948,
+    6868367947
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "ref:elr": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4558811530,
+  "lat": 56.7205324,
+  "lon": -4.6223863
+},
+{
+  "type": "node",
+  "id": 4558834115,
+  "lat": 56.7204721,
+  "lon": -4.6222682
+},
+{
+  "type": "way",
+  "id": 460213739,
+  "nodes": [
+    4558834115,
+    4558811530
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "ref:elr": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4556359111,
+  "lat": 56.7636991,
+  "lon": -4.6984860
+},
+{
+  "type": "node",
+  "id": 4556361699,
+  "lat": 56.7637609,
+  "lon": -4.6985557
+},
+{
+  "type": "way",
+  "id": 459913520,
+  "nodes": [
+    4556361699,
+    4556359111
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4599244391,
+  "lat": 56.7597288,
+  "lon": -4.6923817
+},
+{
+  "type": "node",
+  "id": 4599244392,
+  "lat": 56.7596642,
+  "lon": -4.6924328
+},
+{
+  "type": "way",
+  "id": 464859910,
+  "nodes": [
+    4599244391,
+    4599244392
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Trainspotting Bridge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8004841870,
+  "lat": 56.7594386,
+  "lon": -4.6951207
+},
+{
+  "type": "node",
+  "id": 8004841871,
+  "lat": 56.7594207,
+  "lon": -4.6950716
+},
+{
+  "type": "way",
+  "id": 858712140,
+  "nodes": [
+    8004841870,
+    8004841871
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2093028785,
+  "lat": 56.7665151,
+  "lon": -4.6760208
+},
+{
+  "type": "node",
+  "id": 4556334197,
+  "lat": 56.7664949,
+  "lon": -4.6759789
+},
+{
+  "type": "way",
+  "id": 459913495,
+  "nodes": [
+    4556334197,
+    2093028785
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 348085997,
+  "lat": 56.7678481,
+  "lon": -4.6732075
+},
+{
+  "type": "node",
+  "id": 4556334209,
+  "lat": 56.7679369,
+  "lon": -4.6731818
+},
+{
+  "type": "way",
+  "id": 459913497,
+  "nodes": [
+    348085997,
+    4556334209
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "surface": "fine_gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 493439947,
+  "lat": 56.7892105,
+  "lon": -4.6186833
+},
+{
+  "type": "node",
+  "id": 493439957,
+  "lat": 56.7890238,
+  "lon": -4.6189680
+},
+{
+  "type": "way",
+  "id": 40627181,
+  "nodes": [
+    493439947,
+    493439957
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 493439959,
+  "lat": 56.7879344,
+  "lon": -4.6168206
+},
+{
+  "type": "node",
+  "id": 493439961,
+  "lat": 56.7880067,
+  "lon": -4.6165126
+},
+{
+  "type": "way",
+  "id": 40627183,
+  "nodes": [
+    493439959,
+    493439961
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 493439927,
+  "lat": 56.7915635,
+  "lon": -4.6252774
+},
+{
+  "type": "node",
+  "id": 493439929,
+  "lat": 56.7917454,
+  "lon": -4.6247586
+},
+{
+  "type": "way",
+  "id": 40627179,
+  "nodes": [
+    493439927,
+    493439929
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "hiking",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26576269,
+  "lat": 56.7137171,
+  "lon": -4.6081815
+},
+{
+  "type": "node",
+  "id": 4558849228,
+  "lat": 56.7138106,
+  "lon": -4.6083938
+},
+{
+  "type": "way",
+  "id": 460213737,
+  "nodes": [
+    26576269,
+    4558849228
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "ref:elr": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 348089890,
+  "lat": 56.7912893,
+  "lon": -4.6003473
+},
+{
+  "type": "node",
+  "id": 493458951,
+  "lat": 56.7911337,
+  "lon": -4.6003108
+},
+{
+  "type": "way",
+  "id": 40684548,
+  "nodes": [
+    348089890,
+    493458951
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

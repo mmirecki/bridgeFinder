@@ -1,0 +1,1009 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:03:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8883843464,
+  "lat": 55.0001870,
+  "lon": -4.8746340
+},
+{
+  "type": "node",
+  "id": 8883843465,
+  "lat": 55.0001374,
+  "lon": -4.8745295
+},
+{
+  "type": "way",
+  "id": 960188022,
+  "nodes": [
+    8883843465,
+    8883843464
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8883852826,
+  "lat": 55.0039257,
+  "lon": -4.8589074
+},
+{
+  "type": "node",
+  "id": 8883852827,
+  "lat": 55.0040063,
+  "lon": -4.8591973
+},
+{
+  "type": "way",
+  "id": 960186925,
+  "nodes": [
+    8883852827,
+    8883852826
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10242793128,
+  "lat": 55.0064611,
+  "lon": -4.8567430
+},
+{
+  "type": "node",
+  "id": 10242793129,
+  "lat": 55.0065063,
+  "lon": -4.8567020
+},
+{
+  "type": "way",
+  "id": 1119905542,
+  "nodes": [
+    10242793128,
+    10242793129
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3860434701,
+  "lat": 55.0101795,
+  "lon": -4.8523338
+},
+{
+  "type": "node",
+  "id": 8586329282,
+  "lat": 55.0102522,
+  "lon": -4.8525370
+},
+{
+  "type": "way",
+  "id": 925193559,
+  "nodes": [
+    8586329282,
+    3860434701
+  ],
+  "tags": {
+    "bridge": "yes",
+    "heritage": "2",
+    "highway": "track",
+    "layer": "1",
+    "wikidata": "Q56624270"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10242793130,
+  "lat": 55.0115162,
+  "lon": -4.8537432
+},
+{
+  "type": "node",
+  "id": 10242793131,
+  "lat": 55.0115732,
+  "lon": -4.8537369
+},
+{
+  "type": "way",
+  "id": 1119905544,
+  "nodes": [
+    10242793130,
+    10242793131
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8586329274,
+  "lat": 55.0113605,
+  "lon": -4.8546675
+},
+{
+  "type": "node",
+  "id": 10578715322,
+  "lat": 55.0112750,
+  "lon": -4.8546509
+},
+{
+  "type": "way",
+  "id": 1134758688,
+  "nodes": [
+    8586329274,
+    10578715322
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10578715348,
+  "lat": 55.0115507,
+  "lon": -4.8535272
+},
+{
+  "type": "node",
+  "id": 10578715349,
+  "lat": 55.0114938,
+  "lon": -4.8535258
+},
+{
+  "type": "way",
+  "id": 1134758689,
+  "nodes": [
+    10578715348,
+    10578715349
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8883843467,
+  "lat": 55.0156697,
+  "lon": -4.8999195
+},
+{
+  "type": "node",
+  "id": 8883843468,
+  "lat": 55.0155748,
+  "lon": -4.8999537
+},
+{
+  "type": "way",
+  "id": 960188025,
+  "nodes": [
+    8883843468,
+    8883843467
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 30670649,
+  "lat": 55.0218242,
+  "lon": -4.8383407
+},
+{
+  "type": "node",
+  "id": 10242793134,
+  "lat": 55.0218833,
+  "lon": -4.8382774
+},
+{
+  "type": "way",
+  "id": 1119905546,
+  "nodes": [
+    30670649,
+    10242793134
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10242793135,
+  "lat": 55.0231964,
+  "lon": -4.8369227
+},
+{
+  "type": "node",
+  "id": 10242793136,
+  "lat": 55.0232321,
+  "lon": -4.8368814
+},
+{
+  "type": "way",
+  "id": 1119905548,
+  "nodes": [
+    10242793135,
+    10242793136
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 30670645,
+  "lat": 55.0271694,
+  "lon": -4.8308279
+},
+{
+  "type": "node",
+  "id": 8586329301,
+  "lat": 55.0274281,
+  "lon": -4.8305711
+},
+{
+  "type": "way",
+  "id": 925193564,
+  "nodes": [
+    30670645,
+    8586329301
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8586329298,
+  "lat": 55.0225989,
+  "lon": -4.8349411
+},
+{
+  "type": "node",
+  "id": 8586329299,
+  "lat": 55.0225502,
+  "lon": -4.8346757
+},
+{
+  "type": "way",
+  "id": 925193562,
+  "nodes": [
+    8586329298,
+    8586329299
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10242793137,
+  "lat": 55.0269918,
+  "lon": -4.8310016
+},
+{
+  "type": "node",
+  "id": 10242793138,
+  "lat": 55.0270269,
+  "lon": -4.8309644
+},
+{
+  "type": "way",
+  "id": 1119905550,
+  "nodes": [
+    10242793137,
+    10242793138
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8586329306,
+  "lat": 55.0298027,
+  "lon": -4.8292419
+},
+{
+  "type": "node",
+  "id": 8586329307,
+  "lat": 55.0295541,
+  "lon": -4.8293015
+},
+{
+  "type": "way",
+  "id": 925193566,
+  "nodes": [
+    8586329307,
+    8586329306
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8586329310,
+  "lat": 55.0312480,
+  "lon": -4.8291300
+},
+{
+  "type": "node",
+  "id": 8586329312,
+  "lat": 55.0310357,
+  "lon": -4.8291253
+},
+{
+  "type": "way",
+  "id": 925193568,
+  "nodes": [
+    8586329312,
+    8586329310
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10581467277,
+  "lat": 55.0531177,
+  "lon": -4.8315549
+},
+{
+  "type": "node",
+  "id": 10581467278,
+  "lat": 55.0531524,
+  "lon": -4.8315150
+},
+{
+  "type": "way",
+  "id": 1135125126,
+  "nodes": [
+    10581467277,
+    10581467278
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8586408946,
+  "lat": 55.0610130,
+  "lon": -4.8192954
+},
+{
+  "type": "node",
+  "id": 8586408947,
+  "lat": 55.0610988,
+  "lon": -4.8192461
+},
+{
+  "type": "way",
+  "id": 925193571,
+  "nodes": [
+    8586408946,
+    8586408947
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3747534086,
+  "lat": 55.0799827,
+  "lon": -4.8121695
+},
+{
+  "type": "node",
+  "id": 3747534087,
+  "lat": 55.0800917,
+  "lon": -4.8120671
+},
+{
+  "type": "way",
+  "id": 371155032,
+  "nodes": [
+    3747534086,
+    3747534087
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6250562697,
+  "lat": 55.0834564,
+  "lon": -4.8079085
+},
+{
+  "type": "node",
+  "id": 6250562698,
+  "lat": 55.0839265,
+  "lon": -4.8084599
+},
+{
+  "type": "way",
+  "id": 667575716,
+  "nodes": [
+    6250562698,
+    6250562697
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3747534090,
+  "lat": 55.0831249,
+  "lon": -4.8096595
+},
+{
+  "type": "node",
+  "id": 8815835198,
+  "lat": 55.0830464,
+  "lon": -4.8097770
+},
+{
+  "type": "way",
+  "id": 952490350,
+  "nodes": [
+    8815835198,
+    3747534090
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3747534095,
+  "lat": 55.0842829,
+  "lon": -4.8041547
+},
+{
+  "type": "node",
+  "id": 8815835202,
+  "lat": 55.0842952,
+  "lon": -4.8043923
+},
+{
+  "type": "way",
+  "id": 952490352,
+  "nodes": [
+    8815835202,
+    3747534095
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "name": "Girvan and Portpatrick Junction Railway",
+    "railway": "rail",
+    "ref": "STR2",
+    "source": "landsat",
+    "start_date": "1870-10-03",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

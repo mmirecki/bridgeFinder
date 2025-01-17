@@ -1,0 +1,142 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:51:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 289486613,
+  "lat": 55.9200591,
+  "lon": -5.3381927
+},
+{
+  "type": "node",
+  "id": 289486617,
+  "lat": 55.9202186,
+  "lon": -5.3381583
+},
+{
+  "type": "way",
+  "id": 26421974,
+  "nodes": [
+    289486613,
+    289486617
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "Three cables across the water",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8761540710,
+  "lat": 55.9546872,
+  "lon": -5.3274719
+},
+{
+  "type": "node",
+  "id": 8761540711,
+  "lat": 55.9546571,
+  "lon": -5.3274961
+},
+{
+  "type": "way",
+  "id": 946511554,
+  "nodes": [
+    8761540710,
+    8761540711
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "level": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8761540712,
+  "lat": 55.9541578,
+  "lon": -5.3247938
+},
+{
+  "type": "node",
+  "id": 8761540713,
+  "lat": 55.9541736,
+  "lon": -5.3248729
+},
+{
+  "type": "way",
+  "id": 946511556,
+  "nodes": [
+    8761540712,
+    8761540713
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "level": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

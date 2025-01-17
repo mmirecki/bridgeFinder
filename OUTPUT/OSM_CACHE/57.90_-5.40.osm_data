@@ -1,0 +1,154 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:51:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1958585720,
+  "lat": 57.9863738,
+  "lon": -5.3050256
+},
+{
+  "type": "node",
+  "id": 1958585815,
+  "lat": 57.9864275,
+  "lon": -5.3049706
+},
+{
+  "type": "way",
+  "id": 185291368,
+  "nodes": [
+    1958585815,
+    1958585720
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U3391",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/6844/list_of_adopted_roads_u_class_roads_u2706_to_onwards"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 929034910,
+  "lat": 57.9973918,
+  "lon": -5.3146614
+},
+{
+  "type": "node",
+  "id": 1958523487,
+  "lat": 57.9972706,
+  "lon": -5.3146113
+},
+{
+  "type": "way",
+  "id": 79609749,
+  "nodes": [
+    929034910,
+    1958523487
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1958515325,
+  "lat": 57.9997264,
+  "lon": -5.3099409
+},
+{
+  "type": "node",
+  "id": 1958515327,
+  "lat": 57.9998226,
+  "lon": -5.3100132
+},
+{
+  "type": "way",
+  "id": 185284301,
+  "nodes": [
+    1958515327,
+    1958515325
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U3390",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/6844/list_of_adopted_roads_u_class_roads_u2706_to_onwards"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

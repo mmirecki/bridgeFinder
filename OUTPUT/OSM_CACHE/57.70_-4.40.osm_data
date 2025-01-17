@@ -1,0 +1,703 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:18:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 535109606,
+  "lat": 57.7328860,
+  "lon": -4.3967117
+},
+{
+  "type": "node",
+  "id": 8094385834,
+  "lat": 57.7328281,
+  "lon": -4.3965491
+},
+{
+  "type": "way",
+  "id": 868394291,
+  "nodes": [
+    535109606,
+    8094385834
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1990",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFADOPTEDROADSUCLASS.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8207866886,
+  "lat": 57.7387535,
+  "lon": -4.3922017
+},
+{
+  "type": "node",
+  "id": 8207874622,
+  "lat": 57.7389178,
+  "lon": -4.3917551
+},
+{
+  "type": "way",
+  "id": 882583835,
+  "nodes": [
+    8207874622,
+    8207866886
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "service": "driveway",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 975805983,
+  "lat": 57.7280733,
+  "lon": -4.3869320
+},
+{
+  "type": "node",
+  "id": 975805987,
+  "lat": 57.7281584,
+  "lon": -4.3867456
+},
+{
+  "type": "way",
+  "id": 882583845,
+  "nodes": [
+    975805983,
+    975805987
+  ],
+  "tags": {
+    "access": "forestry",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade3",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 538407032,
+  "lat": 57.7077502,
+  "lon": -4.3133027
+},
+{
+  "type": "node",
+  "id": 2626262789,
+  "lat": 57.7078431,
+  "lon": -4.3133022
+},
+{
+  "type": "way",
+  "id": 257010244,
+  "nodes": [
+    2626262789,
+    538407032
+  ],
+  "tags": {
+    "access": "permissive",
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Fyrish Jubilee Path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 537964173,
+  "lat": 57.7076508,
+  "lon": -4.3100701
+},
+{
+  "type": "node",
+  "id": 537964174,
+  "lat": 57.7075631,
+  "lon": -4.3100448
+},
+{
+  "type": "way",
+  "id": 257010246,
+  "nodes": [
+    537964174,
+    537964173
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "surface": "ground",
+    "width": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1802003530,
+  "lat": 57.7353779,
+  "lon": -4.3420225
+},
+{
+  "type": "node",
+  "id": 1802003547,
+  "lat": 57.7355497,
+  "lon": -4.3423658
+},
+{
+  "type": "way",
+  "id": 169024940,
+  "nodes": [
+    1802003547,
+    1802003530
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12050650463,
+  "lat": 57.7342466,
+  "lon": -4.3361959
+},
+{
+  "type": "node",
+  "id": 12050650464,
+  "lat": 57.7342151,
+  "lon": -4.3366733
+},
+{
+  "type": "way",
+  "id": 1301050346,
+  "nodes": [
+    12050650464,
+    12050650463
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 538209252,
+  "lat": 57.7270528,
+  "lon": -4.3014226
+},
+{
+  "type": "node",
+  "id": 558975473,
+  "lat": 57.7270483,
+  "lon": -4.3006764
+},
+{
+  "type": "way",
+  "id": 43951888,
+  "nodes": [
+    538209252,
+    558975473
+  ],
+  "tags": {
+    "bridge": "yes",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9472273441,
+  "lat": 57.7271321,
+  "lon": -4.3013112
+},
+{
+  "type": "node",
+  "id": 9472273445,
+  "lat": 57.7271342,
+  "lon": -4.3010820
+},
+{
+  "type": "way",
+  "id": 1027465529,
+  "nodes": [
+    9472273441,
+    9472273445
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2496600366,
+  "lat": 57.7379836,
+  "lon": -4.3259259
+},
+{
+  "type": "node",
+  "id": 2496600369,
+  "lat": 57.7382059,
+  "lon": -4.3254725
+},
+{
+  "type": "node",
+  "id": 2496600371,
+  "lat": 57.7383013,
+  "lon": -4.3252011
+},
+{
+  "type": "node",
+  "id": 2496600373,
+  "lat": 57.7383131,
+  "lon": -4.3249497
+},
+{
+  "type": "way",
+  "id": 242110110,
+  "nodes": [
+    2496600366,
+    2496600369,
+    2496600371,
+    2496600373
+  ],
+  "tags": {
+    "highway": "residential",
+    "highway_authority_ref": "U1912",
+    "name": "Cnoc Ruadh",
+    "source": "Bing;OS_OpenData_StreetView",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver117.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 2323712354,
+  "lat": 57.7374357,
+  "lon": -4.3240940
+},
+{
+  "type": "node",
+  "id": 2323726615,
+  "lat": 57.7374667,
+  "lon": -4.3244636
+},
+{
+  "type": "way",
+  "id": 223470885,
+  "nodes": [
+    2323726615,
+    2323712354
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1907",
+    "name": "Strath Rusdale Road",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver117.pdf",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2554750345,
+  "lat": 57.7556258,
+  "lon": -4.3895422
+},
+{
+  "type": "node",
+  "id": 2554750358,
+  "lat": 57.7556938,
+  "lon": -4.3892876
+},
+{
+  "type": "way",
+  "id": 248729537,
+  "nodes": [
+    2554750345,
+    2554750358
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1987",
+    "lanes": "1",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFADOPTEDROADSUCLASS.pdf",
+    "surface": "wood",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 982617793,
+  "lat": 57.7418407,
+  "lon": -4.3719135
+},
+{
+  "type": "node",
+  "id": 8094344220,
+  "lat": 57.7418085,
+  "lon": -4.3716754
+},
+{
+  "type": "node",
+  "id": 8094344221,
+  "lat": 57.7418126,
+  "lon": -4.3717057
+},
+{
+  "type": "way",
+  "id": 868389216,
+  "nodes": [
+    982617793,
+    8094344221,
+    8094344220
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2323729227,
+  "lat": 57.7407430,
+  "lon": -4.3678225
+},
+{
+  "type": "node",
+  "id": 2323729240,
+  "lat": 57.7407203,
+  "lon": -4.3677422
+},
+{
+  "type": "way",
+  "id": 223471075,
+  "nodes": [
+    2323729227,
+    2323729240
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4514258699,
+  "lat": 57.7836221,
+  "lon": -4.3063683
+},
+{
+  "type": "node",
+  "id": 4514258700,
+  "lat": 57.7836871,
+  "lon": -4.3061872
+},
+{
+  "type": "way",
+  "id": 454945531,
+  "nodes": [
+    4514258700,
+    4514258699
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

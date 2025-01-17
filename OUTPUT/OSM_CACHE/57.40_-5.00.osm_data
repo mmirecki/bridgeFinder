@@ -1,0 +1,195 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:00:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 796454739,
+  "lat": 57.4168636,
+  "lon": -4.9955136
+},
+{
+  "type": "node",
+  "id": 1415905411,
+  "lat": 57.4167761,
+  "lon": -4.9954122
+},
+{
+  "type": "way",
+  "id": 128049131,
+  "nodes": [
+    796454739,
+    1415905411
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "motor_vehicle": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4524543736,
+  "lat": 57.4021040,
+  "lon": -4.9799504
+},
+{
+  "type": "node",
+  "id": 4524543994,
+  "lat": 57.4020643,
+  "lon": -4.9797307
+},
+{
+  "type": "way",
+  "id": 456177905,
+  "nodes": [
+    4524543994,
+    4524543736
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 33147931,
+  "lat": 57.4080968,
+  "lon": -4.9563997
+},
+{
+  "type": "node",
+  "id": 1131319341,
+  "lat": 57.4080810,
+  "lon": -4.9567948
+},
+{
+  "type": "way",
+  "id": 128049132,
+  "nodes": [
+    33147931,
+    1131319341
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "motor_vehicle": "permissive",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8221758766,
+  "lat": 57.4021617,
+  "lon": -4.9036957
+},
+{
+  "type": "node",
+  "id": 8221758767,
+  "lat": 57.4021024,
+  "lon": -4.9038784
+},
+{
+  "type": "way",
+  "id": 884059142,
+  "nodes": [
+    8221758766,
+    8221758767
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "service",
+    "layer": "1",
+    "motor_vehicle": "permissive",
+    "motor_vehicle:conditional": "yes @ (Apr - Oct)",
+    "source": "survey",
+    "source:access": "https://www.mountaineering.scot/access/special-arrangements/strathfarrar"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

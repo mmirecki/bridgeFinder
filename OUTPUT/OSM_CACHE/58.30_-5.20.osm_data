@@ -1,0 +1,280 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:56:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4551307083,
+  "lat": 58.3049002,
+  "lon": -5.1285788
+},
+{
+  "type": "node",
+  "id": 4551307084,
+  "lat": 58.3047911,
+  "lon": -5.1286407
+},
+{
+  "type": "way",
+  "id": 459225799,
+  "nodes": [
+    4551307083,
+    4551307084
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1346",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Duartbeg Road",
+    "old_ref": "A894",
+    "passing_places": "yes",
+    "source": "survey",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9216740491,
+  "lat": 58.3533591,
+  "lon": -5.1540926
+},
+{
+  "type": "node",
+  "id": 9216740492,
+  "lat": 58.3534351,
+  "lon": -5.1540792
+},
+{
+  "type": "way",
+  "id": 998209436,
+  "nodes": [
+    9216740491,
+    9216740492
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1224",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "20 mph",
+    "name": "Scourie Pier Road",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 194545132,
+  "lat": 58.3521552,
+  "lon": -5.1489562
+},
+{
+  "type": "node",
+  "id": 393990643,
+  "lat": 58.3522070,
+  "lon": -5.1484082
+},
+{
+  "type": "node",
+  "id": 393990644,
+  "lat": 58.3522072,
+  "lon": -5.1477440
+},
+{
+  "type": "node",
+  "id": 393990645,
+  "lat": 58.3521786,
+  "lon": -5.1473238
+},
+{
+  "type": "node",
+  "id": 612885876,
+  "lat": 58.3517485,
+  "lon": -5.1519726
+},
+{
+  "type": "node",
+  "id": 1345594112,
+  "lat": 58.3521215,
+  "lon": -5.1468318
+},
+{
+  "type": "node",
+  "id": 1779316097,
+  "lat": 58.3520511,
+  "lon": -5.1497436
+},
+{
+  "type": "node",
+  "id": 1780519510,
+  "lat": 58.3519493,
+  "lon": -5.1505112
+},
+{
+  "type": "node",
+  "id": 3304699383,
+  "lat": 58.3518507,
+  "lon": -5.1512310
+},
+{
+  "type": "node",
+  "id": 9216740512,
+  "lat": 58.3520090,
+  "lon": -5.1500607
+},
+{
+  "type": "node",
+  "id": 9216740513,
+  "lat": 58.3521391,
+  "lon": -5.1490783
+},
+{
+  "type": "node",
+  "id": 9216740514,
+  "lat": 58.3521748,
+  "lon": -5.1487489
+},
+{
+  "type": "node",
+  "id": 9216780517,
+  "lat": 58.3522191,
+  "lon": -5.1480469
+},
+{
+  "type": "node",
+  "id": 9216780526,
+  "lat": 58.3518160,
+  "lon": -5.1514832
+},
+{
+  "type": "node",
+  "id": 9216780527,
+  "lat": 58.3517594,
+  "lon": -5.1518937
+},
+{
+  "type": "way",
+  "id": 119907184,
+  "nodes": [
+    612885876,
+    9216780527,
+    9216780526,
+    3304699383,
+    1780519510,
+    9216740512,
+    1779316097,
+    9216740513,
+    194545132,
+    9216740514,
+    393990643,
+    9216780517,
+    393990644,
+    393990645,
+    1345594112
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "ref": "A894",
+    "source:maxspeed": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 9216740475,
+  "lat": 58.3527581,
+  "lon": -5.1500934
+},
+{
+  "type": "node",
+  "id": 9216740476,
+  "lat": 58.3528243,
+  "lon": -5.1500827
+},
+{
+  "type": "way",
+  "id": 998209427,
+  "nodes": [
+    9216740475,
+    9216740476
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "20 mph",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

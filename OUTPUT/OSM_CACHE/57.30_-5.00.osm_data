@@ -1,0 +1,242 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:00:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3927990748,
+  "lat": 57.3416651,
+  "lon": -4.9820698
+},
+{
+  "type": "node",
+  "id": 3927991796,
+  "lat": 57.3417158,
+  "lon": -4.9820316
+},
+{
+  "type": "way",
+  "id": 389632803,
+  "nodes": [
+    3927990748,
+    3927991796
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3927993161,
+  "lat": 57.3564743,
+  "lon": -4.9956307
+},
+{
+  "type": "node",
+  "id": 3927993189,
+  "lat": 57.3564616,
+  "lon": -4.9955262
+},
+{
+  "type": "way",
+  "id": 389632809,
+  "nodes": [
+    3927993189,
+    3927993161
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3927991833,
+  "lat": 57.3521735,
+  "lon": -4.9883149
+},
+{
+  "type": "node",
+  "id": 3927991841,
+  "lat": 57.3521467,
+  "lon": -4.9884661
+},
+{
+  "type": "way",
+  "id": 389632811,
+  "nodes": [
+    3927991833,
+    3927991841
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 795226313,
+  "lat": 57.3387415,
+  "lon": -4.9455157,
+  "tags": {
+    "barrier": "gate",
+    "foot": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9937657712,
+  "lat": 57.3384305,
+  "lon": -4.9457349
+},
+{
+  "type": "node",
+  "id": 9937657715,
+  "lat": 57.3386294,
+  "lon": -4.9455759
+},
+{
+  "type": "way",
+  "id": 1084464195,
+  "nodes": [
+    9937657712,
+    9937657715,
+    795226313
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 795226415,
+  "lat": 57.3511591,
+  "lon": -4.9078049
+},
+{
+  "type": "node",
+  "id": 8364159612,
+  "lat": 57.3511240,
+  "lon": -4.9080831
+},
+{
+  "type": "way",
+  "id": 900361585,
+  "nodes": [
+    8364159612,
+    795226415
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1547",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Glencannich Road",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

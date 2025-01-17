@@ -1,0 +1,330 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:12:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2203711413,
+  "lat": 57.0251714,
+  "lon": -4.5342394
+},
+{
+  "type": "node",
+  "id": 2203711415,
+  "lat": 57.0252029,
+  "lon": -4.5346965
+},
+{
+  "type": "way",
+  "id": 210283097,
+  "nodes": [
+    2203711415,
+    2203711413
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2479597473,
+  "lat": 57.0302393,
+  "lon": -4.5331918
+},
+{
+  "type": "node",
+  "id": 2479597474,
+  "lat": 57.0302514,
+  "lon": -4.5332566
+},
+{
+  "type": "way",
+  "id": 240207820,
+  "nodes": [
+    2479597474,
+    2479597473
+  ],
+  "tags": {
+    "bridge": "yes",
+    "layer": "1",
+    "name": "Drummin Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 664904459,
+  "lat": 57.0290859,
+  "lon": -4.5267655
+},
+{
+  "type": "node",
+  "id": 2203657242,
+  "lat": 57.0289823,
+  "lon": -4.5265125
+},
+{
+  "type": "way",
+  "id": 210277911,
+  "nodes": [
+    664904459,
+    2203657242
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "name": "General Wade's Military Road",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 664904464,
+  "lat": 57.0285512,
+  "lon": -4.5248576
+},
+{
+  "type": "node",
+  "id": 2203711577,
+  "lat": 57.0285439,
+  "lon": -4.5246680
+},
+{
+  "type": "way",
+  "id": 210283087,
+  "nodes": [
+    664904464,
+    2203711577
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U2104",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "General Wade's Military Road",
+    "passing_places": "yes",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFADOPTEDROADSUCLASS.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2203711657,
+  "lat": 57.0304209,
+  "lon": -4.5244768
+},
+{
+  "type": "node",
+  "id": 2203711663,
+  "lat": 57.0304772,
+  "lon": -4.5248836
+},
+{
+  "type": "way",
+  "id": 210283089,
+  "nodes": [
+    2203711663,
+    2203711657
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Melgarve East Bridge",
+    "start_date": "~1750",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2289423111,
+  "lat": 57.0975812,
+  "lon": -4.5586149
+},
+{
+  "type": "node",
+  "id": 2289423202,
+  "lat": 57.0977150,
+  "lon": -4.5587962
+},
+{
+  "type": "way",
+  "id": 219813103,
+  "nodes": [
+    2289423202,
+    2289423111
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2289423400,
+  "lat": 57.0984920,
+  "lon": -4.5199316
+},
+{
+  "type": "node",
+  "id": 2289423406,
+  "lat": 57.0985109,
+  "lon": -4.5201484
+},
+{
+  "type": "way",
+  "id": 219813102,
+  "nodes": [
+    2289423406,
+    2289423400
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

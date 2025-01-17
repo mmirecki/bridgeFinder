@@ -1,0 +1,314 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T15:22:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 9807216006,
+  "lat": 53.5828607,
+  "lon": -8.0844990
+},
+{
+  "type": "node",
+  "id": 9807216007,
+  "lat": 53.5828980,
+  "lon": -8.0845257
+},
+{
+  "type": "way",
+  "id": 1068316302,
+  "nodes": [
+    9807216007,
+    9807216006
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "source": "bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3903356349,
+  "lat": 53.5052833,
+  "lon": -8.0328237
+},
+{
+  "type": "node",
+  "id": 3903356350,
+  "lat": 53.5053412,
+  "lon": -8.0328684
+},
+{
+  "type": "way",
+  "id": 386996032,
+  "nodes": [
+    3903356349,
+    3903356350
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "70 mph",
+    "name": "Mayo Line",
+    "operator": "Irish Rail",
+    "passenger": "national",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:tcb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "M",
+    "source": "Bing",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1151235685,
+  "lat": 53.5100168,
+  "lon": -8.0355966
+},
+{
+  "type": "node",
+  "id": 1151236485,
+  "lat": 53.5099547,
+  "lon": -8.0355706
+},
+{
+  "type": "way",
+  "id": 99534573,
+  "nodes": [
+    1151236485,
+    1151235685
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:ref": "UBM 688",
+    "electrified": "no",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "70 mph",
+    "name": "Mayo Line",
+    "operator": "Irish Rail",
+    "passenger": "national",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:tcb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "M",
+    "source": "survey",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10266419106,
+  "lat": 53.5186376,
+  "lon": -8.0014425
+},
+{
+  "type": "node",
+  "id": 10266422677,
+  "lat": 53.5185995,
+  "lon": -8.0013310
+},
+{
+  "type": "way",
+  "id": 1122508515,
+  "nodes": [
+    10266419106,
+    10266422677
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10266422622,
+  "lat": 53.5179393,
+  "lon": -8.0017383,
+  "tags": {
+    "bicycle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10266422659,
+  "lat": 53.5179358,
+  "lon": -8.0017923,
+  "tags": {
+    "bicycle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1122508519,
+  "nodes": [
+    10266422622,
+    10266422659
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 126228748,
+  "lat": 53.5464917,
+  "lon": -8.0674294
+},
+{
+  "type": "node",
+  "id": 12283244902,
+  "lat": 53.5465971,
+  "lon": -8.0675242
+},
+{
+  "type": "way",
+  "id": 1327676889,
+  "nodes": [
+    126228748,
+    12283244902
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "70 mph",
+    "name": "Mayo Line",
+    "operator": "Irish Rail",
+    "passenger": "national",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:tcb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "M",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

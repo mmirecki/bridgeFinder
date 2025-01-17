@@ -1,0 +1,119 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:24:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 21182687,
+  "lat": 52.6051430,
+  "lon": -4.1186795
+},
+{
+  "type": "node",
+  "id": 2189983928,
+  "lat": 52.6058620,
+  "lon": -4.1190880
+},
+{
+  "type": "way",
+  "id": 208738017,
+  "nodes": [
+    2189983928,
+    21182687
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Dysynni Bridge",
+    "electrified": "no",
+    "fixme": "metric speed limit on Cambrian Line after ECTS upgrade",
+    "gauge": "1435",
+    "layer": "1",
+    "loading_gauge": "W6A",
+    "maxspeed": "25 mph",
+    "name": "Cambrian Line",
+    "name:cy": "Rheilffordd y Cambrian",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:etcs": "2",
+    "ref": "DJP",
+    "ref:lor": "GW734",
+    "source": "bing",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2189983899,
+  "lat": 52.6053309,
+  "lon": -4.1177268,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 2477583620,
+  "lat": 52.6049353,
+  "lon": -4.1180685,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "way",
+  "id": 239991129,
+  "nodes": [
+    2477583620,
+    2189983899
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "cycleway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

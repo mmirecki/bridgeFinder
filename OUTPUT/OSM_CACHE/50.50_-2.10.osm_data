@@ -1,0 +1,406 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T19:02:22Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2738803518,
+  "lat": 50.5956525,
+  "lon": -2.0807231
+},
+{
+  "type": "node",
+  "id": 2738803520,
+  "lat": 50.5956551,
+  "lon": -2.0806614
+},
+{
+  "type": "way",
+  "id": 965337086,
+  "nodes": [
+    2738803520,
+    2738803518
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "SE11/43",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2738803487,
+  "lat": 50.5952066,
+  "lon": -2.0647491
+},
+{
+  "type": "node",
+  "id": 8930331066,
+  "lat": 50.5952242,
+  "lon": -2.0646866
+},
+{
+  "type": "way",
+  "id": 965337077,
+  "nodes": [
+    2738803487,
+    8930331066
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "bing",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12299370200,
+  "lat": 50.5944290,
+  "lon": -2.0624532
+},
+{
+  "type": "node",
+  "id": 12299405401,
+  "lat": 50.5944246,
+  "lon": -2.0624352
+},
+{
+  "type": "way",
+  "id": 1329371467,
+  "nodes": [
+    12299370200,
+    12299405401
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "note": "very challenging to walk on",
+    "smoothness": "very_horrible",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2738803836,
+  "lat": 50.5992225,
+  "lon": -2.0548298
+},
+{
+  "type": "node",
+  "id": 2802455951,
+  "lat": 50.5992652,
+  "lon": -2.0547851
+},
+{
+  "type": "way",
+  "id": 275608476,
+  "nodes": [
+    2802455951,
+    2738803836
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "check_date:surface": "2024-03-31",
+    "check_date:tracktype": "2024-03-31",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "designated",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "SE29/19",
+    "smoothness": "bad",
+    "source": "GPS",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "mud",
+    "tracktype": "grade5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8930304251,
+  "lat": 50.5858670,
+  "lon": -2.0365473
+},
+{
+  "type": "node",
+  "id": 8930304256,
+  "lat": 50.5859087,
+  "lon": -2.0367320
+},
+{
+  "type": "way",
+  "id": 965337056,
+  "nodes": [
+    8930304251,
+    8930304256
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "service": "driveway",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9881874398,
+  "lat": 50.5935285,
+  "lon": -2.0258329
+},
+{
+  "type": "node",
+  "id": 9881874399,
+  "lat": 50.5935140,
+  "lon": -2.0257779
+},
+{
+  "type": "way",
+  "id": 1077791277,
+  "nodes": [
+    9881874398,
+    9881874399
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "prow_ref": "SE29/11",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11074751789,
+  "lat": 50.5929834,
+  "lon": -2.0257120
+},
+{
+  "type": "node",
+  "id": 11074751790,
+  "lat": 50.5928972,
+  "lon": -2.0257996
+},
+{
+  "type": "way",
+  "id": 1193092277,
+  "nodes": [
+    11074751790,
+    11074751789
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "track",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "surface": "grass",
+    "tracktype": "grade5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11074751787,
+  "lat": 50.5916055,
+  "lon": -2.0241689
+},
+{
+  "type": "node",
+  "id": 11074751788,
+  "lat": 50.5917988,
+  "lon": -2.0244604
+},
+{
+  "type": "way",
+  "id": 1193092275,
+  "nodes": [
+    11074751788,
+    11074751787
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "prow_ref": "SE29/11",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "grass",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

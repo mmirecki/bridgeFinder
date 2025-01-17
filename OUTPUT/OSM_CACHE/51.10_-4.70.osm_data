@@ -1,0 +1,158 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:08:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4129922787,
+  "lat": 51.1780293,
+  "lon": -4.6742386
+},
+{
+  "type": "node",
+  "id": 4129922791,
+  "lat": 51.1780356,
+  "lon": -4.6742145
+},
+{
+  "type": "way",
+  "id": 411281559,
+  "nodes": [
+    4129922787,
+    4129922791
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4129921182,
+  "lat": 51.1647370,
+  "lon": -4.6619580
+},
+{
+  "type": "node",
+  "id": 4129921184,
+  "lat": 51.1647580,
+  "lon": -4.6620210
+},
+{
+  "type": "node",
+  "id": 10025382249,
+  "lat": 51.1647520,
+  "lon": -4.6619972
+},
+{
+  "type": "way",
+  "id": 411281557,
+  "nodes": [
+    4129921184,
+    10025382249,
+    4129921182
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 391929106,
+  "lat": 51.1956320,
+  "lon": -4.6705575
+},
+{
+  "type": "node",
+  "id": 4129924665,
+  "lat": 51.1956582,
+  "lon": -4.6705521
+},
+{
+  "type": "way",
+  "id": 411281552,
+  "nodes": [
+    4129924665,
+    391929106
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "no",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "note": "Use of this route is strongly discouraged for conservation reasons."
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

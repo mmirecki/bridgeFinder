@@ -1,0 +1,111 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T15:39:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 849159819,
+  "lat": 52.0982168,
+  "lon": -7.5878869
+},
+{
+  "type": "node",
+  "id": 849160325,
+  "lat": 52.0982744,
+  "lon": -7.5875093
+},
+{
+  "type": "way",
+  "id": 71366768,
+  "nodes": [
+    849160325,
+    849159819
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "cycleway",
+    "layer": "1",
+    "name": "Waterford Greenway",
+    "name:ga": "Rian Glas na nDéise",
+    "railway": "abandoned",
+    "segregated": "no",
+    "surface": "metal"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5107476048,
+  "lat": 52.0830084,
+  "lon": -7.5530984
+},
+{
+  "type": "node",
+  "id": 5107476049,
+  "lat": 52.0828721,
+  "lon": -7.5531359
+},
+{
+  "type": "way",
+  "id": 524921564,
+  "nodes": [
+    5107476048,
+    5107476049
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway": "yes",
+    "electrified": "no",
+    "gauge": "1600",
+    "highway": "cycleway",
+    "layer": "1",
+    "operator": "CIÉ",
+    "railway": "abandoned",
+    "service": "spur"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

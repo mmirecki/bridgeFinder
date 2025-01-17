@@ -1,0 +1,488 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T20:06:42Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2233692,
+  "lat": 51.5371030,
+  "lon": -0.8979700
+},
+{
+  "type": "node",
+  "id": 2233705,
+  "lat": 51.5374347,
+  "lon": -0.8991720
+},
+{
+  "type": "node",
+  "id": 2233714,
+  "lat": 51.5375093,
+  "lon": -0.8998276
+},
+{
+  "type": "node",
+  "id": 2233719,
+  "lat": 51.5375706,
+  "lon": -0.9008454
+},
+{
+  "type": "node",
+  "id": 2233726,
+  "lat": 51.5375727,
+  "lon": -0.9010211,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 373555734,
+  "lat": 51.5375728,
+  "lon": -0.9010694
+},
+{
+  "type": "node",
+  "id": 373557974,
+  "lat": 51.5374894,
+  "lon": -0.8995435,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 423754365,
+  "lat": 51.5372864,
+  "lon": -0.9010589
+},
+{
+  "type": "node",
+  "id": 423754367,
+  "lat": 51.5370271,
+  "lon": -0.9010096
+},
+{
+  "type": "node",
+  "id": 424202515,
+  "lat": 51.5376717,
+  "lon": -0.9022107
+},
+{
+  "type": "node",
+  "id": 596713072,
+  "lat": 51.5376996,
+  "lon": -0.9029529
+},
+{
+  "type": "node",
+  "id": 596713073,
+  "lat": 51.5376460,
+  "lon": -0.9037042
+},
+{
+  "type": "node",
+  "id": 989352354,
+  "lat": 51.5377065,
+  "lon": -0.9026392,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing_ref": "pelican",
+    "highway": "crossing",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "yes",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1672637039,
+  "lat": 51.5365634,
+  "lon": -0.9008039
+},
+{
+  "type": "node",
+  "id": 1672664118,
+  "lat": 51.5373505,
+  "lon": -0.8987831
+},
+{
+  "type": "node",
+  "id": 1672664129,
+  "lat": 51.5379351,
+  "lon": -0.9008688
+},
+{
+  "type": "node",
+  "id": 1672664132,
+  "lat": 51.5381542,
+  "lon": -0.9008866
+},
+{
+  "type": "node",
+  "id": 1672664136,
+  "lat": 51.5389629,
+  "lon": -0.9011557
+},
+{
+  "type": "node",
+  "id": 1674848790,
+  "lat": 51.5369401,
+  "lon": -0.9009866
+},
+{
+  "type": "node",
+  "id": 1674848795,
+  "lat": 51.5385403,
+  "lon": -0.9009805
+},
+{
+  "type": "node",
+  "id": 1674848798,
+  "lat": 51.5390318,
+  "lon": -0.9012765
+},
+{
+  "type": "node",
+  "id": 2175006245,
+  "lat": 51.5376623,
+  "lon": -0.9010105
+},
+{
+  "type": "node",
+  "id": 3231957137,
+  "lat": 51.5376975,
+  "lon": -0.9024448
+},
+{
+  "type": "node",
+  "id": 4489672335,
+  "lat": 51.5380957,
+  "lon": -0.9008819
+},
+{
+  "type": "node",
+  "id": 5555966700,
+  "lat": 51.5367380,
+  "lon": -0.9009086
+},
+{
+  "type": "node",
+  "id": 5555966701,
+  "lat": 51.5366453,
+  "lon": -0.9008302
+},
+{
+  "type": "node",
+  "id": 5555966702,
+  "lat": 51.5366035,
+  "lon": -0.9007994
+},
+{
+  "type": "node",
+  "id": 5555966711,
+  "lat": 51.5374563,
+  "lon": -0.9010774
+},
+{
+  "type": "node",
+  "id": 5555966712,
+  "lat": 51.5375724,
+  "lon": -0.9011878
+},
+{
+  "type": "node",
+  "id": 5555966714,
+  "lat": 51.5376001,
+  "lon": -0.9015732
+},
+{
+  "type": "node",
+  "id": 5555966715,
+  "lat": 51.5376109,
+  "lon": -0.9018948
+},
+{
+  "type": "node",
+  "id": 6092811040,
+  "lat": 51.5371711,
+  "lon": -0.8981753
+},
+{
+  "type": "way",
+  "id": 2991404,
+  "nodes": [
+    2233719,
+    2233726
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "maxspeed": "30 mph",
+    "name": "Hart Street",
+    "ref": "A4130",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4586494,
+  "nodes": [
+    2233705,
+    373557974,
+    2233714
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "White Hill",
+    "ref": "A4130",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26145764,
+  "nodes": [
+    1674848798,
+    1672664136,
+    1674848795,
+    1672664132,
+    4489672335,
+    1672664129,
+    2175006245,
+    2233726
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Thameside",
+    "oneway": "yes",
+    "ref:GB:usrn": "36201549",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 33104163,
+  "nodes": [
+    373555734,
+    5555966712,
+    5555966714,
+    5555966715,
+    424202515,
+    3231957137,
+    989352354,
+    596713072,
+    596713073
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Hart Street",
+    "ref": "A4130",
+    "ref:GB:usrn": "36208147",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 36331662,
+  "nodes": [
+    373555734,
+    5555966711,
+    423754365
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "maxspeed": "30 mph",
+    "name": "Thameside",
+    "oneway": "yes",
+    "ref:GB:usrn": "36201549",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 44676012,
+  "nodes": [
+    423754365,
+    423754367,
+    1674848790,
+    5555966700,
+    5555966701,
+    5555966702,
+    1672637039
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "30 mph",
+    "name": "Thameside",
+    "oneway": "yes",
+    "ref:GB:usrn": "36201549",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 146523021,
+  "nodes": [
+    2233692,
+    6092811040,
+    1672664118,
+    2233705
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "White Hill",
+    "ref": "A4130",
+    "split_from": "id:4,586,493",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 159968876,
+  "nodes": [
+    2233726,
+    373555734
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "maxspeed": "30 mph",
+    "name": "Hart Street",
+    "ref": "A4130",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 2233714,
+  "lat": 51.5375093,
+  "lon": -0.8998276
+},
+{
+  "type": "node",
+  "id": 2233719,
+  "lat": 51.5375706,
+  "lon": -0.9008454
+},
+{
+  "type": "way",
+  "id": 33104272,
+  "nodes": [
+    2233714,
+    2233719
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Henley Bridge",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "maxweight:signed": "no",
+    "name": "White Hill",
+    "ref": "A4130",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "wikidata": "Q12059877"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2004634433,
+  "lat": 51.5670921,
+  "lon": -0.9109167
+},
+{
+  "type": "node",
+  "id": 2004634436,
+  "lat": 51.5670261,
+  "lon": -0.9109274
+},
+{
+  "type": "node",
+  "id": 2004634441,
+  "lat": 51.5670908,
+  "lon": -0.9109380
+},
+{
+  "type": "node",
+  "id": 2004634444,
+  "lat": 51.5670274,
+  "lon": -0.9109062
+},
+{
+  "type": "way",
+  "id": 189850501,
+  "nodes": [
+    2004634436,
+    2004634444,
+    2004634433,
+    2004634441
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,10454 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:09:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 308980113,
+  "lat": 53.3069187,
+  "lon": -4.6965510
+},
+{
+  "type": "node",
+  "id": 308980130,
+  "lat": 53.3069760,
+  "lon": -4.6971833
+},
+{
+  "type": "way",
+  "id": 28131977,
+  "nodes": [
+    308980113,
+    308980130
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "suspension",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27606236,
+  "lat": 53.3041299,
+  "lon": -4.6295702
+},
+{
+  "type": "node",
+  "id": 27606240,
+  "lat": 53.3034626,
+  "lon": -4.6286006
+},
+{
+  "type": "node",
+  "id": 27606241,
+  "lat": 53.3028229,
+  "lon": -4.6277604
+},
+{
+  "type": "node",
+  "id": 27606242,
+  "lat": 53.3019577,
+  "lon": -4.6264846
+},
+{
+  "type": "node",
+  "id": 27606243,
+  "lat": 53.3017533,
+  "lon": -4.6261753
+},
+{
+  "type": "node",
+  "id": 27606247,
+  "lat": 53.3017013,
+  "lon": -4.6263478
+},
+{
+  "type": "node",
+  "id": 27606248,
+  "lat": 53.3019619,
+  "lon": -4.6267090
+},
+{
+  "type": "node",
+  "id": 27606249,
+  "lat": 53.3028017,
+  "lon": -4.6279095
+},
+{
+  "type": "node",
+  "id": 27606250,
+  "lat": 53.3035227,
+  "lon": -4.6288886
+},
+{
+  "type": "node",
+  "id": 255728255,
+  "lat": 53.3005447,
+  "lon": -4.6267719
+},
+{
+  "type": "node",
+  "id": 994657545,
+  "lat": 53.3031621,
+  "lon": -4.6247734
+},
+{
+  "type": "node",
+  "id": 1075203499,
+  "lat": 53.3040956,
+  "lon": -4.6296862
+},
+{
+  "type": "node",
+  "id": 1243634394,
+  "lat": 53.3023092,
+  "lon": -4.6293436
+},
+{
+  "type": "node",
+  "id": 1243634415,
+  "lat": 53.3018603,
+  "lon": -4.6282120
+},
+{
+  "type": "node",
+  "id": 1243634437,
+  "lat": 53.3015769,
+  "lon": -4.6272324,
+  "tags": {
+    "noexit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1243634442,
+  "lat": 53.3020841,
+  "lon": -4.6284555
+},
+{
+  "type": "node",
+  "id": 1243634455,
+  "lat": 53.3018810,
+  "lon": -4.6289718
+},
+{
+  "type": "node",
+  "id": 1243634487,
+  "lat": 53.3027167,
+  "lon": -4.6281788
+},
+{
+  "type": "node",
+  "id": 1358295000,
+  "lat": 53.3021918,
+  "lon": -4.6281937
+},
+{
+  "type": "node",
+  "id": 1358295001,
+  "lat": 53.3023245,
+  "lon": -4.6277184
+},
+{
+  "type": "node",
+  "id": 1358295003,
+  "lat": 53.3022456,
+  "lon": -4.6280650
+},
+{
+  "type": "node",
+  "id": 1369791480,
+  "lat": 53.3042018,
+  "lon": -4.6300201,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Kingsland Roundabout",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1369803709,
+  "lat": 53.3024209,
+  "lon": -4.6271923
+},
+{
+  "type": "node",
+  "id": 1583344159,
+  "lat": 53.3015509,
+  "lon": -4.6285372
+},
+{
+  "type": "node",
+  "id": 1583344160,
+  "lat": 53.3015475,
+  "lon": -4.6287090,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1913013898,
+  "lat": 53.3008691,
+  "lon": -4.6261897
+},
+{
+  "type": "node",
+  "id": 1913013900,
+  "lat": 53.3009346,
+  "lon": -4.6263666
+},
+{
+  "type": "node",
+  "id": 1913013902,
+  "lat": 53.3010203,
+  "lon": -4.6264930
+},
+{
+  "type": "node",
+  "id": 1913013907,
+  "lat": 53.3011091,
+  "lon": -4.6265483
+},
+{
+  "type": "node",
+  "id": 1913013914,
+  "lat": 53.3011507,
+  "lon": -4.6265790
+},
+{
+  "type": "node",
+  "id": 1913013917,
+  "lat": 53.3011961,
+  "lon": -4.6266124
+},
+{
+  "type": "node",
+  "id": 1913013922,
+  "lat": 53.3012727,
+  "lon": -4.6267144
+},
+{
+  "type": "node",
+  "id": 1913013925,
+  "lat": 53.3012946,
+  "lon": -4.6267609
+},
+{
+  "type": "node",
+  "id": 1913013933,
+  "lat": 53.3013302,
+  "lon": -4.6268368
+},
+{
+  "type": "node",
+  "id": 1913013939,
+  "lat": 53.3014135,
+  "lon": -4.6269358
+},
+{
+  "type": "node",
+  "id": 1913013943,
+  "lat": 53.3015159,
+  "lon": -4.6270037
+},
+{
+  "type": "node",
+  "id": 1913013947,
+  "lat": 53.3016122,
+  "lon": -4.6270980
+},
+{
+  "type": "node",
+  "id": 1913013950,
+  "lat": 53.3019088,
+  "lon": -4.6280949
+},
+{
+  "type": "node",
+  "id": 4288699909,
+  "lat": 53.3020173,
+  "lon": -4.6277026
+},
+{
+  "type": "node",
+  "id": 4288699911,
+  "lat": 53.3016571,
+  "lon": -4.6267141
+},
+{
+  "type": "node",
+  "id": 4288699914,
+  "lat": 53.3024224,
+  "lon": -4.6289497
+},
+{
+  "type": "node",
+  "id": 4288699942,
+  "lat": 53.3017630,
+  "lon": -4.6273526
+},
+{
+  "type": "node",
+  "id": 4288699954,
+  "lat": 53.3017216,
+  "lon": -4.6272730
+},
+{
+  "type": "node",
+  "id": 4288699958,
+  "lat": 53.3016909,
+  "lon": -4.6271940
+},
+{
+  "type": "node",
+  "id": 4288699962,
+  "lat": 53.3009755,
+  "lon": -4.6264436
+},
+{
+  "type": "node",
+  "id": 4288699966,
+  "lat": 53.3020190,
+  "lon": -4.6278706
+},
+{
+  "type": "node",
+  "id": 4288699972,
+  "lat": 53.3016572,
+  "lon": -4.6271303
+},
+{
+  "type": "node",
+  "id": 4288699976,
+  "lat": 53.3020250,
+  "lon": -4.6277911
+},
+{
+  "type": "node",
+  "id": 4536284895,
+  "lat": 53.3014317,
+  "lon": -4.6283008
+},
+{
+  "type": "node",
+  "id": 4545724473,
+  "lat": 53.3021656,
+  "lon": -4.6282574
+},
+{
+  "type": "node",
+  "id": 4545726322,
+  "lat": 53.3020198,
+  "lon": -4.6286152
+},
+{
+  "type": "node",
+  "id": 4545726325,
+  "lat": 53.3024188,
+  "lon": -4.6289622
+},
+{
+  "type": "node",
+  "id": 7832837456,
+  "lat": 53.3041577,
+  "lon": -4.6298150
+},
+{
+  "type": "node",
+  "id": 7832837457,
+  "lat": 53.3022451,
+  "lon": -4.6271197
+},
+{
+  "type": "node",
+  "id": 10592710178,
+  "lat": 53.3025164,
+  "lon": -4.6262535
+},
+{
+  "type": "node",
+  "id": 10592710179,
+  "lat": 53.3028950,
+  "lon": -4.6257951
+},
+{
+  "type": "node",
+  "id": 10592710180,
+  "lat": 53.3024000,
+  "lon": -4.6263958
+},
+{
+  "type": "node",
+  "id": 11083875047,
+  "lat": 53.3041745,
+  "lon": -4.6298860
+},
+{
+  "type": "node",
+  "id": 11083892649,
+  "lat": 53.3023609,
+  "lon": -4.6272932
+},
+{
+  "type": "node",
+  "id": 11083892650,
+  "lat": 53.3023026,
+  "lon": -4.6270104
+},
+{
+  "type": "node",
+  "id": 11083892651,
+  "lat": 53.3013347,
+  "lon": -4.6258357
+},
+{
+  "type": "node",
+  "id": 11083892652,
+  "lat": 53.3014398,
+  "lon": -4.6257199
+},
+{
+  "type": "node",
+  "id": 11091961970,
+  "lat": 53.3041827,
+  "lon": -4.6299232,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 11093745966,
+  "lat": 53.3037934,
+  "lon": -4.6292564
+},
+{
+  "type": "node",
+  "id": 11093745967,
+  "lat": 53.3037275,
+  "lon": -4.6289762
+},
+{
+  "type": "node",
+  "id": 11093745968,
+  "lat": 53.3031798,
+  "lon": -4.6284123
+},
+{
+  "type": "node",
+  "id": 11093745969,
+  "lat": 53.3031273,
+  "lon": -4.6281661
+},
+{
+  "type": "node",
+  "id": 11107670181,
+  "lat": 53.3041336,
+  "lon": -4.6297490
+},
+{
+  "type": "way",
+  "id": 23611757,
+  "nodes": [
+    1583344160,
+    1583344159,
+    4536284895,
+    255728255
+  ],
+  "tags": {
+    "highway": "residential",
+    "lcn": "yes",
+    "name": "Tyn Pwll Road",
+    "name:en": "Tyn Pwll Road",
+    "source:name": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 108367581,
+  "nodes": [
+    1243634487,
+    4288699914,
+    4545726325,
+    1243634394
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Arthur St East"
+  }
+},
+{
+  "type": "way",
+  "id": 108367621,
+  "nodes": [
+    1243634437,
+    1243634415,
+    1243634442
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Penrhos View",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 121294463,
+  "nodes": [
+    1358295001,
+    1358295003,
+    1358295000,
+    4545724473,
+    1243634442,
+    4545726322,
+    1243634455
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Clifton Terrace"
+  }
+},
+{
+  "type": "way",
+  "id": 180844598,
+  "nodes": [
+    1913013898,
+    1913013900,
+    4288699962,
+    1913013902,
+    1913013907,
+    1913013914,
+    1913013917,
+    1913013922,
+    1913013925,
+    1913013933,
+    1913013939,
+    1913013943,
+    1913013947,
+    4288699972,
+    4288699958,
+    4288699954,
+    4288699942,
+    4288699909,
+    4288699976,
+    4288699966,
+    1913013950
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Cyttir Close",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 290131826,
+  "nodes": [
+    11083892649,
+    27606249,
+    11093745968,
+    27606250,
+    11093745966,
+    1075203499,
+    11107670181,
+    7832837456,
+    11083875047,
+    11091961970,
+    1369791480
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "sign",
+    "motor_vehicle": "yes",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 429700582,
+  "nodes": [
+    1913013943,
+    4288699911
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1136315659,
+  "nodes": [
+    994657545,
+    10592710179,
+    10592710178,
+    10592710180
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Gerddi Canada"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042877,
+  "nodes": [
+    7832837457,
+    11083892649
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042878,
+  "nodes": [
+    27606236,
+    11093745967,
+    27606240,
+    11093745969,
+    27606241,
+    1369803709
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042879,
+  "nodes": [
+    1369803709,
+    11083892650
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042880,
+  "nodes": [
+    11083892651,
+    27606247,
+    27606248,
+    7832837457
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042882,
+  "nodes": [
+    11083892650,
+    27606242,
+    27606243,
+    11083892652
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 4545724471,
+  "lat": 53.3025526,
+  "lon": -4.6267812
+},
+{
+  "type": "node",
+  "id": 4545724472,
+  "lat": 53.3021663,
+  "lon": -4.6274410
+},
+{
+  "type": "way",
+  "id": 458589750,
+  "nodes": [
+    4545724471,
+    4545724472
+  ],
+  "tags": {
+    "bridge": "yes",
+    "heritage": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "not:wikidata": "Q29494204",
+    "note": "the wikidata item refers to a bride demolished in 2000 https://holyhead.com/local-interest/construction-of-the-a55-road/penllech-nest-bridge/",
+    "start_date": "2000"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727316,
+  "lat": 53.3101648,
+  "lon": -4.6345189
+},
+{
+  "type": "node",
+  "id": 255727400,
+  "lat": 53.3111597,
+  "lon": -4.6331730
+},
+{
+  "type": "node",
+  "id": 255727401,
+  "lat": 53.3096613,
+  "lon": -4.6337680
+},
+{
+  "type": "node",
+  "id": 255727402,
+  "lat": 53.3087756,
+  "lon": -4.6330235
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 255727507,
+  "lat": 53.3092817,
+  "lon": -4.6342463
+},
+{
+  "type": "node",
+  "id": 255727508,
+  "lat": 53.3079103,
+  "lon": -4.6352830
+},
+{
+  "type": "node",
+  "id": 255727509,
+  "lat": 53.3072728,
+  "lon": -4.6358484
+},
+{
+  "type": "node",
+  "id": 255727677,
+  "lat": 53.3075523,
+  "lon": -4.6357012
+},
+{
+  "type": "node",
+  "id": 291455111,
+  "lat": 53.3085305,
+  "lon": -4.6346143
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1082379684,
+  "lat": 53.3093650,
+  "lon": -4.6334486
+},
+{
+  "type": "node",
+  "id": 1082380211,
+  "lat": 53.3095988,
+  "lon": -4.6334662
+},
+{
+  "type": "node",
+  "id": 1082380486,
+  "lat": 53.3097135,
+  "lon": -4.6340035
+},
+{
+  "type": "node",
+  "id": 1335913630,
+  "lat": 53.3088211,
+  "lon": -4.6331174
+},
+{
+  "type": "node",
+  "id": 1349207719,
+  "lat": 53.3097402,
+  "lon": -4.6340443
+},
+{
+  "type": "node",
+  "id": 1349207723,
+  "lat": 53.3077829,
+  "lon": -4.6354356
+},
+{
+  "type": "node",
+  "id": 1349216507,
+  "lat": 53.3107763,
+  "lon": -4.6335082
+},
+{
+  "type": "node",
+  "id": 1349216508,
+  "lat": 53.3100371,
+  "lon": -4.6342753
+},
+{
+  "type": "node",
+  "id": 1349216509,
+  "lat": 53.3102680,
+  "lon": -4.6343934
+},
+{
+  "type": "node",
+  "id": 1349219735,
+  "lat": 53.3108500,
+  "lon": -4.6336745
+},
+{
+  "type": "node",
+  "id": 1349219737,
+  "lat": 53.3110331,
+  "lon": -4.6341627,
+  "tags": {
+    "noexit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804041,
+  "lat": 53.3106657,
+  "lon": -4.6337008
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 1704846947,
+  "lat": 53.3083287,
+  "lon": -4.6347797
+},
+{
+  "type": "node",
+  "id": 1704846961,
+  "lat": 53.3096968,
+  "lon": -4.6339296
+},
+{
+  "type": "node",
+  "id": 1721699688,
+  "lat": 53.3073353,
+  "lon": -4.6358408
+},
+{
+  "type": "node",
+  "id": 1721699719,
+  "lat": 53.3074034,
+  "lon": -4.6358104
+},
+{
+  "type": "node",
+  "id": 4536284499,
+  "lat": 53.3100961,
+  "lon": -4.6343528
+},
+{
+  "type": "node",
+  "id": 9291075918,
+  "lat": 53.3094334,
+  "lon": -4.6334596
+},
+{
+  "type": "node",
+  "id": 9291075920,
+  "lat": 53.3095447,
+  "lon": -4.6334521
+},
+{
+  "type": "node",
+  "id": 9291075921,
+  "lat": 53.3095855,
+  "lon": -4.6338266
+},
+{
+  "type": "node",
+  "id": 9291075923,
+  "lat": 53.3096109,
+  "lon": -4.6335159
+},
+{
+  "type": "node",
+  "id": 9291075925,
+  "lat": 53.3093886,
+  "lon": -4.6341094
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760626,
+  "lat": 53.3087739,
+  "lon": -4.6329608
+},
+{
+  "type": "node",
+  "id": 11091760627,
+  "lat": 53.3087949,
+  "lon": -4.6330835
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 23611669,
+  "nodes": [
+    1082380211,
+    9291075923,
+    255727401,
+    1704846961,
+    1082380486,
+    1349207719,
+    1349216508,
+    4536284499,
+    255727316
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "name": "Thomas Street",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23611673,
+  "nodes": [
+    255727401,
+    9291075921,
+    9291075925,
+    255727507,
+    291455111,
+    1704846947,
+    255727508,
+    1349207723,
+    255727677,
+    1721699719,
+    1721699688,
+    255727509
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "30 mph",
+    "name": "Longford Road",
+    "name:cy": "Ffordd Y Plas"
+  }
+},
+{
+  "type": "way",
+  "id": 26579107,
+  "nodes": [
+    255727403,
+    11091760626,
+    255727402,
+    11091760627,
+    1335913630,
+    1082379684,
+    9291075918,
+    9291075920,
+    1082380211
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Victoria Terrace",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 120304436,
+  "nodes": [
+    255727316,
+    1349216509,
+    1672804041,
+    1349216507,
+    255727400
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in": "Holyhead",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Stryd Williams",
+    "name:en": "Williams Street",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "block"
+  }
+},
+{
+  "type": "way",
+  "id": 120305084,
+  "nodes": [
+    1349216507,
+    1349219735,
+    1349219737
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Tower Gardens",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 9827911486,
+  "lat": 53.3101866,
+  "lon": -4.6326717
+},
+{
+  "type": "node",
+  "id": 10958066305,
+  "lat": 53.3103599,
+  "lon": -4.6325678
+},
+{
+  "type": "way",
+  "id": 1179826713,
+  "nodes": [
+    10958066305,
+    9827911486
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27606271,
+  "lat": 53.3053416,
+  "lon": -4.6312099
+},
+{
+  "type": "node",
+  "id": 27606272,
+  "lat": 53.3060151,
+  "lon": -4.6318100,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 27606274,
+  "lat": 53.3056034,
+  "lon": -4.6313085
+},
+{
+  "type": "node",
+  "id": 27606275,
+  "lat": 53.3048577,
+  "lon": -4.6304716
+},
+{
+  "type": "node",
+  "id": 31923530,
+  "lat": 53.3062965,
+  "lon": -4.6314913
+},
+{
+  "type": "node",
+  "id": 31923531,
+  "lat": 53.3063478,
+  "lon": -4.6305845
+},
+{
+  "type": "node",
+  "id": 31923533,
+  "lat": 53.3064352,
+  "lon": -4.6298795
+},
+{
+  "type": "node",
+  "id": 31923534,
+  "lat": 53.3066975,
+  "lon": -4.6301088
+},
+{
+  "type": "node",
+  "id": 31923536,
+  "lat": 53.3071546,
+  "lon": -4.6303438
+},
+{
+  "type": "node",
+  "id": 31923538,
+  "lat": 53.3060475,
+  "lon": -4.6316683
+},
+{
+  "type": "node",
+  "id": 255727533,
+  "lat": 53.3072364,
+  "lon": -4.6322796
+},
+{
+  "type": "node",
+  "id": 255727698,
+  "lat": 53.3052069,
+  "lon": -4.6360651
+},
+{
+  "type": "node",
+  "id": 291455135,
+  "lat": 53.3058155,
+  "lon": -4.6320238
+},
+{
+  "type": "node",
+  "id": 308849416,
+  "lat": 53.3060647,
+  "lon": -4.6294000
+},
+{
+  "type": "node",
+  "id": 308849417,
+  "lat": 53.3062897,
+  "lon": -4.6297146,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "crossing",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 994657562,
+  "lat": 53.3055814,
+  "lon": -4.6328876
+},
+{
+  "type": "node",
+  "id": 994657564,
+  "lat": 53.3052837,
+  "lon": -4.6341998
+},
+{
+  "type": "node",
+  "id": 1075203666,
+  "lat": 53.3064959,
+  "lon": -4.6320495
+},
+{
+  "type": "node",
+  "id": 1075203799,
+  "lat": 53.3072773,
+  "lon": -4.6303231
+},
+{
+  "type": "node",
+  "id": 1075203820,
+  "lat": 53.3074409,
+  "lon": -4.6323547
+},
+{
+  "type": "node",
+  "id": 1326910515,
+  "lat": 53.3053516,
+  "lon": -4.6338945
+},
+{
+  "type": "node",
+  "id": 1349208853,
+  "lat": 53.3077562,
+  "lon": -4.6324316
+},
+{
+  "type": "node",
+  "id": 1353936273,
+  "lat": 53.3057619,
+  "lon": -4.6322938
+},
+{
+  "type": "node",
+  "id": 1353941562,
+  "lat": 53.3059795,
+  "lon": -4.6336569
+},
+{
+  "type": "node",
+  "id": 1353941564,
+  "lat": 53.3065225,
+  "lon": -4.6329615
+},
+{
+  "type": "node",
+  "id": 1353941566,
+  "lat": 53.3064909,
+  "lon": -4.6321860
+},
+{
+  "type": "node",
+  "id": 1353941571,
+  "lat": 53.3057331,
+  "lon": -4.6341696
+},
+{
+  "type": "node",
+  "id": 1353941574,
+  "lat": 53.3058808,
+  "lon": -4.6338285
+},
+{
+  "type": "node",
+  "id": 1353941578,
+  "lat": 53.3064847,
+  "lon": -4.6324080
+},
+{
+  "type": "node",
+  "id": 1353941586,
+  "lat": 53.3064180,
+  "lon": -4.6333178
+},
+{
+  "type": "node",
+  "id": 1369788059,
+  "lat": 53.3047224,
+  "lon": -4.6301733,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Kingsland Roundabout",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1369791482,
+  "lat": 53.3048067,
+  "lon": -4.6303871
+},
+{
+  "type": "node",
+  "id": 1369800775,
+  "lat": 53.3057650,
+  "lon": -4.6316229
+},
+{
+  "type": "node",
+  "id": 1369803711,
+  "lat": 53.3057981,
+  "lon": -4.6314889
+},
+{
+  "type": "node",
+  "id": 1704846916,
+  "lat": 53.3052426,
+  "lon": -4.6346785,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846917,
+  "lat": 53.3052616,
+  "lon": -4.6343413
+},
+{
+  "type": "node",
+  "id": 1704846918,
+  "lat": 53.3053321,
+  "lon": -4.6339830,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846921,
+  "lat": 53.3063756,
+  "lon": -4.6300574,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846924,
+  "lat": 53.3070027,
+  "lon": -4.6303019
+},
+{
+  "type": "node",
+  "id": 2861721956,
+  "lat": 53.3065644,
+  "lon": -4.6300012,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 4288353556,
+  "lat": 53.3064574,
+  "lon": -4.6332446
+},
+{
+  "type": "node",
+  "id": 4288353557,
+  "lat": 53.3057306,
+  "lon": -4.6323910
+},
+{
+  "type": "node",
+  "id": 4288353561,
+  "lat": 53.3064880,
+  "lon": -4.6331474
+},
+{
+  "type": "node",
+  "id": 4288353562,
+  "lat": 53.3057859,
+  "lon": -4.6321982
+},
+{
+  "type": "node",
+  "id": 4288353570,
+  "lat": 53.3056906,
+  "lon": -4.6324908
+},
+{
+  "type": "node",
+  "id": 4288353573,
+  "lat": 53.3065076,
+  "lon": -4.6330589
+},
+{
+  "type": "node",
+  "id": 4545724411,
+  "lat": 53.3060135,
+  "lon": -4.6297108
+},
+{
+  "type": "node",
+  "id": 4545724412,
+  "lat": 53.3055824,
+  "lon": -4.6289598
+},
+{
+  "type": "node",
+  "id": 4545724413,
+  "lat": 53.3056487,
+  "lon": -4.6288351
+},
+{
+  "type": "node",
+  "id": 4547093118,
+  "lat": 53.3065188,
+  "lon": -4.6329072
+},
+{
+  "type": "node",
+  "id": 5071746722,
+  "lat": 53.3070624,
+  "lon": -4.6322078,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "highway": "crossing",
+    "kerb": "lowered",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7832837467,
+  "lat": 53.3063608,
+  "lon": -4.6302999
+},
+{
+  "type": "node",
+  "id": 7832837469,
+  "lat": 53.3062320,
+  "lon": -4.6319373
+},
+{
+  "type": "node",
+  "id": 7850493870,
+  "lat": 53.3055939,
+  "lon": -4.6328374
+},
+{
+  "type": "node",
+  "id": 8816936685,
+  "lat": 53.3058786,
+  "lon": -4.6291547
+},
+{
+  "type": "node",
+  "id": 8816936688,
+  "lat": 53.3063662,
+  "lon": -4.6301361,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 8816936689,
+  "lat": 53.3068536,
+  "lon": -4.6302208
+},
+{
+  "type": "node",
+  "id": 8816936690,
+  "lat": 53.3062516,
+  "lon": -4.6296627,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 8816936691,
+  "lat": 53.3062597,
+  "lon": -4.6318008
+},
+{
+  "type": "node",
+  "id": 8816936692,
+  "lat": 53.3066268,
+  "lon": -4.6320526
+},
+{
+  "type": "node",
+  "id": 8816936693,
+  "lat": 53.3061321,
+  "lon": -4.6318805
+},
+{
+  "type": "node",
+  "id": 8816936694,
+  "lat": 53.3062867,
+  "lon": -4.6316257
+},
+{
+  "type": "node",
+  "id": 8816936695,
+  "lat": 53.3062736,
+  "lon": -4.6317285
+},
+{
+  "type": "node",
+  "id": 8816936696,
+  "lat": 53.3055865,
+  "lon": -4.6314649
+},
+{
+  "type": "node",
+  "id": 8816936697,
+  "lat": 53.3059025,
+  "lon": -4.6315706
+},
+{
+  "type": "node",
+  "id": 8816936699,
+  "lat": 53.3068781,
+  "lon": -4.6321333
+},
+{
+  "type": "node",
+  "id": 8816936701,
+  "lat": 53.3065007,
+  "lon": -4.6319338,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 11083875044,
+  "lat": 53.3065353,
+  "lon": -4.6299784,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 11083875045,
+  "lat": 53.3062932,
+  "lon": -4.6315368,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11083875069,
+  "lat": 53.3047768,
+  "lon": -4.6303199
+},
+{
+  "type": "node",
+  "id": 11091813641,
+  "lat": 53.3075629,
+  "lon": -4.6323844
+},
+{
+  "type": "node",
+  "id": 11091961920,
+  "lat": 53.3072129,
+  "lon": -4.6303461
+},
+{
+  "type": "node",
+  "id": 11091961971,
+  "lat": 53.3047583,
+  "lon": -4.6302735,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 11100025745,
+  "lat": 53.3070786,
+  "lon": -4.6303290
+},
+{
+  "type": "node",
+  "id": 11100025746,
+  "lat": 53.3069281,
+  "lon": -4.6302675
+},
+{
+  "type": "node",
+  "id": 11100025747,
+  "lat": 53.3053268,
+  "lon": -4.6310187
+},
+{
+  "type": "node",
+  "id": 11100025749,
+  "lat": 53.3049696,
+  "lon": -4.6305972
+},
+{
+  "type": "node",
+  "id": 11100056362,
+  "lat": 53.3057106,
+  "lon": -4.6324409,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 11100056363,
+  "lat": 53.3055101,
+  "lon": -4.6331999,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 11100056364,
+  "lat": 53.3052153,
+  "lon": -4.6357380,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 11110779612,
+  "lat": 53.3051403,
+  "lon": -4.6309749
+},
+{
+  "type": "node",
+  "id": 11196329918,
+  "lat": 53.3072465,
+  "lon": -4.6303379
+},
+{
+  "type": "node",
+  "id": 11770512799,
+  "lat": 53.3056154,
+  "lon": -4.6288977
+},
+{
+  "type": "node",
+  "id": 11770512801,
+  "lat": 53.3063625,
+  "lon": -4.6302470
+},
+{
+  "type": "way",
+  "id": 4898986,
+  "nodes": [
+    8816936691,
+    8816936695,
+    8816936694,
+    11083875045
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Bangor|Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A55|A5154",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "left",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 4898987,
+  "nodes": [
+    1369803711,
+    27606274,
+    11100025747,
+    11100025749,
+    27606275,
+    1369791482,
+    11083875069,
+    11091961971,
+    1369788059
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "sign",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4898988,
+  "nodes": [
+    11110779612,
+    27606271,
+    8816936696,
+    1369800775
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:ref:lanes": "A5154|A55",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "sign",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4898990,
+  "nodes": [
+    31923533,
+    11083875044,
+    2861721956,
+    31923534,
+    8816936689,
+    11100025746,
+    1704846924
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Traffig lleol / Local traffic|Bangor;Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A5|A55;(A5154)",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 26579097,
+  "nodes": [
+    31923531,
+    7832837467,
+    11770512801,
+    8816936688,
+    1704846921,
+    31923533
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:forward": "|Traffig lleol / Local traffic",
+    "destination:ref:lanes:forward": "A55|A5",
+    "destination:symbol:lanes:forward": "ferry|",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 85702829,
+  "nodes": [
+    291455135,
+    4288353562,
+    1353936273,
+    4288353557,
+    11100056362,
+    4288353570,
+    7850493870,
+    994657562,
+    11100056363,
+    1326910515,
+    1704846918,
+    994657564,
+    1704846917,
+    1704846916,
+    11100056364,
+    255727698
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "King's Road",
+    "oneway": "-1",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 120840109,
+  "nodes": [
+    1353941571,
+    1353941574,
+    1353941562,
+    1353941586,
+    4288353556,
+    4288353561,
+    4288353573,
+    1353941564,
+    4547093118,
+    1353941578,
+    1353941566
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Rhodfa Rhos y Gaer",
+    "not:name": "Rhos-Y-Gaer Avenue",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 458589742,
+  "nodes": [
+    4545724411,
+    4545724412,
+    11770512799,
+    4545724413
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 952600738,
+  "nodes": [
+    8816936685,
+    308849416,
+    8816936690,
+    308849417,
+    31923533
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "20 mph",
+    "name": "London Road",
+    "name:en": "London Road",
+    "ref": "A5",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 952600739,
+  "nodes": [
+    7832837469,
+    1075203666,
+    8816936692
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "ref": "A5154",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600740,
+  "nodes": [
+    8816936692,
+    8816936701,
+    8816936691
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "ref": "A5154",
+    "sidewalk": "left",
+    "surface": "asphalt",
+    "turn:lanes": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 952600741,
+  "nodes": [
+    7832837469,
+    8816936691
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600742,
+  "nodes": [
+    8816936692,
+    8816936699
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1070970844,
+  "nodes": [
+    5071746722,
+    255727533,
+    1075203820,
+    11091813641,
+    1349208853
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017263,
+  "nodes": [
+    11083875045,
+    31923530
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Bangor|Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A55|A5154",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017265,
+  "nodes": [
+    1704846924,
+    11100025745,
+    31923536,
+    11091961920,
+    11196329918,
+    1075203799
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017266,
+  "nodes": [
+    1369800775,
+    27606272,
+    8816936693,
+    7832837469
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:ref:lanes": "A5154|A55",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017267,
+  "nodes": [
+    8816936699,
+    5071746722
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195027283,
+  "nodes": [
+    8816936691,
+    31923538,
+    8816936697,
+    1369803711
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 31923530,
+  "lat": 53.3062965,
+  "lon": -4.6314913
+},
+{
+  "type": "node",
+  "id": 31923531,
+  "lat": 53.3063478,
+  "lon": -4.6305845
+},
+{
+  "type": "node",
+  "id": 291455070,
+  "lat": 53.3063250,
+  "lon": -4.6309878
+},
+{
+  "type": "node",
+  "id": 8816936700,
+  "lat": 53.3062980,
+  "lon": -4.6314652,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "way",
+  "id": 26579096,
+  "nodes": [
+    31923530,
+    8816936700,
+    291455070,
+    31923531
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Bangor|Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A55|A5154",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "maxweight:signed": "no",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27606271,
+  "lat": 53.3053416,
+  "lon": -4.6312099
+},
+{
+  "type": "node",
+  "id": 27606272,
+  "lat": 53.3060151,
+  "lon": -4.6318100,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 27606274,
+  "lat": 53.3056034,
+  "lon": -4.6313085
+},
+{
+  "type": "node",
+  "id": 27606275,
+  "lat": 53.3048577,
+  "lon": -4.6304716
+},
+{
+  "type": "node",
+  "id": 31923530,
+  "lat": 53.3062965,
+  "lon": -4.6314913
+},
+{
+  "type": "node",
+  "id": 31923531,
+  "lat": 53.3063478,
+  "lon": -4.6305845
+},
+{
+  "type": "node",
+  "id": 31923533,
+  "lat": 53.3064352,
+  "lon": -4.6298795
+},
+{
+  "type": "node",
+  "id": 31923534,
+  "lat": 53.3066975,
+  "lon": -4.6301088
+},
+{
+  "type": "node",
+  "id": 31923536,
+  "lat": 53.3071546,
+  "lon": -4.6303438
+},
+{
+  "type": "node",
+  "id": 31923538,
+  "lat": 53.3060475,
+  "lon": -4.6316683
+},
+{
+  "type": "node",
+  "id": 31923542,
+  "lat": 53.3073866,
+  "lon": -4.6300414
+},
+{
+  "type": "node",
+  "id": 31923544,
+  "lat": 53.3073801,
+  "lon": -4.6300933
+},
+{
+  "type": "node",
+  "id": 255727531,
+  "lat": 53.3068677,
+  "lon": -4.6341784
+},
+{
+  "type": "node",
+  "id": 255727532,
+  "lat": 53.3070334,
+  "lon": -4.6323906
+},
+{
+  "type": "node",
+  "id": 255727533,
+  "lat": 53.3072364,
+  "lon": -4.6322796
+},
+{
+  "type": "node",
+  "id": 255727690,
+  "lat": 53.3069382,
+  "lon": -4.6356429
+},
+{
+  "type": "node",
+  "id": 255727698,
+  "lat": 53.3052069,
+  "lon": -4.6360651
+},
+{
+  "type": "node",
+  "id": 291455135,
+  "lat": 53.3058155,
+  "lon": -4.6320238
+},
+{
+  "type": "node",
+  "id": 308849416,
+  "lat": 53.3060647,
+  "lon": -4.6294000
+},
+{
+  "type": "node",
+  "id": 308849417,
+  "lat": 53.3062897,
+  "lon": -4.6297146,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "crossing",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 994657562,
+  "lat": 53.3055814,
+  "lon": -4.6328876
+},
+{
+  "type": "node",
+  "id": 994657564,
+  "lat": 53.3052837,
+  "lon": -4.6341998
+},
+{
+  "type": "node",
+  "id": 1075203562,
+  "lat": 53.3075494,
+  "lon": -4.6302550
+},
+{
+  "type": "node",
+  "id": 1075203571,
+  "lat": 53.3073270,
+  "lon": -4.6299631
+},
+{
+  "type": "node",
+  "id": 1075203666,
+  "lat": 53.3064959,
+  "lon": -4.6320495
+},
+{
+  "type": "node",
+  "id": 1075203789,
+  "lat": 53.3072838,
+  "lon": -4.6298278
+},
+{
+  "type": "node",
+  "id": 1075203799,
+  "lat": 53.3072773,
+  "lon": -4.6303231
+},
+{
+  "type": "node",
+  "id": 1075203820,
+  "lat": 53.3074409,
+  "lon": -4.6323547
+},
+{
+  "type": "node",
+  "id": 1326910515,
+  "lat": 53.3053516,
+  "lon": -4.6338945
+},
+{
+  "type": "node",
+  "id": 1326910518,
+  "lat": 53.3068689,
+  "lon": -4.6342989
+},
+{
+  "type": "node",
+  "id": 1326910519,
+  "lat": 53.3069051,
+  "lon": -4.6350080
+},
+{
+  "type": "node",
+  "id": 1326910522,
+  "lat": 53.3068720,
+  "lon": -4.6336665
+},
+{
+  "type": "node",
+  "id": 1326910537,
+  "lat": 53.3069060,
+  "lon": -4.6332552
+},
+{
+  "type": "node",
+  "id": 1349208853,
+  "lat": 53.3077562,
+  "lon": -4.6324316
+},
+{
+  "type": "node",
+  "id": 1353936273,
+  "lat": 53.3057619,
+  "lon": -4.6322938
+},
+{
+  "type": "node",
+  "id": 1353941562,
+  "lat": 53.3059795,
+  "lon": -4.6336569
+},
+{
+  "type": "node",
+  "id": 1353941564,
+  "lat": 53.3065225,
+  "lon": -4.6329615
+},
+{
+  "type": "node",
+  "id": 1353941566,
+  "lat": 53.3064909,
+  "lon": -4.6321860
+},
+{
+  "type": "node",
+  "id": 1353941571,
+  "lat": 53.3057331,
+  "lon": -4.6341696
+},
+{
+  "type": "node",
+  "id": 1353941574,
+  "lat": 53.3058808,
+  "lon": -4.6338285
+},
+{
+  "type": "node",
+  "id": 1353941578,
+  "lat": 53.3064847,
+  "lon": -4.6324080
+},
+{
+  "type": "node",
+  "id": 1353941586,
+  "lat": 53.3064180,
+  "lon": -4.6333178
+},
+{
+  "type": "node",
+  "id": 1369788059,
+  "lat": 53.3047224,
+  "lon": -4.6301733,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Kingsland Roundabout",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1369791482,
+  "lat": 53.3048067,
+  "lon": -4.6303871
+},
+{
+  "type": "node",
+  "id": 1369800775,
+  "lat": 53.3057650,
+  "lon": -4.6316229
+},
+{
+  "type": "node",
+  "id": 1369803711,
+  "lat": 53.3057981,
+  "lon": -4.6314889
+},
+{
+  "type": "node",
+  "id": 1390269409,
+  "lat": 53.3074096,
+  "lon": -4.6303100,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846916,
+  "lat": 53.3052426,
+  "lon": -4.6346785,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846917,
+  "lat": 53.3052616,
+  "lon": -4.6343413
+},
+{
+  "type": "node",
+  "id": 1704846918,
+  "lat": 53.3053321,
+  "lon": -4.6339830,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846921,
+  "lat": 53.3063756,
+  "lon": -4.6300574,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 1704846924,
+  "lat": 53.3070027,
+  "lon": -4.6303019
+},
+{
+  "type": "node",
+  "id": 2661464526,
+  "lat": 53.3075016,
+  "lon": -4.6302847
+},
+{
+  "type": "node",
+  "id": 2861721956,
+  "lat": 53.3065644,
+  "lon": -4.6300012,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 4206437789,
+  "lat": 53.3072737,
+  "lon": -4.6297086
+},
+{
+  "type": "node",
+  "id": 4288353556,
+  "lat": 53.3064574,
+  "lon": -4.6332446
+},
+{
+  "type": "node",
+  "id": 4288353557,
+  "lat": 53.3057306,
+  "lon": -4.6323910
+},
+{
+  "type": "node",
+  "id": 4288353561,
+  "lat": 53.3064880,
+  "lon": -4.6331474
+},
+{
+  "type": "node",
+  "id": 4288353562,
+  "lat": 53.3057859,
+  "lon": -4.6321982
+},
+{
+  "type": "node",
+  "id": 4288353563,
+  "lat": 53.3070416,
+  "lon": -4.6324354
+},
+{
+  "type": "node",
+  "id": 4288353568,
+  "lat": 53.3070380,
+  "lon": -4.6324895
+},
+{
+  "type": "node",
+  "id": 4288353570,
+  "lat": 53.3056906,
+  "lon": -4.6324908
+},
+{
+  "type": "node",
+  "id": 4288353573,
+  "lat": 53.3065076,
+  "lon": -4.6330589
+},
+{
+  "type": "node",
+  "id": 4288410113,
+  "lat": 53.3069237,
+  "lon": -4.6353641
+},
+{
+  "type": "node",
+  "id": 4288732662,
+  "lat": 53.3069766,
+  "lon": -4.6328458
+},
+{
+  "type": "node",
+  "id": 4545703476,
+  "lat": 53.3073828,
+  "lon": -4.6301456
+},
+{
+  "type": "node",
+  "id": 4545703477,
+  "lat": 53.3073944,
+  "lon": -4.6301947
+},
+{
+  "type": "node",
+  "id": 4545703478,
+  "lat": 53.3074699,
+  "lon": -4.6302832
+},
+{
+  "type": "node",
+  "id": 4545724411,
+  "lat": 53.3060135,
+  "lon": -4.6297108
+},
+{
+  "type": "node",
+  "id": 4545724412,
+  "lat": 53.3055824,
+  "lon": -4.6289598
+},
+{
+  "type": "node",
+  "id": 4545724413,
+  "lat": 53.3056487,
+  "lon": -4.6288351
+},
+{
+  "type": "node",
+  "id": 4547093118,
+  "lat": 53.3065188,
+  "lon": -4.6329072
+},
+{
+  "type": "node",
+  "id": 5071746722,
+  "lat": 53.3070624,
+  "lon": -4.6322078,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "highway": "crossing",
+    "kerb": "lowered",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6312912035,
+  "lat": 53.3073058,
+  "lon": -4.6299097
+},
+{
+  "type": "node",
+  "id": 7832837467,
+  "lat": 53.3063608,
+  "lon": -4.6302999
+},
+{
+  "type": "node",
+  "id": 7832837469,
+  "lat": 53.3062320,
+  "lon": -4.6319373
+},
+{
+  "type": "node",
+  "id": 7850493870,
+  "lat": 53.3055939,
+  "lon": -4.6328374
+},
+{
+  "type": "node",
+  "id": 8816936679,
+  "lat": 53.3073616,
+  "lon": -4.6301626
+},
+{
+  "type": "node",
+  "id": 8816936682,
+  "lat": 53.3074226,
+  "lon": -4.6302485
+},
+{
+  "type": "node",
+  "id": 8816936683,
+  "lat": 53.3074398,
+  "lon": -4.6302665
+},
+{
+  "type": "node",
+  "id": 8816936685,
+  "lat": 53.3058786,
+  "lon": -4.6291547
+},
+{
+  "type": "node",
+  "id": 8816936688,
+  "lat": 53.3063662,
+  "lon": -4.6301361,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 8816936689,
+  "lat": 53.3068536,
+  "lon": -4.6302208
+},
+{
+  "type": "node",
+  "id": 8816936690,
+  "lat": 53.3062516,
+  "lon": -4.6296627,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 8816936691,
+  "lat": 53.3062597,
+  "lon": -4.6318008
+},
+{
+  "type": "node",
+  "id": 8816936692,
+  "lat": 53.3066268,
+  "lon": -4.6320526
+},
+{
+  "type": "node",
+  "id": 8816936693,
+  "lat": 53.3061321,
+  "lon": -4.6318805
+},
+{
+  "type": "node",
+  "id": 8816936694,
+  "lat": 53.3062867,
+  "lon": -4.6316257
+},
+{
+  "type": "node",
+  "id": 8816936695,
+  "lat": 53.3062736,
+  "lon": -4.6317285
+},
+{
+  "type": "node",
+  "id": 8816936696,
+  "lat": 53.3055865,
+  "lon": -4.6314649
+},
+{
+  "type": "node",
+  "id": 8816936697,
+  "lat": 53.3059025,
+  "lon": -4.6315706
+},
+{
+  "type": "node",
+  "id": 8816936699,
+  "lat": 53.3068781,
+  "lon": -4.6321333
+},
+{
+  "type": "node",
+  "id": 8816936701,
+  "lat": 53.3065007,
+  "lon": -4.6319338,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 11083875044,
+  "lat": 53.3065353,
+  "lon": -4.6299784,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 11083875045,
+  "lat": 53.3062932,
+  "lon": -4.6315368,
+  "tags": {
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11083875069,
+  "lat": 53.3047768,
+  "lon": -4.6303199
+},
+{
+  "type": "node",
+  "id": 11091792823,
+  "lat": 53.3073497,
+  "lon": -4.6299997,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 11091813641,
+  "lat": 53.3075629,
+  "lon": -4.6323844
+},
+{
+  "type": "node",
+  "id": 11091961920,
+  "lat": 53.3072129,
+  "lon": -4.6303461
+},
+{
+  "type": "node",
+  "id": 11091961921,
+  "lat": 53.3073592,
+  "lon": -4.6303181
+},
+{
+  "type": "node",
+  "id": 11091961922,
+  "lat": 53.3073223,
+  "lon": -4.6302596
+},
+{
+  "type": "node",
+  "id": 11091961931,
+  "lat": 53.3073665,
+  "lon": -4.6300188
+},
+{
+  "type": "node",
+  "id": 11091961935,
+  "lat": 53.3074289,
+  "lon": -4.6303012
+},
+{
+  "type": "node",
+  "id": 11091961940,
+  "lat": 53.3075319,
+  "lon": -4.6302718
+},
+{
+  "type": "node",
+  "id": 11091961941,
+  "lat": 53.3074070,
+  "lon": -4.6302240
+},
+{
+  "type": "node",
+  "id": 11091961948,
+  "lat": 53.3074857,
+  "lon": -4.6302859
+},
+{
+  "type": "node",
+  "id": 11091961949,
+  "lat": 53.3073822,
+  "lon": -4.6300670
+},
+{
+  "type": "node",
+  "id": 11091961953,
+  "lat": 53.3073876,
+  "lon": -4.6301709
+},
+{
+  "type": "node",
+  "id": 11091961954,
+  "lat": 53.3075146,
+  "lon": -4.6302807
+},
+{
+  "type": "node",
+  "id": 11091961971,
+  "lat": 53.3047583,
+  "lon": -4.6302735,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 11100025745,
+  "lat": 53.3070786,
+  "lon": -4.6303290
+},
+{
+  "type": "node",
+  "id": 11100025746,
+  "lat": 53.3069281,
+  "lon": -4.6302675
+},
+{
+  "type": "node",
+  "id": 11100025747,
+  "lat": 53.3053268,
+  "lon": -4.6310187
+},
+{
+  "type": "node",
+  "id": 11100025749,
+  "lat": 53.3049696,
+  "lon": -4.6305972
+},
+{
+  "type": "node",
+  "id": 11100056362,
+  "lat": 53.3057106,
+  "lon": -4.6324409,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 11100056363,
+  "lat": 53.3055101,
+  "lon": -4.6331999,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 11100056364,
+  "lat": 53.3052153,
+  "lon": -4.6357380,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 11110779612,
+  "lat": 53.3051403,
+  "lon": -4.6309749
+},
+{
+  "type": "node",
+  "id": 11196329917,
+  "lat": 53.3073420,
+  "lon": -4.6302178
+},
+{
+  "type": "node",
+  "id": 11196329918,
+  "lat": 53.3072465,
+  "lon": -4.6303379
+},
+{
+  "type": "node",
+  "id": 11770512799,
+  "lat": 53.3056154,
+  "lon": -4.6288977
+},
+{
+  "type": "node",
+  "id": 11770512801,
+  "lat": 53.3063625,
+  "lon": -4.6302470
+},
+{
+  "type": "way",
+  "id": 4898986,
+  "nodes": [
+    8816936691,
+    8816936695,
+    8816936694,
+    11083875045
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Bangor|Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A55|A5154",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "left",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 4898987,
+  "nodes": [
+    1369803711,
+    27606274,
+    11100025747,
+    11100025749,
+    27606275,
+    1369791482,
+    11083875069,
+    11091961971,
+    1369788059
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "sign",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4898988,
+  "nodes": [
+    11110779612,
+    27606271,
+    8816936696,
+    1369800775
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:ref:lanes": "A5154|A55",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "sign",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 4898990,
+  "nodes": [
+    31923533,
+    11083875044,
+    2861721956,
+    31923534,
+    8816936689,
+    11100025746,
+    1704846924
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Traffig lleol / Local traffic|Bangor;Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A5|A55;(A5154)",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 26579097,
+  "nodes": [
+    31923531,
+    7832837467,
+    11770512801,
+    8816936688,
+    1704846921,
+    31923533
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:forward": "|Traffig lleol / Local traffic",
+    "destination:ref:lanes:forward": "A55|A5",
+    "destination:symbol:lanes:forward": "ferry|",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 26579113,
+  "nodes": [
+    255727690,
+    4288410113,
+    1326910519,
+    1326910518,
+    255727531,
+    1326910522,
+    1326910537,
+    4288732662,
+    4288353568,
+    4288353563,
+    255727532
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Holborn Road",
+    "name:en": "Holborn Road"
+  }
+},
+{
+  "type": "way",
+  "id": 85702829,
+  "nodes": [
+    291455135,
+    4288353562,
+    1353936273,
+    4288353557,
+    11100056362,
+    4288353570,
+    7850493870,
+    994657562,
+    11100056363,
+    1326910515,
+    1704846918,
+    994657564,
+    1704846917,
+    1704846916,
+    11100056364,
+    255727698
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "King's Road",
+    "oneway": "-1",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 120840109,
+  "nodes": [
+    1353941571,
+    1353941574,
+    1353941562,
+    1353941586,
+    4288353556,
+    4288353561,
+    4288353573,
+    1353941564,
+    4547093118,
+    1353941578,
+    1353941566
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Rhodfa Rhos y Gaer",
+    "not:name": "Rhos-Y-Gaer Avenue",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 420696633,
+  "nodes": [
+    4206437789,
+    1075203789,
+    6312912035,
+    1075203571,
+    11091792823,
+    11091961931,
+    31923542
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Llanfawr Road",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "smoothness": "excellent",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 458589742,
+  "nodes": [
+    4545724411,
+    4545724412,
+    11770512799,
+    4545724413
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 952600736,
+  "nodes": [
+    1075203799,
+    11091961921,
+    1390269409,
+    11091961935,
+    4545703478
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600737,
+  "nodes": [
+    31923544,
+    8816936679,
+    11196329917,
+    11091961922,
+    1075203799
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600738,
+  "nodes": [
+    8816936685,
+    308849416,
+    8816936690,
+    308849417,
+    31923533
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "20 mph",
+    "name": "London Road",
+    "name:en": "London Road",
+    "ref": "A5",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 952600739,
+  "nodes": [
+    7832837469,
+    1075203666,
+    8816936692
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "ref": "A5154",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600740,
+  "nodes": [
+    8816936692,
+    8816936701,
+    8816936691
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "ref": "A5154",
+    "sidewalk": "left",
+    "surface": "asphalt",
+    "turn:lanes": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 952600741,
+  "nodes": [
+    7832837469,
+    8816936691
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600742,
+  "nodes": [
+    8816936692,
+    8816936699
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1070970844,
+  "nodes": [
+    5071746722,
+    255727533,
+    1075203820,
+    11091813641,
+    1349208853
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017263,
+  "nodes": [
+    11083875045,
+    31923530
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes:backward": "Bangor|Canol y dref / Town centre",
+    "destination:ref:lanes:backward": "A55|A5154",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "London Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017265,
+  "nodes": [
+    1704846924,
+    11100025745,
+    31923536,
+    11091961920,
+    11196329918,
+    1075203799
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017266,
+  "nodes": [
+    1369800775,
+    27606272,
+    8816936693,
+    7832837469
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:ref:lanes": "A5154|A55",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017267,
+  "nodes": [
+    8816936699,
+    5071746722
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195022337,
+  "nodes": [
+    4545703478,
+    11091961948,
+    2661464526,
+    11091961954,
+    11091961940,
+    1075203562
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "operator": "Welsh Government",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195022376,
+  "nodes": [
+    31923544,
+    4545703476,
+    11091961953,
+    4545703477,
+    11091961941,
+    8816936682,
+    8816936683,
+    4545703478
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "operator": "Welsh Government",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195022426,
+  "nodes": [
+    31923542,
+    11091961949,
+    31923544
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "operator": "Welsh Government",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195027283,
+  "nodes": [
+    8816936691,
+    31923538,
+    8816936697,
+    1369803711
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 291455070,
+  "lat": 53.3063250,
+  "lon": -4.6309878
+},
+{
+  "type": "node",
+  "id": 1075203772,
+  "lat": 53.3067336,
+  "lon": -4.6310893
+},
+{
+  "type": "way",
+  "id": 26579098,
+  "nodes": [
+    291455070,
+    1075203772
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 291455082,
+  "lat": 53.3098991,
+  "lon": -4.6318310
+},
+{
+  "type": "node",
+  "id": 291455083,
+  "lat": 53.3098218,
+  "lon": -4.6318585
+},
+{
+  "type": "node",
+  "id": 291455084,
+  "lat": 53.3096287,
+  "lon": -4.6316995
+},
+{
+  "type": "node",
+  "id": 291455085,
+  "lat": 53.3096717,
+  "lon": -4.6315782
+},
+{
+  "type": "node",
+  "id": 291455108,
+  "lat": 53.3099103,
+  "lon": -4.6317686
+},
+{
+  "type": "node",
+  "id": 1704846959,
+  "lat": 53.3096519,
+  "lon": -4.6317411
+},
+{
+  "type": "node",
+  "id": 1704846960,
+  "lat": 53.3096299,
+  "lon": -4.6316010
+},
+{
+  "type": "node",
+  "id": 1704846962,
+  "lat": 53.3097020,
+  "lon": -4.6317941
+},
+{
+  "type": "node",
+  "id": 1704846963,
+  "lat": 53.3097675,
+  "lon": -4.6315949
+},
+{
+  "type": "node",
+  "id": 1704846964,
+  "lat": 53.3098504,
+  "lon": -4.6316670
+},
+{
+  "type": "node",
+  "id": 1704846966,
+  "lat": 53.3098699,
+  "lon": -4.6318538
+},
+{
+  "type": "node",
+  "id": 10958066313,
+  "lat": 53.3098088,
+  "lon": -4.6316241
+},
+{
+  "type": "node",
+  "id": 10958066314,
+  "lat": 53.3097212,
+  "lon": -4.6315785
+},
+{
+  "type": "node",
+  "id": 10958066315,
+  "lat": 53.3096471,
+  "lon": -4.6315869
+},
+{
+  "type": "node",
+  "id": 10958066316,
+  "lat": 53.3096197,
+  "lon": -4.6316244
+},
+{
+  "type": "node",
+  "id": 10958066317,
+  "lat": 53.3096195,
+  "lon": -4.6316586
+},
+{
+  "type": "node",
+  "id": 10958066318,
+  "lat": 53.3097637,
+  "lon": -4.6318384
+},
+{
+  "type": "way",
+  "id": 26579104,
+  "nodes": [
+    291455082,
+    1704846966,
+    291455083,
+    10958066318,
+    1704846962,
+    1704846959,
+    291455084,
+    10958066317,
+    10958066316,
+    1704846960,
+    10958066315,
+    291455085,
+    10958066314,
+    1704846963,
+    10958066313,
+    1704846964,
+    291455108
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "bridge:name": "Celtic Gateway",
+    "foot": "yes",
+    "highway": "cycleway",
+    "layer": "2",
+    "lit": "yes",
+    "segregated": "no",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 291455090,
+  "lat": 53.3097604,
+  "lon": -4.6314718
+},
+{
+  "type": "node",
+  "id": 291455091,
+  "lat": 53.3097531,
+  "lon": -4.6315415
+},
+{
+  "type": "node",
+  "id": 291455106,
+  "lat": 53.3097870,
+  "lon": -4.6316879
+},
+{
+  "type": "node",
+  "id": 291455107,
+  "lat": 53.3098606,
+  "lon": -4.6317673
+},
+{
+  "type": "node",
+  "id": 291455108,
+  "lat": 53.3099103,
+  "lon": -4.6317686
+},
+{
+  "type": "node",
+  "id": 10958066311,
+  "lat": 53.3098234,
+  "lon": -4.6317447
+},
+{
+  "type": "node",
+  "id": 11259276927,
+  "lat": 53.3097629,
+  "lon": -4.6316154
+},
+{
+  "type": "way",
+  "id": 26579106,
+  "nodes": [
+    291455090,
+    291455091,
+    11259276927,
+    291455106,
+    10958066311,
+    291455107,
+    291455108
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "handrail": "yes",
+    "highway": "steps",
+    "incline": "up",
+    "layer": "2",
+    "lit": "yes",
+    "ramp": "separate",
+    "ramp:wheelchair": "separate",
+    "step_count": "36",
+    "surface": "asphalt",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727316,
+  "lat": 53.3101648,
+  "lon": -4.6345189
+},
+{
+  "type": "node",
+  "id": 255727400,
+  "lat": 53.3111597,
+  "lon": -4.6331730
+},
+{
+  "type": "node",
+  "id": 255727401,
+  "lat": 53.3096613,
+  "lon": -4.6337680
+},
+{
+  "type": "node",
+  "id": 255727402,
+  "lat": 53.3087756,
+  "lon": -4.6330235
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 255727507,
+  "lat": 53.3092817,
+  "lon": -4.6342463
+},
+{
+  "type": "node",
+  "id": 255727508,
+  "lat": 53.3079103,
+  "lon": -4.6352830
+},
+{
+  "type": "node",
+  "id": 255727509,
+  "lat": 53.3072728,
+  "lon": -4.6358484
+},
+{
+  "type": "node",
+  "id": 255727677,
+  "lat": 53.3075523,
+  "lon": -4.6357012
+},
+{
+  "type": "node",
+  "id": 291455111,
+  "lat": 53.3085305,
+  "lon": -4.6346143
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1082379684,
+  "lat": 53.3093650,
+  "lon": -4.6334486
+},
+{
+  "type": "node",
+  "id": 1082380211,
+  "lat": 53.3095988,
+  "lon": -4.6334662
+},
+{
+  "type": "node",
+  "id": 1082380486,
+  "lat": 53.3097135,
+  "lon": -4.6340035
+},
+{
+  "type": "node",
+  "id": 1335913630,
+  "lat": 53.3088211,
+  "lon": -4.6331174
+},
+{
+  "type": "node",
+  "id": 1349207719,
+  "lat": 53.3097402,
+  "lon": -4.6340443
+},
+{
+  "type": "node",
+  "id": 1349207723,
+  "lat": 53.3077829,
+  "lon": -4.6354356
+},
+{
+  "type": "node",
+  "id": 1349216507,
+  "lat": 53.3107763,
+  "lon": -4.6335082
+},
+{
+  "type": "node",
+  "id": 1349216508,
+  "lat": 53.3100371,
+  "lon": -4.6342753
+},
+{
+  "type": "node",
+  "id": 1349216509,
+  "lat": 53.3102680,
+  "lon": -4.6343934
+},
+{
+  "type": "node",
+  "id": 1349219735,
+  "lat": 53.3108500,
+  "lon": -4.6336745
+},
+{
+  "type": "node",
+  "id": 1349219737,
+  "lat": 53.3110331,
+  "lon": -4.6341627,
+  "tags": {
+    "noexit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804041,
+  "lat": 53.3106657,
+  "lon": -4.6337008
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 1704846947,
+  "lat": 53.3083287,
+  "lon": -4.6347797
+},
+{
+  "type": "node",
+  "id": 1704846961,
+  "lat": 53.3096968,
+  "lon": -4.6339296
+},
+{
+  "type": "node",
+  "id": 1721699688,
+  "lat": 53.3073353,
+  "lon": -4.6358408
+},
+{
+  "type": "node",
+  "id": 1721699719,
+  "lat": 53.3074034,
+  "lon": -4.6358104
+},
+{
+  "type": "node",
+  "id": 4536284499,
+  "lat": 53.3100961,
+  "lon": -4.6343528
+},
+{
+  "type": "node",
+  "id": 9291075918,
+  "lat": 53.3094334,
+  "lon": -4.6334596
+},
+{
+  "type": "node",
+  "id": 9291075920,
+  "lat": 53.3095447,
+  "lon": -4.6334521
+},
+{
+  "type": "node",
+  "id": 9291075921,
+  "lat": 53.3095855,
+  "lon": -4.6338266
+},
+{
+  "type": "node",
+  "id": 9291075923,
+  "lat": 53.3096109,
+  "lon": -4.6335159
+},
+{
+  "type": "node",
+  "id": 9291075925,
+  "lat": 53.3093886,
+  "lon": -4.6341094
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760626,
+  "lat": 53.3087739,
+  "lon": -4.6329608
+},
+{
+  "type": "node",
+  "id": 11091760627,
+  "lat": 53.3087949,
+  "lon": -4.6330835
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 23611669,
+  "nodes": [
+    1082380211,
+    9291075923,
+    255727401,
+    1704846961,
+    1082380486,
+    1349207719,
+    1349216508,
+    4536284499,
+    255727316
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "name": "Thomas Street",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23611673,
+  "nodes": [
+    255727401,
+    9291075921,
+    9291075925,
+    255727507,
+    291455111,
+    1704846947,
+    255727508,
+    1349207723,
+    255727677,
+    1721699719,
+    1721699688,
+    255727509
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "30 mph",
+    "name": "Longford Road",
+    "name:cy": "Ffordd Y Plas"
+  }
+},
+{
+  "type": "way",
+  "id": 26579107,
+  "nodes": [
+    255727403,
+    11091760626,
+    255727402,
+    11091760627,
+    1335913630,
+    1082379684,
+    9291075918,
+    9291075920,
+    1082380211
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Victoria Terrace",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 120304436,
+  "nodes": [
+    255727316,
+    1349216509,
+    1672804041,
+    1349216507,
+    255727400
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in": "Holyhead",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Stryd Williams",
+    "name:en": "Williams Street",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "block"
+  }
+},
+{
+  "type": "way",
+  "id": 120305084,
+  "nodes": [
+    1349216507,
+    1349219735,
+    1349219737
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Tower Gardens",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 291455086,
+  "lat": 53.3099893,
+  "lon": -4.6319792
+},
+{
+  "type": "node",
+  "id": 291455087,
+  "lat": 53.3101127,
+  "lon": -4.6323714
+},
+{
+  "type": "node",
+  "id": 291455108,
+  "lat": 53.3099103,
+  "lon": -4.6317686
+},
+{
+  "type": "node",
+  "id": 9827911486,
+  "lat": 53.3101866,
+  "lon": -4.6326717
+},
+{
+  "type": "node",
+  "id": 10958066312,
+  "lat": 53.3100542,
+  "lon": -4.6321595
+},
+{
+  "type": "way",
+  "id": 420696635,
+  "nodes": [
+    291455108,
+    291455086,
+    10958066312,
+    291455087,
+    9827911486
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "bridge:name": "Celtic Gateway",
+    "foot": "yes",
+    "highway": "cycleway",
+    "layer": "2",
+    "segregated": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 31923536,
+  "lat": 53.3071546,
+  "lon": -4.6303438
+},
+{
+  "type": "node",
+  "id": 31923544,
+  "lat": 53.3073801,
+  "lon": -4.6300933
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727531,
+  "lat": 53.3068677,
+  "lon": -4.6341784
+},
+{
+  "type": "node",
+  "id": 255727532,
+  "lat": 53.3070334,
+  "lon": -4.6323906
+},
+{
+  "type": "node",
+  "id": 255727533,
+  "lat": 53.3072364,
+  "lon": -4.6322796
+},
+{
+  "type": "node",
+  "id": 255727677,
+  "lat": 53.3075523,
+  "lon": -4.6357012
+},
+{
+  "type": "node",
+  "id": 255727690,
+  "lat": 53.3069382,
+  "lon": -4.6356429
+},
+{
+  "type": "node",
+  "id": 1075203500,
+  "lat": 53.3075929,
+  "lon": -4.6300521
+},
+{
+  "type": "node",
+  "id": 1075203562,
+  "lat": 53.3075494,
+  "lon": -4.6302550
+},
+{
+  "type": "node",
+  "id": 1075203799,
+  "lat": 53.3072773,
+  "lon": -4.6303231
+},
+{
+  "type": "node",
+  "id": 1075203820,
+  "lat": 53.3074409,
+  "lon": -4.6323547
+},
+{
+  "type": "node",
+  "id": 1326910518,
+  "lat": 53.3068689,
+  "lon": -4.6342989
+},
+{
+  "type": "node",
+  "id": 1326910519,
+  "lat": 53.3069051,
+  "lon": -4.6350080
+},
+{
+  "type": "node",
+  "id": 1326910522,
+  "lat": 53.3068720,
+  "lon": -4.6336665
+},
+{
+  "type": "node",
+  "id": 1326910528,
+  "lat": 53.3073654,
+  "lon": -4.6336267
+},
+{
+  "type": "node",
+  "id": 1326910535,
+  "lat": 53.3071731,
+  "lon": -4.6333298
+},
+{
+  "type": "node",
+  "id": 1326910537,
+  "lat": 53.3069060,
+  "lon": -4.6332552
+},
+{
+  "type": "node",
+  "id": 1326910617,
+  "lat": 53.3076876,
+  "lon": -4.6334760
+},
+{
+  "type": "node",
+  "id": 1326910619,
+  "lat": 53.3076310,
+  "lon": -4.6338971
+},
+{
+  "type": "node",
+  "id": 1326910620,
+  "lat": 53.3075253,
+  "lon": -4.6355225
+},
+{
+  "type": "node",
+  "id": 1335913623,
+  "lat": 53.3081458,
+  "lon": -4.6325199
+},
+{
+  "type": "node",
+  "id": 1349208851,
+  "lat": 53.3076423,
+  "lon": -4.6333758
+},
+{
+  "type": "node",
+  "id": 1349208852,
+  "lat": 53.3077528,
+  "lon": -4.6325880
+},
+{
+  "type": "node",
+  "id": 1349208853,
+  "lat": 53.3077562,
+  "lon": -4.6324316
+},
+{
+  "type": "node",
+  "id": 1390269409,
+  "lat": 53.3074096,
+  "lon": -4.6303100,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 1390269412,
+  "lat": 53.3075625,
+  "lon": -4.6302375
+},
+{
+  "type": "node",
+  "id": 1674428794,
+  "lat": 53.3075965,
+  "lon": -4.6300807
+},
+{
+  "type": "node",
+  "id": 1704846924,
+  "lat": 53.3070027,
+  "lon": -4.6303019
+},
+{
+  "type": "node",
+  "id": 2661464526,
+  "lat": 53.3075016,
+  "lon": -4.6302847
+},
+{
+  "type": "node",
+  "id": 4288353563,
+  "lat": 53.3070416,
+  "lon": -4.6324354
+},
+{
+  "type": "node",
+  "id": 4288353568,
+  "lat": 53.3070380,
+  "lon": -4.6324895
+},
+{
+  "type": "node",
+  "id": 4288410113,
+  "lat": 53.3069237,
+  "lon": -4.6353641
+},
+{
+  "type": "node",
+  "id": 4288732659,
+  "lat": 53.3072143,
+  "lon": -4.6329023
+},
+{
+  "type": "node",
+  "id": 4288732662,
+  "lat": 53.3069766,
+  "lon": -4.6328458
+},
+{
+  "type": "node",
+  "id": 4545703471,
+  "lat": 53.3075837,
+  "lon": -4.6301922
+},
+{
+  "type": "node",
+  "id": 4545703476,
+  "lat": 53.3073828,
+  "lon": -4.6301456
+},
+{
+  "type": "node",
+  "id": 4545703477,
+  "lat": 53.3073944,
+  "lon": -4.6301947
+},
+{
+  "type": "node",
+  "id": 4545703478,
+  "lat": 53.3074699,
+  "lon": -4.6302832
+},
+{
+  "type": "node",
+  "id": 4547093097,
+  "lat": 53.3071195,
+  "lon": -4.6333128
+},
+{
+  "type": "node",
+  "id": 4547093103,
+  "lat": 53.3076292,
+  "lon": -4.6331516
+},
+{
+  "type": "node",
+  "id": 4547093104,
+  "lat": 53.3076226,
+  "lon": -4.6332301
+},
+{
+  "type": "node",
+  "id": 4547093105,
+  "lat": 53.3076229,
+  "lon": -4.6333030
+},
+{
+  "type": "node",
+  "id": 4547093106,
+  "lat": 53.3076728,
+  "lon": -4.6334274
+},
+{
+  "type": "node",
+  "id": 4547093107,
+  "lat": 53.3076829,
+  "lon": -4.6335228
+},
+{
+  "type": "node",
+  "id": 4547093116,
+  "lat": 53.3071851,
+  "lon": -4.6331868
+},
+{
+  "type": "node",
+  "id": 4547093117,
+  "lat": 53.3073954,
+  "lon": -4.6334565
+},
+{
+  "type": "node",
+  "id": 5071746722,
+  "lat": 53.3070624,
+  "lon": -4.6322078,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "highway": "crossing",
+    "kerb": "lowered",
+    "tactile_paving": "yes",
+    "traffic_signals:sound": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7832837468,
+  "lat": 53.3075954,
+  "lon": -4.6301381
+},
+{
+  "type": "node",
+  "id": 8816936679,
+  "lat": 53.3073616,
+  "lon": -4.6301626
+},
+{
+  "type": "node",
+  "id": 8816936682,
+  "lat": 53.3074226,
+  "lon": -4.6302485
+},
+{
+  "type": "node",
+  "id": 8816936683,
+  "lat": 53.3074398,
+  "lon": -4.6302665
+},
+{
+  "type": "node",
+  "id": 8816936692,
+  "lat": 53.3066268,
+  "lon": -4.6320526
+},
+{
+  "type": "node",
+  "id": 8816936699,
+  "lat": 53.3068781,
+  "lon": -4.6321333
+},
+{
+  "type": "node",
+  "id": 11091760625,
+  "lat": 53.3085392,
+  "lon": -4.6326892,
+  "tags": {
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 11091760632,
+  "lat": 53.3080723,
+  "lon": -4.6325003
+},
+{
+  "type": "node",
+  "id": 11091760633,
+  "lat": 53.3082210,
+  "lon": -4.6325493
+},
+{
+  "type": "node",
+  "id": 11091813641,
+  "lat": 53.3075629,
+  "lon": -4.6323844
+},
+{
+  "type": "node",
+  "id": 11091961920,
+  "lat": 53.3072129,
+  "lon": -4.6303461
+},
+{
+  "type": "node",
+  "id": 11091961921,
+  "lat": 53.3073592,
+  "lon": -4.6303181
+},
+{
+  "type": "node",
+  "id": 11091961922,
+  "lat": 53.3073223,
+  "lon": -4.6302596
+},
+{
+  "type": "node",
+  "id": 11091961935,
+  "lat": 53.3074289,
+  "lon": -4.6303012
+},
+{
+  "type": "node",
+  "id": 11091961940,
+  "lat": 53.3075319,
+  "lon": -4.6302718
+},
+{
+  "type": "node",
+  "id": 11091961941,
+  "lat": 53.3074070,
+  "lon": -4.6302240
+},
+{
+  "type": "node",
+  "id": 11091961945,
+  "lat": 53.3075973,
+  "lon": -4.6301095
+},
+{
+  "type": "node",
+  "id": 11091961946,
+  "lat": 53.3075909,
+  "lon": -4.6301660
+},
+{
+  "type": "node",
+  "id": 11091961947,
+  "lat": 53.3075742,
+  "lon": -4.6302163
+},
+{
+  "type": "node",
+  "id": 11091961948,
+  "lat": 53.3074857,
+  "lon": -4.6302859
+},
+{
+  "type": "node",
+  "id": 11091961953,
+  "lat": 53.3073876,
+  "lon": -4.6301709
+},
+{
+  "type": "node",
+  "id": 11091961954,
+  "lat": 53.3075146,
+  "lon": -4.6302807
+},
+{
+  "type": "node",
+  "id": 11100025745,
+  "lat": 53.3070786,
+  "lon": -4.6303290
+},
+{
+  "type": "node",
+  "id": 11196329917,
+  "lat": 53.3073420,
+  "lon": -4.6302178
+},
+{
+  "type": "node",
+  "id": 11196329918,
+  "lat": 53.3072465,
+  "lon": -4.6303379
+},
+{
+  "type": "way",
+  "id": 23611671,
+  "nodes": [
+    1349208853,
+    11091760632,
+    1335913623,
+    11091760633,
+    11091760625,
+    255727403
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26579113,
+  "nodes": [
+    255727690,
+    4288410113,
+    1326910519,
+    1326910518,
+    255727531,
+    1326910522,
+    1326910537,
+    4288732662,
+    4288353568,
+    4288353563,
+    255727532
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Holborn Road",
+    "name:en": "Holborn Road"
+  }
+},
+{
+  "type": "way",
+  "id": 117882053,
+  "nodes": [
+    1326910537,
+    4547093097,
+    1326910535
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Holborn Place",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117882085,
+  "nodes": [
+    255727677,
+    1326910620,
+    1326910619,
+    4547093107,
+    1326910617,
+    4547093106,
+    1349208851,
+    4547093105,
+    4547093104,
+    4547093103,
+    1349208852,
+    1349208853
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Station Street",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 429704592,
+  "nodes": [
+    4288732662,
+    4288732659
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Holborn Close"
+  }
+},
+{
+  "type": "way",
+  "id": 494298282,
+  "nodes": [
+    1326910535,
+    4547093116
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Holborn Place",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 494298283,
+  "nodes": [
+    1326910535,
+    4547093117,
+    1326910528
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Holborn Place",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600736,
+  "nodes": [
+    1075203799,
+    11091961921,
+    1390269409,
+    11091961935,
+    4545703478
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600737,
+  "nodes": [
+    31923544,
+    8816936679,
+    11196329917,
+    11091961922,
+    1075203799
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 952600742,
+  "nodes": [
+    8816936692,
+    8816936699
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1070970844,
+  "nodes": [
+    5071746722,
+    255727533,
+    1075203820,
+    11091813641,
+    1349208853
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017265,
+  "nodes": [
+    1704846924,
+    11100025745,
+    31923536,
+    11091961920,
+    11196329918,
+    1075203799
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Llanfawr Road",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195017267,
+  "nodes": [
+    8816936699,
+    5071746722
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195022337,
+  "nodes": [
+    4545703478,
+    11091961948,
+    2661464526,
+    11091961954,
+    11091961940,
+    1075203562
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "operator": "Welsh Government",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195022338,
+  "nodes": [
+    1075203562,
+    1390269412,
+    11091961947,
+    4545703471,
+    11091961946,
+    7832837468,
+    11091961945,
+    1674428794,
+    1075203500
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "operator": "Welsh Government",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195022376,
+  "nodes": [
+    31923544,
+    4545703476,
+    11091961953,
+    4545703477,
+    11091961941,
+    8816936682,
+    8816936683,
+    4545703478
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "operator": "Welsh Government",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 2016534870,
+  "lat": 53.3075911,
+  "lon": -4.6316372
+},
+{
+  "type": "node",
+  "id": 9827911485,
+  "lat": 53.3075342,
+  "lon": -4.6322982
+},
+{
+  "type": "way",
+  "id": 1070970843,
+  "nodes": [
+    2016534870,
+    9827911485
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1827750281,
+  "lat": 53.3097857,
+  "lon": -4.6290371
+},
+{
+  "type": "node",
+  "id": 9932294801,
+  "lat": 53.3098848,
+  "lon": -4.6304388
+},
+{
+  "type": "way",
+  "id": 1083850276,
+  "nodes": [
+    1827750281,
+    9932294801
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "service",
+    "horse": "no",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "turn:lanes": "through|merge_to_left"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 9932294798,
+  "lat": 53.3099377,
+  "lon": -4.6313689
+},
+{
+  "type": "node",
+  "id": 9932294801,
+  "lat": 53.3098848,
+  "lon": -4.6304388
+},
+{
+  "type": "way",
+  "id": 1179828324,
+  "nodes": [
+    9932294801,
+    9932294798
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "service",
+    "horse": "no",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 10967658994,
+  "lat": 53.3099820,
+  "lon": -4.6308996
+},
+{
+  "type": "node",
+  "id": 10967658995,
+  "lat": 53.3100077,
+  "lon": -4.6311631
+},
+{
+  "type": "node",
+  "id": 10967658996,
+  "lat": 53.3100390,
+  "lon": -4.6313327
+},
+{
+  "type": "node",
+  "id": 10967658997,
+  "lat": 53.3098443,
+  "lon": -4.6289723
+},
+{
+  "type": "way",
+  "id": 1180953509,
+  "nodes": [
+    10967658996,
+    10967658995,
+    10967658994,
+    10967658997
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "service",
+    "horse": "no",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "noname": "yes",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27606242,
+  "lat": 53.3019577,
+  "lon": -4.6264846
+},
+{
+  "type": "node",
+  "id": 27606243,
+  "lat": 53.3017533,
+  "lon": -4.6261753
+},
+{
+  "type": "node",
+  "id": 27606245,
+  "lat": 53.3000664,
+  "lon": -4.6238387
+},
+{
+  "type": "node",
+  "id": 27606246,
+  "lat": 53.3012078,
+  "lon": -4.6256487
+},
+{
+  "type": "node",
+  "id": 27606247,
+  "lat": 53.3017013,
+  "lon": -4.6263478
+},
+{
+  "type": "node",
+  "id": 27606248,
+  "lat": 53.3019619,
+  "lon": -4.6267090
+},
+{
+  "type": "node",
+  "id": 27606251,
+  "lat": 53.2993463,
+  "lon": -4.6227919
+},
+{
+  "type": "node",
+  "id": 27606267,
+  "lat": 53.2992544,
+  "lon": -4.6229173
+},
+{
+  "type": "node",
+  "id": 27606268,
+  "lat": 53.2999903,
+  "lon": -4.6239629
+},
+{
+  "type": "node",
+  "id": 32881152,
+  "lat": 53.2992558,
+  "lon": -4.6235354
+},
+{
+  "type": "node",
+  "id": 32881155,
+  "lat": 53.3001898,
+  "lon": -4.6245319
+},
+{
+  "type": "node",
+  "id": 34190854,
+  "lat": 53.2997401,
+  "lon": -4.6284184
+},
+{
+  "type": "node",
+  "id": 255728255,
+  "lat": 53.3005447,
+  "lon": -4.6267719
+},
+{
+  "type": "node",
+  "id": 255728257,
+  "lat": 53.2997623,
+  "lon": -4.6261154
+},
+{
+  "type": "node",
+  "id": 255728258,
+  "lat": 53.2992861,
+  "lon": -4.6257474,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 567470991,
+  "lat": 53.3011091,
+  "lon": -4.6259012
+},
+{
+  "type": "node",
+  "id": 1076842024,
+  "lat": 53.3007959,
+  "lon": -4.6250549
+},
+{
+  "type": "node",
+  "id": 1076842038,
+  "lat": 53.3008762,
+  "lon": -4.6249371
+},
+{
+  "type": "node",
+  "id": 1076842097,
+  "lat": 53.3011176,
+  "lon": -4.6251379
+},
+{
+  "type": "node",
+  "id": 1243598810,
+  "lat": 53.3021627,
+  "lon": -4.6213968
+},
+{
+  "type": "node",
+  "id": 1243634371,
+  "lat": 53.3018775,
+  "lon": -4.6235134
+},
+{
+  "type": "node",
+  "id": 1243634392,
+  "lat": 53.3017007,
+  "lon": -4.6234793
+},
+{
+  "type": "node",
+  "id": 1243634413,
+  "lat": 53.3013428,
+  "lon": -4.6241187
+},
+{
+  "type": "node",
+  "id": 1243634414,
+  "lat": 53.3023300,
+  "lon": -4.6202295
+},
+{
+  "type": "node",
+  "id": 1243634447,
+  "lat": 53.3011192,
+  "lon": -4.6236624,
+  "tags": {
+    "highway": "turning_circle"
+  }
+},
+{
+  "type": "node",
+  "id": 1243634530,
+  "lat": 53.3013343,
+  "lon": -4.6238145
+},
+{
+  "type": "node",
+  "id": 1243634594,
+  "lat": 53.3014855,
+  "lon": -4.6244275,
+  "tags": {
+    "highway": "turning_circle"
+  }
+},
+{
+  "type": "node",
+  "id": 1243634657,
+  "lat": 53.3019356,
+  "lon": -4.6226487
+},
+{
+  "type": "node",
+  "id": 1243634734,
+  "lat": 53.3014154,
+  "lon": -4.6236992
+},
+{
+  "type": "node",
+  "id": 1243634740,
+  "lat": 53.3015789,
+  "lon": -4.6235490
+},
+{
+  "type": "node",
+  "id": 1326903811,
+  "lat": 53.2998901,
+  "lon": -4.6281008
+},
+{
+  "type": "node",
+  "id": 1326905082,
+  "lat": 53.2996169,
+  "lon": -4.6259459
+},
+{
+  "type": "node",
+  "id": 1326905096,
+  "lat": 53.3005046,
+  "lon": -4.6268464
+},
+{
+  "type": "node",
+  "id": 1369785315,
+  "lat": 53.3005624,
+  "lon": -4.6249256
+},
+{
+  "type": "node",
+  "id": 1369785316,
+  "lat": 53.2995759,
+  "lon": -4.6239156
+},
+{
+  "type": "node",
+  "id": 1369812066,
+  "lat": 53.2996706,
+  "lon": -4.6232844
+},
+{
+  "type": "node",
+  "id": 1473483895,
+  "lat": 53.3025547,
+  "lon": -4.6192317
+},
+{
+  "type": "node",
+  "id": 1473483898,
+  "lat": 53.3027207,
+  "lon": -4.6190130
+},
+{
+  "type": "node",
+  "id": 1473483907,
+  "lat": 53.3024510,
+  "lon": -4.6194756
+},
+{
+  "type": "node",
+  "id": 1516345805,
+  "lat": 53.3017820,
+  "lon": -4.6246243
+},
+{
+  "type": "node",
+  "id": 1516345806,
+  "lat": 53.3016057,
+  "lon": -4.6252248
+},
+{
+  "type": "node",
+  "id": 1583344159,
+  "lat": 53.3015509,
+  "lon": -4.6285372
+},
+{
+  "type": "node",
+  "id": 1583344160,
+  "lat": 53.3015475,
+  "lon": -4.6287090,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1628827543,
+  "lat": 53.3012998,
+  "lon": -4.6255148,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Tŷ Mawr",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 1672779715,
+  "lat": 53.3024438,
+  "lon": -4.6195204
+},
+{
+  "type": "node",
+  "id": 1672783603,
+  "lat": 53.3018272,
+  "lon": -4.6241247
+},
+{
+  "type": "node",
+  "id": 1913013898,
+  "lat": 53.3008691,
+  "lon": -4.6261897
+},
+{
+  "type": "node",
+  "id": 1913013900,
+  "lat": 53.3009346,
+  "lon": -4.6263666
+},
+{
+  "type": "node",
+  "id": 1913013902,
+  "lat": 53.3010203,
+  "lon": -4.6264930
+},
+{
+  "type": "node",
+  "id": 1913013907,
+  "lat": 53.3011091,
+  "lon": -4.6265483
+},
+{
+  "type": "node",
+  "id": 1913013914,
+  "lat": 53.3011507,
+  "lon": -4.6265790
+},
+{
+  "type": "node",
+  "id": 1913013917,
+  "lat": 53.3011961,
+  "lon": -4.6266124
+},
+{
+  "type": "node",
+  "id": 1913013919,
+  "lat": 53.3011819,
+  "lon": -4.6269335
+},
+{
+  "type": "node",
+  "id": 1913013922,
+  "lat": 53.3012727,
+  "lon": -4.6267144
+},
+{
+  "type": "node",
+  "id": 1913013925,
+  "lat": 53.3012946,
+  "lon": -4.6267609
+},
+{
+  "type": "node",
+  "id": 1913013928,
+  "lat": 53.3013064,
+  "lon": -4.6262394
+},
+{
+  "type": "node",
+  "id": 1913013933,
+  "lat": 53.3013302,
+  "lon": -4.6268368
+},
+{
+  "type": "node",
+  "id": 1913013939,
+  "lat": 53.3014135,
+  "lon": -4.6269358
+},
+{
+  "type": "node",
+  "id": 1913013943,
+  "lat": 53.3015159,
+  "lon": -4.6270037
+},
+{
+  "type": "node",
+  "id": 1913013947,
+  "lat": 53.3016122,
+  "lon": -4.6270980
+},
+{
+  "type": "node",
+  "id": 1913013950,
+  "lat": 53.3019088,
+  "lon": -4.6280949
+},
+{
+  "type": "node",
+  "id": 2267594837,
+  "lat": 53.2991576,
+  "lon": -4.6234155,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4286721725,
+  "lat": 53.3002906,
+  "lon": -4.6272678
+},
+{
+  "type": "node",
+  "id": 4286722621,
+  "lat": 53.2997571,
+  "lon": -4.6283207
+},
+{
+  "type": "node",
+  "id": 4288699909,
+  "lat": 53.3020173,
+  "lon": -4.6277026
+},
+{
+  "type": "node",
+  "id": 4288699911,
+  "lat": 53.3016571,
+  "lon": -4.6267141
+},
+{
+  "type": "node",
+  "id": 4288699942,
+  "lat": 53.3017630,
+  "lon": -4.6273526
+},
+{
+  "type": "node",
+  "id": 4288699954,
+  "lat": 53.3017216,
+  "lon": -4.6272730
+},
+{
+  "type": "node",
+  "id": 4288699958,
+  "lat": 53.3016909,
+  "lon": -4.6271940
+},
+{
+  "type": "node",
+  "id": 4288699962,
+  "lat": 53.3009755,
+  "lon": -4.6264436
+},
+{
+  "type": "node",
+  "id": 4288699966,
+  "lat": 53.3020190,
+  "lon": -4.6278706
+},
+{
+  "type": "node",
+  "id": 4288699972,
+  "lat": 53.3016572,
+  "lon": -4.6271303
+},
+{
+  "type": "node",
+  "id": 4288699976,
+  "lat": 53.3020250,
+  "lon": -4.6277911
+},
+{
+  "type": "node",
+  "id": 4536284895,
+  "lat": 53.3014317,
+  "lon": -4.6283008
+},
+{
+  "type": "node",
+  "id": 4536284900,
+  "lat": 53.3007697,
+  "lon": -4.6263327
+},
+{
+  "type": "node",
+  "id": 4540076019,
+  "lat": 53.3013692,
+  "lon": -4.6244374,
+  "tags": {
+    "highway": "turning_circle"
+  }
+},
+{
+  "type": "node",
+  "id": 4540076022,
+  "lat": 53.3013207,
+  "lon": -4.6239400
+},
+{
+  "type": "node",
+  "id": 4540076023,
+  "lat": 53.3012496,
+  "lon": -4.6238086
+},
+{
+  "type": "node",
+  "id": 4540076024,
+  "lat": 53.3011571,
+  "lon": -4.6237663
+},
+{
+  "type": "node",
+  "id": 4540076025,
+  "lat": 53.3011195,
+  "lon": -4.6237152
+},
+{
+  "type": "node",
+  "id": 4540076026,
+  "lat": 53.3011332,
+  "lon": -4.6237462
+},
+{
+  "type": "node",
+  "id": 4860772921,
+  "lat": 53.3014261,
+  "lon": -4.6242995
+},
+{
+  "type": "node",
+  "id": 4860772922,
+  "lat": 53.3013452,
+  "lon": -4.6241251
+},
+{
+  "type": "node",
+  "id": 7832837457,
+  "lat": 53.3022451,
+  "lon": -4.6271197
+},
+{
+  "type": "node",
+  "id": 7868736120,
+  "lat": 53.3022057,
+  "lon": -4.6210970
+},
+{
+  "type": "node",
+  "id": 10592710185,
+  "lat": 53.3009577,
+  "lon": -4.6260782
+},
+{
+  "type": "node",
+  "id": 10592710186,
+  "lat": 53.3016823,
+  "lon": -4.6250340
+},
+{
+  "type": "node",
+  "id": 10592710201,
+  "lat": 53.2998150,
+  "lon": -4.6282175
+},
+{
+  "type": "node",
+  "id": 10711232580,
+  "lat": 53.2997956,
+  "lon": -4.6241405
+},
+{
+  "type": "node",
+  "id": 11083892650,
+  "lat": 53.3023026,
+  "lon": -4.6270104
+},
+{
+  "type": "node",
+  "id": 11083892651,
+  "lat": 53.3013347,
+  "lon": -4.6258357
+},
+{
+  "type": "node",
+  "id": 11083892652,
+  "lat": 53.3014398,
+  "lon": -4.6257199
+},
+{
+  "type": "node",
+  "id": 11083892653,
+  "lat": 53.2999879,
+  "lon": -4.6232979
+},
+{
+  "type": "node",
+  "id": 11093745955,
+  "lat": 53.3009837,
+  "lon": -4.6254229
+},
+{
+  "type": "node",
+  "id": 11093745956,
+  "lat": 53.3004101,
+  "lon": -4.6239614
+},
+{
+  "type": "node",
+  "id": 11093745957,
+  "lat": 53.3004007,
+  "lon": -4.6244983
+},
+{
+  "type": "node",
+  "id": 11093745958,
+  "lat": 53.2995998,
+  "lon": -4.6234401
+},
+{
+  "type": "node",
+  "id": 11110779613,
+  "lat": 53.3005983,
+  "lon": -4.6247684
+},
+{
+  "type": "way",
+  "id": 4965492,
+  "nodes": [
+    2267594837,
+    32881152,
+    1369785316,
+    10711232580,
+    32881155,
+    1369785315,
+    11093745955,
+    27606246
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Caergybi / Holyhead",
+    "destination:ref": "A55",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23611757,
+  "nodes": [
+    1583344160,
+    1583344159,
+    4536284895,
+    255728255
+  ],
+  "tags": {
+    "highway": "residential",
+    "lcn": "yes",
+    "name": "Tyn Pwll Road",
+    "name:en": "Tyn Pwll Road",
+    "source:name": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 28117710,
+  "nodes": [
+    1628827543,
+    1076842097,
+    11093745956,
+    11083892653
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Bae Trearddur / Trearddur Bay;Parc Cybi",
+    "destination:ref": "A5153;(A5);(B4545)",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 44732672,
+  "nodes": [
+    567470991,
+    10592710185,
+    1913013898,
+    4536284900,
+    255728255
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Cyttir Road",
+    "name:en": "Cyttir Road",
+    "source:name": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 108367579,
+  "nodes": [
+    1243634447,
+    4540076025,
+    4540076026,
+    4540076024,
+    4540076023,
+    1243634530
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Llain Bryniau"
+  }
+},
+{
+  "type": "way",
+  "id": 108367609,
+  "nodes": [
+    1243634594,
+    4860772921,
+    4860772922,
+    1243634413,
+    4540076022,
+    1243634530,
+    1243634734,
+    1243634740,
+    1243634392
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Llain Bryniau"
+  }
+},
+{
+  "type": "way",
+  "id": 117881154,
+  "nodes": [
+    1326905096,
+    255728257,
+    1326905082,
+    255728258
+  ],
+  "tags": {
+    "highway": "residential",
+    "lcn": "yes",
+    "name": "Tyn Pwll Road",
+    "name:en": "Tyn Pwll Road",
+    "source:name": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 133909338,
+  "nodes": [
+    1473483898,
+    1473483895,
+    1473483907,
+    1672779715,
+    1243634414,
+    7868736120,
+    1243598810,
+    1243634657,
+    1243634371,
+    1672783603,
+    1516345805,
+    10592710186,
+    1516345806
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Cyttir Road",
+    "name:en": "Cyttir Road",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 180844598,
+  "nodes": [
+    1913013898,
+    1913013900,
+    4288699962,
+    1913013902,
+    1913013907,
+    1913013914,
+    1913013917,
+    1913013922,
+    1913013925,
+    1913013933,
+    1913013939,
+    1913013943,
+    1913013947,
+    4288699972,
+    4288699958,
+    4288699954,
+    4288699942,
+    4288699909,
+    4288699976,
+    4288699966,
+    1913013950
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Cyttir Close",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 180844599,
+  "nodes": [
+    1913013925,
+    1913013919
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Cyttir Close",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 180844600,
+  "nodes": [
+    1913013914,
+    1913013928
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Cyttir Close",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 429700582,
+  "nodes": [
+    1913013943,
+    4288699911
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 494296573,
+  "nodes": [
+    4540076019,
+    4860772921
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Llain Bryniau"
+  }
+},
+{
+  "type": "way",
+  "id": 520339126,
+  "nodes": [
+    255728255,
+    1326905096
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lcn": "yes",
+    "name": "Cyttir Road",
+    "name:en": "Cyttir Road",
+    "source:name": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 520339128,
+  "nodes": [
+    1326905096,
+    4286721725,
+    1326903811,
+    10592710201,
+    4286722621,
+    34190854
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Cyttir Road",
+    "name:en": "Cyttir Road",
+    "source:name": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042880,
+  "nodes": [
+    11083892651,
+    27606247,
+    27606248,
+    7832837457
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042881,
+  "nodes": [
+    27606246,
+    11083892651
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042882,
+  "nodes": [
+    11083892650,
+    27606242,
+    27606243,
+    11083892652
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042883,
+  "nodes": [
+    11083892652,
+    1628827543
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042885,
+  "nodes": [
+    1628827543,
+    1076842038,
+    27606245,
+    1369812066,
+    27606251
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042887,
+  "nodes": [
+    27606267,
+    11093745958,
+    27606268,
+    11093745957,
+    11110779613,
+    1076842024,
+    27606246
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 567470991,
+  "lat": 53.3011091,
+  "lon": -4.6259012
+},
+{
+  "type": "node",
+  "id": 1516345806,
+  "lat": 53.3016057,
+  "lon": -4.6252248
+},
+{
+  "type": "node",
+  "id": 4288699913,
+  "lat": 53.3012195,
+  "lon": -4.6257833
+},
+{
+  "type": "node",
+  "id": 4288699932,
+  "lat": 53.3014755,
+  "lon": -4.6254653
+},
+{
+  "type": "node",
+  "id": 4288699948,
+  "lat": 53.3014168,
+  "lon": -4.6255537
+},
+{
+  "type": "way",
+  "id": 44732673,
+  "nodes": [
+    1516345806,
+    4288699932,
+    4288699948,
+    4288699913,
+    567470991
+  ],
+  "tags": {
+    "bridge": "yes",
+    "heritage": "yes",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Cyttir Road",
+    "name:en": "Cyttir Road",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt",
+    "wikidata": "Q29494203"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27606245,
+  "lat": 53.3000664,
+  "lon": -4.6238387
+},
+{
+  "type": "node",
+  "id": 27606246,
+  "lat": 53.3012078,
+  "lon": -4.6256487
+},
+{
+  "type": "node",
+  "id": 27606251,
+  "lat": 53.2993463,
+  "lon": -4.6227919
+},
+{
+  "type": "node",
+  "id": 27606252,
+  "lat": 53.2987076,
+  "lon": -4.6216594
+},
+{
+  "type": "node",
+  "id": 27606253,
+  "lat": 53.2981561,
+  "lon": -4.6204991
+},
+{
+  "type": "node",
+  "id": 27606256,
+  "lat": 53.2964236,
+  "lon": -4.6151985
+},
+{
+  "type": "node",
+  "id": 27606267,
+  "lat": 53.2992544,
+  "lon": -4.6229173
+},
+{
+  "type": "node",
+  "id": 27606268,
+  "lat": 53.2999903,
+  "lon": -4.6239629
+},
+{
+  "type": "node",
+  "id": 32881148,
+  "lat": 53.2992857,
+  "lon": -4.6224716
+},
+{
+  "type": "node",
+  "id": 32881152,
+  "lat": 53.2992558,
+  "lon": -4.6235354
+},
+{
+  "type": "node",
+  "id": 32881153,
+  "lat": 53.2990302,
+  "lon": -4.6232796
+},
+{
+  "type": "node",
+  "id": 32881155,
+  "lat": 53.3001898,
+  "lon": -4.6245319
+},
+{
+  "type": "node",
+  "id": 32881203,
+  "lat": 53.3002009,
+  "lon": -4.6210136
+},
+{
+  "type": "node",
+  "id": 32881204,
+  "lat": 53.2997020,
+  "lon": -4.6220512
+},
+{
+  "type": "node",
+  "id": 308852196,
+  "lat": 53.2997989,
+  "lon": -4.6229879,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 308852197,
+  "lat": 53.2996760,
+  "lon": -4.6227865
+},
+{
+  "type": "node",
+  "id": 308852198,
+  "lat": 53.2996382,
+  "lon": -4.6226828
+},
+{
+  "type": "node",
+  "id": 308852199,
+  "lat": 53.2996061,
+  "lon": -4.6224356
+},
+{
+  "type": "node",
+  "id": 1076842024,
+  "lat": 53.3007959,
+  "lon": -4.6250549
+},
+{
+  "type": "node",
+  "id": 1076842034,
+  "lat": 53.2975854,
+  "lon": -4.6190576
+},
+{
+  "type": "node",
+  "id": 1076842038,
+  "lat": 53.3008762,
+  "lon": -4.6249371
+},
+{
+  "type": "node",
+  "id": 1076842097,
+  "lat": 53.3011176,
+  "lon": -4.6251379
+},
+{
+  "type": "node",
+  "id": 1082379324,
+  "lat": 53.2995018,
+  "lon": -4.6221526
+},
+{
+  "type": "node",
+  "id": 1082379441,
+  "lat": 53.2994890,
+  "lon": -4.6226120
+},
+{
+  "type": "node",
+  "id": 1082379586,
+  "lat": 53.2996052,
+  "lon": -4.6223185
+},
+{
+  "type": "node",
+  "id": 1082379675,
+  "lat": 53.2993687,
+  "lon": -4.6226084
+},
+{
+  "type": "node",
+  "id": 1082379686,
+  "lat": 53.2994106,
+  "lon": -4.6226065
+},
+{
+  "type": "node",
+  "id": 1082379937,
+  "lat": 53.2988446,
+  "lon": -4.6232098
+},
+{
+  "type": "node",
+  "id": 1082380060,
+  "lat": 53.2995912,
+  "lon": -4.6222622
+},
+{
+  "type": "node",
+  "id": 1082380105,
+  "lat": 53.2993833,
+  "lon": -4.6221935
+},
+{
+  "type": "node",
+  "id": 1082380221,
+  "lat": 53.2988770,
+  "lon": -4.6232129
+},
+{
+  "type": "node",
+  "id": 1082380228,
+  "lat": 53.2990153,
+  "lon": -4.6229882
+},
+{
+  "type": "node",
+  "id": 1082380356,
+  "lat": 53.2989781,
+  "lon": -4.6231212
+},
+{
+  "type": "node",
+  "id": 1082380876,
+  "lat": 53.2993281,
+  "lon": -4.6223419
+},
+{
+  "type": "node",
+  "id": 1082380915,
+  "lat": 53.2990929,
+  "lon": -4.6228266
+},
+{
+  "type": "node",
+  "id": 1082380942,
+  "lat": 53.2995543,
+  "lon": -4.6225674
+},
+{
+  "type": "node",
+  "id": 1082380997,
+  "lat": 53.2994742,
+  "lon": -4.6221466
+},
+{
+  "type": "node",
+  "id": 1369782381,
+  "lat": 53.2989485,
+  "lon": -4.6231712
+},
+{
+  "type": "node",
+  "id": 1369782384,
+  "lat": 53.2989989,
+  "lon": -4.6230555
+},
+{
+  "type": "node",
+  "id": 1369783646,
+  "lat": 53.2990414,
+  "lon": -4.6229213
+},
+{
+  "type": "node",
+  "id": 1369785315,
+  "lat": 53.3005624,
+  "lon": -4.6249256
+},
+{
+  "type": "node",
+  "id": 1369785316,
+  "lat": 53.2995759,
+  "lon": -4.6239156
+},
+{
+  "type": "node",
+  "id": 1369810398,
+  "lat": 53.2995239,
+  "lon": -4.6225954
+},
+{
+  "type": "node",
+  "id": 1369810400,
+  "lat": 53.2993027,
+  "lon": -4.6224271
+},
+{
+  "type": "node",
+  "id": 1369810402,
+  "lat": 53.2994522,
+  "lon": -4.6226117
+},
+{
+  "type": "node",
+  "id": 1369810403,
+  "lat": 53.2993510,
+  "lon": -4.6222524
+},
+{
+  "type": "node",
+  "id": 1369812064,
+  "lat": 53.2984190,
+  "lon": -4.6210746
+},
+{
+  "type": "node",
+  "id": 1369812065,
+  "lat": 53.2990329,
+  "lon": -4.6222651
+},
+{
+  "type": "node",
+  "id": 1369812066,
+  "lat": 53.2996706,
+  "lon": -4.6232844
+},
+{
+  "type": "node",
+  "id": 1369812067,
+  "lat": 53.2972341,
+  "lon": -4.6180000
+},
+{
+  "type": "node",
+  "id": 1369812070,
+  "lat": 53.2978434,
+  "lon": -4.6197442
+},
+{
+  "type": "node",
+  "id": 1516350106,
+  "lat": 53.2981953,
+  "lon": -4.6202142
+},
+{
+  "type": "node",
+  "id": 1516350108,
+  "lat": 53.2985269,
+  "lon": -4.6208336
+},
+{
+  "type": "node",
+  "id": 1516350116,
+  "lat": 53.2991624,
+  "lon": -4.6219198
+},
+{
+  "type": "node",
+  "id": 1516350129,
+  "lat": 53.2993160,
+  "lon": -4.6220818
+},
+{
+  "type": "node",
+  "id": 1516350133,
+  "lat": 53.2978121,
+  "lon": -4.6193612
+},
+{
+  "type": "node",
+  "id": 1516350150,
+  "lat": 53.2967342,
+  "lon": -4.6162635
+},
+{
+  "type": "node",
+  "id": 1628827543,
+  "lat": 53.3012998,
+  "lon": -4.6255148,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Tŷ Mawr",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 2267594837,
+  "lat": 53.2991576,
+  "lon": -4.6234155,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2861714838,
+  "lat": 53.2996381,
+  "lon": -4.6222580
+},
+{
+  "type": "node",
+  "id": 4286722642,
+  "lat": 53.3001427,
+  "lon": -4.6212005
+},
+{
+  "type": "node",
+  "id": 7832873146,
+  "lat": 53.3000582,
+  "lon": -4.6213813
+},
+{
+  "type": "node",
+  "id": 10711232536,
+  "lat": 53.2996102,
+  "lon": -4.6223909
+},
+{
+  "type": "node",
+  "id": 10711232537,
+  "lat": 53.2996176,
+  "lon": -4.6225785,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 10711232539,
+  "lat": 53.2995621,
+  "lon": -4.6221456,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 10711232540,
+  "lat": 53.2994255,
+  "lon": -4.6221598
+},
+{
+  "type": "node",
+  "id": 10711232557,
+  "lat": 53.2995802,
+  "lon": -4.6225318
+},
+{
+  "type": "node",
+  "id": 10711232558,
+  "lat": 53.2995974,
+  "lon": -4.6224864
+},
+{
+  "type": "node",
+  "id": 10711232561,
+  "lat": 53.2995699,
+  "lon": -4.6222173
+},
+{
+  "type": "node",
+  "id": 10711232562,
+  "lat": 53.2995393,
+  "lon": -4.6221787
+},
+{
+  "type": "node",
+  "id": 10711232563,
+  "lat": 53.2995790,
+  "lon": -4.6221394
+},
+{
+  "type": "node",
+  "id": 10711232569,
+  "lat": 53.2989515,
+  "lon": -4.6232381
+},
+{
+  "type": "node",
+  "id": 10711232570,
+  "lat": 53.2990938,
+  "lon": -4.6233353
+},
+{
+  "type": "node",
+  "id": 10711232571,
+  "lat": 53.2989161,
+  "lon": -4.6232002
+},
+{
+  "type": "node",
+  "id": 10711232580,
+  "lat": 53.2997956,
+  "lon": -4.6241405
+},
+{
+  "type": "node",
+  "id": 11083892653,
+  "lat": 53.2999879,
+  "lon": -4.6232979
+},
+{
+  "type": "node",
+  "id": 11083892654,
+  "lat": 53.2991384,
+  "lon": -4.6224425
+},
+{
+  "type": "node",
+  "id": 11083892655,
+  "lat": 53.2990269,
+  "lon": -4.6225377
+},
+{
+  "type": "node",
+  "id": 11092201726,
+  "lat": 53.2992418,
+  "lon": -4.6220228
+},
+{
+  "type": "node",
+  "id": 11092201728,
+  "lat": 53.2974863,
+  "lon": -4.6184681
+},
+{
+  "type": "node",
+  "id": 11092201729,
+  "lat": 53.2969659,
+  "lon": -4.6168812
+},
+{
+  "type": "node",
+  "id": 11093745955,
+  "lat": 53.3009837,
+  "lon": -4.6254229
+},
+{
+  "type": "node",
+  "id": 11093745956,
+  "lat": 53.3004101,
+  "lon": -4.6239614
+},
+{
+  "type": "node",
+  "id": 11093745957,
+  "lat": 53.3004007,
+  "lon": -4.6244983
+},
+{
+  "type": "node",
+  "id": 11093745958,
+  "lat": 53.2995998,
+  "lon": -4.6234401
+},
+{
+  "type": "node",
+  "id": 11093745961,
+  "lat": 53.2980128,
+  "lon": -4.6198254
+},
+{
+  "type": "node",
+  "id": 11093745962,
+  "lat": 53.2976252,
+  "lon": -4.6188792
+},
+{
+  "type": "node",
+  "id": 11110779613,
+  "lat": 53.3005983,
+  "lon": -4.6247684
+},
+{
+  "type": "way",
+  "id": 4965492,
+  "nodes": [
+    2267594837,
+    32881152,
+    1369785316,
+    10711232580,
+    32881155,
+    1369785315,
+    11093745955,
+    27606246
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Caergybi / Holyhead",
+    "destination:ref": "A55",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28117710,
+  "nodes": [
+    1628827543,
+    1076842097,
+    11093745956,
+    11083892653
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Bae Trearddur / Trearddur Bay;Parc Cybi",
+    "destination:ref": "A5153;(A5);(B4545)",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 93349013,
+  "nodes": [
+    10711232536,
+    2861714838
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "20 mph",
+    "oneway": "yes",
+    "ref": "A5153",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 122634513,
+  "nodes": [
+    1082379675,
+    1082379686,
+    1369810402,
+    1082379441,
+    1369810398,
+    1082380942,
+    10711232557,
+    10711232558,
+    308852199,
+    10711232536,
+    1082379586,
+    1082380060,
+    10711232561,
+    10711232562,
+    1082379324,
+    1082380997
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Tŷ Mawr Interchange",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 138305628,
+  "nodes": [
+    1082380997,
+    1516350129,
+    11092201726,
+    1516350116,
+    1516350108,
+    1516350106,
+    11093745961,
+    1516350133,
+    11093745962,
+    11092201728,
+    11092201729,
+    1516350150
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Bangor",
+    "destination:ref": "A55",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 290131827,
+  "nodes": [
+    11083892654,
+    1369812065,
+    27606252,
+    1369812064,
+    27606253,
+    1369812070,
+    1076842034,
+    1369812067,
+    1516350150,
+    27606256
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438907848,
+  "nodes": [
+    32881203,
+    4286722642,
+    7832873146,
+    32881204
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "20 mph",
+    "ref": "A5153",
+    "sidewalk:both": "separate",
+    "source_ref": "gps survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151370317,
+  "nodes": [
+    10711232563,
+    10711232539,
+    1082379324
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "20 mph",
+    "oneway": "yes",
+    "ref": "A5153",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1185420699,
+  "nodes": [
+    1082380221,
+    10711232569,
+    32881153,
+    10711232570,
+    2267594837
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Caergybi / Holyhead",
+    "destination:ref": "A55",
+    "expressway": "yes",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "ref": "A55",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042884,
+  "nodes": [
+    308852196,
+    308852197,
+    308852198,
+    10711232537,
+    308852199
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Bae Trearddur / Trearddur Bay;Parc Cybi",
+    "destination:ref": "A5153;(A5);(B4545)",
+    "expressway": "yes",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042885,
+  "nodes": [
+    1628827543,
+    1076842038,
+    27606245,
+    1369812066,
+    27606251
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042886,
+  "nodes": [
+    27606251,
+    11083892654
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042887,
+  "nodes": [
+    27606267,
+    11093745958,
+    27606268,
+    11093745957,
+    11110779613,
+    1076842024,
+    27606246
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1194042888,
+  "nodes": [
+    11083892655,
+    27606267
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination:lanes": "Canol y dref / Town centre|",
+    "destination:symbol:lanes": "|ferry",
+    "dual_carriageway": "yes",
+    "expressway": "yes",
+    "foot": "no",
+    "highway": "trunk",
+    "int_ref": "E 22",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Gwibffordd Gogledd Cymru / North Wales Expressway",
+    "name:cy": "Gwibffordd Gogledd Cymru",
+    "name:en": "North Wales Expressway",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195031829,
+  "nodes": [
+    11083892653,
+    308852196
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:both": "no",
+    "destination": "Bae Trearddur / Trearddur Bay;Parc Cybi",
+    "destination:ref": "A5153;(A5);(B4545)",
+    "expressway": "yes",
+    "foot": "yes",
+    "highway": "trunk_link",
+    "junction:ref": "2",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "operator": "Welsh Government",
+    "parking:both:restriction": "no_stopping",
+    "ref": "A55",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1196160810,
+  "nodes": [
+    1082379937,
+    1082380221,
+    10711232571,
+    1369782381,
+    1082380356,
+    1369782384,
+    1082380228,
+    1369783646,
+    1082380915
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Tŷ Mawr Interchange",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1196161118,
+  "nodes": [
+    1082380997,
+    10711232540,
+    1082380105,
+    1369810403,
+    1082380876,
+    1369810400,
+    32881148
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "foot": "yes",
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB-WLS:nsl_restricted",
+    "name": "Tŷ Mawr Interchange",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8560539152,
+  "lat": 53.2999568,
+  "lon": -4.6229848
+},
+{
+  "type": "node",
+  "id": 8560539158,
+  "lat": 53.3001218,
+  "lon": -4.6227413
+},
+{
+  "type": "way",
+  "id": 922091007,
+  "nodes": [
+    8560539152,
+    8560539158
+  ],
+  "tags": {
+    "bridge": "yes",
+    "heritage": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "wikidata": "Q29494205"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1385202769,
+  "lat": 53.3178407,
+  "lon": -4.6576325
+},
+{
+  "type": "node",
+  "id": 1385202779,
+  "lat": 53.3179593,
+  "lon": -4.6577050
+},
+{
+  "type": "way",
+  "id": 124439302,
+  "nodes": [
+    1385202779,
+    1385202769
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1076960957,
+  "lat": 53.3165349,
+  "lon": -4.6473538
+},
+{
+  "type": "node",
+  "id": 1076961063,
+  "lat": 53.3166074,
+  "lon": -4.6475362
+},
+{
+  "type": "node",
+  "id": 2623468059,
+  "lat": 53.3165724,
+  "lon": -4.6474474
+},
+{
+  "type": "way",
+  "id": 92875253,
+  "nodes": [
+    1076961063,
+    2623468059,
+    1076960957
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "lcn": "yes",
+    "sidewalk": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727048,
+  "lat": 53.3170977,
+  "lon": -4.6423371
+},
+{
+  "type": "node",
+  "id": 255727088,
+  "lat": 53.3168458,
+  "lon": -4.6445252
+},
+{
+  "type": "node",
+  "id": 255727307,
+  "lat": 53.3161023,
+  "lon": -4.6441665
+},
+{
+  "type": "node",
+  "id": 255727308,
+  "lat": 53.3155247,
+  "lon": -4.6431635
+},
+{
+  "type": "node",
+  "id": 255727309,
+  "lat": 53.3147478,
+  "lon": -4.6425453
+},
+{
+  "type": "node",
+  "id": 255727310,
+  "lat": 53.3145258,
+  "lon": -4.6418135
+},
+{
+  "type": "node",
+  "id": 255727311,
+  "lat": 53.3137383,
+  "lon": -4.6405356
+},
+{
+  "type": "node",
+  "id": 255727312,
+  "lat": 53.3131902,
+  "lon": -4.6398998
+},
+{
+  "type": "node",
+  "id": 255727321,
+  "lat": 53.3169996,
+  "lon": -4.6429863
+},
+{
+  "type": "node",
+  "id": 994883892,
+  "lat": 53.3157684,
+  "lon": -4.6434754
+},
+{
+  "type": "node",
+  "id": 994883916,
+  "lat": 53.3159450,
+  "lon": -4.6438264
+},
+{
+  "type": "node",
+  "id": 994883917,
+  "lat": 53.3165654,
+  "lon": -4.6429363
+},
+{
+  "type": "node",
+  "id": 994884321,
+  "lat": 53.3146341,
+  "lon": -4.6422366
+},
+{
+  "type": "node",
+  "id": 1076926748,
+  "lat": 53.3163798,
+  "lon": -4.6444598
+},
+{
+  "type": "node",
+  "id": 1076960274,
+  "lat": 53.3167016,
+  "lon": -4.6445945
+},
+{
+  "type": "node",
+  "id": 1076960470,
+  "lat": 53.3134297,
+  "lon": -4.6401274
+},
+{
+  "type": "node",
+  "id": 1076960898,
+  "lat": 53.3168003,
+  "lon": -4.6442853
+},
+{
+  "type": "node",
+  "id": 1076961134,
+  "lat": 53.3156725,
+  "lon": -4.6433186
+},
+{
+  "type": "node",
+  "id": 1076961208,
+  "lat": 53.3168261,
+  "lon": -4.6438297
+},
+{
+  "type": "node",
+  "id": 1076961284,
+  "lat": 53.3162318,
+  "lon": -4.6443370
+},
+{
+  "type": "node",
+  "id": 2623468018,
+  "lat": 53.3160363,
+  "lon": -4.6440239
+},
+{
+  "type": "node",
+  "id": 3666264315,
+  "lat": 53.3163719,
+  "lon": -4.6432139
+},
+{
+  "type": "node",
+  "id": 3839998536,
+  "lat": 53.3167908,
+  "lon": -4.6440693
+},
+{
+  "type": "node",
+  "id": 4545696419,
+  "lat": 53.3164066,
+  "lon": -4.6431642
+},
+{
+  "type": "node",
+  "id": 9122843907,
+  "lat": 53.3135324,
+  "lon": -4.6402633
+},
+{
+  "type": "node",
+  "id": 11092021517,
+  "lat": 53.3167872,
+  "lon": -4.6445600,
+  "tags": {
+    "direction": "backward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 11092021524,
+  "lat": 53.3170597,
+  "lon": -4.6425887,
+  "tags": {
+    "traffic_calming": "cushion"
+  }
+},
+{
+  "type": "node",
+  "id": 11092483100,
+  "lat": 53.3165525,
+  "lon": -4.6445602
+},
+{
+  "type": "node",
+  "id": 11092483101,
+  "lat": 53.3166201,
+  "lon": -4.6445845
+},
+{
+  "type": "node",
+  "id": 11092483102,
+  "lat": 53.3164640,
+  "lon": -4.6445109
+},
+{
+  "type": "node",
+  "id": 11092520205,
+  "lat": 53.3167881,
+  "lon": -4.6441791
+},
+{
+  "type": "node",
+  "id": 12049282209,
+  "lat": 53.3161785,
+  "lon": -4.6434914,
+  "tags": {
+    "highway": "street_lamp"
+  }
+},
+{
+  "type": "way",
+  "id": 23611661,
+  "nodes": [
+    11092483102,
+    1076926748,
+    1076961284,
+    255727307,
+    2623468018,
+    994883916,
+    994883892,
+    1076961134,
+    255727308,
+    255727309,
+    994884321,
+    255727310,
+    255727311,
+    9122843907,
+    1076960470,
+    255727312
+  ],
+  "tags": {
+    "cycleway": "no",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Porth-y-Felin Road",
+    "sidewalk": "both",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23611662,
+  "nodes": [
+    255727088,
+    1076960898,
+    11092520205,
+    3839998536,
+    1076961208,
+    255727321,
+    11092021524,
+    255727048
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Beach Road",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 85710691,
+  "nodes": [
+    994883916,
+    12049282209,
+    3666264315,
+    4545696419,
+    994883917
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Porth Y Felin",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195131618,
+  "nodes": [
+    255727088,
+    11092021517,
+    1076960274,
+    11092483101,
+    11092483100
+  ],
+  "tags": {
+    "cycleway": "no",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Porth-y-Felin Road",
+    "sidewalk": "both",
+    "source": "GPS",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1195131619,
+  "nodes": [
+    11092483100,
+    11092483102
+  ],
+  "tags": {
+    "cycleway": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "maxheight": "10'9\"",
+    "maxspeed": "30 mph",
+    "name": "Porth-y-Felin Road",
+    "sidewalk": "both",
+    "source": "GPS",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1076961122,
+  "lat": 53.3164923,
+  "lon": -4.6446142
+},
+{
+  "type": "node",
+  "id": 1076961202,
+  "lat": 53.3165248,
+  "lon": -4.6444753
+},
+{
+  "type": "way",
+  "id": 92875291,
+  "nodes": [
+    1076961122,
+    1076961202
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "lcn": "yes",
+    "sidewalk": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5618373462,
+  "lat": 53.3144421,
+  "lon": -4.6274478
+},
+{
+  "type": "node",
+  "id": 10967658929,
+  "lat": 53.3145074,
+  "lon": -4.6272955
+},
+{
+  "type": "way",
+  "id": 588222410,
+  "nodes": [
+    5618373462,
+    10967658929
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "service",
+    "horse": "no",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727316,
+  "lat": 53.3101648,
+  "lon": -4.6345189
+},
+{
+  "type": "node",
+  "id": 255727400,
+  "lat": 53.3111597,
+  "lon": -4.6331730
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1349216507,
+  "lat": 53.3107763,
+  "lon": -4.6335082
+},
+{
+  "type": "node",
+  "id": 1349216509,
+  "lat": 53.3102680,
+  "lon": -4.6343934
+},
+{
+  "type": "node",
+  "id": 1349219735,
+  "lat": 53.3108500,
+  "lon": -4.6336745
+},
+{
+  "type": "node",
+  "id": 1349219737,
+  "lat": 53.3110331,
+  "lon": -4.6341627,
+  "tags": {
+    "noexit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804041,
+  "lat": 53.3106657,
+  "lon": -4.6337008
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 120304436,
+  "nodes": [
+    255727316,
+    1349216509,
+    1672804041,
+    1349216507,
+    255727400
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in": "Holyhead",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Stryd Williams",
+    "name:en": "Williams Street",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "block"
+  }
+},
+{
+  "type": "way",
+  "id": 120305084,
+  "nodes": [
+    1349216507,
+    1349219735,
+    1349219737
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Tower Gardens",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 10958035504,
+  "lat": 53.3103476,
+  "lon": -4.6325841
+},
+{
+  "type": "node",
+  "id": 10978254740,
+  "lat": 53.3103445,
+  "lon": -4.6325817
+},
+{
+  "type": "node",
+  "id": 10978254741,
+  "lat": 53.3103573,
+  "lon": -4.6326297
+},
+{
+  "type": "node",
+  "id": 10978254742,
+  "lat": 53.3103736,
+  "lon": -4.6326200
+},
+{
+  "type": "node",
+  "id": 10978254743,
+  "lat": 53.3103630,
+  "lon": -4.6325701
+},
+{
+  "type": "way",
+  "id": 1179826710,
+  "nodes": [
+    10958035504,
+    10978254741,
+    10978254742,
+    10978254743,
+    10978254740
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "steps",
+    "incline": "up",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 255727316,
+  "lat": 53.3101648,
+  "lon": -4.6345189
+},
+{
+  "type": "node",
+  "id": 255727400,
+  "lat": 53.3111597,
+  "lon": -4.6331730
+},
+{
+  "type": "node",
+  "id": 255727403,
+  "lat": 53.3087860,
+  "lon": -4.6327790
+},
+{
+  "type": "node",
+  "id": 255727429,
+  "lat": 53.3096093,
+  "lon": -4.6328393
+},
+{
+  "type": "node",
+  "id": 255727430,
+  "lat": 53.3102116,
+  "lon": -4.6325142
+},
+{
+  "type": "node",
+  "id": 308850819,
+  "lat": 53.3091532,
+  "lon": -4.6328753
+},
+{
+  "type": "node",
+  "id": 308850820,
+  "lat": 53.3122313,
+  "lon": -4.6311420
+},
+{
+  "type": "node",
+  "id": 435785793,
+  "lat": 53.3124180,
+  "lon": -4.6309790
+},
+{
+  "type": "node",
+  "id": 1349216507,
+  "lat": 53.3107763,
+  "lon": -4.6335082
+},
+{
+  "type": "node",
+  "id": 1349216509,
+  "lat": 53.3102680,
+  "lon": -4.6343934
+},
+{
+  "type": "node",
+  "id": 1349219735,
+  "lat": 53.3108500,
+  "lon": -4.6336745
+},
+{
+  "type": "node",
+  "id": 1349219737,
+  "lat": 53.3110331,
+  "lon": -4.6341627,
+  "tags": {
+    "noexit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1371921730,
+  "lat": 53.3119118,
+  "lon": -4.6313856
+},
+{
+  "type": "node",
+  "id": 1672804041,
+  "lat": 53.3106657,
+  "lon": -4.6337008
+},
+{
+  "type": "node",
+  "id": 1672804048,
+  "lat": 53.3110099,
+  "lon": -4.6319912
+},
+{
+  "type": "node",
+  "id": 1672804173,
+  "lat": 53.3103845,
+  "lon": -4.6324089
+},
+{
+  "type": "node",
+  "id": 10958035503,
+  "lat": 53.3103167,
+  "lon": -4.6324515
+},
+{
+  "type": "node",
+  "id": 11065427895,
+  "lat": 53.3100962,
+  "lon": -4.6325853
+},
+{
+  "type": "node",
+  "id": 11091760628,
+  "lat": 53.3098139,
+  "lon": -4.6327504
+},
+{
+  "type": "node",
+  "id": 11091760629,
+  "lat": 53.3094791,
+  "lon": -4.6328706
+},
+{
+  "type": "node",
+  "id": 11091760631,
+  "lat": 53.3093205,
+  "lon": -4.6328839
+},
+{
+  "type": "node",
+  "id": 11092520224,
+  "lat": 53.3120221,
+  "lon": -4.6313015,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "way",
+  "id": 28123627,
+  "nodes": [
+    255727430,
+    10958035503,
+    1672804173,
+    1672804048,
+    1371921730,
+    11092520224,
+    308850820,
+    435785793
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 120304436,
+  "nodes": [
+    255727316,
+    1349216509,
+    1672804041,
+    1349216507,
+    255727400
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in": "Holyhead",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Stryd Williams",
+    "name:en": "Williams Street",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "block"
+  }
+},
+{
+  "type": "way",
+  "id": 120305084,
+  "nodes": [
+    1349216507,
+    1349219735,
+    1349219737
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Tower Gardens",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source": "OS_OpenData_StreetView",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889978,
+  "nodes": [
+    255727403,
+    308850819,
+    11091760631,
+    11091760629,
+    255727429,
+    11091760628,
+    11065427895
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1191889979,
+  "nodes": [
+    11065427895,
+    255727430
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lcn": "yes",
+    "maxheight": "default",
+    "maxspeed": "20 mph",
+    "name": "Victoria Road",
+    "ref": "A5154",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 10958066305,
+  "lat": 53.3103599,
+  "lon": -4.6325678
+},
+{
+  "type": "node",
+  "id": 10958066306,
+  "lat": 53.3103706,
+  "lon": -4.6326177
+},
+{
+  "type": "node",
+  "id": 10958066307,
+  "lat": 53.3103543,
+  "lon": -4.6326274
+},
+{
+  "type": "node",
+  "id": 10978254740,
+  "lat": 53.3103445,
+  "lon": -4.6325817
+},
+{
+  "type": "way",
+  "id": 1179826711,
+  "nodes": [
+    10978254740,
+    10958066307,
+    10958066306,
+    10958066305
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "steps",
+    "incline": "up",
+    "layer": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10967658928,
+  "lat": 53.3144343,
+  "lon": -4.6272076
+},
+{
+  "type": "node",
+  "id": 10967658930,
+  "lat": 53.3143690,
+  "lon": -4.6273599
+},
+{
+  "type": "way",
+  "id": 1180953502,
+  "nodes": [
+    10967658928,
+    10967658930
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "no",
+    "highway": "service",
+    "horse": "no",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "noname": "yes",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203858,
+  "lat": 53.3178693,
+  "lon": -4.6198433,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 5619329172,
+  "lat": 53.3174835,
+  "lon": -4.6203850
+},
+{
+  "type": "way",
+  "id": 588340510,
+  "nodes": [
+    1075203858,
+    5619329172
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "incline": "down",
+    "lanes": "2",
+    "layer": "2",
+    "lit": "yes",
+    "maxspeed": "10 mph",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203502,
+  "lat": 53.3172010,
+  "lon": -4.6212515
+},
+{
+  "type": "node",
+  "id": 1075203611,
+  "lat": 53.3174574,
+  "lon": -4.6204430
+},
+{
+  "type": "node",
+  "id": 5619329172,
+  "lat": 53.3174835,
+  "lon": -4.6203850
+},
+{
+  "type": "node",
+  "id": 10967658741,
+  "lat": 53.3173421,
+  "lon": -4.6207970
+},
+{
+  "type": "way",
+  "id": 33831703,
+  "nodes": [
+    5619329172,
+    1075203611,
+    10967658741,
+    1075203502
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "lanes": "1",
+    "layer": "2",
+    "lit": "yes",
+    "maxspeed": "10 mph",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203768,
+  "lat": 53.3177138,
+  "lon": -4.6219021,
+  "tags": {
+    "source": "PGS"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203844,
+  "lat": 53.3178657,
+  "lon": -4.6214521
+},
+{
+  "type": "node",
+  "id": 10967658906,
+  "lat": 53.3178396,
+  "lon": -4.6214998
+},
+{
+  "type": "node",
+  "id": 10967658907,
+  "lat": 53.3178011,
+  "lon": -4.6216138
+},
+{
+  "type": "way",
+  "id": 92699151,
+  "nodes": [
+    1075203844,
+    10967658906,
+    10967658907,
+    1075203768
+  ],
+  "tags": {
+    "bridge": "yes",
+    "hgv": "yes",
+    "highway": "service",
+    "incline": "down",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "10 mph",
+    "motor_vehicle": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "noname": "yes",
+    "sidewalk": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203517,
+  "lat": 53.3182732,
+  "lon": -4.6208558,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203844,
+  "lat": 53.3178657,
+  "lon": -4.6214521
+},
+{
+  "type": "node",
+  "id": 10967658905,
+  "lat": 53.3182025,
+  "lon": -4.6209258
+},
+{
+  "type": "way",
+  "id": 92699188,
+  "nodes": [
+    1075203517,
+    10967658905,
+    1075203844
+  ],
+  "tags": {
+    "bridge": "yes",
+    "hgv": "yes",
+    "highway": "service",
+    "incline": "down",
+    "lanes": "2",
+    "layer": "2",
+    "lit": "yes",
+    "maxspeed": "10 mph",
+    "motor_vehicle": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "noname": "yes",
+    "note": "Or is this Terminal 3",
+    "ref": "Terminal 5",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203517,
+  "lat": 53.3182732,
+  "lon": -4.6208558,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203592,
+  "lat": 53.3178139,
+  "lon": -4.6212877
+},
+{
+  "type": "node",
+  "id": 10967653208,
+  "lat": 53.3181164,
+  "lon": -4.6209836
+},
+{
+  "type": "way",
+  "id": 1180953436,
+  "nodes": [
+    1075203517,
+    10967653208,
+    1075203592
+  ],
+  "tags": {
+    "bridge": "yes",
+    "hgv": "yes",
+    "highway": "service",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "10 mph",
+    "motor_vehicle": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "noname": "yes",
+    "sidewalk": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1075203858,
+  "lat": 53.3178693,
+  "lon": -4.6198433,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 5619329173,
+  "lat": 53.3174357,
+  "lon": -4.6202131
+},
+{
+  "type": "node",
+  "id": 10967653209,
+  "lat": 53.3177218,
+  "lon": -4.6199270
+},
+{
+  "type": "way",
+  "id": 1180953437,
+  "nodes": [
+    1075203858,
+    10967653209,
+    5619329173
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

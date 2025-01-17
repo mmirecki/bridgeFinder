@@ -1,0 +1,371 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:13:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 422081721,
+  "lat": 57.9194733,
+  "lon": -6.6953568
+},
+{
+  "type": "node",
+  "id": 6294616892,
+  "lat": 57.9194597,
+  "lon": -6.6954023
+},
+{
+  "type": "way",
+  "id": 672187532,
+  "nodes": [
+    6294616892,
+    422081721
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "name": "Postman’s Path",
+    "source": "survey",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6294616897,
+  "lat": 57.9188354,
+  "lon": -6.6976506
+},
+{
+  "type": "node",
+  "id": 6294616898,
+  "lat": 57.9188328,
+  "lon": -6.6975863
+},
+{
+  "type": "way",
+  "id": 672187539,
+  "nodes": [
+    6294616897,
+    6294616898
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "name": "Postman’s Path",
+    "source": "survey",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6293993023,
+  "lat": 57.9185938,
+  "lon": -6.6829445
+},
+{
+  "type": "node",
+  "id": 6293995515,
+  "lat": 57.9186042,
+  "lon": -6.6829237
+},
+{
+  "type": "way",
+  "id": 672126771,
+  "nodes": [
+    6293993023,
+    6293995515
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "concrete",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6293995570,
+  "lat": 57.9177514,
+  "lon": -6.6789102
+},
+{
+  "type": "node",
+  "id": 6293995571,
+  "lat": 57.9177856,
+  "lon": -6.6788941
+},
+{
+  "type": "way",
+  "id": 672126776,
+  "nodes": [
+    6293995570,
+    6293995571
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6293995572,
+  "lat": 57.9187799,
+  "lon": -6.6807656
+},
+{
+  "type": "node",
+  "id": 6293995573,
+  "lat": 57.9187828,
+  "lon": -6.6807187
+},
+{
+  "type": "way",
+  "id": 672126777,
+  "nodes": [
+    6293995572,
+    6293995573
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7765802488,
+  "lat": 57.9256353,
+  "lon": -6.6807509
+},
+{
+  "type": "node",
+  "id": 7765802489,
+  "lat": 57.9256869,
+  "lon": -6.6806822
+},
+{
+  "type": "way",
+  "id": 831805325,
+  "nodes": [
+    7765802489,
+    7765802488
+  ],
+  "tags": {
+    "bridge": "yes",
+    "fixme": "Please add the right tags for this type of rails. I am not sure about these. See here for a picture of the upper part: https://commons.wikimedia.org/wiki/File:Lasten_Standseilbahn_Rhenigidale_Isle_of_Harris_SCO_2016.jpg",
+    "incline": "up",
+    "layer": "1",
+    "passenger": "no",
+    "railway": "funicular"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7872161563,
+  "lat": 57.9961874,
+  "lon": -6.6054737
+},
+{
+  "type": "node",
+  "id": 7872161564,
+  "lat": 57.9960893,
+  "lon": -6.6054657
+},
+{
+  "type": "way",
+  "id": 843896590,
+  "nodes": [
+    7872161563,
+    7872161564
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7872161555,
+  "lat": 57.9981945,
+  "lon": -6.6027433
+},
+{
+  "type": "node",
+  "id": 7917065154,
+  "lat": 57.9982094,
+  "lon": -6.6027258
+},
+{
+  "type": "way",
+  "id": 848445006,
+  "nodes": [
+    7917065154,
+    7872161555
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

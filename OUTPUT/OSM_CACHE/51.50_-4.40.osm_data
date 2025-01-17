@@ -1,0 +1,79 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:15:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1429145590,
+  "lat": 51.5658171,
+  "lon": -4.3264231
+},
+{
+  "type": "node",
+  "id": 1429145652,
+  "lat": 51.5657882,
+  "lon": -4.3264642
+},
+{
+  "type": "node",
+  "id": 1429145681,
+  "lat": 51.5656889,
+  "lon": -4.3264911
+},
+{
+  "type": "node",
+  "id": 1429145717,
+  "lat": 51.5657218,
+  "lon": -4.3264861
+},
+{
+  "type": "way",
+  "id": 146957126,
+  "nodes": [
+    1429145681,
+    1429145717,
+    1429145652,
+    1429145590
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "bridge:name": "Devil's Bridge",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "name": "Worms Head Path",
+    "name:cy": "Llwybr Pen Pyrod",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

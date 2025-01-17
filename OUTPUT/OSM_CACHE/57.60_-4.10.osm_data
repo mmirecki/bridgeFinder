@@ -1,0 +1,317 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:29:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 286283980,
+  "lat": 57.6823376,
+  "lon": -4.0371281
+},
+{
+  "type": "node",
+  "id": 286283981,
+  "lat": 57.6827044,
+  "lon": -4.0377672
+},
+{
+  "type": "node",
+  "id": 444634761,
+  "lat": 57.6822552,
+  "lon": -4.0369879
+},
+{
+  "type": "node",
+  "id": 1608499455,
+  "lat": 57.6836391,
+  "lon": -4.0369364
+},
+{
+  "type": "node",
+  "id": 1608499470,
+  "lat": 57.6832646,
+  "lon": -4.0375069
+},
+{
+  "type": "node",
+  "id": 1608499572,
+  "lat": 57.6838317,
+  "lon": -4.0368799
+},
+{
+  "type": "node",
+  "id": 1608499705,
+  "lat": 57.6837690,
+  "lon": -4.0368709
+},
+{
+  "type": "node",
+  "id": 1608499821,
+  "lat": 57.6834581,
+  "lon": -4.0373040
+},
+{
+  "type": "node",
+  "id": 1608499824,
+  "lat": 57.6834284,
+  "lon": -4.0373523
+},
+{
+  "type": "node",
+  "id": 1608499884,
+  "lat": 57.6818962,
+  "lon": -4.0380336
+},
+{
+  "type": "node",
+  "id": 1608500002,
+  "lat": 57.6822346,
+  "lon": -4.0378888
+},
+{
+  "type": "node",
+  "id": 1608500096,
+  "lat": 57.6835858,
+  "lon": -4.0369804
+},
+{
+  "type": "node",
+  "id": 1608500147,
+  "lat": 57.6837037,
+  "lon": -4.0368931
+},
+{
+  "type": "node",
+  "id": 1608500162,
+  "lat": 57.6834925,
+  "lon": -4.0372316
+},
+{
+  "type": "node",
+  "id": 1608500172,
+  "lat": 57.6829114,
+  "lon": -4.0376742
+},
+{
+  "type": "node",
+  "id": 2385874010,
+  "lat": 57.6840234,
+  "lon": -4.0369467,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "noname": "yes",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 2986402090,
+  "lat": 57.6815389,
+  "lon": -4.0382337
+},
+{
+  "type": "node",
+  "id": 7153981999,
+  "lat": 57.6830915,
+  "lon": -4.0375929
+},
+{
+  "type": "node",
+  "id": 7153982000,
+  "lat": 57.6833395,
+  "lon": -4.0374450
+},
+{
+  "type": "node",
+  "id": 7851202045,
+  "lat": 57.6822920,
+  "lon": -4.0370539
+},
+{
+  "type": "node",
+  "id": 7851202077,
+  "lat": 57.6833927,
+  "lon": -4.0373952
+},
+{
+  "type": "node",
+  "id": 7851202078,
+  "lat": 57.6832982,
+  "lon": -4.0374836
+},
+{
+  "type": "node",
+  "id": 7860878273,
+  "lat": 57.6827161,
+  "lon": -4.0377619
+},
+{
+  "type": "node",
+  "id": 7976642188,
+  "lat": 57.6818310,
+  "lon": -4.0380701
+},
+{
+  "type": "node",
+  "id": 10728225908,
+  "lat": 57.6835555,
+  "lon": -4.0370397
+},
+{
+  "type": "node",
+  "id": 12214164604,
+  "lat": 57.6835284,
+  "lon": -4.0371222
+},
+{
+  "type": "way",
+  "id": 49870781,
+  "nodes": [
+    444634761,
+    7851202045,
+    286283980,
+    286283981
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Bank Street",
+    "old_ref": "A833",
+    "ref": "A832",
+    "sidewalk": "right",
+    "sidewalk:right:bicycle": "yes",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147639374,
+  "nodes": [
+    286283981,
+    1608500002,
+    1608499884,
+    7976642188,
+    2986402090
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "no",
+    "highway": "tertiary",
+    "highway_authority_ref": "C1219",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Marine Terrace",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "sidewalk:right:bicycle": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147639375,
+  "nodes": [
+    2385874010,
+    1608499572,
+    1608499705,
+    1608500147,
+    1608499455,
+    1608500096,
+    10728225908,
+    12214164604,
+    1608500162,
+    1608499821,
+    1608499824,
+    7851202077,
+    7153982000,
+    7851202078,
+    1608499470,
+    7153981999,
+    1608500172,
+    7860878273,
+    286283981
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Marine Terrace",
+    "old_ref": "A833",
+    "oneway": "no",
+    "ref": "A832",
+    "sidewalk": "right",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 7843448451,
+  "lat": 57.6829232,
+  "lon": -4.0387942,
+  "tags": {
+    "access": "no",
+    "barrier": "gate",
+    "height": "0",
+    "material": "metal",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7860878274,
+  "lat": 57.6830083,
+  "lon": -4.0391900
+},
+{
+  "type": "way",
+  "id": 842635195,
+  "nodes": [
+    7843448451,
+    7860878274
+  ],
+  "tags": {
+    "access": "permit",
+    "bridge": "yes",
+    "covered": "no",
+    "highway": "service",
+    "layer": "1",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

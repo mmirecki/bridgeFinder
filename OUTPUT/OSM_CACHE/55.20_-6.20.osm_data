@@ -1,0 +1,144 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:31:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 6450755494,
+  "lat": 55.2088617,
+  "lon": -6.1630471
+},
+{
+  "type": "node",
+  "id": 6450755495,
+  "lat": 55.2088098,
+  "lon": -6.1631150
+},
+{
+  "type": "way",
+  "id": 688044681,
+  "nodes": [
+    6450755495,
+    6450755494
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Fairhead Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3236589039,
+  "lat": 55.2115378,
+  "lon": -6.1302966
+},
+{
+  "type": "node",
+  "id": 6841393088,
+  "lat": 55.2115795,
+  "lon": -6.1303130
+},
+{
+  "type": "way",
+  "id": 730266028,
+  "nodes": [
+    3236589039,
+    6841393088
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Murlough Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313010467,
+  "lat": 55.2131924,
+  "lon": -6.1266376
+},
+{
+  "type": "node",
+  "id": 3236589050,
+  "lat": 55.2132255,
+  "lon": -6.1264640
+},
+{
+  "type": "way",
+  "id": 730266030,
+  "nodes": [
+    313010467,
+    3236589050
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Murlough Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

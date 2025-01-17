@@ -1,0 +1,165 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:16:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 271238758,
+  "lat": 58.2009575,
+  "lon": -6.5030043
+},
+{
+  "type": "node",
+  "id": 493668313,
+  "lat": 58.2009105,
+  "lon": -6.5031884
+},
+{
+  "type": "way",
+  "id": 314378758,
+  "nodes": [
+    493668313,
+    271238758
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "old_ref": "A858",
+    "passing_places": "yes",
+    "source": "GPS trace",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 271239312,
+  "lat": 58.2196360,
+  "lon": -6.5504552
+},
+{
+  "type": "node",
+  "id": 5894871513,
+  "lat": 58.2196071,
+  "lon": -6.5502338
+},
+{
+  "type": "way",
+  "id": 624257085,
+  "nodes": [
+    5894871513,
+    271239312
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Rathad Phentland",
+    "name:en": "Pentland Road",
+    "name:gd": "Rathad Phentland",
+    "oneway": "no",
+    "passing_places": "yes",
+    "source": "GPS trace",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8149775805,
+  "lat": 58.2180310,
+  "lon": -6.5331593
+},
+{
+  "type": "node",
+  "id": 8149775806,
+  "lat": 58.2180182,
+  "lon": -6.5330222
+},
+{
+  "type": "way",
+  "id": 875591928,
+  "nodes": [
+    8149775806,
+    8149775805
+  ],
+  "tags": {
+    "alt_name:gd": "Rathad a' Phentland",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Rathad Phentland",
+    "name:en": "Pentland Road",
+    "name:gd": "Rathad Phentland",
+    "oneway": "no",
+    "passing_places": "yes",
+    "source": "GPS trace",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

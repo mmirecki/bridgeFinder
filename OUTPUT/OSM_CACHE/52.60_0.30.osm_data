@@ -1,0 +1,10970 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:16:38Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1878181095,
+  "lat": 52.6030942,
+  "lon": 0.3047943
+},
+{
+  "type": "node",
+  "id": 1878181096,
+  "lat": 52.6031658,
+  "lon": 0.3046351
+},
+{
+  "type": "way",
+  "id": 177371575,
+  "nodes": [
+    1878181095,
+    1878181096
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "White City Road",
+    "prow_ref": "Stow Bardolph FP 20",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1489117297,
+  "lat": 52.6502333,
+  "lon": 0.3024600
+},
+{
+  "type": "node",
+  "id": 1489117298,
+  "lat": 52.6504135,
+  "lon": 0.3019179
+},
+{
+  "type": "way",
+  "id": 135595250,
+  "nodes": [
+    1489117298,
+    1489117297
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Rungay's Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 541830,
+  "lat": 52.6035869,
+  "lon": 0.3614523
+},
+{
+  "type": "node",
+  "id": 541831,
+  "lat": 52.6034987,
+  "lon": 0.3611407
+},
+{
+  "type": "node",
+  "id": 541832,
+  "lat": 52.6033626,
+  "lon": 0.3608908
+},
+{
+  "type": "node",
+  "id": 541833,
+  "lat": 52.6031748,
+  "lon": 0.3606548
+},
+{
+  "type": "node",
+  "id": 541834,
+  "lat": 52.6028859,
+  "lon": 0.3603872
+},
+{
+  "type": "node",
+  "id": 541835,
+  "lat": 52.6025818,
+  "lon": 0.3601076
+},
+{
+  "type": "node",
+  "id": 541836,
+  "lat": 52.6018438,
+  "lon": 0.3594197
+},
+{
+  "type": "node",
+  "id": 541837,
+  "lat": 52.6008914,
+  "lon": 0.3584514
+},
+{
+  "type": "node",
+  "id": 541842,
+  "lat": 52.6004160,
+  "lon": 0.3572230
+},
+{
+  "type": "node",
+  "id": 541846,
+  "lat": 52.6006297,
+  "lon": 0.3546703
+},
+{
+  "type": "node",
+  "id": 541848,
+  "lat": 52.6006033,
+  "lon": 0.3554648
+},
+{
+  "type": "node",
+  "id": 542969,
+  "lat": 52.6006568,
+  "lon": 0.3582014
+},
+{
+  "type": "node",
+  "id": 542970,
+  "lat": 52.6004854,
+  "lon": 0.3578859
+},
+{
+  "type": "node",
+  "id": 542971,
+  "lat": 52.6004201,
+  "lon": 0.3575797
+},
+{
+  "type": "node",
+  "id": 542978,
+  "lat": 52.6006266,
+  "lon": 0.3547342
+},
+{
+  "type": "node",
+  "id": 542980,
+  "lat": 52.6005368,
+  "lon": 0.3561955
+},
+{
+  "type": "node",
+  "id": 308733736,
+  "lat": 52.6004069,
+  "lon": 0.3573398
+},
+{
+  "type": "node",
+  "id": 447081926,
+  "lat": 52.6022455,
+  "lon": 0.3597964
+},
+{
+  "type": "node",
+  "id": 447081931,
+  "lat": 52.6003995,
+  "lon": 0.3556918
+},
+{
+  "type": "node",
+  "id": 447081932,
+  "lat": 52.6005757,
+  "lon": 0.3558400
+},
+{
+  "type": "node",
+  "id": 447081933,
+  "lat": 52.5993495,
+  "lon": 0.3541905
+},
+{
+  "type": "node",
+  "id": 447081934,
+  "lat": 52.5982729,
+  "lon": 0.3533781
+},
+{
+  "type": "node",
+  "id": 447081935,
+  "lat": 52.5990567,
+  "lon": 0.3539422
+},
+{
+  "type": "node",
+  "id": 447081964,
+  "lat": 52.6002678,
+  "lon": 0.3555042
+},
+{
+  "type": "node",
+  "id": 1371957738,
+  "lat": 52.6004438,
+  "lon": 0.3577285
+},
+{
+  "type": "node",
+  "id": 1371957740,
+  "lat": 52.6005629,
+  "lon": 0.3580622
+},
+{
+  "type": "node",
+  "id": 1371957744,
+  "lat": 52.6006302,
+  "lon": 0.3549870
+},
+{
+  "type": "node",
+  "id": 1371957767,
+  "lat": 52.6007707,
+  "lon": 0.3583339
+},
+{
+  "type": "node",
+  "id": 1371957823,
+  "lat": 52.6032801,
+  "lon": 0.3607771
+},
+{
+  "type": "node",
+  "id": 1371957825,
+  "lat": 52.6034368,
+  "lon": 0.3609986
+},
+{
+  "type": "node",
+  "id": 1371957842,
+  "lat": 52.6035451,
+  "lon": 0.3612866
+},
+{
+  "type": "node",
+  "id": 1487707433,
+  "lat": 52.5996420,
+  "lon": 0.3545451
+},
+{
+  "type": "node",
+  "id": 1487707436,
+  "lat": 52.5998640,
+  "lon": 0.3548780
+},
+{
+  "type": "node",
+  "id": 1487707437,
+  "lat": 52.6000800,
+  "lon": 0.3552012
+},
+{
+  "type": "node",
+  "id": 4060532156,
+  "lat": 52.5963676,
+  "lon": 0.3528967
+},
+{
+  "type": "node",
+  "id": 4060532158,
+  "lat": 52.5994344,
+  "lon": 0.3565086
+},
+{
+  "type": "node",
+  "id": 4060532159,
+  "lat": 52.6001953,
+  "lon": 0.3573009
+},
+{
+  "type": "node",
+  "id": 4060532161,
+  "lat": 52.5997504,
+  "lon": 0.3567312
+},
+{
+  "type": "node",
+  "id": 4060532163,
+  "lat": 52.5995761,
+  "lon": 0.3566159
+},
+{
+  "type": "node",
+  "id": 4060532164,
+  "lat": 52.5970932,
+  "lon": 0.3543628
+},
+{
+  "type": "node",
+  "id": 4060532165,
+  "lat": 52.5968751,
+  "lon": 0.3540555
+},
+{
+  "type": "node",
+  "id": 4060532166,
+  "lat": 52.5998793,
+  "lon": 0.3568771
+},
+{
+  "type": "node",
+  "id": 4060532167,
+  "lat": 52.5966959,
+  "lon": 0.3537711
+},
+{
+  "type": "node",
+  "id": 4060532168,
+  "lat": 52.5980807,
+  "lon": 0.3552142
+},
+{
+  "type": "node",
+  "id": 4060532169,
+  "lat": 52.6001414,
+  "lon": 0.3572221
+},
+{
+  "type": "node",
+  "id": 4060532170,
+  "lat": 52.5974777,
+  "lon": 0.3547383
+},
+{
+  "type": "node",
+  "id": 4060532171,
+  "lat": 52.5982697,
+  "lon": 0.3553858
+},
+{
+  "type": "node",
+  "id": 4060532172,
+  "lat": 52.5991900,
+  "lon": 0.3562618
+},
+{
+  "type": "node",
+  "id": 4060532173,
+  "lat": 52.5963472,
+  "lon": 0.3527331
+},
+{
+  "type": "node",
+  "id": 4060532174,
+  "lat": 52.5964692,
+  "lon": 0.3533168
+},
+{
+  "type": "node",
+  "id": 4060532175,
+  "lat": 52.5972545,
+  "lon": 0.3545452
+},
+{
+  "type": "node",
+  "id": 4060532176,
+  "lat": 52.5979210,
+  "lon": 0.3551042
+},
+{
+  "type": "node",
+  "id": 4060532177,
+  "lat": 52.6004092,
+  "lon": 0.3574482
+},
+{
+  "type": "node",
+  "id": 4060532179,
+  "lat": 52.6000080,
+  "lon": 0.3570300
+},
+{
+  "type": "node",
+  "id": 4060532180,
+  "lat": 52.5977109,
+  "lon": 0.3549486
+},
+{
+  "type": "node",
+  "id": 4060532181,
+  "lat": 52.5987843,
+  "lon": 0.3558729
+},
+{
+  "type": "node",
+  "id": 9174978404,
+  "lat": 52.6006188,
+  "lon": 0.3552455
+},
+{
+  "type": "node",
+  "id": 9174995116,
+  "lat": 52.6004573,
+  "lon": 0.3557687
+},
+{
+  "type": "node",
+  "id": 9175009517,
+  "lat": 52.6005346,
+  "lon": 0.3558098
+},
+{
+  "type": "node",
+  "id": 9175009518,
+  "lat": 52.6005440,
+  "lon": 0.3561203
+},
+{
+  "type": "node",
+  "id": 12285146947,
+  "lat": 52.5965943,
+  "lon": 0.3535674
+},
+{
+  "type": "node",
+  "id": 12338946856,
+  "lat": 52.5963910,
+  "lon": 0.3530189
+},
+{
+  "type": "node",
+  "id": 12379296390,
+  "lat": 52.6015490,
+  "lon": 0.3591287
+},
+{
+  "type": "node",
+  "id": 12419809501,
+  "lat": 52.5963333,
+  "lon": 0.3526527
+},
+{
+  "type": "way",
+  "id": 28105379,
+  "nodes": [
+    541842,
+    308733736
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Bridge Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 38044697,
+  "nodes": [
+    447081932,
+    9175009517,
+    9174995116,
+    447081931,
+    447081964
+  ],
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "40 mph",
+    "name": "Farthing Road",
+    "old_ref": "A1122",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 174897616,
+  "nodes": [
+    308733736,
+    4060532177,
+    542971,
+    1371957738,
+    542970,
+    1371957740,
+    542969,
+    1371957767,
+    541837,
+    12379296390,
+    541836,
+    447081926,
+    541835,
+    541834,
+    541833,
+    1371957823,
+    541832,
+    1371957825,
+    541831,
+    1371957842,
+    541830
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Bridge Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 232575011,
+  "nodes": [
+    541846,
+    542978,
+    1371957744,
+    9174978404,
+    541848,
+    447081932,
+    9175009518,
+    542980
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Bridge Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 242200027,
+  "nodes": [
+    447081964,
+    1487707437,
+    1487707436,
+    1487707433,
+    447081933,
+    447081935,
+    447081934
+  ],
+  "tags": {
+    "highway": "residential",
+    "historic:highway": "primary",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Farthing Road",
+    "old_ref": "A1122",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 403723201,
+  "nodes": [
+    4060532159,
+    4060532169,
+    4060532179,
+    4060532166,
+    4060532161,
+    4060532163,
+    4060532158,
+    4060532172,
+    4060532181,
+    4060532171,
+    4060532168,
+    4060532176,
+    4060532180,
+    4060532170,
+    4060532175,
+    4060532164,
+    4060532165,
+    4060532167,
+    12285146947,
+    4060532174,
+    12338946856,
+    4060532156,
+    4060532173,
+    12419809501
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "restricted_byway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "motor_vehicle": "private",
+    "prow_ref": "Downham Market RB 14",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data",
+    "vehicle": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1327835859,
+  "nodes": [
+    4060532177,
+    4060532159
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "restricted_byway",
+    "foot": "designated",
+    "highway": "residential",
+    "horse": "designated",
+    "motor_vehicle": "private",
+    "prow_ref": "Downham Market RB 14",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data",
+    "vehicle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 541842,
+  "lat": 52.6004160,
+  "lon": 0.3572230
+},
+{
+  "type": "node",
+  "id": 542980,
+  "lat": 52.6005368,
+  "lon": 0.3561955
+},
+{
+  "type": "node",
+  "id": 542981,
+  "lat": 52.6004785,
+  "lon": 0.3566690
+},
+{
+  "type": "way",
+  "id": 28105378,
+  "nodes": [
+    542980,
+    542981,
+    541842
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Downham Bridge",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Bridge Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867078985,
+  "lat": 52.6124446,
+  "lon": 0.3155504
+},
+{
+  "type": "node",
+  "id": 1867078986,
+  "lat": 52.6124888,
+  "lon": 0.3154157
+},
+{
+  "type": "way",
+  "id": 176150460,
+  "nodes": [
+    1867078985,
+    1867078986
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "name": "The Chase"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 308013653,
+  "lat": 52.6147434,
+  "lon": 0.3322089
+},
+{
+  "type": "node",
+  "id": 308013655,
+  "lat": 52.6156461,
+  "lon": 0.3312342
+},
+{
+  "type": "node",
+  "id": 308013657,
+  "lat": 52.6162613,
+  "lon": 0.3306427
+},
+{
+  "type": "node",
+  "id": 308013658,
+  "lat": 52.6171394,
+  "lon": 0.3298865
+},
+{
+  "type": "node",
+  "id": 308013660,
+  "lat": 52.6177885,
+  "lon": 0.3292132
+},
+{
+  "type": "node",
+  "id": 308013662,
+  "lat": 52.6182503,
+  "lon": 0.3288626
+},
+{
+  "type": "node",
+  "id": 308013666,
+  "lat": 52.6191713,
+  "lon": 0.3283005
+},
+{
+  "type": "node",
+  "id": 308013672,
+  "lat": 52.6199048,
+  "lon": 0.3281586
+},
+{
+  "type": "node",
+  "id": 308013674,
+  "lat": 52.6207092,
+  "lon": 0.3280639
+},
+{
+  "type": "node",
+  "id": 308013676,
+  "lat": 52.6214663,
+  "lon": 0.3278273
+},
+{
+  "type": "node",
+  "id": 308013677,
+  "lat": 52.6223180,
+  "lon": 0.3275907
+},
+{
+  "type": "node",
+  "id": 308013679,
+  "lat": 52.6231224,
+  "lon": 0.3273305
+},
+{
+  "type": "node",
+  "id": 308013681,
+  "lat": 52.6240214,
+  "lon": 0.3271176
+},
+{
+  "type": "node",
+  "id": 308013682,
+  "lat": 52.6246073,
+  "lon": 0.3269422
+},
+{
+  "type": "node",
+  "id": 308013685,
+  "lat": 52.6253700,
+  "lon": 0.3263132
+},
+{
+  "type": "node",
+  "id": 308013686,
+  "lat": 52.6260270,
+  "lon": 0.3259658
+},
+{
+  "type": "node",
+  "id": 308013687,
+  "lat": 52.6263397,
+  "lon": 0.3257432
+},
+{
+  "type": "node",
+  "id": 766086002,
+  "lat": 52.6187063,
+  "lon": 0.3285300
+},
+{
+  "type": "node",
+  "id": 766086004,
+  "lat": 52.6248873,
+  "lon": 0.3266418
+},
+{
+  "type": "node",
+  "id": 766086005,
+  "lat": 52.6250762,
+  "lon": 0.3264701
+},
+{
+  "type": "node",
+  "id": 4040159468,
+  "lat": 52.6173118,
+  "lon": 0.3296633
+},
+{
+  "type": "node",
+  "id": 4040159510,
+  "lat": 52.6174009,
+  "lon": 0.3295896
+},
+{
+  "type": "node",
+  "id": 5273672349,
+  "lat": 52.6262603,
+  "lon": 0.3257851
+},
+{
+  "type": "node",
+  "id": 5273672350,
+  "lat": 52.6257368,
+  "lon": 0.3261298
+},
+{
+  "type": "way",
+  "id": 254198540,
+  "nodes": [
+    308013653,
+    308013655,
+    308013657,
+    308013658,
+    4040159468
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C6",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Highbridge Road",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 401610261,
+  "nodes": [
+    4040159510,
+    308013660,
+    308013662,
+    766086002,
+    308013666,
+    308013672,
+    308013674,
+    308013676,
+    308013677,
+    308013679,
+    308013681,
+    308013682,
+    766086004,
+    766086005,
+    308013685,
+    5273672350,
+    308013686,
+    5273672349,
+    308013687
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C6",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Highbridge Road",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 4040159468,
+  "lat": 52.6173118,
+  "lon": 0.3296633
+},
+{
+  "type": "node",
+  "id": 4040159510,
+  "lat": 52.6174009,
+  "lon": 0.3295896
+},
+{
+  "type": "way",
+  "id": 401610253,
+  "nodes": [
+    4040159468,
+    4040159510
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C6",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Highbridge Road",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 541829,
+  "lat": 52.6036200,
+  "lon": 0.3618735
+},
+{
+  "type": "node",
+  "id": 541830,
+  "lat": 52.6035869,
+  "lon": 0.3614523
+},
+{
+  "type": "node",
+  "id": 541831,
+  "lat": 52.6034987,
+  "lon": 0.3611407
+},
+{
+  "type": "node",
+  "id": 541832,
+  "lat": 52.6033626,
+  "lon": 0.3608908
+},
+{
+  "type": "node",
+  "id": 541833,
+  "lat": 52.6031748,
+  "lon": 0.3606548
+},
+{
+  "type": "node",
+  "id": 541834,
+  "lat": 52.6028859,
+  "lon": 0.3603872
+},
+{
+  "type": "node",
+  "id": 541835,
+  "lat": 52.6025818,
+  "lon": 0.3601076
+},
+{
+  "type": "node",
+  "id": 541836,
+  "lat": 52.6018438,
+  "lon": 0.3594197
+},
+{
+  "type": "node",
+  "id": 541837,
+  "lat": 52.6008914,
+  "lon": 0.3584514
+},
+{
+  "type": "node",
+  "id": 542956,
+  "lat": 52.6036606,
+  "lon": 0.3632938
+},
+{
+  "type": "node",
+  "id": 542957,
+  "lat": 52.6036726,
+  "lon": 0.3632314
+},
+{
+  "type": "node",
+  "id": 542969,
+  "lat": 52.6006568,
+  "lon": 0.3582014
+},
+{
+  "type": "node",
+  "id": 542970,
+  "lat": 52.6004854,
+  "lon": 0.3578859
+},
+{
+  "type": "node",
+  "id": 542971,
+  "lat": 52.6004201,
+  "lon": 0.3575797
+},
+{
+  "type": "node",
+  "id": 568240,
+  "lat": 52.6034543,
+  "lon": 0.3635257
+},
+{
+  "type": "node",
+  "id": 568241,
+  "lat": 52.6035382,
+  "lon": 0.3635202
+},
+{
+  "type": "node",
+  "id": 568242,
+  "lat": 52.6035949,
+  "lon": 0.3634778
+},
+{
+  "type": "node",
+  "id": 568243,
+  "lat": 52.6036348,
+  "lon": 0.3635000
+},
+{
+  "type": "node",
+  "id": 568244,
+  "lat": 52.6036602,
+  "lon": 0.3635554
+},
+{
+  "type": "node",
+  "id": 568245,
+  "lat": 52.6036583,
+  "lon": 0.3636427
+},
+{
+  "type": "node",
+  "id": 568246,
+  "lat": 52.6035805,
+  "lon": 0.3637109
+},
+{
+  "type": "node",
+  "id": 568247,
+  "lat": 52.6035356,
+  "lon": 0.3636648
+},
+{
+  "type": "node",
+  "id": 568248,
+  "lat": 52.6035250,
+  "lon": 0.3636302
+},
+{
+  "type": "node",
+  "id": 568250,
+  "lat": 52.6033210,
+  "lon": 0.3635664
+},
+{
+  "type": "node",
+  "id": 308733668,
+  "lat": 52.6035542,
+  "lon": 0.3634968
+},
+{
+  "type": "node",
+  "id": 308733669,
+  "lat": 52.6036641,
+  "lon": 0.3635844
+},
+{
+  "type": "node",
+  "id": 308733736,
+  "lat": 52.6004069,
+  "lon": 0.3573398
+},
+{
+  "type": "node",
+  "id": 447081926,
+  "lat": 52.6022455,
+  "lon": 0.3597964
+},
+{
+  "type": "node",
+  "id": 447081954,
+  "lat": 52.6036126,
+  "lon": 0.3617124
+},
+{
+  "type": "node",
+  "id": 1371957738,
+  "lat": 52.6004438,
+  "lon": 0.3577285
+},
+{
+  "type": "node",
+  "id": 1371957740,
+  "lat": 52.6005629,
+  "lon": 0.3580622
+},
+{
+  "type": "node",
+  "id": 1371957767,
+  "lat": 52.6007707,
+  "lon": 0.3583339
+},
+{
+  "type": "node",
+  "id": 1371957823,
+  "lat": 52.6032801,
+  "lon": 0.3607771
+},
+{
+  "type": "node",
+  "id": 1371957825,
+  "lat": 52.6034368,
+  "lon": 0.3609986
+},
+{
+  "type": "node",
+  "id": 1371957828,
+  "lat": 52.6035218,
+  "lon": 0.3635918
+},
+{
+  "type": "node",
+  "id": 1371957842,
+  "lat": 52.6035451,
+  "lon": 0.3612866
+},
+{
+  "type": "node",
+  "id": 1371957844,
+  "lat": 52.6035633,
+  "lon": 0.3637020
+},
+{
+  "type": "node",
+  "id": 1371957846,
+  "lat": 52.6036041,
+  "lon": 0.3637113
+},
+{
+  "type": "node",
+  "id": 1371957847,
+  "lat": 52.6036159,
+  "lon": 0.3634839
+},
+{
+  "type": "node",
+  "id": 1371957849,
+  "lat": 52.6036266,
+  "lon": 0.3636990
+},
+{
+  "type": "node",
+  "id": 1371957850,
+  "lat": 52.6036322,
+  "lon": 0.3633843
+},
+{
+  "type": "node",
+  "id": 1371957851,
+  "lat": 52.6036453,
+  "lon": 0.3636752
+},
+{
+  "type": "node",
+  "id": 1371957868,
+  "lat": 52.6036733,
+  "lon": 0.3634900
+},
+{
+  "type": "node",
+  "id": 1371957870,
+  "lat": 52.6036784,
+  "lon": 0.3634107
+},
+{
+  "type": "node",
+  "id": 4060532177,
+  "lat": 52.6004092,
+  "lon": 0.3574482
+},
+{
+  "type": "node",
+  "id": 8001733853,
+  "lat": 52.6036500,
+  "lon": 0.3635245
+},
+{
+  "type": "node",
+  "id": 8001733854,
+  "lat": 52.6036635,
+  "lon": 0.3636142
+},
+{
+  "type": "node",
+  "id": 8001733855,
+  "lat": 52.6035480,
+  "lon": 0.3636863
+},
+{
+  "type": "node",
+  "id": 8001733856,
+  "lat": 52.6035263,
+  "lon": 0.3635538
+},
+{
+  "type": "node",
+  "id": 8001733857,
+  "lat": 52.6035737,
+  "lon": 0.3634822
+},
+{
+  "type": "node",
+  "id": 12379296390,
+  "lat": 52.6015490,
+  "lon": 0.3591287
+},
+{
+  "type": "way",
+  "id": 4089084,
+  "nodes": [
+    568242,
+    1371957850,
+    542956
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "oneway": "yes",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 10134037,
+  "nodes": [
+    542956,
+    1371957870,
+    1371957868,
+    568244
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "oneway": "yes",
+    "ref": "A1122",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 28105365,
+  "nodes": [
+    542957,
+    542956
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 43176685,
+  "nodes": [
+    568250,
+    568240,
+    568241
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Downham Market Bypass",
+    "oneway": "yes",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 174897616,
+  "nodes": [
+    308733736,
+    4060532177,
+    542971,
+    1371957738,
+    542970,
+    1371957740,
+    542969,
+    1371957767,
+    541837,
+    12379296390,
+    541836,
+    447081926,
+    541835,
+    541834,
+    541833,
+    1371957823,
+    541832,
+    1371957825,
+    541831,
+    1371957842,
+    541830
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Bridge Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 232575014,
+  "nodes": [
+    541830,
+    447081954,
+    541829
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 465238999,
+  "nodes": [
+    8001733857,
+    568242,
+    1371957847,
+    568243,
+    8001733853,
+    568244,
+    308733669,
+    8001733854,
+    568245,
+    1371957851,
+    1371957849,
+    1371957846,
+    568246,
+    1371957844,
+    8001733855,
+    568247,
+    568248,
+    1371957828,
+    8001733856,
+    568241,
+    308733668,
+    8001733857
+  ],
+  "tags": {
+    "highway": "trunk",
+    "junction": "roundabout",
+    "lanes": "1",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "oneway": "yes",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "node",
+  "id": 541829,
+  "lat": 52.6036200,
+  "lon": 0.3618735
+},
+{
+  "type": "node",
+  "id": 1855412511,
+  "lat": 52.6036289,
+  "lon": 0.3620564
+},
+{
+  "type": "way",
+  "id": 28105366,
+  "nodes": [
+    541829,
+    1855412511
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Hythe Bridge",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 541807,
+  "lat": 52.6036372,
+  "lon": 0.3657084
+},
+{
+  "type": "node",
+  "id": 541829,
+  "lat": 52.6036200,
+  "lon": 0.3618735
+},
+{
+  "type": "node",
+  "id": 541830,
+  "lat": 52.6035869,
+  "lon": 0.3614523
+},
+{
+  "type": "node",
+  "id": 541831,
+  "lat": 52.6034987,
+  "lon": 0.3611407
+},
+{
+  "type": "node",
+  "id": 541832,
+  "lat": 52.6033626,
+  "lon": 0.3608908
+},
+{
+  "type": "node",
+  "id": 541833,
+  "lat": 52.6031748,
+  "lon": 0.3606548
+},
+{
+  "type": "node",
+  "id": 541834,
+  "lat": 52.6028859,
+  "lon": 0.3603872
+},
+{
+  "type": "node",
+  "id": 541835,
+  "lat": 52.6025818,
+  "lon": 0.3601076
+},
+{
+  "type": "node",
+  "id": 541836,
+  "lat": 52.6018438,
+  "lon": 0.3594197
+},
+{
+  "type": "node",
+  "id": 541837,
+  "lat": 52.6008914,
+  "lon": 0.3584514
+},
+{
+  "type": "node",
+  "id": 542939,
+  "lat": 52.6035627,
+  "lon": 0.3662557
+},
+{
+  "type": "node",
+  "id": 542940,
+  "lat": 52.6035308,
+  "lon": 0.3665459
+},
+{
+  "type": "node",
+  "id": 542951,
+  "lat": 52.6037249,
+  "lon": 0.3650235
+},
+{
+  "type": "node",
+  "id": 542952,
+  "lat": 52.6037257,
+  "lon": 0.3647553
+},
+{
+  "type": "node",
+  "id": 542953,
+  "lat": 52.6037151,
+  "lon": 0.3645289
+},
+{
+  "type": "node",
+  "id": 542954,
+  "lat": 52.6037066,
+  "lon": 0.3643289
+},
+{
+  "type": "node",
+  "id": 542956,
+  "lat": 52.6036606,
+  "lon": 0.3632938
+},
+{
+  "type": "node",
+  "id": 542957,
+  "lat": 52.6036726,
+  "lon": 0.3632314
+},
+{
+  "type": "node",
+  "id": 542969,
+  "lat": 52.6006568,
+  "lon": 0.3582014
+},
+{
+  "type": "node",
+  "id": 542970,
+  "lat": 52.6004854,
+  "lon": 0.3578859
+},
+{
+  "type": "node",
+  "id": 542971,
+  "lat": 52.6004201,
+  "lon": 0.3575797
+},
+{
+  "type": "node",
+  "id": 568240,
+  "lat": 52.6034543,
+  "lon": 0.3635257
+},
+{
+  "type": "node",
+  "id": 568241,
+  "lat": 52.6035382,
+  "lon": 0.3635202
+},
+{
+  "type": "node",
+  "id": 568242,
+  "lat": 52.6035949,
+  "lon": 0.3634778
+},
+{
+  "type": "node",
+  "id": 568243,
+  "lat": 52.6036348,
+  "lon": 0.3635000
+},
+{
+  "type": "node",
+  "id": 568244,
+  "lat": 52.6036602,
+  "lon": 0.3635554
+},
+{
+  "type": "node",
+  "id": 568245,
+  "lat": 52.6036583,
+  "lon": 0.3636427
+},
+{
+  "type": "node",
+  "id": 568246,
+  "lat": 52.6035805,
+  "lon": 0.3637109
+},
+{
+  "type": "node",
+  "id": 568247,
+  "lat": 52.6035356,
+  "lon": 0.3636648
+},
+{
+  "type": "node",
+  "id": 568248,
+  "lat": 52.6035250,
+  "lon": 0.3636302
+},
+{
+  "type": "node",
+  "id": 568249,
+  "lat": 52.6034521,
+  "lon": 0.3636207
+},
+{
+  "type": "node",
+  "id": 568250,
+  "lat": 52.6033210,
+  "lon": 0.3635664
+},
+{
+  "type": "node",
+  "id": 568252,
+  "lat": 52.6032421,
+  "lon": 0.3635592
+},
+{
+  "type": "node",
+  "id": 568253,
+  "lat": 52.6029658,
+  "lon": 0.3635326
+},
+{
+  "type": "node",
+  "id": 568254,
+  "lat": 52.6024829,
+  "lon": 0.3634679
+},
+{
+  "type": "node",
+  "id": 568255,
+  "lat": 52.6019596,
+  "lon": 0.3633313
+},
+{
+  "type": "node",
+  "id": 568256,
+  "lat": 52.6014298,
+  "lon": 0.3631131
+},
+{
+  "type": "node",
+  "id": 568257,
+  "lat": 52.6006403,
+  "lon": 0.3627180
+},
+{
+  "type": "node",
+  "id": 568273,
+  "lat": 52.6002914,
+  "lon": 0.3625410
+},
+{
+  "type": "node",
+  "id": 568276,
+  "lat": 52.6000661,
+  "lon": 0.3624233
+},
+{
+  "type": "node",
+  "id": 83605357,
+  "lat": 52.6036786,
+  "lon": 0.3654648,
+  "tags": {
+    "crossing:barrier": "double_half",
+    "crossing:light": "yes",
+    "name": "Downham Market Station",
+    "railway": "level_crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 308733668,
+  "lat": 52.6035542,
+  "lon": 0.3634968
+},
+{
+  "type": "node",
+  "id": 308733669,
+  "lat": 52.6036641,
+  "lon": 0.3635844
+},
+{
+  "type": "node",
+  "id": 308733736,
+  "lat": 52.6004069,
+  "lon": 0.3573398
+},
+{
+  "type": "node",
+  "id": 308835978,
+  "lat": 52.6010173,
+  "lon": 0.3629155
+},
+{
+  "type": "node",
+  "id": 410284097,
+  "lat": 52.6035928,
+  "lon": 0.3659426
+},
+{
+  "type": "node",
+  "id": 447081926,
+  "lat": 52.6022455,
+  "lon": 0.3597964
+},
+{
+  "type": "node",
+  "id": 447081954,
+  "lat": 52.6036126,
+  "lon": 0.3617124
+},
+{
+  "type": "node",
+  "id": 1371957738,
+  "lat": 52.6004438,
+  "lon": 0.3577285
+},
+{
+  "type": "node",
+  "id": 1371957740,
+  "lat": 52.6005629,
+  "lon": 0.3580622
+},
+{
+  "type": "node",
+  "id": 1371957767,
+  "lat": 52.6007707,
+  "lon": 0.3583339
+},
+{
+  "type": "node",
+  "id": 1371957789,
+  "lat": 52.6016986,
+  "lon": 0.3632400
+},
+{
+  "type": "node",
+  "id": 1371957797,
+  "lat": 52.6022020,
+  "lon": 0.3634039
+},
+{
+  "type": "node",
+  "id": 1371957823,
+  "lat": 52.6032801,
+  "lon": 0.3607771
+},
+{
+  "type": "node",
+  "id": 1371957825,
+  "lat": 52.6034368,
+  "lon": 0.3609986
+},
+{
+  "type": "node",
+  "id": 1371957826,
+  "lat": 52.6034833,
+  "lon": 0.3669482,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1371957828,
+  "lat": 52.6035218,
+  "lon": 0.3635918
+},
+{
+  "type": "node",
+  "id": 1371957842,
+  "lat": 52.6035451,
+  "lon": 0.3612866
+},
+{
+  "type": "node",
+  "id": 1371957844,
+  "lat": 52.6035633,
+  "lon": 0.3637020
+},
+{
+  "type": "node",
+  "id": 1371957846,
+  "lat": 52.6036041,
+  "lon": 0.3637113
+},
+{
+  "type": "node",
+  "id": 1371957847,
+  "lat": 52.6036159,
+  "lon": 0.3634839
+},
+{
+  "type": "node",
+  "id": 1371957849,
+  "lat": 52.6036266,
+  "lon": 0.3636990
+},
+{
+  "type": "node",
+  "id": 1371957850,
+  "lat": 52.6036322,
+  "lon": 0.3633843
+},
+{
+  "type": "node",
+  "id": 1371957851,
+  "lat": 52.6036453,
+  "lon": 0.3636752
+},
+{
+  "type": "node",
+  "id": 1371957853,
+  "lat": 52.6036433,
+  "lon": 0.3639308
+},
+{
+  "type": "node",
+  "id": 1371957868,
+  "lat": 52.6036733,
+  "lon": 0.3634900
+},
+{
+  "type": "node",
+  "id": 1371957870,
+  "lat": 52.6036784,
+  "lon": 0.3634107
+},
+{
+  "type": "node",
+  "id": 1371957872,
+  "lat": 52.6036942,
+  "lon": 0.3637681
+},
+{
+  "type": "node",
+  "id": 1371957875,
+  "lat": 52.6037124,
+  "lon": 0.3640535
+},
+{
+  "type": "node",
+  "id": 1487154861,
+  "lat": 52.6036858,
+  "lon": 0.3654148,
+  "tags": {
+    "crossing:barrier": "double_half",
+    "crossing:light": "yes",
+    "name": "Downham Market Station",
+    "railway": "level_crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 1923914267,
+  "lat": 52.6037076,
+  "lon": 0.3652305
+},
+{
+  "type": "node",
+  "id": 2409194155,
+  "lat": 52.6037077,
+  "lon": 0.3638911
+},
+{
+  "type": "node",
+  "id": 4060532177,
+  "lat": 52.6004092,
+  "lon": 0.3574482
+},
+{
+  "type": "node",
+  "id": 6555017358,
+  "lat": 52.6037253,
+  "lon": 0.3648798
+},
+{
+  "type": "node",
+  "id": 8001733853,
+  "lat": 52.6036500,
+  "lon": 0.3635245
+},
+{
+  "type": "node",
+  "id": 8001733854,
+  "lat": 52.6036635,
+  "lon": 0.3636142
+},
+{
+  "type": "node",
+  "id": 8001733855,
+  "lat": 52.6035480,
+  "lon": 0.3636863
+},
+{
+  "type": "node",
+  "id": 8001733856,
+  "lat": 52.6035263,
+  "lon": 0.3635538
+},
+{
+  "type": "node",
+  "id": 8001733857,
+  "lat": 52.6035737,
+  "lon": 0.3634822
+},
+{
+  "type": "node",
+  "id": 12272094109,
+  "lat": 52.6036465,
+  "lon": 0.3656468
+},
+{
+  "type": "node",
+  "id": 12379296390,
+  "lat": 52.6015490,
+  "lon": 0.3591287
+},
+{
+  "type": "way",
+  "id": 4088986,
+  "nodes": [
+    568247,
+    568249,
+    568250
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "40 mph",
+    "name": "Downham Market Bypass",
+    "oneway": "yes",
+    "ref": "A1122"
+  }
+},
+{
+  "type": "way",
+  "id": 4089084,
+  "nodes": [
+    568242,
+    1371957850,
+    542956
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "oneway": "yes",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 4388851,
+  "nodes": [
+    542954,
+    1371957853
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C885",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Railway Road",
+    "old_ref": "B1512",
+    "oneway": "yes",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 10133763,
+  "nodes": [
+    568276,
+    568273,
+    568257,
+    308835978,
+    568256,
+    1371957789,
+    568255,
+    1371957797,
+    568254,
+    568253,
+    568252
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Downham Market Bypass",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 10134037,
+  "nodes": [
+    542956,
+    1371957870,
+    1371957868,
+    568244
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "oneway": "yes",
+    "ref": "A1122",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 10134151,
+  "nodes": [
+    568245,
+    1371957872,
+    2409194155
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C885",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Railway Road",
+    "old_ref": "B1512",
+    "oneway": "yes",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 28105365,
+  "nodes": [
+    542957,
+    542956
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 34170214,
+  "nodes": [
+    568252,
+    568250
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Downham Market Bypass",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 43176685,
+  "nodes": [
+    568250,
+    568240,
+    568241
+  ],
+  "tags": {
+    "highway": "trunk",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Downham Market Bypass",
+    "oneway": "yes",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 43176686,
+  "nodes": [
+    542954,
+    542953,
+    542952,
+    6555017358,
+    542951,
+    1923914267,
+    1487154861,
+    83605357,
+    12272094109,
+    541807,
+    410284097,
+    542939,
+    542940,
+    1371957826
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C885",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Railway Road",
+    "old_ref": "B1512",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 174897616,
+  "nodes": [
+    308733736,
+    4060532177,
+    542971,
+    1371957738,
+    542970,
+    1371957740,
+    542969,
+    1371957767,
+    541837,
+    12379296390,
+    541836,
+    447081926,
+    541835,
+    541834,
+    541833,
+    1371957823,
+    541832,
+    1371957825,
+    541831,
+    1371957842,
+    541830
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Bridge Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 232575012,
+  "nodes": [
+    1371957853,
+    568246
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C885",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Railway Road",
+    "old_ref": "B1512",
+    "oneway": "yes",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 232575013,
+  "nodes": [
+    2409194155,
+    1371957875,
+    542954
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C885",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Railway Road",
+    "old_ref": "B1512",
+    "oneway": "yes",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 232575014,
+  "nodes": [
+    541830,
+    447081954,
+    541829
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "ref": "A1122",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "way",
+  "id": 465238999,
+  "nodes": [
+    8001733857,
+    568242,
+    1371957847,
+    568243,
+    8001733853,
+    568244,
+    308733669,
+    8001733854,
+    568245,
+    1371957851,
+    1371957849,
+    1371957846,
+    568246,
+    1371957844,
+    8001733855,
+    568247,
+    568248,
+    1371957828,
+    8001733856,
+    568241,
+    308733668,
+    8001733857
+  ],
+  "tags": {
+    "highway": "trunk",
+    "junction": "roundabout",
+    "lanes": "1",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "oneway": "yes",
+    "salting:ref": "KLY004"
+  }
+},
+{
+  "type": "node",
+  "id": 542957,
+  "lat": 52.6036726,
+  "lon": 0.3632314
+},
+{
+  "type": "node",
+  "id": 1855412511,
+  "lat": 52.6036289,
+  "lon": 0.3620564
+},
+{
+  "type": "way",
+  "id": 174897617,
+  "nodes": [
+    1855412511,
+    542957
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Hythe Bridge",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road / Hythe Bridge",
+    "ref": "A1122",
+    "salting:ref": "KLY004",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864019705,
+  "lat": 52.6162633,
+  "lon": 0.3429283
+},
+{
+  "type": "node",
+  "id": 1864019706,
+  "lat": 52.6163396,
+  "lon": 0.3428141
+},
+{
+  "type": "way",
+  "id": 175842444,
+  "nodes": [
+    1864019706,
+    1864019705
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "name": "Dexter Road",
+    "tracktype": "grade1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3969274961,
+  "lat": 52.6406587,
+  "lon": 0.3350870
+},
+{
+  "type": "node",
+  "id": 12296305195,
+  "lat": 52.6405487,
+  "lon": 0.3351426
+},
+{
+  "type": "way",
+  "id": 1329042325,
+  "nodes": [
+    12296305195,
+    3969274961
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 21761970,
+  "lat": 52.6371548,
+  "lon": 0.3691149
+},
+{
+  "type": "node",
+  "id": 21761971,
+  "lat": 52.6370396,
+  "lon": 0.3678458,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 21761972,
+  "lat": 52.6369744,
+  "lon": 0.3664815,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 21761973,
+  "lat": 52.6368365,
+  "lon": 0.3653403
+},
+{
+  "type": "node",
+  "id": 21761974,
+  "lat": 52.6365165,
+  "lon": 0.3644422
+},
+{
+  "type": "node",
+  "id": 308259345,
+  "lat": 52.6369247,
+  "lon": 0.3658665
+},
+{
+  "type": "node",
+  "id": 308259347,
+  "lat": 52.6371901,
+  "lon": 0.3700882
+},
+{
+  "type": "node",
+  "id": 1373684900,
+  "lat": 52.6370668,
+  "lon": 0.3683528
+},
+{
+  "type": "node",
+  "id": 1373684907,
+  "lat": 52.6371883,
+  "lon": 0.3696005
+},
+{
+  "type": "node",
+  "id": 1373685564,
+  "lat": 52.6366693,
+  "lon": 0.3648118
+},
+{
+  "type": "node",
+  "id": 1373685565,
+  "lat": 52.6367543,
+  "lon": 0.3650373
+},
+{
+  "type": "node",
+  "id": 1373685566,
+  "lat": 52.6368917,
+  "lon": 0.3656150
+},
+{
+  "type": "node",
+  "id": 3361861188,
+  "lat": 52.6365906,
+  "lon": 0.3680091
+},
+{
+  "type": "node",
+  "id": 3361861189,
+  "lat": 52.6370519,
+  "lon": 0.3681131
+},
+{
+  "type": "node",
+  "id": 3961349452,
+  "lat": 52.6371228,
+  "lon": 0.3688741
+},
+{
+  "type": "node",
+  "id": 3961350457,
+  "lat": 52.6382813,
+  "lon": 0.3683912
+},
+{
+  "type": "node",
+  "id": 4040174989,
+  "lat": 52.6379707,
+  "lon": 0.3664337
+},
+{
+  "type": "node",
+  "id": 4040174990,
+  "lat": 52.6376289,
+  "lon": 0.3663801
+},
+{
+  "type": "node",
+  "id": 4040174992,
+  "lat": 52.6370453,
+  "lon": 0.3679568
+},
+{
+  "type": "node",
+  "id": 4040174993,
+  "lat": 52.6388855,
+  "lon": 0.3669326
+},
+{
+  "type": "node",
+  "id": 4040174994,
+  "lat": 52.6374448,
+  "lon": 0.3664058
+},
+{
+  "type": "node",
+  "id": 4040174995,
+  "lat": 52.6407034,
+  "lon": 0.3675860
+},
+{
+  "type": "node",
+  "id": 4040174997,
+  "lat": 52.6374010,
+  "lon": 0.3680001
+},
+{
+  "type": "node",
+  "id": 4040174999,
+  "lat": 52.6369693,
+  "lon": 0.3664108
+},
+{
+  "type": "node",
+  "id": 4040175000,
+  "lat": 52.6372337,
+  "lon": 0.3679304
+},
+{
+  "type": "node",
+  "id": 4040175001,
+  "lat": 52.6403258,
+  "lon": 0.3675753
+},
+{
+  "type": "node",
+  "id": 4040175002,
+  "lat": 52.6390385,
+  "lon": 0.3670023
+},
+{
+  "type": "node",
+  "id": 4040175003,
+  "lat": 52.6394161,
+  "lon": 0.3671901
+},
+{
+  "type": "node",
+  "id": 4040175004,
+  "lat": 52.6373327,
+  "lon": 0.3664552
+},
+{
+  "type": "node",
+  "id": 4040175005,
+  "lat": 52.6383238,
+  "lon": 0.3665829
+},
+{
+  "type": "node",
+  "id": 4040175006,
+  "lat": 52.6371341,
+  "lon": 0.3664713
+},
+{
+  "type": "node",
+  "id": 4040175008,
+  "lat": 52.6400476,
+  "lon": 0.3674744
+},
+{
+  "type": "node",
+  "id": 4040175009,
+  "lat": 52.6377997,
+  "lon": 0.3681063
+},
+{
+  "type": "node",
+  "id": 4040175010,
+  "lat": 52.6386739,
+  "lon": 0.3667610
+},
+{
+  "type": "node",
+  "id": 4040175011,
+  "lat": 52.6370542,
+  "lon": 0.3664487
+},
+{
+  "type": "node",
+  "id": 4042159733,
+  "lat": 52.6357202,
+  "lon": 0.3682039
+},
+{
+  "type": "node",
+  "id": 4042162879,
+  "lat": 52.6409664,
+  "lon": 0.3675851
+},
+{
+  "type": "node",
+  "id": 8754183741,
+  "lat": 52.6371899,
+  "lon": 0.3700408
+},
+{
+  "type": "node",
+  "id": 8754183761,
+  "lat": 52.6371750,
+  "lon": 0.3693081
+},
+{
+  "type": "node",
+  "id": 12146105002,
+  "lat": 52.6370119,
+  "lon": 0.3663991
+},
+{
+  "type": "node",
+  "id": 12146105007,
+  "lat": 52.6370933,
+  "lon": 0.3686213
+},
+{
+  "type": "way",
+  "id": 28074255,
+  "nodes": [
+    21761972,
+    4040174999,
+    308259345,
+    1373685566,
+    21761973,
+    1373685565,
+    1373685564,
+    21761974
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 28074259,
+  "nodes": [
+    308259347,
+    8754183741,
+    1373684907,
+    8754183761,
+    21761970,
+    3961349452,
+    12146105007,
+    1373684900,
+    3361861189
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 401610824,
+  "nodes": [
+    4040174999,
+    12146105002,
+    4040175011,
+    4040175006,
+    4040175004,
+    4040174994,
+    4040174990,
+    4040174989,
+    4040175005,
+    4040175010,
+    4040174993,
+    4040175002,
+    4040175003,
+    4040175008,
+    4040175001,
+    4040174995,
+    4042162879
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Stow Bardolph BR 6",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 401610825,
+  "nodes": [
+    4040174992,
+    4040175000,
+    4040174997,
+    4040175009,
+    3961350457
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Stow Bardolph BR 5",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 401810955,
+  "nodes": [
+    4042159733,
+    3361861188
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Stow Bardolph BR 4",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 1129880925,
+  "nodes": [
+    4040174992,
+    21761971
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 1129880926,
+  "nodes": [
+    3361861189,
+    4040174992
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 21761971,
+  "lat": 52.6370396,
+  "lon": 0.3678458,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 21761972,
+  "lat": 52.6369744,
+  "lon": 0.3664815,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "way",
+  "id": 28074257,
+  "nodes": [
+    21761971,
+    21761972
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Stow Bridge",
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3969274976,
+  "lat": 52.6453815,
+  "lon": 0.3567082
+},
+{
+  "type": "node",
+  "id": 12296305190,
+  "lat": 52.6452825,
+  "lon": 0.3567981
+},
+{
+  "type": "way",
+  "id": 1329042322,
+  "nodes": [
+    12296305190,
+    3969274976
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 76619480,
+  "lat": 52.6194045,
+  "lon": 0.3881492
+},
+{
+  "type": "node",
+  "id": 76619482,
+  "lat": 52.6179499,
+  "lon": 0.3877001
+},
+{
+  "type": "node",
+  "id": 76619483,
+  "lat": 52.6165352,
+  "lon": 0.3885435
+},
+{
+  "type": "node",
+  "id": 76619484,
+  "lat": 52.6153032,
+  "lon": 0.3898846
+},
+{
+  "type": "node",
+  "id": 86786259,
+  "lat": 52.6192058,
+  "lon": 0.3879882
+},
+{
+  "type": "node",
+  "id": 86786260,
+  "lat": 52.6186530,
+  "lon": 0.3877482
+},
+{
+  "type": "node",
+  "id": 86786261,
+  "lat": 52.6182060,
+  "lon": 0.3876476
+},
+{
+  "type": "node",
+  "id": 410285068,
+  "lat": 52.6177754,
+  "lon": 0.3877706
+},
+{
+  "type": "node",
+  "id": 410285073,
+  "lat": 52.6139765,
+  "lon": 0.3905316
+},
+{
+  "type": "node",
+  "id": 410285074,
+  "lat": 52.6160719,
+  "lon": 0.3889324
+},
+{
+  "type": "node",
+  "id": 410285075,
+  "lat": 52.6172818,
+  "lon": 0.3880030
+},
+{
+  "type": "node",
+  "id": 410286703,
+  "lat": 52.6195869,
+  "lon": 0.3883597
+},
+{
+  "type": "node",
+  "id": 805988707,
+  "lat": 52.6134576,
+  "lon": 0.3907603
+},
+{
+  "type": "node",
+  "id": 1373672139,
+  "lat": 52.6148106,
+  "lon": 0.3901689
+},
+{
+  "type": "node",
+  "id": 1373672144,
+  "lat": 52.6154490,
+  "lon": 0.3897370
+},
+{
+  "type": "node",
+  "id": 1373672145,
+  "lat": 52.6162608,
+  "lon": 0.3887500
+},
+{
+  "type": "node",
+  "id": 1373672146,
+  "lat": 52.6169366,
+  "lon": 0.3882323
+},
+{
+  "type": "node",
+  "id": 1373672147,
+  "lat": 52.6174968,
+  "lon": 0.3878997
+},
+{
+  "type": "node",
+  "id": 1373672148,
+  "lat": 52.6184494,
+  "lon": 0.3876798
+},
+{
+  "type": "node",
+  "id": 1373672149,
+  "lat": 52.6189298,
+  "lon": 0.3878461
+},
+{
+  "type": "node",
+  "id": 1373672150,
+  "lat": 52.6190894,
+  "lon": 0.3879145
+},
+{
+  "type": "node",
+  "id": 1373672151,
+  "lat": 52.6193100,
+  "lon": 0.3880687
+},
+{
+  "type": "node",
+  "id": 1373682388,
+  "lat": 52.6150817,
+  "lon": 0.3900294
+},
+{
+  "type": "node",
+  "id": 6914571659,
+  "lat": 52.6157650,
+  "lon": 0.3892989
+},
+{
+  "type": "node",
+  "id": 9988666103,
+  "lat": 52.6155247,
+  "lon": 0.3896391
+},
+{
+  "type": "node",
+  "id": 9988666104,
+  "lat": 52.6183493,
+  "lon": 0.3876583
+},
+{
+  "type": "node",
+  "id": 9988666105,
+  "lat": 52.6180733,
+  "lon": 0.3876650
+},
+{
+  "type": "node",
+  "id": 9988678919,
+  "lat": 52.6144808,
+  "lon": 0.3903083
+},
+{
+  "type": "way",
+  "id": 34961600,
+  "nodes": [
+    410286703,
+    76619480,
+    1373672151,
+    86786259,
+    1373672150,
+    1373672149,
+    86786260,
+    1373672148,
+    9988666104,
+    86786261,
+    9988666105,
+    76619482,
+    410285068,
+    1373672147,
+    410285075,
+    1373672146,
+    76619483,
+    1373672145,
+    410285074,
+    6914571659,
+    9988666103,
+    1373672144,
+    76619484,
+    1373682388,
+    1373672139,
+    9988678919,
+    410285073,
+    805988707
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C51",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Low Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 12378406943,
+  "lat": 52.6159554,
+  "lon": 0.3905497
+},
+{
+  "type": "node",
+  "id": 12378406944,
+  "lat": 52.6159233,
+  "lon": 0.3904619
+},
+{
+  "type": "way",
+  "id": 1338239012,
+  "nodes": [
+    12378406944,
+    12378406943
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 21761962,
+  "lat": 52.6366804,
+  "lon": 0.3813033
+},
+{
+  "type": "node",
+  "id": 21761965,
+  "lat": 52.6368076,
+  "lon": 0.3807040
+},
+{
+  "type": "node",
+  "id": 21761966,
+  "lat": 52.6368781,
+  "lon": 0.3791066
+},
+{
+  "type": "node",
+  "id": 21761967,
+  "lat": 52.6370026,
+  "lon": 0.3761184
+},
+{
+  "type": "node",
+  "id": 21761968,
+  "lat": 52.6371499,
+  "lon": 0.3724787,
+  "tags": {
+    "name": "Stow Bardolph Level Crossing",
+    "railway": "level_crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 21761970,
+  "lat": 52.6371548,
+  "lon": 0.3691149
+},
+{
+  "type": "node",
+  "id": 308259347,
+  "lat": 52.6371901,
+  "lon": 0.3700882
+},
+{
+  "type": "node",
+  "id": 308259350,
+  "lat": 52.6371616,
+  "lon": 0.3715931
+},
+{
+  "type": "node",
+  "id": 805833920,
+  "lat": 52.6367344,
+  "lon": 0.3812195
+},
+{
+  "type": "node",
+  "id": 805833927,
+  "lat": 52.6367876,
+  "lon": 0.3810266
+},
+{
+  "type": "node",
+  "id": 1373684892,
+  "lat": 52.6367690,
+  "lon": 0.3811260
+},
+{
+  "type": "node",
+  "id": 1373684896,
+  "lat": 52.6368322,
+  "lon": 0.3800844
+},
+{
+  "type": "node",
+  "id": 1373684900,
+  "lat": 52.6370668,
+  "lon": 0.3683528
+},
+{
+  "type": "node",
+  "id": 1373684907,
+  "lat": 52.6371883,
+  "lon": 0.3696005
+},
+{
+  "type": "node",
+  "id": 1487158235,
+  "lat": 52.6371511,
+  "lon": 0.3724271,
+  "tags": {
+    "name": "Stow Bardolph Level Crossing",
+    "railway": "level_crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 2120960848,
+  "lat": 52.6370882,
+  "lon": 0.3739510
+},
+{
+  "type": "node",
+  "id": 2120961106,
+  "lat": 52.6371085,
+  "lon": 0.3734713
+},
+{
+  "type": "node",
+  "id": 2120961689,
+  "lat": 52.6371474,
+  "lon": 0.3725567
+},
+{
+  "type": "node",
+  "id": 2600010181,
+  "lat": 52.6371556,
+  "lon": 0.3722013
+},
+{
+  "type": "node",
+  "id": 3361861189,
+  "lat": 52.6370519,
+  "lon": 0.3681131
+},
+{
+  "type": "node",
+  "id": 3961349452,
+  "lat": 52.6371228,
+  "lon": 0.3688741
+},
+{
+  "type": "node",
+  "id": 3961349453,
+  "lat": 52.6371604,
+  "lon": 0.3717133
+},
+{
+  "type": "node",
+  "id": 4040186509,
+  "lat": 52.6371575,
+  "lon": 0.3720099
+},
+{
+  "type": "node",
+  "id": 5238604823,
+  "lat": 52.6368420,
+  "lon": 0.3798749
+},
+{
+  "type": "node",
+  "id": 5238604825,
+  "lat": 52.6368763,
+  "lon": 0.3791449
+},
+{
+  "type": "node",
+  "id": 5238604828,
+  "lat": 52.6368829,
+  "lon": 0.3789460
+},
+{
+  "type": "node",
+  "id": 5238604831,
+  "lat": 52.6368884,
+  "lon": 0.3787643
+},
+{
+  "type": "node",
+  "id": 5238604832,
+  "lat": 52.6369104,
+  "lon": 0.3784542
+},
+{
+  "type": "node",
+  "id": 5238604834,
+  "lat": 52.6369228,
+  "lon": 0.3779957
+},
+{
+  "type": "node",
+  "id": 5238604836,
+  "lat": 52.6369389,
+  "lon": 0.3775780
+},
+{
+  "type": "node",
+  "id": 5238604839,
+  "lat": 52.6369530,
+  "lon": 0.3772364
+},
+{
+  "type": "node",
+  "id": 5238604841,
+  "lat": 52.6369574,
+  "lon": 0.3771310
+},
+{
+  "type": "node",
+  "id": 5238604842,
+  "lat": 52.6369729,
+  "lon": 0.3767956
+},
+{
+  "type": "node",
+  "id": 5238604845,
+  "lat": 52.6369923,
+  "lon": 0.3764406
+},
+{
+  "type": "node",
+  "id": 5238604848,
+  "lat": 52.6370039,
+  "lon": 0.3760810
+},
+{
+  "type": "node",
+  "id": 5238604849,
+  "lat": 52.6370149,
+  "lon": 0.3758045
+},
+{
+  "type": "node",
+  "id": 5238604851,
+  "lat": 52.6370278,
+  "lon": 0.3754770
+},
+{
+  "type": "node",
+  "id": 5238604853,
+  "lat": 52.6370390,
+  "lon": 0.3751946
+},
+{
+  "type": "node",
+  "id": 5238604855,
+  "lat": 52.6370414,
+  "lon": 0.3751335
+},
+{
+  "type": "node",
+  "id": 5238604857,
+  "lat": 52.6370562,
+  "lon": 0.3747597
+},
+{
+  "type": "node",
+  "id": 5238604860,
+  "lat": 52.6370973,
+  "lon": 0.3737356
+},
+{
+  "type": "node",
+  "id": 6901467834,
+  "lat": 52.6371452,
+  "lon": 0.3726085
+},
+{
+  "type": "node",
+  "id": 7171803395,
+  "lat": 52.6371119,
+  "lon": 0.3733911
+},
+{
+  "type": "node",
+  "id": 8754183741,
+  "lat": 52.6371899,
+  "lon": 0.3700408
+},
+{
+  "type": "node",
+  "id": 8754183761,
+  "lat": 52.6371750,
+  "lon": 0.3693081
+},
+{
+  "type": "node",
+  "id": 8836221442,
+  "lat": 52.6370142,
+  "lon": 0.3758215
+},
+{
+  "type": "node",
+  "id": 8836221452,
+  "lat": 52.6369696,
+  "lon": 0.3768678
+},
+{
+  "type": "node",
+  "id": 8836221459,
+  "lat": 52.6369197,
+  "lon": 0.3781090
+},
+{
+  "type": "node",
+  "id": 8836221467,
+  "lat": 52.6369289,
+  "lon": 0.3778369
+},
+{
+  "type": "node",
+  "id": 12146105007,
+  "lat": 52.6370933,
+  "lon": 0.3686213
+},
+{
+  "type": "way",
+  "id": 10303262,
+  "nodes": [
+    21761962,
+    805833920,
+    1373684892,
+    805833927,
+    21761965,
+    1373684896,
+    5238604823,
+    5238604825,
+    21761966,
+    5238604828,
+    5238604831,
+    5238604832,
+    8836221459,
+    5238604834,
+    8836221467,
+    5238604836,
+    5238604839,
+    5238604841,
+    8836221452,
+    5238604842,
+    5238604845,
+    21761967,
+    5238604848,
+    8836221442,
+    5238604849,
+    5238604851,
+    5238604853,
+    5238604855,
+    5238604857,
+    2120960848,
+    5238604860,
+    2120961106,
+    7171803395,
+    6901467834,
+    2120961689
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "The Causeway",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 28074259,
+  "nodes": [
+    308259347,
+    8754183741,
+    1373684907,
+    8754183761,
+    21761970,
+    3961349452,
+    12146105007,
+    1373684900,
+    3361861189
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 174739426,
+  "nodes": [
+    21761968,
+    1487158235,
+    2600010181
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxheight": "16'6\"",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254198605,
+  "nodes": [
+    2120961689,
+    21761968
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxheight": "16'6\"",
+    "maxspeed": "30 mph",
+    "name": "The Causeway",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254198618,
+  "nodes": [
+    2600010181,
+    4040186509,
+    3961349453,
+    308259350
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 21761969,
+  "lat": 52.6371847,
+  "lon": 0.3708659
+},
+{
+  "type": "node",
+  "id": 308259347,
+  "lat": 52.6371901,
+  "lon": 0.3700882
+},
+{
+  "type": "node",
+  "id": 308259350,
+  "lat": 52.6371616,
+  "lon": 0.3715931
+},
+{
+  "type": "way",
+  "id": 28074258,
+  "nodes": [
+    308259350,
+    21761969,
+    308259347
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Stow Causeway Bridge",
+    "highway": "tertiary",
+    "highway_authority_ref": "C5",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "West Head Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313298563,
+  "lat": 52.6753874,
+  "lon": 0.2845595
+},
+{
+  "type": "node",
+  "id": 313298564,
+  "lat": 52.6757783,
+  "lon": 0.2865893
+},
+{
+  "type": "node",
+  "id": 313298565,
+  "lat": 52.6767649,
+  "lon": 0.2907459
+},
+{
+  "type": "node",
+  "id": 313298566,
+  "lat": 52.6761815,
+  "lon": 0.2936961
+},
+{
+  "type": "node",
+  "id": 313298567,
+  "lat": 52.6769491,
+  "lon": 0.2972582
+},
+{
+  "type": "node",
+  "id": 313298568,
+  "lat": 52.6792338,
+  "lon": 0.3064434
+},
+{
+  "type": "node",
+  "id": 313298569,
+  "lat": 52.6800178,
+  "lon": 0.3095135
+},
+{
+  "type": "node",
+  "id": 313298570,
+  "lat": 52.6808360,
+  "lon": 0.3113857
+},
+{
+  "type": "node",
+  "id": 313298571,
+  "lat": 52.6816101,
+  "lon": 0.3181293
+},
+{
+  "type": "node",
+  "id": 313298572,
+  "lat": 52.6818834,
+  "lon": 0.3189645
+},
+{
+  "type": "node",
+  "id": 313298573,
+  "lat": 52.6823553,
+  "lon": 0.3195866
+},
+{
+  "type": "node",
+  "id": 313298574,
+  "lat": 52.6869478,
+  "lon": 0.3232289
+},
+{
+  "type": "node",
+  "id": 667479225,
+  "lat": 52.6753142,
+  "lon": 0.2848836
+},
+{
+  "type": "node",
+  "id": 667479226,
+  "lat": 52.6752977,
+  "lon": 0.2850638
+},
+{
+  "type": "node",
+  "id": 667479227,
+  "lat": 52.6753130,
+  "lon": 0.2853063
+},
+{
+  "type": "node",
+  "id": 667479230,
+  "lat": 52.6763606,
+  "lon": 0.2885843
+},
+{
+  "type": "node",
+  "id": 667479231,
+  "lat": 52.6766260,
+  "lon": 0.2893848
+},
+{
+  "type": "node",
+  "id": 667479232,
+  "lat": 52.6767602,
+  "lon": 0.2900149
+},
+{
+  "type": "node",
+  "id": 667479233,
+  "lat": 52.6767803,
+  "lon": 0.2902311
+},
+{
+  "type": "node",
+  "id": 667479234,
+  "lat": 52.6764140,
+  "lon": 0.2926334
+},
+{
+  "type": "node",
+  "id": 667479235,
+  "lat": 52.6763415,
+  "lon": 0.2947095
+},
+{
+  "type": "node",
+  "id": 667479237,
+  "lat": 52.6766374,
+  "lon": 0.2915761
+},
+{
+  "type": "node",
+  "id": 667479238,
+  "lat": 52.6782006,
+  "lon": 0.3016612
+},
+{
+  "type": "node",
+  "id": 667479239,
+  "lat": 52.6803861,
+  "lon": 0.3104937
+},
+{
+  "type": "node",
+  "id": 667479240,
+  "lat": 52.6809658,
+  "lon": 0.3117666
+},
+{
+  "type": "node",
+  "id": 667479241,
+  "lat": 52.6812190,
+  "lon": 0.3139484
+},
+{
+  "type": "node",
+  "id": 667479242,
+  "lat": 52.6810995,
+  "lon": 0.3127714
+},
+{
+  "type": "node",
+  "id": 667479243,
+  "lat": 52.6817280,
+  "lon": 0.3186229
+},
+{
+  "type": "node",
+  "id": 667479244,
+  "lat": 52.6845632,
+  "lon": 0.3212416
+},
+{
+  "type": "node",
+  "id": 667479245,
+  "lat": 52.6861502,
+  "lon": 0.3223671
+},
+{
+  "type": "node",
+  "id": 1489147183,
+  "lat": 52.6753002,
+  "lon": 0.2851846
+},
+{
+  "type": "node",
+  "id": 1489147184,
+  "lat": 52.6753938,
+  "lon": 0.2855544
+},
+{
+  "type": "node",
+  "id": 1489147188,
+  "lat": 52.6755406,
+  "lon": 0.2859317
+},
+{
+  "type": "node",
+  "id": 1489147191,
+  "lat": 52.6756601,
+  "lon": 0.2862358
+},
+{
+  "type": "node",
+  "id": 1489147195,
+  "lat": 52.6759247,
+  "lon": 0.2871085
+},
+{
+  "type": "node",
+  "id": 1489147198,
+  "lat": 52.6760663,
+  "lon": 0.2876041
+},
+{
+  "type": "node",
+  "id": 1489147200,
+  "lat": 52.6761875,
+  "lon": 0.2938571
+},
+{
+  "type": "node",
+  "id": 1489147201,
+  "lat": 52.6761961,
+  "lon": 0.2940317
+},
+{
+  "type": "node",
+  "id": 1489147202,
+  "lat": 52.6762063,
+  "lon": 0.2880968
+},
+{
+  "type": "node",
+  "id": 1489147204,
+  "lat": 52.6762251,
+  "lon": 0.2933982
+},
+{
+  "type": "node",
+  "id": 1489147205,
+  "lat": 52.6762336,
+  "lon": 0.2942287
+},
+{
+  "type": "node",
+  "id": 1489147208,
+  "lat": 52.6762883,
+  "lon": 0.2931420
+},
+{
+  "type": "node",
+  "id": 1489147214,
+  "lat": 52.6765409,
+  "lon": 0.2920806
+},
+{
+  "type": "node",
+  "id": 1489147217,
+  "lat": 52.6766416,
+  "lon": 0.2959828
+},
+{
+  "type": "node",
+  "id": 1489147222,
+  "lat": 52.6767048,
+  "lon": 0.2896931
+},
+{
+  "type": "node",
+  "id": 1489147223,
+  "lat": 52.6767218,
+  "lon": 0.2911205
+},
+{
+  "type": "node",
+  "id": 1489147225,
+  "lat": 52.6767799,
+  "lon": 0.2904476
+},
+{
+  "type": "node",
+  "id": 1489147232,
+  "lat": 52.6775719,
+  "lon": 0.2994429
+},
+{
+  "type": "node",
+  "id": 1489147233,
+  "lat": 52.6779065,
+  "lon": 0.3005522
+},
+{
+  "type": "node",
+  "id": 1489147238,
+  "lat": 52.6783186,
+  "lon": 0.3022443
+},
+{
+  "type": "node",
+  "id": 1489147241,
+  "lat": 52.6784364,
+  "lon": 0.3028834
+},
+{
+  "type": "node",
+  "id": 1489147243,
+  "lat": 52.6786873,
+  "lon": 0.3040771
+},
+{
+  "type": "node",
+  "id": 1489147245,
+  "lat": 52.6789314,
+  "lon": 0.3050935
+},
+{
+  "type": "node",
+  "id": 1489147250,
+  "lat": 52.6793769,
+  "lon": 0.3070952
+},
+{
+  "type": "node",
+  "id": 1489147253,
+  "lat": 52.6796176,
+  "lon": 0.3080131
+},
+{
+  "type": "node",
+  "id": 1489147257,
+  "lat": 52.6801177,
+  "lon": 0.3098290
+},
+{
+  "type": "node",
+  "id": 1489147258,
+  "lat": 52.6802269,
+  "lon": 0.3101246
+},
+{
+  "type": "node",
+  "id": 1489147264,
+  "lat": 52.6809097,
+  "lon": 0.3115802
+},
+{
+  "type": "node",
+  "id": 1489147266,
+  "lat": 52.6810172,
+  "lon": 0.3120053
+},
+{
+  "type": "node",
+  "id": 1489147267,
+  "lat": 52.6810530,
+  "lon": 0.3122531
+},
+{
+  "type": "node",
+  "id": 1489147272,
+  "lat": 52.6813244,
+  "lon": 0.3149981
+},
+{
+  "type": "node",
+  "id": 1489147273,
+  "lat": 52.6814132,
+  "lon": 0.3160398
+},
+{
+  "type": "node",
+  "id": 1489147275,
+  "lat": 52.6814917,
+  "lon": 0.3171012
+},
+{
+  "type": "node",
+  "id": 1489147277,
+  "lat": 52.6815344,
+  "lon": 0.3176165
+},
+{
+  "type": "node",
+  "id": 1489147281,
+  "lat": 52.6816643,
+  "lon": 0.3183859
+},
+{
+  "type": "node",
+  "id": 1489147283,
+  "lat": 52.6817911,
+  "lon": 0.3187840
+},
+{
+  "type": "node",
+  "id": 1489147286,
+  "lat": 52.6821097,
+  "lon": 0.3192937
+},
+{
+  "type": "node",
+  "id": 1489147288,
+  "lat": 52.6822328,
+  "lon": 0.3194450
+},
+{
+  "type": "node",
+  "id": 1489147290,
+  "lat": 52.6824705,
+  "lon": 0.3196978
+},
+{
+  "type": "node",
+  "id": 1489147292,
+  "lat": 52.6826214,
+  "lon": 0.3198272
+},
+{
+  "type": "node",
+  "id": 1489147294,
+  "lat": 52.6828869,
+  "lon": 0.3200263
+},
+{
+  "type": "node",
+  "id": 1489147296,
+  "lat": 52.6834525,
+  "lon": 0.3204364
+},
+{
+  "type": "node",
+  "id": 1489147300,
+  "lat": 52.6862569,
+  "lon": 0.3224512
+},
+{
+  "type": "node",
+  "id": 1489147302,
+  "lat": 52.6863858,
+  "lon": 0.3225652
+},
+{
+  "type": "node",
+  "id": 1489147303,
+  "lat": 52.6865676,
+  "lon": 0.3227651
+},
+{
+  "type": "node",
+  "id": 1489147304,
+  "lat": 52.6868346,
+  "lon": 0.3230945
+},
+{
+  "type": "node",
+  "id": 7210836556,
+  "lat": 52.6810086,
+  "lon": 0.3119652
+},
+{
+  "type": "node",
+  "id": 8071499461,
+  "lat": 52.6777173,
+  "lon": 0.2999249
+},
+{
+  "type": "way",
+  "id": 28522240,
+  "nodes": [
+    313298563,
+    667479225,
+    667479226,
+    1489147183,
+    667479227,
+    1489147184,
+    1489147188,
+    1489147191,
+    313298564,
+    1489147195,
+    1489147198,
+    1489147202,
+    667479230,
+    667479231,
+    1489147222,
+    667479232,
+    667479233,
+    1489147225,
+    313298565,
+    1489147223,
+    667479237,
+    1489147214,
+    667479234,
+    1489147208,
+    1489147204,
+    313298566,
+    1489147200,
+    1489147201,
+    1489147205,
+    667479235,
+    1489147217,
+    313298567,
+    1489147232,
+    8071499461,
+    1489147233,
+    667479238,
+    1489147238,
+    1489147241,
+    1489147243,
+    1489147245,
+    313298568,
+    1489147250,
+    1489147253,
+    313298569,
+    1489147257,
+    1489147258,
+    667479239,
+    313298570,
+    1489147264,
+    667479240,
+    7210836556,
+    1489147266,
+    1489147267,
+    667479242,
+    667479241,
+    1489147272,
+    1489147273,
+    1489147275,
+    1489147277,
+    313298571,
+    1489147281,
+    667479243,
+    1489147283,
+    313298572,
+    1489147286,
+    1489147288,
+    313298573,
+    1489147290,
+    1489147292,
+    1489147294,
+    1489147296,
+    667479244,
+    667479245,
+    1489147300,
+    1489147302,
+    1489147303,
+    1489147304,
+    313298574
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight": "7.5",
+    "name": "Gravel Bank",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 2133690046,
+  "lat": 52.6775574,
+  "lon": 0.3000291
+},
+{
+  "type": "node",
+  "id": 8071499462,
+  "lat": 52.6776272,
+  "lon": 0.2999833
+},
+{
+  "type": "way",
+  "id": 865961837,
+  "nodes": [
+    2133690046,
+    8071499462
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "maxar"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313298563,
+  "lat": 52.6753874,
+  "lon": 0.2845595
+},
+{
+  "type": "node",
+  "id": 313298564,
+  "lat": 52.6757783,
+  "lon": 0.2865893
+},
+{
+  "type": "node",
+  "id": 313298565,
+  "lat": 52.6767649,
+  "lon": 0.2907459
+},
+{
+  "type": "node",
+  "id": 313298566,
+  "lat": 52.6761815,
+  "lon": 0.2936961
+},
+{
+  "type": "node",
+  "id": 313298567,
+  "lat": 52.6769491,
+  "lon": 0.2972582
+},
+{
+  "type": "node",
+  "id": 313298568,
+  "lat": 52.6792338,
+  "lon": 0.3064434
+},
+{
+  "type": "node",
+  "id": 313298569,
+  "lat": 52.6800178,
+  "lon": 0.3095135
+},
+{
+  "type": "node",
+  "id": 313298570,
+  "lat": 52.6808360,
+  "lon": 0.3113857
+},
+{
+  "type": "node",
+  "id": 313298571,
+  "lat": 52.6816101,
+  "lon": 0.3181293
+},
+{
+  "type": "node",
+  "id": 313298572,
+  "lat": 52.6818834,
+  "lon": 0.3189645
+},
+{
+  "type": "node",
+  "id": 313298573,
+  "lat": 52.6823553,
+  "lon": 0.3195866
+},
+{
+  "type": "node",
+  "id": 313298574,
+  "lat": 52.6869478,
+  "lon": 0.3232289
+},
+{
+  "type": "node",
+  "id": 667479225,
+  "lat": 52.6753142,
+  "lon": 0.2848836
+},
+{
+  "type": "node",
+  "id": 667479226,
+  "lat": 52.6752977,
+  "lon": 0.2850638
+},
+{
+  "type": "node",
+  "id": 667479227,
+  "lat": 52.6753130,
+  "lon": 0.2853063
+},
+{
+  "type": "node",
+  "id": 667479230,
+  "lat": 52.6763606,
+  "lon": 0.2885843
+},
+{
+  "type": "node",
+  "id": 667479231,
+  "lat": 52.6766260,
+  "lon": 0.2893848
+},
+{
+  "type": "node",
+  "id": 667479232,
+  "lat": 52.6767602,
+  "lon": 0.2900149
+},
+{
+  "type": "node",
+  "id": 667479233,
+  "lat": 52.6767803,
+  "lon": 0.2902311
+},
+{
+  "type": "node",
+  "id": 667479234,
+  "lat": 52.6764140,
+  "lon": 0.2926334
+},
+{
+  "type": "node",
+  "id": 667479235,
+  "lat": 52.6763415,
+  "lon": 0.2947095
+},
+{
+  "type": "node",
+  "id": 667479237,
+  "lat": 52.6766374,
+  "lon": 0.2915761
+},
+{
+  "type": "node",
+  "id": 667479238,
+  "lat": 52.6782006,
+  "lon": 0.3016612
+},
+{
+  "type": "node",
+  "id": 667479239,
+  "lat": 52.6803861,
+  "lon": 0.3104937
+},
+{
+  "type": "node",
+  "id": 667479240,
+  "lat": 52.6809658,
+  "lon": 0.3117666
+},
+{
+  "type": "node",
+  "id": 667479241,
+  "lat": 52.6812190,
+  "lon": 0.3139484
+},
+{
+  "type": "node",
+  "id": 667479242,
+  "lat": 52.6810995,
+  "lon": 0.3127714
+},
+{
+  "type": "node",
+  "id": 667479243,
+  "lat": 52.6817280,
+  "lon": 0.3186229
+},
+{
+  "type": "node",
+  "id": 667479244,
+  "lat": 52.6845632,
+  "lon": 0.3212416
+},
+{
+  "type": "node",
+  "id": 667479245,
+  "lat": 52.6861502,
+  "lon": 0.3223671
+},
+{
+  "type": "node",
+  "id": 1489147183,
+  "lat": 52.6753002,
+  "lon": 0.2851846
+},
+{
+  "type": "node",
+  "id": 1489147184,
+  "lat": 52.6753938,
+  "lon": 0.2855544
+},
+{
+  "type": "node",
+  "id": 1489147188,
+  "lat": 52.6755406,
+  "lon": 0.2859317
+},
+{
+  "type": "node",
+  "id": 1489147191,
+  "lat": 52.6756601,
+  "lon": 0.2862358
+},
+{
+  "type": "node",
+  "id": 1489147195,
+  "lat": 52.6759247,
+  "lon": 0.2871085
+},
+{
+  "type": "node",
+  "id": 1489147198,
+  "lat": 52.6760663,
+  "lon": 0.2876041
+},
+{
+  "type": "node",
+  "id": 1489147200,
+  "lat": 52.6761875,
+  "lon": 0.2938571
+},
+{
+  "type": "node",
+  "id": 1489147201,
+  "lat": 52.6761961,
+  "lon": 0.2940317
+},
+{
+  "type": "node",
+  "id": 1489147202,
+  "lat": 52.6762063,
+  "lon": 0.2880968
+},
+{
+  "type": "node",
+  "id": 1489147204,
+  "lat": 52.6762251,
+  "lon": 0.2933982
+},
+{
+  "type": "node",
+  "id": 1489147205,
+  "lat": 52.6762336,
+  "lon": 0.2942287
+},
+{
+  "type": "node",
+  "id": 1489147208,
+  "lat": 52.6762883,
+  "lon": 0.2931420
+},
+{
+  "type": "node",
+  "id": 1489147214,
+  "lat": 52.6765409,
+  "lon": 0.2920806
+},
+{
+  "type": "node",
+  "id": 1489147217,
+  "lat": 52.6766416,
+  "lon": 0.2959828
+},
+{
+  "type": "node",
+  "id": 1489147222,
+  "lat": 52.6767048,
+  "lon": 0.2896931
+},
+{
+  "type": "node",
+  "id": 1489147223,
+  "lat": 52.6767218,
+  "lon": 0.2911205
+},
+{
+  "type": "node",
+  "id": 1489147225,
+  "lat": 52.6767799,
+  "lon": 0.2904476
+},
+{
+  "type": "node",
+  "id": 1489147232,
+  "lat": 52.6775719,
+  "lon": 0.2994429
+},
+{
+  "type": "node",
+  "id": 1489147233,
+  "lat": 52.6779065,
+  "lon": 0.3005522
+},
+{
+  "type": "node",
+  "id": 1489147238,
+  "lat": 52.6783186,
+  "lon": 0.3022443
+},
+{
+  "type": "node",
+  "id": 1489147241,
+  "lat": 52.6784364,
+  "lon": 0.3028834
+},
+{
+  "type": "node",
+  "id": 1489147243,
+  "lat": 52.6786873,
+  "lon": 0.3040771
+},
+{
+  "type": "node",
+  "id": 1489147245,
+  "lat": 52.6789314,
+  "lon": 0.3050935
+},
+{
+  "type": "node",
+  "id": 1489147250,
+  "lat": 52.6793769,
+  "lon": 0.3070952
+},
+{
+  "type": "node",
+  "id": 1489147253,
+  "lat": 52.6796176,
+  "lon": 0.3080131
+},
+{
+  "type": "node",
+  "id": 1489147257,
+  "lat": 52.6801177,
+  "lon": 0.3098290
+},
+{
+  "type": "node",
+  "id": 1489147258,
+  "lat": 52.6802269,
+  "lon": 0.3101246
+},
+{
+  "type": "node",
+  "id": 1489147264,
+  "lat": 52.6809097,
+  "lon": 0.3115802
+},
+{
+  "type": "node",
+  "id": 1489147266,
+  "lat": 52.6810172,
+  "lon": 0.3120053
+},
+{
+  "type": "node",
+  "id": 1489147267,
+  "lat": 52.6810530,
+  "lon": 0.3122531
+},
+{
+  "type": "node",
+  "id": 1489147272,
+  "lat": 52.6813244,
+  "lon": 0.3149981
+},
+{
+  "type": "node",
+  "id": 1489147273,
+  "lat": 52.6814132,
+  "lon": 0.3160398
+},
+{
+  "type": "node",
+  "id": 1489147275,
+  "lat": 52.6814917,
+  "lon": 0.3171012
+},
+{
+  "type": "node",
+  "id": 1489147277,
+  "lat": 52.6815344,
+  "lon": 0.3176165
+},
+{
+  "type": "node",
+  "id": 1489147281,
+  "lat": 52.6816643,
+  "lon": 0.3183859
+},
+{
+  "type": "node",
+  "id": 1489147283,
+  "lat": 52.6817911,
+  "lon": 0.3187840
+},
+{
+  "type": "node",
+  "id": 1489147286,
+  "lat": 52.6821097,
+  "lon": 0.3192937
+},
+{
+  "type": "node",
+  "id": 1489147288,
+  "lat": 52.6822328,
+  "lon": 0.3194450
+},
+{
+  "type": "node",
+  "id": 1489147290,
+  "lat": 52.6824705,
+  "lon": 0.3196978
+},
+{
+  "type": "node",
+  "id": 1489147292,
+  "lat": 52.6826214,
+  "lon": 0.3198272
+},
+{
+  "type": "node",
+  "id": 1489147294,
+  "lat": 52.6828869,
+  "lon": 0.3200263
+},
+{
+  "type": "node",
+  "id": 1489147296,
+  "lat": 52.6834525,
+  "lon": 0.3204364
+},
+{
+  "type": "node",
+  "id": 1489147300,
+  "lat": 52.6862569,
+  "lon": 0.3224512
+},
+{
+  "type": "node",
+  "id": 1489147302,
+  "lat": 52.6863858,
+  "lon": 0.3225652
+},
+{
+  "type": "node",
+  "id": 1489147303,
+  "lat": 52.6865676,
+  "lon": 0.3227651
+},
+{
+  "type": "node",
+  "id": 1489147304,
+  "lat": 52.6868346,
+  "lon": 0.3230945
+},
+{
+  "type": "node",
+  "id": 7210836556,
+  "lat": 52.6810086,
+  "lon": 0.3119652
+},
+{
+  "type": "node",
+  "id": 8071499461,
+  "lat": 52.6777173,
+  "lon": 0.2999249
+},
+{
+  "type": "way",
+  "id": 28522240,
+  "nodes": [
+    313298563,
+    667479225,
+    667479226,
+    1489147183,
+    667479227,
+    1489147184,
+    1489147188,
+    1489147191,
+    313298564,
+    1489147195,
+    1489147198,
+    1489147202,
+    667479230,
+    667479231,
+    1489147222,
+    667479232,
+    667479233,
+    1489147225,
+    313298565,
+    1489147223,
+    667479237,
+    1489147214,
+    667479234,
+    1489147208,
+    1489147204,
+    313298566,
+    1489147200,
+    1489147201,
+    1489147205,
+    667479235,
+    1489147217,
+    313298567,
+    1489147232,
+    8071499461,
+    1489147233,
+    667479238,
+    1489147238,
+    1489147241,
+    1489147243,
+    1489147245,
+    313298568,
+    1489147250,
+    1489147253,
+    313298569,
+    1489147257,
+    1489147258,
+    667479239,
+    313298570,
+    1489147264,
+    667479240,
+    7210836556,
+    1489147266,
+    1489147267,
+    667479242,
+    667479241,
+    1489147272,
+    1489147273,
+    1489147275,
+    1489147277,
+    313298571,
+    1489147281,
+    667479243,
+    1489147283,
+    313298572,
+    1489147286,
+    1489147288,
+    313298573,
+    1489147290,
+    1489147292,
+    1489147294,
+    1489147296,
+    667479244,
+    667479245,
+    1489147300,
+    1489147302,
+    1489147303,
+    1489147304,
+    313298574
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight": "7.5",
+    "name": "Gravel Bank",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 7210836558,
+  "lat": 52.6809350,
+  "lon": 0.3120074
+},
+{
+  "type": "node",
+  "id": 7210836559,
+  "lat": 52.6808485,
+  "lon": 0.3120485
+},
+{
+  "type": "way",
+  "id": 772345571,
+  "nodes": [
+    7210836558,
+    7210836559
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129831531,
+  "lat": 52.7000829,
+  "lon": 0.3030359
+},
+{
+  "type": "node",
+  "id": 2129831538,
+  "lat": 52.6999636,
+  "lon": 0.3030474
+},
+{
+  "type": "way",
+  "id": 203024320,
+  "nodes": [
+    2129831538,
+    2129831531
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "layer": "1",
+    "prow_ref": "Tilney St Lawrence FP 6",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1770859498,
+  "lat": 52.6658550,
+  "lon": 0.3161472
+},
+{
+  "type": "node",
+  "id": 1770859506,
+  "lat": 52.6658146,
+  "lon": 0.3155564
+},
+{
+  "type": "way",
+  "id": 165548269,
+  "nodes": [
+    1770859498,
+    1770859506
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "layer": "1",
+    "name": "Middle Level Bridge",
+    "prow_ref": "Wiggenhall St Mary Magdalen FP 12",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12402844457,
+  "lat": 52.6635969,
+  "lon": 0.3417161
+},
+{
+  "type": "node",
+  "id": 12402844458,
+  "lat": 52.6635701,
+  "lon": 0.3417356
+},
+{
+  "type": "way",
+  "id": 1340824414,
+  "nodes": [
+    12402844458,
+    12402844457
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 314241723,
+  "lat": 52.6712988,
+  "lon": 0.3608849
+},
+{
+  "type": "node",
+  "id": 314241990,
+  "lat": 52.6661400,
+  "lon": 0.3591622
+},
+{
+  "type": "node",
+  "id": 314242963,
+  "lat": 52.6642651,
+  "lon": 0.3594720
+},
+{
+  "type": "node",
+  "id": 314242966,
+  "lat": 52.6646384,
+  "lon": 0.3593473
+},
+{
+  "type": "node",
+  "id": 314242968,
+  "lat": 52.6654342,
+  "lon": 0.3590863
+},
+{
+  "type": "node",
+  "id": 314242971,
+  "lat": 52.6663923,
+  "lon": 0.3591702
+},
+{
+  "type": "node",
+  "id": 314242973,
+  "lat": 52.6670891,
+  "lon": 0.3590871
+},
+{
+  "type": "node",
+  "id": 314242974,
+  "lat": 52.6682406,
+  "lon": 0.3590428
+},
+{
+  "type": "node",
+  "id": 314242975,
+  "lat": 52.6692660,
+  "lon": 0.3598478
+},
+{
+  "type": "node",
+  "id": 314242977,
+  "lat": 52.6715650,
+  "lon": 0.3609297
+},
+{
+  "type": "node",
+  "id": 314242978,
+  "lat": 52.6722515,
+  "lon": 0.3616017
+},
+{
+  "type": "node",
+  "id": 314242979,
+  "lat": 52.6729885,
+  "lon": 0.3619720
+},
+{
+  "type": "node",
+  "id": 314242980,
+  "lat": 52.6732985,
+  "lon": 0.3619152
+},
+{
+  "type": "node",
+  "id": 766086309,
+  "lat": 52.6628661,
+  "lon": 0.3609418
+},
+{
+  "type": "node",
+  "id": 766086310,
+  "lat": 52.6629963,
+  "lon": 0.3609097
+},
+{
+  "type": "node",
+  "id": 766086311,
+  "lat": 52.6631134,
+  "lon": 0.3608238
+},
+{
+  "type": "node",
+  "id": 766086312,
+  "lat": 52.6632630,
+  "lon": 0.3606522
+},
+{
+  "type": "node",
+  "id": 766086315,
+  "lat": 52.6640019,
+  "lon": 0.3596351
+},
+{
+  "type": "node",
+  "id": 766086320,
+  "lat": 52.6641090,
+  "lon": 0.3595364
+},
+{
+  "type": "node",
+  "id": 766086326,
+  "lat": 52.6651956,
+  "lon": 0.3591716
+},
+{
+  "type": "node",
+  "id": 766086332,
+  "lat": 52.6666618,
+  "lon": 0.3591617
+},
+{
+  "type": "node",
+  "id": 766086337,
+  "lat": 52.6674196,
+  "lon": 0.3589910
+},
+{
+  "type": "node",
+  "id": 766086341,
+  "lat": 52.6680715,
+  "lon": 0.3589785
+},
+{
+  "type": "node",
+  "id": 766086348,
+  "lat": 52.6684749,
+  "lon": 0.3591930
+},
+{
+  "type": "node",
+  "id": 766086352,
+  "lat": 52.6686961,
+  "lon": 0.3593647
+},
+{
+  "type": "node",
+  "id": 766086353,
+  "lat": 52.6689043,
+  "lon": 0.3595471
+},
+{
+  "type": "node",
+  "id": 766086355,
+  "lat": 52.6696069,
+  "lon": 0.3600943
+},
+{
+  "type": "node",
+  "id": 766086357,
+  "lat": 52.6699489,
+  "lon": 0.3602982
+},
+{
+  "type": "node",
+  "id": 766086358,
+  "lat": 52.6703423,
+  "lon": 0.3604783
+},
+{
+  "type": "node",
+  "id": 766086359,
+  "lat": 52.6705066,
+  "lon": 0.3605341
+},
+{
+  "type": "node",
+  "id": 766086360,
+  "lat": 52.6705796,
+  "lon": 0.3605965
+},
+{
+  "type": "node",
+  "id": 766086361,
+  "lat": 52.6706850,
+  "lon": 0.3607130
+},
+{
+  "type": "node",
+  "id": 766086362,
+  "lat": 52.6708577,
+  "lon": 0.3609299
+},
+{
+  "type": "node",
+  "id": 766086363,
+  "lat": 52.6709269,
+  "lon": 0.3609715
+},
+{
+  "type": "node",
+  "id": 766086364,
+  "lat": 52.6710371,
+  "lon": 0.3609909
+},
+{
+  "type": "node",
+  "id": 766086366,
+  "lat": 52.6711943,
+  "lon": 0.3609299
+},
+{
+  "type": "node",
+  "id": 766086368,
+  "lat": 52.6713686,
+  "lon": 0.3608711
+},
+{
+  "type": "node",
+  "id": 766086371,
+  "lat": 52.6714907,
+  "lon": 0.3608929
+},
+{
+  "type": "node",
+  "id": 766086372,
+  "lat": 52.6718633,
+  "lon": 0.3611697
+},
+{
+  "type": "node",
+  "id": 766086373,
+  "lat": 52.6724429,
+  "lon": 0.3617710
+},
+{
+  "type": "node",
+  "id": 766086374,
+  "lat": 52.6726010,
+  "lon": 0.3618488
+},
+{
+  "type": "node",
+  "id": 766086375,
+  "lat": 52.6727878,
+  "lon": 0.3619170
+},
+{
+  "type": "node",
+  "id": 766086376,
+  "lat": 52.6731538,
+  "lon": 0.3619574
+},
+{
+  "type": "node",
+  "id": 766086378,
+  "lat": 52.6736551,
+  "lon": 0.3617658
+},
+{
+  "type": "node",
+  "id": 1489366904,
+  "lat": 52.6714356,
+  "lon": 0.3608810
+},
+{
+  "type": "node",
+  "id": 1489366905,
+  "lat": 52.6716871,
+  "lon": 0.3610129
+},
+{
+  "type": "node",
+  "id": 1489366906,
+  "lat": 52.6720532,
+  "lon": 0.3613617
+},
+{
+  "type": "node",
+  "id": 1489366907,
+  "lat": 52.6723489,
+  "lon": 0.3617000
+},
+{
+  "type": "node",
+  "id": 1489366908,
+  "lat": 52.6729023,
+  "lon": 0.3619551
+},
+{
+  "type": "node",
+  "id": 1489366910,
+  "lat": 52.6730706,
+  "lon": 0.3619724
+},
+{
+  "type": "node",
+  "id": 1489366912,
+  "lat": 52.6734651,
+  "lon": 0.3618527
+},
+{
+  "type": "node",
+  "id": 1489366913,
+  "lat": 52.6738365,
+  "lon": 0.3616688
+},
+{
+  "type": "node",
+  "id": 1489369183,
+  "lat": 52.6739006,
+  "lon": 0.3616255
+},
+{
+  "type": "node",
+  "id": 1489382937,
+  "lat": 52.6701244,
+  "lon": 0.3603920
+},
+{
+  "type": "node",
+  "id": 1489382938,
+  "lat": 52.6702458,
+  "lon": 0.3604411
+},
+{
+  "type": "node",
+  "id": 1489382939,
+  "lat": 52.6704280,
+  "lon": 0.3604961
+},
+{
+  "type": "node",
+  "id": 1489382941,
+  "lat": 52.6707751,
+  "lon": 0.3608270
+},
+{
+  "type": "node",
+  "id": 1489382942,
+  "lat": 52.6709770,
+  "lon": 0.3609925
+},
+{
+  "type": "node",
+  "id": 1489382943,
+  "lat": 52.6711085,
+  "lon": 0.3609664
+},
+{
+  "type": "node",
+  "id": 1868478610,
+  "lat": 52.6627882,
+  "lon": 0.3609464
+},
+{
+  "type": "node",
+  "id": 3961352857,
+  "lat": 52.6664325,
+  "lon": 0.3615461
+},
+{
+  "type": "node",
+  "id": 3961352886,
+  "lat": 52.6666524,
+  "lon": 0.3616785
+},
+{
+  "type": "node",
+  "id": 3961353084,
+  "lat": 52.6675603,
+  "lon": 0.3618693
+},
+{
+  "type": "node",
+  "id": 3961353167,
+  "lat": 52.6677868,
+  "lon": 0.3619480
+},
+{
+  "type": "node",
+  "id": 3961353431,
+  "lat": 52.6685004,
+  "lon": 0.3625106
+},
+{
+  "type": "node",
+  "id": 3961353626,
+  "lat": 52.6688242,
+  "lon": 0.3628894
+},
+{
+  "type": "node",
+  "id": 4042164517,
+  "lat": 52.6414121,
+  "lon": 0.3675006
+},
+{
+  "type": "node",
+  "id": 4064124883,
+  "lat": 52.6669108,
+  "lon": 0.3617261
+},
+{
+  "type": "node",
+  "id": 4064124884,
+  "lat": 52.6686681,
+  "lon": 0.3623638
+},
+{
+  "type": "node",
+  "id": 4064125191,
+  "lat": 52.6676938,
+  "lon": 0.3617067
+},
+{
+  "type": "node",
+  "id": 4064125201,
+  "lat": 52.6665275,
+  "lon": 0.3614465
+},
+{
+  "type": "node",
+  "id": 4064125203,
+  "lat": 52.6694601,
+  "lon": 0.3628090
+},
+{
+  "type": "node",
+  "id": 4064125205,
+  "lat": 52.6673522,
+  "lon": 0.3615886
+},
+{
+  "type": "node",
+  "id": 4064125206,
+  "lat": 52.6667568,
+  "lon": 0.3614438
+},
+{
+  "type": "node",
+  "id": 4064125207,
+  "lat": 52.6662886,
+  "lon": 0.3615024
+},
+{
+  "type": "node",
+  "id": 4064125209,
+  "lat": 52.6678808,
+  "lon": 0.3618220
+},
+{
+  "type": "node",
+  "id": 4064125210,
+  "lat": 52.6680191,
+  "lon": 0.3619186
+},
+{
+  "type": "node",
+  "id": 4064125212,
+  "lat": 52.6689364,
+  "lon": 0.3625355
+},
+{
+  "type": "node",
+  "id": 4064125215,
+  "lat": 52.6684046,
+  "lon": 0.3621707
+},
+{
+  "type": "node",
+  "id": 4064125216,
+  "lat": 52.6669732,
+  "lon": 0.3614921
+},
+{
+  "type": "node",
+  "id": 4209475599,
+  "lat": 52.6696798,
+  "lon": 0.3629088
+},
+{
+  "type": "node",
+  "id": 4408096324,
+  "lat": 52.6678892,
+  "lon": 0.3589646
+},
+{
+  "type": "node",
+  "id": 4960418480,
+  "lat": 52.6712696,
+  "lon": 0.3608975
+},
+{
+  "type": "node",
+  "id": 6877900330,
+  "lat": 52.6735524,
+  "lon": 0.3618128
+},
+{
+  "type": "node",
+  "id": 8476806819,
+  "lat": 52.6708902,
+  "lon": 0.3616811
+},
+{
+  "type": "node",
+  "id": 8476806820,
+  "lat": 52.6706158,
+  "lon": 0.3616282
+},
+{
+  "type": "node",
+  "id": 8476806821,
+  "lat": 52.6702295,
+  "lon": 0.3614894
+},
+{
+  "type": "node",
+  "id": 8476806822,
+  "lat": 52.6696781,
+  "lon": 0.3612024
+},
+{
+  "type": "node",
+  "id": 8476806823,
+  "lat": 52.6681345,
+  "lon": 0.3602582
+},
+{
+  "type": "node",
+  "id": 8476806824,
+  "lat": 52.6678629,
+  "lon": 0.3600866
+},
+{
+  "type": "node",
+  "id": 8476806825,
+  "lat": 52.6672529,
+  "lon": 0.3598183
+},
+{
+  "type": "node",
+  "id": 8476806826,
+  "lat": 52.6669097,
+  "lon": 0.3597566
+},
+{
+  "type": "node",
+  "id": 8476806827,
+  "lat": 52.6663810,
+  "lon": 0.3596842
+},
+{
+  "type": "node",
+  "id": 8476806828,
+  "lat": 52.6655303,
+  "lon": 0.3597432
+},
+{
+  "type": "node",
+  "id": 8476806829,
+  "lat": 52.6650683,
+  "lon": 0.3598773
+},
+{
+  "type": "node",
+  "id": 8476806830,
+  "lat": 52.6647560,
+  "lon": 0.3600651
+},
+{
+  "type": "node",
+  "id": 8476806831,
+  "lat": 52.6641216,
+  "lon": 0.3604299
+},
+{
+  "type": "node",
+  "id": 8476806832,
+  "lat": 52.6634318,
+  "lon": 0.3609475
+},
+{
+  "type": "node",
+  "id": 8476806833,
+  "lat": 52.6623614,
+  "lon": 0.3617281
+},
+{
+  "type": "node",
+  "id": 8476806834,
+  "lat": 52.6603116,
+  "lon": 0.3629753
+},
+{
+  "type": "node",
+  "id": 8476806835,
+  "lat": 52.6598073,
+  "lon": 0.3631765
+},
+{
+  "type": "node",
+  "id": 8476806836,
+  "lat": 52.6582682,
+  "lon": 0.3635815
+},
+{
+  "type": "node",
+  "id": 8476806837,
+  "lat": 52.6577476,
+  "lon": 0.3636700
+},
+{
+  "type": "node",
+  "id": 8476806838,
+  "lat": 52.6572774,
+  "lon": 0.3636432
+},
+{
+  "type": "node",
+  "id": 8476806839,
+  "lat": 52.6568983,
+  "lon": 0.3636566
+},
+{
+  "type": "node",
+  "id": 8476806840,
+  "lat": 52.6564834,
+  "lon": 0.3638470
+},
+{
+  "type": "node",
+  "id": 8476806841,
+  "lat": 52.6561841,
+  "lon": 0.3640911
+},
+{
+  "type": "node",
+  "id": 8476806842,
+  "lat": 52.6557854,
+  "lon": 0.3645283
+},
+{
+  "type": "node",
+  "id": 8476806843,
+  "lat": 52.6553250,
+  "lon": 0.3648823
+},
+{
+  "type": "node",
+  "id": 8476806844,
+  "lat": 52.6545505,
+  "lon": 0.3653920
+},
+{
+  "type": "node",
+  "id": 8476806845,
+  "lat": 52.6540852,
+  "lon": 0.3655153
+},
+{
+  "type": "node",
+  "id": 8476806846,
+  "lat": 52.6536035,
+  "lon": 0.3655261
+},
+{
+  "type": "node",
+  "id": 8476806847,
+  "lat": 52.6530780,
+  "lon": 0.3654698
+},
+{
+  "type": "node",
+  "id": 8476806848,
+  "lat": 52.6524369,
+  "lon": 0.3653061
+},
+{
+  "type": "node",
+  "id": 8476806849,
+  "lat": 52.6519438,
+  "lon": 0.3651720
+},
+{
+  "type": "node",
+  "id": 8476806850,
+  "lat": 52.6513841,
+  "lon": 0.3651023
+},
+{
+  "type": "node",
+  "id": 8476806851,
+  "lat": 52.6507609,
+  "lon": 0.3651077
+},
+{
+  "type": "node",
+  "id": 8476806852,
+  "lat": 52.6504501,
+  "lon": 0.3651720
+},
+{
+  "type": "node",
+  "id": 8476806853,
+  "lat": 52.6499424,
+  "lon": 0.3652981
+},
+{
+  "type": "node",
+  "id": 8476806854,
+  "lat": 52.6490539,
+  "lon": 0.3654590
+},
+{
+  "type": "node",
+  "id": 8476806855,
+  "lat": 52.6485071,
+  "lon": 0.3654107
+},
+{
+  "type": "node",
+  "id": 8476806856,
+  "lat": 52.6473810,
+  "lon": 0.3650647
+},
+{
+  "type": "node",
+  "id": 8476806857,
+  "lat": 52.6481572,
+  "lon": 0.3653410
+},
+{
+  "type": "node",
+  "id": 8476806858,
+  "lat": 52.6467724,
+  "lon": 0.3649145
+},
+{
+  "type": "node",
+  "id": 8476806859,
+  "lat": 52.6464892,
+  "lon": 0.3648609
+},
+{
+  "type": "node",
+  "id": 8476806860,
+  "lat": 52.6461572,
+  "lon": 0.3649011
+},
+{
+  "type": "node",
+  "id": 8476806861,
+  "lat": 52.6457748,
+  "lon": 0.3650647
+},
+{
+  "type": "node",
+  "id": 8476806862,
+  "lat": 52.6454688,
+  "lon": 0.3652793
+},
+{
+  "type": "node",
+  "id": 8476806863,
+  "lat": 52.6441994,
+  "lon": 0.3664809
+},
+{
+  "type": "node",
+  "id": 8476806864,
+  "lat": 52.6429397,
+  "lon": 0.3673366
+},
+{
+  "type": "node",
+  "id": 8476806865,
+  "lat": 52.6419095,
+  "lon": 0.3674948
+},
+{
+  "type": "node",
+  "id": 8476806875,
+  "lat": 52.6715937,
+  "lon": 0.3618127
+},
+{
+  "type": "way",
+  "id": 176302499,
+  "nodes": [
+    1868478610,
+    766086309,
+    766086310,
+    766086311,
+    766086312,
+    766086315,
+    766086320,
+    314242963,
+    314242966,
+    766086326,
+    314242968,
+    314241990,
+    314242971,
+    766086332,
+    314242973,
+    766086337,
+    4408096324,
+    766086341,
+    314242974,
+    766086348,
+    766086352,
+    766086353,
+    314242975,
+    766086355,
+    766086357,
+    1489382937,
+    1489382938,
+    766086358,
+    1489382939,
+    766086359,
+    766086360,
+    766086361,
+    1489382941,
+    766086362,
+    766086363,
+    1489382942,
+    766086364,
+    1489382943,
+    766086366,
+    4960418480,
+    314241723,
+    766086368,
+    1489366904,
+    766086371,
+    314242977,
+    1489366905,
+    766086372,
+    1489366906,
+    314242978,
+    1489366907,
+    766086373,
+    766086374,
+    766086375,
+    1489366908,
+    314242979,
+    1489366910,
+    766086376,
+    314242980,
+    1489366912,
+    6877900330,
+    766086378,
+    1489366913,
+    1489369183
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C8",
+    "maxspeed": "30 mph",
+    "name": "Stow Road",
+    "source": "GPS",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 404139125,
+  "nodes": [
+    4064125207,
+    4064125201,
+    4064125206,
+    4064125216,
+    4064125205,
+    4064125191,
+    4064125209,
+    4064125210,
+    4064125215,
+    4064124884,
+    4064125212,
+    4064125203,
+    4209475599
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Runcton Holme BR 1",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data",
+    "tracktype": "grade5"
+  }
+},
+{
+  "type": "way",
+  "id": 421125926,
+  "nodes": [
+    4064125207,
+    3961352857,
+    3961352886,
+    4064124883,
+    3961353084,
+    3961353167,
+    3961353431,
+    3961353626
+  ],
+  "tags": {
+    "highway": "bridleway",
+    "tracktype": "grade5"
+  }
+},
+{
+  "type": "way",
+  "id": 912503562,
+  "nodes": [
+    4042164517,
+    8476806865,
+    8476806864,
+    8476806863,
+    8476806862,
+    8476806861,
+    8476806860,
+    8476806859,
+    8476806858,
+    8476806856,
+    8476806857,
+    8476806855,
+    8476806854,
+    8476806853,
+    8476806852,
+    8476806851,
+    8476806850,
+    8476806849,
+    8476806848,
+    8476806847,
+    8476806846,
+    8476806845,
+    8476806844,
+    8476806843,
+    8476806842,
+    8476806841,
+    8476806840,
+    8476806839,
+    8476806838,
+    8476806837,
+    8476806836,
+    8476806835,
+    8476806834,
+    8476806833,
+    8476806832,
+    8476806831,
+    8476806830,
+    8476806829,
+    8476806828,
+    8476806827,
+    8476806826,
+    8476806825,
+    8476806824,
+    8476806823,
+    8476806822,
+    8476806821,
+    8476806820,
+    8476806819,
+    8476806875
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Wiggenhall St Mary Magdalen BR 10",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "node",
+  "id": 1489382909,
+  "lat": 52.6676883,
+  "lon": 0.3620908
+},
+{
+  "type": "node",
+  "id": 1489382910,
+  "lat": 52.6679121,
+  "lon": 0.3600823
+},
+{
+  "type": "way",
+  "id": 165548272,
+  "nodes": [
+    1489382910,
+    1489382909
+  ],
+  "tags": {
+    "bridge": "yes",
+    "layer": "1",
+    "name": "Wisbech Goods Branch",
+    "railway": "razed",
+    "razed:railway": "rail",
+    "ref": "WIG"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3961353033,
+  "lat": 52.6673129,
+  "lon": 0.3653805
+},
+{
+  "type": "node",
+  "id": 3961353073,
+  "lat": 52.6674884,
+  "lon": 0.3638257
+},
+{
+  "type": "way",
+  "id": 392949862,
+  "nodes": [
+    3961353073,
+    3961353033
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "tracktype": "grade5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9895595957,
+  "lat": 52.6674964,
+  "lon": 0.3638281
+},
+{
+  "type": "node",
+  "id": 9895595958,
+  "lat": 52.6673195,
+  "lon": 0.3653826
+},
+{
+  "type": "way",
+  "id": 1079511486,
+  "nodes": [
+    9895595958,
+    9895595957
+  ],
+  "tags": {
+    "abandoned:railway": "rail",
+    "bridge": "yes",
+    "layer": "1",
+    "name": "Wisbech Goods Branch",
+    "railway": "abandoned",
+    "ref": "WIG"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 338809721,
+  "lat": 52.6757632,
+  "lon": 0.3608050
+},
+{
+  "type": "node",
+  "id": 338809722,
+  "lat": 52.6759938,
+  "lon": 0.3618099
+},
+{
+  "type": "node",
+  "id": 338809723,
+  "lat": 52.6763350,
+  "lon": 0.3636210
+},
+{
+  "type": "node",
+  "id": 338809724,
+  "lat": 52.6764542,
+  "lon": 0.3641231
+},
+{
+  "type": "node",
+  "id": 338824118,
+  "lat": 52.6761207,
+  "lon": 0.3679710
+},
+{
+  "type": "node",
+  "id": 338824235,
+  "lat": 52.6763414,
+  "lon": 0.3671540
+},
+{
+  "type": "node",
+  "id": 338824292,
+  "lat": 52.6765910,
+  "lon": 0.3652267
+},
+{
+  "type": "node",
+  "id": 338824293,
+  "lat": 52.6764909,
+  "lon": 0.3663888
+},
+{
+  "type": "node",
+  "id": 766086602,
+  "lat": 52.6761910,
+  "lon": 0.3627798
+},
+{
+  "type": "node",
+  "id": 766086603,
+  "lat": 52.6765415,
+  "lon": 0.3645774
+},
+{
+  "type": "node",
+  "id": 1489382960,
+  "lat": 52.6763867,
+  "lon": 0.3638800
+},
+{
+  "type": "node",
+  "id": 1489382961,
+  "lat": 52.6763957,
+  "lon": 0.3668903
+},
+{
+  "type": "node",
+  "id": 1489382962,
+  "lat": 52.6765022,
+  "lon": 0.3643364
+},
+{
+  "type": "node",
+  "id": 1489382964,
+  "lat": 52.6765850,
+  "lon": 0.3649045
+},
+{
+  "type": "node",
+  "id": 2124526123,
+  "lat": 52.6761654,
+  "lon": 0.3677917
+},
+{
+  "type": "node",
+  "id": 4064124876,
+  "lat": 52.6725179,
+  "lon": 0.3644130
+},
+{
+  "type": "node",
+  "id": 4064124877,
+  "lat": 52.6742565,
+  "lon": 0.3653491
+},
+{
+  "type": "node",
+  "id": 4064124879,
+  "lat": 52.6759560,
+  "lon": 0.3661672
+},
+{
+  "type": "node",
+  "id": 4064124880,
+  "lat": 52.6757469,
+  "lon": 0.3660400
+},
+{
+  "type": "node",
+  "id": 4064124885,
+  "lat": 52.6745883,
+  "lon": 0.3655100
+},
+{
+  "type": "node",
+  "id": 4064124886,
+  "lat": 52.6754762,
+  "lon": 0.3659606
+},
+{
+  "type": "node",
+  "id": 4064124888,
+  "lat": 52.6756015,
+  "lon": 0.3659741
+},
+{
+  "type": "node",
+  "id": 4064125189,
+  "lat": 52.6719633,
+  "lon": 0.3641099
+},
+{
+  "type": "node",
+  "id": 4064125190,
+  "lat": 52.6736190,
+  "lon": 0.3649924
+},
+{
+  "type": "node",
+  "id": 4064125192,
+  "lat": 52.6751233,
+  "lon": 0.3658185
+},
+{
+  "type": "node",
+  "id": 4064125195,
+  "lat": 52.6700213,
+  "lon": 0.3630987
+},
+{
+  "type": "node",
+  "id": 4064125196,
+  "lat": 52.6764727,
+  "lon": 0.3664824
+},
+{
+  "type": "node",
+  "id": 4064125197,
+  "lat": 52.6753266,
+  "lon": 0.3659150
+},
+{
+  "type": "node",
+  "id": 4064125200,
+  "lat": 52.6704377,
+  "lon": 0.3632784
+},
+{
+  "type": "node",
+  "id": 4064125202,
+  "lat": 52.6703059,
+  "lon": 0.3632462
+},
+{
+  "type": "node",
+  "id": 4064125211,
+  "lat": 52.6730530,
+  "lon": 0.3646920
+},
+{
+  "type": "node",
+  "id": 4064125213,
+  "lat": 52.6713729,
+  "lon": 0.3638095
+},
+{
+  "type": "node",
+  "id": 4064139678,
+  "lat": 52.6861288,
+  "lon": 0.3730927
+},
+{
+  "type": "node",
+  "id": 4064142097,
+  "lat": 52.6868686,
+  "lon": 0.3734386
+},
+{
+  "type": "node",
+  "id": 4064142120,
+  "lat": 52.6791450,
+  "lon": 0.3683478
+},
+{
+  "type": "node",
+  "id": 4064142130,
+  "lat": 52.6865353,
+  "lon": 0.3733207
+},
+{
+  "type": "node",
+  "id": 4064142133,
+  "lat": 52.6774765,
+  "lon": 0.3671354
+},
+{
+  "type": "node",
+  "id": 4064142137,
+  "lat": 52.6800410,
+  "lon": 0.3689405
+},
+{
+  "type": "node",
+  "id": 4064142156,
+  "lat": 52.6848687,
+  "lon": 0.3723550
+},
+{
+  "type": "node",
+  "id": 4064142162,
+  "lat": 52.6809679,
+  "lon": 0.3695924
+},
+{
+  "type": "node",
+  "id": 4064142170,
+  "lat": 52.6770456,
+  "lon": 0.3668324
+},
+{
+  "type": "node",
+  "id": 4064142176,
+  "lat": 52.6834379,
+  "lon": 0.3714699
+},
+{
+  "type": "node",
+  "id": 4064142191,
+  "lat": 52.6854330,
+  "lon": 0.3727118
+},
+{
+  "type": "node",
+  "id": 4064142194,
+  "lat": 52.6765496,
+  "lon": 0.3666016
+},
+{
+  "type": "node",
+  "id": 4064142195,
+  "lat": 52.6826297,
+  "lon": 0.3708664
+},
+{
+  "type": "node",
+  "id": 4064142210,
+  "lat": 52.6803500,
+  "lon": 0.3691525
+},
+{
+  "type": "node",
+  "id": 4064142224,
+  "lat": 52.6817045,
+  "lon": 0.3701475
+},
+{
+  "type": "node",
+  "id": 4064142241,
+  "lat": 52.6784312,
+  "lon": 0.3678248
+},
+{
+  "type": "node",
+  "id": 4064142246,
+  "lat": 52.6814590,
+  "lon": 0.3699383
+},
+{
+  "type": "node",
+  "id": 4064142263,
+  "lat": 52.6840411,
+  "lon": 0.3718481
+},
+{
+  "type": "node",
+  "id": 4064142274,
+  "lat": 52.6797776,
+  "lon": 0.3687823
+},
+{
+  "type": "node",
+  "id": 4064142288,
+  "lat": 52.6766927,
+  "lon": 0.3665668
+},
+{
+  "type": "node",
+  "id": 4064144443,
+  "lat": 52.6761063,
+  "lon": 0.3680276
+},
+{
+  "type": "node",
+  "id": 4209475599,
+  "lat": 52.6696798,
+  "lon": 0.3629088
+},
+{
+  "type": "node",
+  "id": 4960418443,
+  "lat": 52.6715859,
+  "lon": 0.3617677
+},
+{
+  "type": "node",
+  "id": 5059830342,
+  "lat": 52.6762367,
+  "lon": 0.3630467
+},
+{
+  "type": "node",
+  "id": 5766154010,
+  "lat": 52.6765619,
+  "lon": 0.3646968
+},
+{
+  "type": "node",
+  "id": 7291827256,
+  "lat": 52.6760888,
+  "lon": 0.3622770
+},
+{
+  "type": "node",
+  "id": 8476806867,
+  "lat": 52.6765902,
+  "lon": 0.3650741
+},
+{
+  "type": "node",
+  "id": 8476806868,
+  "lat": 52.6764154,
+  "lon": 0.3650446
+},
+{
+  "type": "node",
+  "id": 8476806869,
+  "lat": 52.6761837,
+  "lon": 0.3648448
+},
+{
+  "type": "node",
+  "id": 8476806870,
+  "lat": 52.6750266,
+  "lon": 0.3638577
+},
+{
+  "type": "node",
+  "id": 8476806871,
+  "lat": 52.6745688,
+  "lon": 0.3635533
+},
+{
+  "type": "node",
+  "id": 8476806872,
+  "lat": 52.6735328,
+  "lon": 0.3629753
+},
+{
+  "type": "node",
+  "id": 8476806873,
+  "lat": 52.6723227,
+  "lon": 0.3623611
+},
+{
+  "type": "node",
+  "id": 8476806874,
+  "lat": 52.6719064,
+  "lon": 0.3620499
+},
+{
+  "type": "node",
+  "id": 8476806875,
+  "lat": 52.6715937,
+  "lon": 0.3618127
+},
+{
+  "type": "node",
+  "id": 8476806876,
+  "lat": 52.6789808,
+  "lon": 0.3662744
+},
+{
+  "type": "node",
+  "id": 8476806877,
+  "lat": 52.6779254,
+  "lon": 0.3656790
+},
+{
+  "type": "node",
+  "id": 8476806878,
+  "lat": 52.6768342,
+  "lon": 0.3652324
+},
+{
+  "type": "node",
+  "id": 8476806879,
+  "lat": 52.6765904,
+  "lon": 0.3652123
+},
+{
+  "type": "node",
+  "id": 8476806880,
+  "lat": 52.6773180,
+  "lon": 0.3654423
+},
+{
+  "type": "node",
+  "id": 8476806884,
+  "lat": 52.6802272,
+  "lon": 0.3670764
+},
+{
+  "type": "node",
+  "id": 8476806891,
+  "lat": 52.6805748,
+  "lon": 0.3673340
+},
+{
+  "type": "node",
+  "id": 8483257793,
+  "lat": 52.6748617,
+  "lon": 0.3637422
+},
+{
+  "type": "node",
+  "id": 8754142109,
+  "lat": 52.6765208,
+  "lon": 0.3650779
+},
+{
+  "type": "node",
+  "id": 9110378171,
+  "lat": 52.6764935,
+  "lon": 0.3665587
+},
+{
+  "type": "node",
+  "id": 9110378172,
+  "lat": 52.6764463,
+  "lon": 0.3666285
+},
+{
+  "type": "way",
+  "id": 30633753,
+  "nodes": [
+    338809721,
+    338809722,
+    7291827256,
+    766086602,
+    5059830342,
+    338809723,
+    1489382960,
+    338809724,
+    1489382962,
+    766086603,
+    5766154010,
+    1489382964,
+    8476806867,
+    8476806879,
+    338824292
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C52",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Church Road",
+    "not:name": "Station Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 30635258,
+  "nodes": [
+    338824293,
+    4064125196,
+    9110378172,
+    1489382961,
+    338824235,
+    2124526123,
+    338824118,
+    4064144443
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C52",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Station Road",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 404140554,
+  "nodes": [
+    4064125196,
+    9110378171,
+    4064142194,
+    4064142288,
+    4064142170,
+    4064142133,
+    4064142241,
+    4064142120,
+    4064142274,
+    4064142137,
+    4064142210,
+    4064142162,
+    4064142246,
+    4064142224,
+    4064142195,
+    4064142176,
+    4064142263,
+    4064142156,
+    4064142191,
+    4064139678,
+    4064142130,
+    4064142097
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "embankment": "yes",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Watlington BR 2",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 421125928,
+  "nodes": [
+    4209475599,
+    4064125195,
+    4064125202,
+    4064125200,
+    4064125213,
+    4064125189,
+    4064124876,
+    4064125211,
+    4064125190,
+    4064124877,
+    4064124885,
+    4064125192,
+    4064125197,
+    4064124886,
+    4064124888,
+    4064124880,
+    4064124879,
+    4064125196
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "embankment": "yes",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Watlington BR 1",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 912503564,
+  "nodes": [
+    4960418443,
+    8476806875,
+    8476806874,
+    8476806873,
+    8476806872,
+    8476806871,
+    8483257793,
+    8476806870,
+    8476806869,
+    8476806868,
+    8754142109,
+    8476806867
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Wiggenhall St Mary Magdalen BR 3",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 912503565,
+  "nodes": [
+    8476806880,
+    8476806878,
+    8476806879
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Wiggenhall St Mary Magdalen BR 2",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 912503567,
+  "nodes": [
+    8476806891,
+    8476806884,
+    8476806876,
+    8476806877,
+    8476806880
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "embankment": "yes",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Wiggenhall St Mary Magdalen BR 2",
+    "source": "Bing",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "node",
+  "id": 338824292,
+  "lat": 52.6765910,
+  "lon": 0.3652267
+},
+{
+  "type": "node",
+  "id": 338824293,
+  "lat": 52.6764909,
+  "lon": 0.3663888
+},
+{
+  "type": "node",
+  "id": 1489382963,
+  "lat": 52.6765651,
+  "lon": 0.3658830
+},
+{
+  "type": "node",
+  "id": 4064124881,
+  "lat": 52.6765842,
+  "lon": 0.3655943
+},
+{
+  "type": "node",
+  "id": 4064124887,
+  "lat": 52.6765354,
+  "lon": 0.3661414
+},
+{
+  "type": "way",
+  "id": 30635253,
+  "nodes": [
+    338824292,
+    4064124881,
+    1489382963,
+    4064124887,
+    338824293
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Magdalen Bridge",
+    "highway": "tertiary",
+    "highway_authority_ref": "C52",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313298563,
+  "lat": 52.6753874,
+  "lon": 0.2845595
+},
+{
+  "type": "node",
+  "id": 313298564,
+  "lat": 52.6757783,
+  "lon": 0.2865893
+},
+{
+  "type": "node",
+  "id": 313298565,
+  "lat": 52.6767649,
+  "lon": 0.2907459
+},
+{
+  "type": "node",
+  "id": 313298566,
+  "lat": 52.6761815,
+  "lon": 0.2936961
+},
+{
+  "type": "node",
+  "id": 313298567,
+  "lat": 52.6769491,
+  "lon": 0.2972582
+},
+{
+  "type": "node",
+  "id": 313298568,
+  "lat": 52.6792338,
+  "lon": 0.3064434
+},
+{
+  "type": "node",
+  "id": 313298569,
+  "lat": 52.6800178,
+  "lon": 0.3095135
+},
+{
+  "type": "node",
+  "id": 313298570,
+  "lat": 52.6808360,
+  "lon": 0.3113857
+},
+{
+  "type": "node",
+  "id": 313298571,
+  "lat": 52.6816101,
+  "lon": 0.3181293
+},
+{
+  "type": "node",
+  "id": 313298572,
+  "lat": 52.6818834,
+  "lon": 0.3189645
+},
+{
+  "type": "node",
+  "id": 313298573,
+  "lat": 52.6823553,
+  "lon": 0.3195866
+},
+{
+  "type": "node",
+  "id": 313298574,
+  "lat": 52.6869478,
+  "lon": 0.3232289
+},
+{
+  "type": "node",
+  "id": 313298575,
+  "lat": 52.6886509,
+  "lon": 0.3242215
+},
+{
+  "type": "node",
+  "id": 313298576,
+  "lat": 52.6899088,
+  "lon": 0.3246715
+},
+{
+  "type": "node",
+  "id": 313298577,
+  "lat": 52.6903677,
+  "lon": 0.3249939
+},
+{
+  "type": "node",
+  "id": 313298578,
+  "lat": 52.6948473,
+  "lon": 0.3270640
+},
+{
+  "type": "node",
+  "id": 313298791,
+  "lat": 52.6924028,
+  "lon": 0.3043366
+},
+{
+  "type": "node",
+  "id": 313298792,
+  "lat": 52.6913702,
+  "lon": 0.3078163
+},
+{
+  "type": "node",
+  "id": 313298793,
+  "lat": 52.6887252,
+  "lon": 0.3165434
+},
+{
+  "type": "node",
+  "id": 313298794,
+  "lat": 52.6872449,
+  "lon": 0.3221285
+},
+{
+  "type": "node",
+  "id": 313298795,
+  "lat": 52.6867369,
+  "lon": 0.3239156
+},
+{
+  "type": "node",
+  "id": 313298796,
+  "lat": 52.6842135,
+  "lon": 0.3296910
+},
+{
+  "type": "node",
+  "id": 314243166,
+  "lat": 52.6835815,
+  "lon": 0.3311009
+},
+{
+  "type": "node",
+  "id": 667479225,
+  "lat": 52.6753142,
+  "lon": 0.2848836
+},
+{
+  "type": "node",
+  "id": 667479226,
+  "lat": 52.6752977,
+  "lon": 0.2850638
+},
+{
+  "type": "node",
+  "id": 667479227,
+  "lat": 52.6753130,
+  "lon": 0.2853063
+},
+{
+  "type": "node",
+  "id": 667479230,
+  "lat": 52.6763606,
+  "lon": 0.2885843
+},
+{
+  "type": "node",
+  "id": 667479231,
+  "lat": 52.6766260,
+  "lon": 0.2893848
+},
+{
+  "type": "node",
+  "id": 667479232,
+  "lat": 52.6767602,
+  "lon": 0.2900149
+},
+{
+  "type": "node",
+  "id": 667479233,
+  "lat": 52.6767803,
+  "lon": 0.2902311
+},
+{
+  "type": "node",
+  "id": 667479234,
+  "lat": 52.6764140,
+  "lon": 0.2926334
+},
+{
+  "type": "node",
+  "id": 667479235,
+  "lat": 52.6763415,
+  "lon": 0.2947095
+},
+{
+  "type": "node",
+  "id": 667479237,
+  "lat": 52.6766374,
+  "lon": 0.2915761
+},
+{
+  "type": "node",
+  "id": 667479238,
+  "lat": 52.6782006,
+  "lon": 0.3016612
+},
+{
+  "type": "node",
+  "id": 667479239,
+  "lat": 52.6803861,
+  "lon": 0.3104937
+},
+{
+  "type": "node",
+  "id": 667479240,
+  "lat": 52.6809658,
+  "lon": 0.3117666
+},
+{
+  "type": "node",
+  "id": 667479241,
+  "lat": 52.6812190,
+  "lon": 0.3139484
+},
+{
+  "type": "node",
+  "id": 667479242,
+  "lat": 52.6810995,
+  "lon": 0.3127714
+},
+{
+  "type": "node",
+  "id": 667479243,
+  "lat": 52.6817280,
+  "lon": 0.3186229
+},
+{
+  "type": "node",
+  "id": 667479244,
+  "lat": 52.6845632,
+  "lon": 0.3212416
+},
+{
+  "type": "node",
+  "id": 667479245,
+  "lat": 52.6861502,
+  "lon": 0.3223671
+},
+{
+  "type": "node",
+  "id": 667479246,
+  "lat": 52.6868864,
+  "lon": 0.3234412
+},
+{
+  "type": "node",
+  "id": 667479247,
+  "lat": 52.6868260,
+  "lon": 0.3236403
+},
+{
+  "type": "node",
+  "id": 667479249,
+  "lat": 52.6869359,
+  "lon": 0.3232728
+},
+{
+  "type": "node",
+  "id": 667479250,
+  "lat": 52.6871930,
+  "lon": 0.3234504
+},
+{
+  "type": "node",
+  "id": 667479255,
+  "lat": 52.6878248,
+  "lon": 0.3238459
+},
+{
+  "type": "node",
+  "id": 667479257,
+  "lat": 52.6882411,
+  "lon": 0.3240606
+},
+{
+  "type": "node",
+  "id": 667479258,
+  "lat": 52.6894190,
+  "lon": 0.3244169
+},
+{
+  "type": "node",
+  "id": 667479260,
+  "lat": 52.6914981,
+  "lon": 0.3256958
+},
+{
+  "type": "node",
+  "id": 667479261,
+  "lat": 52.6936977,
+  "lon": 0.3265571
+},
+{
+  "type": "node",
+  "id": 1489147183,
+  "lat": 52.6753002,
+  "lon": 0.2851846
+},
+{
+  "type": "node",
+  "id": 1489147184,
+  "lat": 52.6753938,
+  "lon": 0.2855544
+},
+{
+  "type": "node",
+  "id": 1489147188,
+  "lat": 52.6755406,
+  "lon": 0.2859317
+},
+{
+  "type": "node",
+  "id": 1489147191,
+  "lat": 52.6756601,
+  "lon": 0.2862358
+},
+{
+  "type": "node",
+  "id": 1489147195,
+  "lat": 52.6759247,
+  "lon": 0.2871085
+},
+{
+  "type": "node",
+  "id": 1489147198,
+  "lat": 52.6760663,
+  "lon": 0.2876041
+},
+{
+  "type": "node",
+  "id": 1489147200,
+  "lat": 52.6761875,
+  "lon": 0.2938571
+},
+{
+  "type": "node",
+  "id": 1489147201,
+  "lat": 52.6761961,
+  "lon": 0.2940317
+},
+{
+  "type": "node",
+  "id": 1489147202,
+  "lat": 52.6762063,
+  "lon": 0.2880968
+},
+{
+  "type": "node",
+  "id": 1489147204,
+  "lat": 52.6762251,
+  "lon": 0.2933982
+},
+{
+  "type": "node",
+  "id": 1489147205,
+  "lat": 52.6762336,
+  "lon": 0.2942287
+},
+{
+  "type": "node",
+  "id": 1489147208,
+  "lat": 52.6762883,
+  "lon": 0.2931420
+},
+{
+  "type": "node",
+  "id": 1489147214,
+  "lat": 52.6765409,
+  "lon": 0.2920806
+},
+{
+  "type": "node",
+  "id": 1489147217,
+  "lat": 52.6766416,
+  "lon": 0.2959828
+},
+{
+  "type": "node",
+  "id": 1489147222,
+  "lat": 52.6767048,
+  "lon": 0.2896931
+},
+{
+  "type": "node",
+  "id": 1489147223,
+  "lat": 52.6767218,
+  "lon": 0.2911205
+},
+{
+  "type": "node",
+  "id": 1489147225,
+  "lat": 52.6767799,
+  "lon": 0.2904476
+},
+{
+  "type": "node",
+  "id": 1489147232,
+  "lat": 52.6775719,
+  "lon": 0.2994429
+},
+{
+  "type": "node",
+  "id": 1489147233,
+  "lat": 52.6779065,
+  "lon": 0.3005522
+},
+{
+  "type": "node",
+  "id": 1489147238,
+  "lat": 52.6783186,
+  "lon": 0.3022443
+},
+{
+  "type": "node",
+  "id": 1489147241,
+  "lat": 52.6784364,
+  "lon": 0.3028834
+},
+{
+  "type": "node",
+  "id": 1489147243,
+  "lat": 52.6786873,
+  "lon": 0.3040771
+},
+{
+  "type": "node",
+  "id": 1489147245,
+  "lat": 52.6789314,
+  "lon": 0.3050935
+},
+{
+  "type": "node",
+  "id": 1489147250,
+  "lat": 52.6793769,
+  "lon": 0.3070952
+},
+{
+  "type": "node",
+  "id": 1489147253,
+  "lat": 52.6796176,
+  "lon": 0.3080131
+},
+{
+  "type": "node",
+  "id": 1489147257,
+  "lat": 52.6801177,
+  "lon": 0.3098290
+},
+{
+  "type": "node",
+  "id": 1489147258,
+  "lat": 52.6802269,
+  "lon": 0.3101246
+},
+{
+  "type": "node",
+  "id": 1489147264,
+  "lat": 52.6809097,
+  "lon": 0.3115802
+},
+{
+  "type": "node",
+  "id": 1489147266,
+  "lat": 52.6810172,
+  "lon": 0.3120053
+},
+{
+  "type": "node",
+  "id": 1489147267,
+  "lat": 52.6810530,
+  "lon": 0.3122531
+},
+{
+  "type": "node",
+  "id": 1489147272,
+  "lat": 52.6813244,
+  "lon": 0.3149981
+},
+{
+  "type": "node",
+  "id": 1489147273,
+  "lat": 52.6814132,
+  "lon": 0.3160398
+},
+{
+  "type": "node",
+  "id": 1489147275,
+  "lat": 52.6814917,
+  "lon": 0.3171012
+},
+{
+  "type": "node",
+  "id": 1489147277,
+  "lat": 52.6815344,
+  "lon": 0.3176165
+},
+{
+  "type": "node",
+  "id": 1489147281,
+  "lat": 52.6816643,
+  "lon": 0.3183859
+},
+{
+  "type": "node",
+  "id": 1489147283,
+  "lat": 52.6817911,
+  "lon": 0.3187840
+},
+{
+  "type": "node",
+  "id": 1489147286,
+  "lat": 52.6821097,
+  "lon": 0.3192937
+},
+{
+  "type": "node",
+  "id": 1489147288,
+  "lat": 52.6822328,
+  "lon": 0.3194450
+},
+{
+  "type": "node",
+  "id": 1489147290,
+  "lat": 52.6824705,
+  "lon": 0.3196978
+},
+{
+  "type": "node",
+  "id": 1489147292,
+  "lat": 52.6826214,
+  "lon": 0.3198272
+},
+{
+  "type": "node",
+  "id": 1489147294,
+  "lat": 52.6828869,
+  "lon": 0.3200263
+},
+{
+  "type": "node",
+  "id": 1489147296,
+  "lat": 52.6834525,
+  "lon": 0.3204364
+},
+{
+  "type": "node",
+  "id": 1489147300,
+  "lat": 52.6862569,
+  "lon": 0.3224512
+},
+{
+  "type": "node",
+  "id": 1489147302,
+  "lat": 52.6863858,
+  "lon": 0.3225652
+},
+{
+  "type": "node",
+  "id": 1489147303,
+  "lat": 52.6865676,
+  "lon": 0.3227651
+},
+{
+  "type": "node",
+  "id": 1489147304,
+  "lat": 52.6868346,
+  "lon": 0.3230945
+},
+{
+  "type": "node",
+  "id": 1489147305,
+  "lat": 52.6870349,
+  "lon": 0.3228637
+},
+{
+  "type": "node",
+  "id": 1489147306,
+  "lat": 52.6870928,
+  "lon": 0.3226547
+},
+{
+  "type": "node",
+  "id": 1489147307,
+  "lat": 52.6871629,
+  "lon": 0.3224092
+},
+{
+  "type": "node",
+  "id": 1489440548,
+  "lat": 52.6855495,
+  "lon": 0.3269145
+},
+{
+  "type": "node",
+  "id": 1489440551,
+  "lat": 52.6858868,
+  "lon": 0.3261661
+},
+{
+  "type": "node",
+  "id": 1489440552,
+  "lat": 52.6861541,
+  "lon": 0.3254610
+},
+{
+  "type": "node",
+  "id": 1489440557,
+  "lat": 52.6896747,
+  "lon": 0.3245183
+},
+{
+  "type": "node",
+  "id": 2129831487,
+  "lat": 52.6944230,
+  "lon": 0.2986609
+},
+{
+  "type": "node",
+  "id": 2129831490,
+  "lat": 52.6904139,
+  "lon": 0.3108581
+},
+{
+  "type": "node",
+  "id": 2129831711,
+  "lat": 52.6894334,
+  "lon": 0.3139261
+},
+{
+  "type": "node",
+  "id": 2129831716,
+  "lat": 52.6935739,
+  "lon": 0.3009463
+},
+{
+  "type": "node",
+  "id": 2129831856,
+  "lat": 52.6919834,
+  "lon": 0.3056946
+},
+{
+  "type": "node",
+  "id": 4714227483,
+  "lat": 52.6838433,
+  "lon": 0.3305626
+},
+{
+  "type": "node",
+  "id": 6771791024,
+  "lat": 52.6918984,
+  "lon": 0.3258694
+},
+{
+  "type": "node",
+  "id": 6903001203,
+  "lat": 52.6890815,
+  "lon": 0.3152267
+},
+{
+  "type": "node",
+  "id": 7153071886,
+  "lat": 52.6902168,
+  "lon": 0.3114749
+},
+{
+  "type": "node",
+  "id": 7210836556,
+  "lat": 52.6810086,
+  "lon": 0.3119652
+},
+{
+  "type": "node",
+  "id": 8005348812,
+  "lat": 52.6946949,
+  "lon": 0.3269921
+},
+{
+  "type": "node",
+  "id": 8071499461,
+  "lat": 52.6777173,
+  "lon": 0.2999249
+},
+{
+  "type": "node",
+  "id": 8396370665,
+  "lat": 52.6933874,
+  "lon": 0.3014861
+},
+{
+  "type": "node",
+  "id": 8476481177,
+  "lat": 52.6836785,
+  "lon": 0.3308786
+},
+{
+  "type": "way",
+  "id": 28522240,
+  "nodes": [
+    313298563,
+    667479225,
+    667479226,
+    1489147183,
+    667479227,
+    1489147184,
+    1489147188,
+    1489147191,
+    313298564,
+    1489147195,
+    1489147198,
+    1489147202,
+    667479230,
+    667479231,
+    1489147222,
+    667479232,
+    667479233,
+    1489147225,
+    313298565,
+    1489147223,
+    667479237,
+    1489147214,
+    667479234,
+    1489147208,
+    1489147204,
+    313298566,
+    1489147200,
+    1489147201,
+    1489147205,
+    667479235,
+    1489147217,
+    313298567,
+    1489147232,
+    8071499461,
+    1489147233,
+    667479238,
+    1489147238,
+    1489147241,
+    1489147243,
+    1489147245,
+    313298568,
+    1489147250,
+    1489147253,
+    313298569,
+    1489147257,
+    1489147258,
+    667479239,
+    313298570,
+    1489147264,
+    667479240,
+    7210836556,
+    1489147266,
+    1489147267,
+    667479242,
+    667479241,
+    1489147272,
+    1489147273,
+    1489147275,
+    1489147277,
+    313298571,
+    1489147281,
+    667479243,
+    1489147283,
+    313298572,
+    1489147286,
+    1489147288,
+    313298573,
+    1489147290,
+    1489147292,
+    1489147294,
+    1489147296,
+    667479244,
+    667479245,
+    1489147300,
+    1489147302,
+    1489147303,
+    1489147304,
+    313298574
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight": "7.5",
+    "name": "Gravel Bank",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52524899,
+  "nodes": [
+    667479249,
+    667479250,
+    667479255,
+    667479257,
+    313298575,
+    667479258,
+    1489440557,
+    313298576,
+    313298577,
+    667479260,
+    6771791024,
+    667479261,
+    8005348812,
+    313298578
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524910,
+  "nodes": [
+    313298574,
+    667479249
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY005",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524911,
+  "nodes": [
+    667479249,
+    667479246
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524912,
+  "nodes": [
+    667479247,
+    313298795,
+    1489440552,
+    1489440551,
+    1489440548,
+    313298796,
+    4714227483,
+    8476481177,
+    314243166
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 135597702,
+  "nodes": [
+    1489147305,
+    313298574
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Road",
+    "salting:ref": "KLY005",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254198580,
+  "nodes": [
+    2129831487,
+    2129831716,
+    8396370665,
+    313298791,
+    2129831856,
+    313298792,
+    2129831490,
+    7153071886,
+    2129831711,
+    6903001203,
+    313298793,
+    313298794,
+    1489147307,
+    1489147306
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Road",
+    "salting:ref": "KLY005",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 667479246,
+  "lat": 52.6868864,
+  "lon": 0.3234412
+},
+{
+  "type": "node",
+  "id": 667479247,
+  "lat": 52.6868260,
+  "lon": 0.3236403
+},
+{
+  "type": "way",
+  "id": 52524909,
+  "nodes": [
+    667479246,
+    667479247
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313298563,
+  "lat": 52.6753874,
+  "lon": 0.2845595
+},
+{
+  "type": "node",
+  "id": 313298564,
+  "lat": 52.6757783,
+  "lon": 0.2865893
+},
+{
+  "type": "node",
+  "id": 313298565,
+  "lat": 52.6767649,
+  "lon": 0.2907459
+},
+{
+  "type": "node",
+  "id": 313298566,
+  "lat": 52.6761815,
+  "lon": 0.2936961
+},
+{
+  "type": "node",
+  "id": 313298567,
+  "lat": 52.6769491,
+  "lon": 0.2972582
+},
+{
+  "type": "node",
+  "id": 313298568,
+  "lat": 52.6792338,
+  "lon": 0.3064434
+},
+{
+  "type": "node",
+  "id": 313298569,
+  "lat": 52.6800178,
+  "lon": 0.3095135
+},
+{
+  "type": "node",
+  "id": 313298570,
+  "lat": 52.6808360,
+  "lon": 0.3113857
+},
+{
+  "type": "node",
+  "id": 313298571,
+  "lat": 52.6816101,
+  "lon": 0.3181293
+},
+{
+  "type": "node",
+  "id": 313298572,
+  "lat": 52.6818834,
+  "lon": 0.3189645
+},
+{
+  "type": "node",
+  "id": 313298573,
+  "lat": 52.6823553,
+  "lon": 0.3195866
+},
+{
+  "type": "node",
+  "id": 313298574,
+  "lat": 52.6869478,
+  "lon": 0.3232289
+},
+{
+  "type": "node",
+  "id": 313298575,
+  "lat": 52.6886509,
+  "lon": 0.3242215
+},
+{
+  "type": "node",
+  "id": 313298576,
+  "lat": 52.6899088,
+  "lon": 0.3246715
+},
+{
+  "type": "node",
+  "id": 313298577,
+  "lat": 52.6903677,
+  "lon": 0.3249939
+},
+{
+  "type": "node",
+  "id": 313298578,
+  "lat": 52.6948473,
+  "lon": 0.3270640
+},
+{
+  "type": "node",
+  "id": 313298791,
+  "lat": 52.6924028,
+  "lon": 0.3043366
+},
+{
+  "type": "node",
+  "id": 313298792,
+  "lat": 52.6913702,
+  "lon": 0.3078163
+},
+{
+  "type": "node",
+  "id": 313298793,
+  "lat": 52.6887252,
+  "lon": 0.3165434
+},
+{
+  "type": "node",
+  "id": 313298794,
+  "lat": 52.6872449,
+  "lon": 0.3221285
+},
+{
+  "type": "node",
+  "id": 313298795,
+  "lat": 52.6867369,
+  "lon": 0.3239156
+},
+{
+  "type": "node",
+  "id": 313298796,
+  "lat": 52.6842135,
+  "lon": 0.3296910
+},
+{
+  "type": "node",
+  "id": 314243166,
+  "lat": 52.6835815,
+  "lon": 0.3311009
+},
+{
+  "type": "node",
+  "id": 667479225,
+  "lat": 52.6753142,
+  "lon": 0.2848836
+},
+{
+  "type": "node",
+  "id": 667479226,
+  "lat": 52.6752977,
+  "lon": 0.2850638
+},
+{
+  "type": "node",
+  "id": 667479227,
+  "lat": 52.6753130,
+  "lon": 0.2853063
+},
+{
+  "type": "node",
+  "id": 667479230,
+  "lat": 52.6763606,
+  "lon": 0.2885843
+},
+{
+  "type": "node",
+  "id": 667479231,
+  "lat": 52.6766260,
+  "lon": 0.2893848
+},
+{
+  "type": "node",
+  "id": 667479232,
+  "lat": 52.6767602,
+  "lon": 0.2900149
+},
+{
+  "type": "node",
+  "id": 667479233,
+  "lat": 52.6767803,
+  "lon": 0.2902311
+},
+{
+  "type": "node",
+  "id": 667479234,
+  "lat": 52.6764140,
+  "lon": 0.2926334
+},
+{
+  "type": "node",
+  "id": 667479235,
+  "lat": 52.6763415,
+  "lon": 0.2947095
+},
+{
+  "type": "node",
+  "id": 667479237,
+  "lat": 52.6766374,
+  "lon": 0.2915761
+},
+{
+  "type": "node",
+  "id": 667479238,
+  "lat": 52.6782006,
+  "lon": 0.3016612
+},
+{
+  "type": "node",
+  "id": 667479239,
+  "lat": 52.6803861,
+  "lon": 0.3104937
+},
+{
+  "type": "node",
+  "id": 667479240,
+  "lat": 52.6809658,
+  "lon": 0.3117666
+},
+{
+  "type": "node",
+  "id": 667479241,
+  "lat": 52.6812190,
+  "lon": 0.3139484
+},
+{
+  "type": "node",
+  "id": 667479242,
+  "lat": 52.6810995,
+  "lon": 0.3127714
+},
+{
+  "type": "node",
+  "id": 667479243,
+  "lat": 52.6817280,
+  "lon": 0.3186229
+},
+{
+  "type": "node",
+  "id": 667479244,
+  "lat": 52.6845632,
+  "lon": 0.3212416
+},
+{
+  "type": "node",
+  "id": 667479245,
+  "lat": 52.6861502,
+  "lon": 0.3223671
+},
+{
+  "type": "node",
+  "id": 667479246,
+  "lat": 52.6868864,
+  "lon": 0.3234412
+},
+{
+  "type": "node",
+  "id": 667479247,
+  "lat": 52.6868260,
+  "lon": 0.3236403
+},
+{
+  "type": "node",
+  "id": 667479249,
+  "lat": 52.6869359,
+  "lon": 0.3232728
+},
+{
+  "type": "node",
+  "id": 667479250,
+  "lat": 52.6871930,
+  "lon": 0.3234504
+},
+{
+  "type": "node",
+  "id": 667479255,
+  "lat": 52.6878248,
+  "lon": 0.3238459
+},
+{
+  "type": "node",
+  "id": 667479257,
+  "lat": 52.6882411,
+  "lon": 0.3240606
+},
+{
+  "type": "node",
+  "id": 667479258,
+  "lat": 52.6894190,
+  "lon": 0.3244169
+},
+{
+  "type": "node",
+  "id": 667479260,
+  "lat": 52.6914981,
+  "lon": 0.3256958
+},
+{
+  "type": "node",
+  "id": 667479261,
+  "lat": 52.6936977,
+  "lon": 0.3265571
+},
+{
+  "type": "node",
+  "id": 1489147183,
+  "lat": 52.6753002,
+  "lon": 0.2851846
+},
+{
+  "type": "node",
+  "id": 1489147184,
+  "lat": 52.6753938,
+  "lon": 0.2855544
+},
+{
+  "type": "node",
+  "id": 1489147188,
+  "lat": 52.6755406,
+  "lon": 0.2859317
+},
+{
+  "type": "node",
+  "id": 1489147191,
+  "lat": 52.6756601,
+  "lon": 0.2862358
+},
+{
+  "type": "node",
+  "id": 1489147195,
+  "lat": 52.6759247,
+  "lon": 0.2871085
+},
+{
+  "type": "node",
+  "id": 1489147198,
+  "lat": 52.6760663,
+  "lon": 0.2876041
+},
+{
+  "type": "node",
+  "id": 1489147200,
+  "lat": 52.6761875,
+  "lon": 0.2938571
+},
+{
+  "type": "node",
+  "id": 1489147201,
+  "lat": 52.6761961,
+  "lon": 0.2940317
+},
+{
+  "type": "node",
+  "id": 1489147202,
+  "lat": 52.6762063,
+  "lon": 0.2880968
+},
+{
+  "type": "node",
+  "id": 1489147204,
+  "lat": 52.6762251,
+  "lon": 0.2933982
+},
+{
+  "type": "node",
+  "id": 1489147205,
+  "lat": 52.6762336,
+  "lon": 0.2942287
+},
+{
+  "type": "node",
+  "id": 1489147208,
+  "lat": 52.6762883,
+  "lon": 0.2931420
+},
+{
+  "type": "node",
+  "id": 1489147214,
+  "lat": 52.6765409,
+  "lon": 0.2920806
+},
+{
+  "type": "node",
+  "id": 1489147217,
+  "lat": 52.6766416,
+  "lon": 0.2959828
+},
+{
+  "type": "node",
+  "id": 1489147222,
+  "lat": 52.6767048,
+  "lon": 0.2896931
+},
+{
+  "type": "node",
+  "id": 1489147223,
+  "lat": 52.6767218,
+  "lon": 0.2911205
+},
+{
+  "type": "node",
+  "id": 1489147225,
+  "lat": 52.6767799,
+  "lon": 0.2904476
+},
+{
+  "type": "node",
+  "id": 1489147232,
+  "lat": 52.6775719,
+  "lon": 0.2994429
+},
+{
+  "type": "node",
+  "id": 1489147233,
+  "lat": 52.6779065,
+  "lon": 0.3005522
+},
+{
+  "type": "node",
+  "id": 1489147238,
+  "lat": 52.6783186,
+  "lon": 0.3022443
+},
+{
+  "type": "node",
+  "id": 1489147241,
+  "lat": 52.6784364,
+  "lon": 0.3028834
+},
+{
+  "type": "node",
+  "id": 1489147243,
+  "lat": 52.6786873,
+  "lon": 0.3040771
+},
+{
+  "type": "node",
+  "id": 1489147245,
+  "lat": 52.6789314,
+  "lon": 0.3050935
+},
+{
+  "type": "node",
+  "id": 1489147250,
+  "lat": 52.6793769,
+  "lon": 0.3070952
+},
+{
+  "type": "node",
+  "id": 1489147253,
+  "lat": 52.6796176,
+  "lon": 0.3080131
+},
+{
+  "type": "node",
+  "id": 1489147257,
+  "lat": 52.6801177,
+  "lon": 0.3098290
+},
+{
+  "type": "node",
+  "id": 1489147258,
+  "lat": 52.6802269,
+  "lon": 0.3101246
+},
+{
+  "type": "node",
+  "id": 1489147264,
+  "lat": 52.6809097,
+  "lon": 0.3115802
+},
+{
+  "type": "node",
+  "id": 1489147266,
+  "lat": 52.6810172,
+  "lon": 0.3120053
+},
+{
+  "type": "node",
+  "id": 1489147267,
+  "lat": 52.6810530,
+  "lon": 0.3122531
+},
+{
+  "type": "node",
+  "id": 1489147272,
+  "lat": 52.6813244,
+  "lon": 0.3149981
+},
+{
+  "type": "node",
+  "id": 1489147273,
+  "lat": 52.6814132,
+  "lon": 0.3160398
+},
+{
+  "type": "node",
+  "id": 1489147275,
+  "lat": 52.6814917,
+  "lon": 0.3171012
+},
+{
+  "type": "node",
+  "id": 1489147277,
+  "lat": 52.6815344,
+  "lon": 0.3176165
+},
+{
+  "type": "node",
+  "id": 1489147281,
+  "lat": 52.6816643,
+  "lon": 0.3183859
+},
+{
+  "type": "node",
+  "id": 1489147283,
+  "lat": 52.6817911,
+  "lon": 0.3187840
+},
+{
+  "type": "node",
+  "id": 1489147286,
+  "lat": 52.6821097,
+  "lon": 0.3192937
+},
+{
+  "type": "node",
+  "id": 1489147288,
+  "lat": 52.6822328,
+  "lon": 0.3194450
+},
+{
+  "type": "node",
+  "id": 1489147290,
+  "lat": 52.6824705,
+  "lon": 0.3196978
+},
+{
+  "type": "node",
+  "id": 1489147292,
+  "lat": 52.6826214,
+  "lon": 0.3198272
+},
+{
+  "type": "node",
+  "id": 1489147294,
+  "lat": 52.6828869,
+  "lon": 0.3200263
+},
+{
+  "type": "node",
+  "id": 1489147296,
+  "lat": 52.6834525,
+  "lon": 0.3204364
+},
+{
+  "type": "node",
+  "id": 1489147300,
+  "lat": 52.6862569,
+  "lon": 0.3224512
+},
+{
+  "type": "node",
+  "id": 1489147302,
+  "lat": 52.6863858,
+  "lon": 0.3225652
+},
+{
+  "type": "node",
+  "id": 1489147303,
+  "lat": 52.6865676,
+  "lon": 0.3227651
+},
+{
+  "type": "node",
+  "id": 1489147304,
+  "lat": 52.6868346,
+  "lon": 0.3230945
+},
+{
+  "type": "node",
+  "id": 1489147305,
+  "lat": 52.6870349,
+  "lon": 0.3228637
+},
+{
+  "type": "node",
+  "id": 1489147306,
+  "lat": 52.6870928,
+  "lon": 0.3226547
+},
+{
+  "type": "node",
+  "id": 1489147307,
+  "lat": 52.6871629,
+  "lon": 0.3224092
+},
+{
+  "type": "node",
+  "id": 1489440548,
+  "lat": 52.6855495,
+  "lon": 0.3269145
+},
+{
+  "type": "node",
+  "id": 1489440551,
+  "lat": 52.6858868,
+  "lon": 0.3261661
+},
+{
+  "type": "node",
+  "id": 1489440552,
+  "lat": 52.6861541,
+  "lon": 0.3254610
+},
+{
+  "type": "node",
+  "id": 1489440557,
+  "lat": 52.6896747,
+  "lon": 0.3245183
+},
+{
+  "type": "node",
+  "id": 2129831487,
+  "lat": 52.6944230,
+  "lon": 0.2986609
+},
+{
+  "type": "node",
+  "id": 2129831490,
+  "lat": 52.6904139,
+  "lon": 0.3108581
+},
+{
+  "type": "node",
+  "id": 2129831711,
+  "lat": 52.6894334,
+  "lon": 0.3139261
+},
+{
+  "type": "node",
+  "id": 2129831716,
+  "lat": 52.6935739,
+  "lon": 0.3009463
+},
+{
+  "type": "node",
+  "id": 2129831856,
+  "lat": 52.6919834,
+  "lon": 0.3056946
+},
+{
+  "type": "node",
+  "id": 4714227483,
+  "lat": 52.6838433,
+  "lon": 0.3305626
+},
+{
+  "type": "node",
+  "id": 6771791024,
+  "lat": 52.6918984,
+  "lon": 0.3258694
+},
+{
+  "type": "node",
+  "id": 6903001203,
+  "lat": 52.6890815,
+  "lon": 0.3152267
+},
+{
+  "type": "node",
+  "id": 7153071886,
+  "lat": 52.6902168,
+  "lon": 0.3114749
+},
+{
+  "type": "node",
+  "id": 7210836556,
+  "lat": 52.6810086,
+  "lon": 0.3119652
+},
+{
+  "type": "node",
+  "id": 8005348812,
+  "lat": 52.6946949,
+  "lon": 0.3269921
+},
+{
+  "type": "node",
+  "id": 8071499461,
+  "lat": 52.6777173,
+  "lon": 0.2999249
+},
+{
+  "type": "node",
+  "id": 8396370665,
+  "lat": 52.6933874,
+  "lon": 0.3014861
+},
+{
+  "type": "node",
+  "id": 8476481177,
+  "lat": 52.6836785,
+  "lon": 0.3308786
+},
+{
+  "type": "way",
+  "id": 28522240,
+  "nodes": [
+    313298563,
+    667479225,
+    667479226,
+    1489147183,
+    667479227,
+    1489147184,
+    1489147188,
+    1489147191,
+    313298564,
+    1489147195,
+    1489147198,
+    1489147202,
+    667479230,
+    667479231,
+    1489147222,
+    667479232,
+    667479233,
+    1489147225,
+    313298565,
+    1489147223,
+    667479237,
+    1489147214,
+    667479234,
+    1489147208,
+    1489147204,
+    313298566,
+    1489147200,
+    1489147201,
+    1489147205,
+    667479235,
+    1489147217,
+    313298567,
+    1489147232,
+    8071499461,
+    1489147233,
+    667479238,
+    1489147238,
+    1489147241,
+    1489147243,
+    1489147245,
+    313298568,
+    1489147250,
+    1489147253,
+    313298569,
+    1489147257,
+    1489147258,
+    667479239,
+    313298570,
+    1489147264,
+    667479240,
+    7210836556,
+    1489147266,
+    1489147267,
+    667479242,
+    667479241,
+    1489147272,
+    1489147273,
+    1489147275,
+    1489147277,
+    313298571,
+    1489147281,
+    667479243,
+    1489147283,
+    313298572,
+    1489147286,
+    1489147288,
+    313298573,
+    1489147290,
+    1489147292,
+    1489147294,
+    1489147296,
+    667479244,
+    667479245,
+    1489147300,
+    1489147302,
+    1489147303,
+    1489147304,
+    313298574
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight": "7.5",
+    "name": "Gravel Bank",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52524899,
+  "nodes": [
+    667479249,
+    667479250,
+    667479255,
+    667479257,
+    313298575,
+    667479258,
+    1489440557,
+    313298576,
+    313298577,
+    667479260,
+    6771791024,
+    667479261,
+    8005348812,
+    313298578
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524910,
+  "nodes": [
+    313298574,
+    667479249
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY005",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524911,
+  "nodes": [
+    667479249,
+    667479246
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524912,
+  "nodes": [
+    667479247,
+    313298795,
+    1489440552,
+    1489440551,
+    1489440548,
+    313298796,
+    4714227483,
+    8476481177,
+    314243166
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 135597702,
+  "nodes": [
+    1489147305,
+    313298574
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Road",
+    "salting:ref": "KLY005",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254198580,
+  "nodes": [
+    2129831487,
+    2129831716,
+    8396370665,
+    313298791,
+    2129831856,
+    313298792,
+    2129831490,
+    7153071886,
+    2129831711,
+    6903001203,
+    313298793,
+    313298794,
+    1489147307,
+    1489147306
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Road",
+    "salting:ref": "KLY005",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 1489147305,
+  "lat": 52.6870349,
+  "lon": 0.3228637
+},
+{
+  "type": "node",
+  "id": 1489147306,
+  "lat": 52.6870928,
+  "lon": 0.3226547
+},
+{
+  "type": "way",
+  "id": 135597704,
+  "nodes": [
+    1489147306,
+    1489147305
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Road",
+    "salting:ref": "KLY005",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313298575,
+  "lat": 52.6886509,
+  "lon": 0.3242215
+},
+{
+  "type": "node",
+  "id": 313298576,
+  "lat": 52.6899088,
+  "lon": 0.3246715
+},
+{
+  "type": "node",
+  "id": 313298577,
+  "lat": 52.6903677,
+  "lon": 0.3249939
+},
+{
+  "type": "node",
+  "id": 313298578,
+  "lat": 52.6948473,
+  "lon": 0.3270640
+},
+{
+  "type": "node",
+  "id": 667479249,
+  "lat": 52.6869359,
+  "lon": 0.3232728
+},
+{
+  "type": "node",
+  "id": 667479250,
+  "lat": 52.6871930,
+  "lon": 0.3234504
+},
+{
+  "type": "node",
+  "id": 667479255,
+  "lat": 52.6878248,
+  "lon": 0.3238459
+},
+{
+  "type": "node",
+  "id": 667479257,
+  "lat": 52.6882411,
+  "lon": 0.3240606
+},
+{
+  "type": "node",
+  "id": 667479258,
+  "lat": 52.6894190,
+  "lon": 0.3244169
+},
+{
+  "type": "node",
+  "id": 667479260,
+  "lat": 52.6914981,
+  "lon": 0.3256958
+},
+{
+  "type": "node",
+  "id": 667479261,
+  "lat": 52.6936977,
+  "lon": 0.3265571
+},
+{
+  "type": "node",
+  "id": 1489440557,
+  "lat": 52.6896747,
+  "lon": 0.3245183
+},
+{
+  "type": "node",
+  "id": 6771791024,
+  "lat": 52.6918984,
+  "lon": 0.3258694
+},
+{
+  "type": "node",
+  "id": 8005348812,
+  "lat": 52.6946949,
+  "lon": 0.3269921
+},
+{
+  "type": "way",
+  "id": 52524899,
+  "nodes": [
+    667479249,
+    667479250,
+    667479255,
+    667479257,
+    313298575,
+    667479258,
+    1489440557,
+    313298576,
+    313298577,
+    667479260,
+    6771791024,
+    667479261,
+    8005348812,
+    313298578
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 6771791025,
+  "lat": 52.6919532,
+  "lon": 0.3255985
+},
+{
+  "type": "node",
+  "id": 9751351229,
+  "lat": 52.6919921,
+  "lon": 0.3253973
+},
+{
+  "type": "way",
+  "id": 1061335341,
+  "nodes": [
+    6771791025,
+    9751351229
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313298795,
+  "lat": 52.6867369,
+  "lon": 0.3239156
+},
+{
+  "type": "node",
+  "id": 313298796,
+  "lat": 52.6842135,
+  "lon": 0.3296910
+},
+{
+  "type": "node",
+  "id": 314241392,
+  "lat": 52.6813666,
+  "lon": 0.3372606
+},
+{
+  "type": "node",
+  "id": 314241394,
+  "lat": 52.6782741,
+  "lon": 0.3456004
+},
+{
+  "type": "node",
+  "id": 314241396,
+  "lat": 52.6779670,
+  "lon": 0.3467648
+},
+{
+  "type": "node",
+  "id": 314241399,
+  "lat": 52.6767540,
+  "lon": 0.3510099
+},
+{
+  "type": "node",
+  "id": 314241401,
+  "lat": 52.6800782,
+  "lon": 0.3610960
+},
+{
+  "type": "node",
+  "id": 314243166,
+  "lat": 52.6835815,
+  "lon": 0.3311009
+},
+{
+  "type": "node",
+  "id": 314243167,
+  "lat": 52.6833532,
+  "lon": 0.3316129
+},
+{
+  "type": "node",
+  "id": 667479247,
+  "lat": 52.6868260,
+  "lon": 0.3236403
+},
+{
+  "type": "node",
+  "id": 766086580,
+  "lat": 52.6828527,
+  "lon": 0.3328702
+},
+{
+  "type": "node",
+  "id": 766086583,
+  "lat": 52.6824358,
+  "lon": 0.3343498
+},
+{
+  "type": "node",
+  "id": 766086593,
+  "lat": 52.6821083,
+  "lon": 0.3353425
+},
+{
+  "type": "node",
+  "id": 766086595,
+  "lat": 52.6792177,
+  "lon": 0.3425661
+},
+{
+  "type": "node",
+  "id": 766086596,
+  "lat": 52.6789062,
+  "lon": 0.3434646
+},
+{
+  "type": "node",
+  "id": 766086597,
+  "lat": 52.6768560,
+  "lon": 0.3504524
+},
+{
+  "type": "node",
+  "id": 766086598,
+  "lat": 52.6767972,
+  "lon": 0.3513834
+},
+{
+  "type": "node",
+  "id": 766086599,
+  "lat": 52.6769463,
+  "lon": 0.3517631
+},
+{
+  "type": "node",
+  "id": 766086600,
+  "lat": 52.6773804,
+  "lon": 0.3528519
+},
+{
+  "type": "node",
+  "id": 1489386199,
+  "lat": 52.6787445,
+  "lon": 0.3569570
+},
+{
+  "type": "node",
+  "id": 1489386200,
+  "lat": 52.6794288,
+  "lon": 0.3590140
+},
+{
+  "type": "node",
+  "id": 1489386202,
+  "lat": 52.6797716,
+  "lon": 0.3600524
+},
+{
+  "type": "node",
+  "id": 1489386204,
+  "lat": 52.6799285,
+  "lon": 0.3605234
+},
+{
+  "type": "node",
+  "id": 1489386205,
+  "lat": 52.6800053,
+  "lon": 0.3607625
+},
+{
+  "type": "node",
+  "id": 1489386207,
+  "lat": 52.6800464,
+  "lon": 0.3608856
+},
+{
+  "type": "node",
+  "id": 1489386211,
+  "lat": 52.6800659,
+  "lon": 0.3609445
+},
+{
+  "type": "node",
+  "id": 1489386212,
+  "lat": 52.6800778,
+  "lon": 0.3610140
+},
+{
+  "type": "node",
+  "id": 1489440531,
+  "lat": 52.6767586,
+  "lon": 0.3511598
+},
+{
+  "type": "node",
+  "id": 1489440532,
+  "lat": 52.6767647,
+  "lon": 0.3508831
+},
+{
+  "type": "node",
+  "id": 1489440533,
+  "lat": 52.6767738,
+  "lon": 0.3512781
+},
+{
+  "type": "node",
+  "id": 1489440534,
+  "lat": 52.6767940,
+  "lon": 0.3507181
+},
+{
+  "type": "node",
+  "id": 1489440535,
+  "lat": 52.6768587,
+  "lon": 0.3515565
+},
+{
+  "type": "node",
+  "id": 1489440537,
+  "lat": 52.6774054,
+  "lon": 0.3485912
+},
+{
+  "type": "node",
+  "id": 1489440538,
+  "lat": 52.6777288,
+  "lon": 0.3538484
+},
+{
+  "type": "node",
+  "id": 1489440539,
+  "lat": 52.6780764,
+  "lon": 0.3548818
+},
+{
+  "type": "node",
+  "id": 1489440541,
+  "lat": 52.6785645,
+  "lon": 0.3445299
+},
+{
+  "type": "node",
+  "id": 1489440542,
+  "lat": 52.6803109,
+  "lon": 0.3397589
+},
+{
+  "type": "node",
+  "id": 1489440544,
+  "lat": 52.6818021,
+  "lon": 0.3361212
+},
+{
+  "type": "node",
+  "id": 1489440545,
+  "lat": 52.6826438,
+  "lon": 0.3336176
+},
+{
+  "type": "node",
+  "id": 1489440546,
+  "lat": 52.6831416,
+  "lon": 0.3320998
+},
+{
+  "type": "node",
+  "id": 1489440548,
+  "lat": 52.6855495,
+  "lon": 0.3269145
+},
+{
+  "type": "node",
+  "id": 1489440551,
+  "lat": 52.6858868,
+  "lon": 0.3261661
+},
+{
+  "type": "node",
+  "id": 1489440552,
+  "lat": 52.6861541,
+  "lon": 0.3254610
+},
+{
+  "type": "node",
+  "id": 4714227483,
+  "lat": 52.6838433,
+  "lon": 0.3305626
+},
+{
+  "type": "node",
+  "id": 6771503023,
+  "lat": 52.6816974,
+  "lon": 0.3363952
+},
+{
+  "type": "node",
+  "id": 7896166144,
+  "lat": 52.6768046,
+  "lon": 0.3506727
+},
+{
+  "type": "node",
+  "id": 8476481177,
+  "lat": 52.6836785,
+  "lon": 0.3308786
+},
+{
+  "type": "way",
+  "id": 28602108,
+  "nodes": [
+    314243167,
+    1489440546,
+    766086580,
+    1489440545,
+    766086583,
+    766086593,
+    1489440544,
+    6771503023,
+    314241392,
+    1489440542,
+    766086595,
+    766086596,
+    1489440541,
+    314241394,
+    314241396,
+    1489440537,
+    766086597,
+    7896166144,
+    1489440534,
+    1489440532,
+    314241399,
+    1489440531,
+    1489440533,
+    766086598,
+    1489440535,
+    766086599,
+    766086600,
+    1489440538,
+    1489440539,
+    1489386199,
+    1489386200,
+    1489386202,
+    1489386204,
+    1489386205,
+    1489386207,
+    1489386211,
+    1489386212,
+    314241401
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "OS_OpenData_StreetView",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524912,
+  "nodes": [
+    667479247,
+    313298795,
+    1489440552,
+    1489440551,
+    1489440548,
+    313298796,
+    4714227483,
+    8476481177,
+    314243166
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen High Road",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 314243166,
+  "lat": 52.6835815,
+  "lon": 0.3311009
+},
+{
+  "type": "node",
+  "id": 314243167,
+  "lat": 52.6833532,
+  "lon": 0.3316129
+},
+{
+  "type": "way",
+  "id": 28602105,
+  "nodes": [
+    314243166,
+    314243167
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Magdalen Bridge",
+    "highway": "tertiary",
+    "highway_authority_ref": "C9",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Bridge",
+    "salting:ref": "KLY004",
+    "source": "NPE",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12388184632,
+  "lat": 52.6895487,
+  "lon": 0.3362086
+},
+{
+  "type": "node",
+  "id": 12388190962,
+  "lat": 52.6899178,
+  "lon": 0.3365810
+},
+{
+  "type": "way",
+  "id": 1339233150,
+  "nodes": [
+    12388190962,
+    12388184632
+  ],
+  "tags": {
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "no",
+    "note": "Definitive Line of Public Footpath, but not the path on the ground.",
+    "prow_ref": "Wiggenhall St Germans FP 13",
+    "source": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "node",
+  "id": 314243080,
+  "lat": 52.6894547,
+  "lon": 0.3371008
+},
+{
+  "type": "node",
+  "id": 314243081,
+  "lat": 52.6895467,
+  "lon": 0.3362272
+},
+{
+  "type": "way",
+  "id": 28602121,
+  "nodes": [
+    314243080,
+    314243081
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Peter's Drove Bridge",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Peter's Drove Bridge",
+    "source": "NPE",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 304280884,
+  "lat": 52.7002730,
+  "lon": 0.3286232
+},
+{
+  "type": "node",
+  "id": 313298578,
+  "lat": 52.6948473,
+  "lon": 0.3270640
+},
+{
+  "type": "node",
+  "id": 313299941,
+  "lat": 52.7030914,
+  "lon": 0.3292861
+},
+{
+  "type": "node",
+  "id": 667479262,
+  "lat": 52.6975932,
+  "lon": 0.3278268
+},
+{
+  "type": "node",
+  "id": 667479263,
+  "lat": 52.6961754,
+  "lon": 0.3274792
+},
+{
+  "type": "node",
+  "id": 667479273,
+  "lat": 52.7002461,
+  "lon": 0.3288712
+},
+{
+  "type": "node",
+  "id": 1489440561,
+  "lat": 52.6954980,
+  "lon": 0.3272824
+},
+{
+  "type": "node",
+  "id": 1489440562,
+  "lat": 52.6989498,
+  "lon": 0.3281082
+},
+{
+  "type": "node",
+  "id": 1489440563,
+  "lat": 52.6996226,
+  "lon": 0.3282439
+},
+{
+  "type": "node",
+  "id": 1489440564,
+  "lat": 52.6999119,
+  "lon": 0.3283593
+},
+{
+  "type": "node",
+  "id": 1489440565,
+  "lat": 52.7000940,
+  "lon": 0.3284659
+},
+{
+  "type": "node",
+  "id": 1489440567,
+  "lat": 52.7005327,
+  "lon": 0.3287896
+},
+{
+  "type": "node",
+  "id": 1489440569,
+  "lat": 52.7008177,
+  "lon": 0.3288962
+},
+{
+  "type": "node",
+  "id": 1489440572,
+  "lat": 52.7014757,
+  "lon": 0.3290707
+},
+{
+  "type": "node",
+  "id": 1489440574,
+  "lat": 52.7020888,
+  "lon": 0.3292208
+},
+{
+  "type": "node",
+  "id": 1489440575,
+  "lat": 52.7024501,
+  "lon": 0.3292886
+},
+{
+  "type": "node",
+  "id": 4337420129,
+  "lat": 52.7001859,
+  "lon": 0.3285489
+},
+{
+  "type": "node",
+  "id": 5743405567,
+  "lat": 52.7002667,
+  "lon": 0.3286660,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "way",
+  "id": 28522605,
+  "nodes": [
+    304280884,
+    1489440567,
+    1489440569,
+    1489440572,
+    1489440574,
+    1489440575,
+    313299941
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maxspeed": "30 mph",
+    "name": "High Road",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524913,
+  "nodes": [
+    313298578,
+    1489440561,
+    667479263,
+    667479262,
+    1489440562,
+    1489440563,
+    1489440564,
+    1489440565,
+    4337420129,
+    304280884
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52524915,
+  "nodes": [
+    667479273,
+    5743405567,
+    304280884
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C10",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "The Avenue",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 4337420136,
+  "lat": 52.6999585,
+  "lon": 0.3275048
+},
+{
+  "type": "node",
+  "id": 4337420141,
+  "lat": 52.7000706,
+  "lon": 0.3274966
+},
+{
+  "type": "way",
+  "id": 435849429,
+  "nodes": [
+    4337420141,
+    4337420136
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 304280884,
+  "lat": 52.7002730,
+  "lon": 0.3286232
+},
+{
+  "type": "node",
+  "id": 313298575,
+  "lat": 52.6886509,
+  "lon": 0.3242215
+},
+{
+  "type": "node",
+  "id": 313298576,
+  "lat": 52.6899088,
+  "lon": 0.3246715
+},
+{
+  "type": "node",
+  "id": 313298577,
+  "lat": 52.6903677,
+  "lon": 0.3249939
+},
+{
+  "type": "node",
+  "id": 313298578,
+  "lat": 52.6948473,
+  "lon": 0.3270640
+},
+{
+  "type": "node",
+  "id": 667479249,
+  "lat": 52.6869359,
+  "lon": 0.3232728
+},
+{
+  "type": "node",
+  "id": 667479250,
+  "lat": 52.6871930,
+  "lon": 0.3234504
+},
+{
+  "type": "node",
+  "id": 667479255,
+  "lat": 52.6878248,
+  "lon": 0.3238459
+},
+{
+  "type": "node",
+  "id": 667479257,
+  "lat": 52.6882411,
+  "lon": 0.3240606
+},
+{
+  "type": "node",
+  "id": 667479258,
+  "lat": 52.6894190,
+  "lon": 0.3244169
+},
+{
+  "type": "node",
+  "id": 667479260,
+  "lat": 52.6914981,
+  "lon": 0.3256958
+},
+{
+  "type": "node",
+  "id": 667479261,
+  "lat": 52.6936977,
+  "lon": 0.3265571
+},
+{
+  "type": "node",
+  "id": 667479262,
+  "lat": 52.6975932,
+  "lon": 0.3278268
+},
+{
+  "type": "node",
+  "id": 667479263,
+  "lat": 52.6961754,
+  "lon": 0.3274792
+},
+{
+  "type": "node",
+  "id": 1489440557,
+  "lat": 52.6896747,
+  "lon": 0.3245183
+},
+{
+  "type": "node",
+  "id": 1489440561,
+  "lat": 52.6954980,
+  "lon": 0.3272824
+},
+{
+  "type": "node",
+  "id": 1489440562,
+  "lat": 52.6989498,
+  "lon": 0.3281082
+},
+{
+  "type": "node",
+  "id": 1489440563,
+  "lat": 52.6996226,
+  "lon": 0.3282439
+},
+{
+  "type": "node",
+  "id": 1489440564,
+  "lat": 52.6999119,
+  "lon": 0.3283593
+},
+{
+  "type": "node",
+  "id": 1489440565,
+  "lat": 52.7000940,
+  "lon": 0.3284659
+},
+{
+  "type": "node",
+  "id": 4337420129,
+  "lat": 52.7001859,
+  "lon": 0.3285489
+},
+{
+  "type": "node",
+  "id": 6771791024,
+  "lat": 52.6918984,
+  "lon": 0.3258694
+},
+{
+  "type": "node",
+  "id": 8005348812,
+  "lat": 52.6946949,
+  "lon": 0.3269921
+},
+{
+  "type": "way",
+  "id": 52524899,
+  "nodes": [
+    667479249,
+    667479250,
+    667479255,
+    667479257,
+    313298575,
+    667479258,
+    1489440557,
+    313298576,
+    313298577,
+    667479260,
+    6771791024,
+    667479261,
+    8005348812,
+    313298578
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maintenance": "salting",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 52524913,
+  "nodes": [
+    313298578,
+    1489440561,
+    667479263,
+    667479262,
+    1489440562,
+    1489440563,
+    1489440564,
+    1489440565,
+    4337420129,
+    304280884
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C11",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "High Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8005348811,
+  "lat": 52.6948555,
+  "lon": 0.3261895
+},
+{
+  "type": "node",
+  "id": 8005348813,
+  "lat": 52.6948051,
+  "lon": 0.3264242
+},
+{
+  "type": "way",
+  "id": 858775249,
+  "nodes": [
+    8005348811,
+    8005348813
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "maxar"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 304280860,
+  "lat": 52.7017182,
+  "lon": 0.3566466
+},
+{
+  "type": "node",
+  "id": 304280861,
+  "lat": 52.7000530,
+  "lon": 0.3512703
+},
+{
+  "type": "node",
+  "id": 304280862,
+  "lat": 52.7000843,
+  "lon": 0.3506563
+},
+{
+  "type": "node",
+  "id": 304280865,
+  "lat": 52.7002055,
+  "lon": 0.3502276
+},
+{
+  "type": "node",
+  "id": 304280866,
+  "lat": 52.7006287,
+  "lon": 0.3491155
+},
+{
+  "type": "node",
+  "id": 304280868,
+  "lat": 52.7005686,
+  "lon": 0.3488969
+},
+{
+  "type": "node",
+  "id": 304280870,
+  "lat": 52.7003388,
+  "lon": 0.3486808
+},
+{
+  "type": "node",
+  "id": 304280871,
+  "lat": 52.6996487,
+  "lon": 0.3478153
+},
+{
+  "type": "node",
+  "id": 304280873,
+  "lat": 52.6994066,
+  "lon": 0.3472823
+},
+{
+  "type": "node",
+  "id": 304280874,
+  "lat": 52.6995604,
+  "lon": 0.3452234
+},
+{
+  "type": "node",
+  "id": 667479279,
+  "lat": 52.6995755,
+  "lon": 0.3458097
+},
+{
+  "type": "node",
+  "id": 667479281,
+  "lat": 52.6994021,
+  "lon": 0.3468573
+},
+{
+  "type": "node",
+  "id": 667479283,
+  "lat": 52.6995132,
+  "lon": 0.3475499
+},
+{
+  "type": "node",
+  "id": 667479284,
+  "lat": 52.6999217,
+  "lon": 0.3482624
+},
+{
+  "type": "node",
+  "id": 667479285,
+  "lat": 52.7001138,
+  "lon": 0.3484864
+},
+{
+  "type": "node",
+  "id": 667479286,
+  "lat": 52.7006191,
+  "lon": 0.3490079
+},
+{
+  "type": "node",
+  "id": 667479290,
+  "lat": 52.7005208,
+  "lon": 0.3495069
+},
+{
+  "type": "node",
+  "id": 667479291,
+  "lat": 52.7003682,
+  "lon": 0.3498527
+},
+{
+  "type": "node",
+  "id": 667479293,
+  "lat": 52.7001364,
+  "lon": 0.3517710
+},
+{
+  "type": "node",
+  "id": 667479294,
+  "lat": 52.7003813,
+  "lon": 0.3526312
+},
+{
+  "type": "node",
+  "id": 667479295,
+  "lat": 52.7009019,
+  "lon": 0.3543214
+},
+{
+  "type": "node",
+  "id": 1489423701,
+  "lat": 52.7000470,
+  "lon": 0.3509463
+},
+{
+  "type": "node",
+  "id": 1489423702,
+  "lat": 52.7000748,
+  "lon": 0.3514948
+},
+{
+  "type": "node",
+  "id": 1489423703,
+  "lat": 52.7001330,
+  "lon": 0.3504551
+},
+{
+  "type": "node",
+  "id": 1489423707,
+  "lat": 52.7002493,
+  "lon": 0.3521836
+},
+{
+  "type": "node",
+  "id": 1489423716,
+  "lat": 52.7004966,
+  "lon": 0.3488157
+},
+{
+  "type": "node",
+  "id": 1489423718,
+  "lat": 52.7005802,
+  "lon": 0.3533047
+},
+{
+  "type": "node",
+  "id": 1489423720,
+  "lat": 52.7005975,
+  "lon": 0.3493278
+},
+{
+  "type": "node",
+  "id": 1489423722,
+  "lat": 52.7006213,
+  "lon": 0.3492138
+},
+{
+  "type": "node",
+  "id": 1489423725,
+  "lat": 52.7006773,
+  "lon": 0.3536181
+},
+{
+  "type": "node",
+  "id": 1489426930,
+  "lat": 52.6990981,
+  "lon": 0.3429799
+},
+{
+  "type": "node",
+  "id": 1489426932,
+  "lat": 52.6991651,
+  "lon": 0.3432689
+},
+{
+  "type": "node",
+  "id": 1489426935,
+  "lat": 52.6993004,
+  "lon": 0.3439389
+},
+{
+  "type": "node",
+  "id": 1489426937,
+  "lat": 52.6993880,
+  "lon": 0.3470379
+},
+{
+  "type": "node",
+  "id": 1489426938,
+  "lat": 52.6993853,
+  "lon": 0.3471746
+},
+{
+  "type": "node",
+  "id": 1489426939,
+  "lat": 52.6994396,
+  "lon": 0.3446264
+},
+{
+  "type": "node",
+  "id": 1489426943,
+  "lat": 52.6995347,
+  "lon": 0.3461237
+},
+{
+  "type": "node",
+  "id": 1489426944,
+  "lat": 52.6995832,
+  "lon": 0.3453898
+},
+{
+  "type": "node",
+  "id": 1489426945,
+  "lat": 52.6995887,
+  "lon": 0.3457030
+},
+{
+  "type": "node",
+  "id": 1489426946,
+  "lat": 52.6995959,
+  "lon": 0.3455598
+},
+{
+  "type": "node",
+  "id": 1489426949,
+  "lat": 52.6997898,
+  "lon": 0.3480484
+},
+{
+  "type": "node",
+  "id": 1851357850,
+  "lat": 52.7005025,
+  "lon": 0.3530296
+},
+{
+  "type": "node",
+  "id": 2121075505,
+  "lat": 52.7003046,
+  "lon": 0.3523711
+},
+{
+  "type": "node",
+  "id": 2121075529,
+  "lat": 52.7001619,
+  "lon": 0.3503584
+},
+{
+  "type": "node",
+  "id": 2121075531,
+  "lat": 52.7001063,
+  "lon": 0.3516360
+},
+{
+  "type": "node",
+  "id": 7491553325,
+  "lat": 52.6997105,
+  "lon": 0.3479175,
+  "tags": {
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 12388140954,
+  "lat": 52.7003061,
+  "lon": 0.3499958
+},
+{
+  "type": "node",
+  "id": 12388148500,
+  "lat": 52.7000647,
+  "lon": 0.3507927
+},
+{
+  "type": "node",
+  "id": 12388177701,
+  "lat": 52.7000476,
+  "lon": 0.3510582
+},
+{
+  "type": "node",
+  "id": 12388177710,
+  "lat": 52.7000642,
+  "lon": 0.3514079
+},
+{
+  "type": "node",
+  "id": 12388184633,
+  "lat": 52.6995411,
+  "lon": 0.3460862
+},
+{
+  "type": "node",
+  "id": 12388190923,
+  "lat": 52.6995680,
+  "lon": 0.3458890
+},
+{
+  "type": "node",
+  "id": 12388190927,
+  "lat": 52.6993649,
+  "lon": 0.3459084
+},
+{
+  "type": "way",
+  "id": 52524917,
+  "nodes": [
+    304280860,
+    667479295,
+    1489423725,
+    1489423718,
+    1851357850,
+    667479294,
+    2121075505,
+    1489423707,
+    667479293,
+    2121075531,
+    1489423702,
+    12388177710,
+    304280861,
+    12388177701,
+    1489423701,
+    12388148500,
+    304280862,
+    1489423703,
+    2121075529,
+    304280865,
+    12388140954,
+    667479291,
+    667479290,
+    1489423720,
+    1489423722,
+    304280866,
+    667479286,
+    304280868,
+    1489423716,
+    304280870,
+    667479285,
+    667479284,
+    1489426949,
+    7491553325,
+    304280871,
+    667479283,
+    304280873,
+    1489426938,
+    1489426937,
+    667479281
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C10",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Sluice Road",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 52524920,
+  "nodes": [
+    1489426943,
+    12388184633,
+    12388190923,
+    667479279,
+    1489426945,
+    1489426946,
+    1489426944,
+    304280874,
+    1489426939,
+    1489426935,
+    1489426932,
+    1489426930
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C10",
+    "lane_markings": "no",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Sluice Road",
+    "salting:ref": "KLY004",
+    "sidewalk": "both",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1339233151,
+  "nodes": [
+    12388190927,
+    12388184633
+  ],
+  "tags": {
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "no",
+    "note": "Definitive Line of Public Footpath, but not the path on the ground.",
+    "prow_ref": "Wiggenhall St Germans FP 13",
+    "source": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "node",
+  "id": 667479281,
+  "lat": 52.6994021,
+  "lon": 0.3468573
+},
+{
+  "type": "node",
+  "id": 1489426943,
+  "lat": 52.6995347,
+  "lon": 0.3461237
+},
+{
+  "type": "way",
+  "id": 52524916,
+  "nodes": [
+    667479281,
+    1489426943
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C10",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "St Mary's Bridge",
+    "salting:ref": "KLY004",
+    "source": "survey",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 78330782,
+  "lat": 52.6733516,
+  "lon": 0.3805866
+},
+{
+  "type": "node",
+  "id": 78330783,
+  "lat": 52.6743920,
+  "lon": 0.3778127
+},
+{
+  "type": "node",
+  "id": 78330785,
+  "lat": 52.6743725,
+  "lon": 0.3769510
+},
+{
+  "type": "node",
+  "id": 78330786,
+  "lat": 52.6742813,
+  "lon": 0.3747042
+},
+{
+  "type": "node",
+  "id": 78330787,
+  "lat": 52.6744994,
+  "lon": 0.3731113
+},
+{
+  "type": "node",
+  "id": 338809664,
+  "lat": 52.6749204,
+  "lon": 0.3714695
+},
+{
+  "type": "node",
+  "id": 338809665,
+  "lat": 52.6756629,
+  "lon": 0.3694669
+},
+{
+  "type": "node",
+  "id": 338824118,
+  "lat": 52.6761207,
+  "lon": 0.3679710
+},
+{
+  "type": "node",
+  "id": 338824235,
+  "lat": 52.6763414,
+  "lon": 0.3671540
+},
+{
+  "type": "node",
+  "id": 338824293,
+  "lat": 52.6764909,
+  "lon": 0.3663888
+},
+{
+  "type": "node",
+  "id": 766086082,
+  "lat": 52.6742801,
+  "lon": 0.3782665
+},
+{
+  "type": "node",
+  "id": 766086087,
+  "lat": 52.6744207,
+  "lon": 0.3774645
+},
+{
+  "type": "node",
+  "id": 766086089,
+  "lat": 52.6742455,
+  "lon": 0.3754660
+},
+{
+  "type": "node",
+  "id": 766086100,
+  "lat": 52.6751888,
+  "lon": 0.3706300
+},
+{
+  "type": "node",
+  "id": 1489382961,
+  "lat": 52.6763957,
+  "lon": 0.3668903
+},
+{
+  "type": "node",
+  "id": 2124525952,
+  "lat": 52.6739421,
+  "lon": 0.3789532
+},
+{
+  "type": "node",
+  "id": 2124526123,
+  "lat": 52.6761654,
+  "lon": 0.3677917
+},
+{
+  "type": "node",
+  "id": 2124526163,
+  "lat": 52.6743979,
+  "lon": 0.3771868
+},
+{
+  "type": "node",
+  "id": 2600010296,
+  "lat": 52.6733095,
+  "lon": 0.3807206
+},
+{
+  "type": "node",
+  "id": 4064125196,
+  "lat": 52.6764727,
+  "lon": 0.3664824
+},
+{
+  "type": "node",
+  "id": 4064144443,
+  "lat": 52.6761063,
+  "lon": 0.3680276
+},
+{
+  "type": "node",
+  "id": 4064144459,
+  "lat": 52.6756285,
+  "lon": 0.3695733
+},
+{
+  "type": "node",
+  "id": 4960418462,
+  "lat": 52.6742879,
+  "lon": 0.3760556
+},
+{
+  "type": "node",
+  "id": 9110378172,
+  "lat": 52.6764463,
+  "lon": 0.3666285
+},
+{
+  "type": "way",
+  "id": 30635258,
+  "nodes": [
+    338824293,
+    4064125196,
+    9110378172,
+    1489382961,
+    338824235,
+    2124526123,
+    338824118,
+    4064144443
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C52",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Station Road",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254198601,
+  "nodes": [
+    2600010296,
+    78330782,
+    2124525952,
+    766086082,
+    78330783,
+    766086087,
+    2124526163,
+    78330785,
+    4960418462,
+    766086089,
+    78330786,
+    78330787,
+    338809664,
+    766086100,
+    4064144459,
+    338809665
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C52",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 338809665,
+  "lat": 52.6756629,
+  "lon": 0.3694669
+},
+{
+  "type": "node",
+  "id": 4064144443,
+  "lat": 52.6761063,
+  "lon": 0.3680276
+},
+{
+  "type": "way",
+  "id": 30635236,
+  "nodes": [
+    4064144443,
+    338809665
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Magdalen New Cut Bridge",
+    "highway": "tertiary",
+    "highway_authority_ref": "C52",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "40 mph",
+    "name": "Station Road",
+    "salting:ref": "KLY004",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 806011787,
+  "lat": 52.6881603,
+  "lon": 0.3789307
+},
+{
+  "type": "node",
+  "id": 2365510396,
+  "lat": 52.6879264,
+  "lon": 0.3788028
+},
+{
+  "type": "way",
+  "id": 66621628,
+  "nodes": [
+    806011787,
+    2365510396
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Magdalen Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 806011802,
+  "lat": 52.6878016,
+  "lon": 0.3787321
+},
+{
+  "type": "node",
+  "id": 2365510396,
+  "lat": 52.6879264,
+  "lon": 0.3788028
+},
+{
+  "type": "way",
+  "id": 227921502,
+  "nodes": [
+    2365510396,
+    806011802
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Saint Peters Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2118333162,
+  "lat": 52.6881784,
+  "lon": 0.3879991
+},
+{
+  "type": "node",
+  "id": 2118333165,
+  "lat": 52.6880638,
+  "lon": 0.3879654
+},
+{
+  "type": "way",
+  "id": 201813955,
+  "nodes": [
+    2118333162,
+    2118333165
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "contact_line",
+    "frequency": "50",
+    "gauge": "1435",
+    "layer": "1",
+    "loading_gauge": "W6A, W7, W8",
+    "maxspeed": "90 mph",
+    "name": "Fen Line",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "ref": "BGK",
+    "ref:lor": "EA1162",
+    "source": "OS_OpenData_StreetView",
+    "tracks": "1",
+    "usage": "branch",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:10:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2503637205,
+  "lat": 55.3005334,
+  "lon": -3.0039630
+},
+{
+  "type": "node",
+  "id": 2503637217,
+  "lat": 55.3004326,
+  "lon": -3.0041240
+},
+{
+  "type": "way",
+  "id": 242922319,
+  "nodes": [
+    2503637205,
+    2503637217
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2385662632,
+  "lat": 55.3574270,
+  "lon": -3.0325770
+},
+{
+  "type": "node",
+  "id": 2385662634,
+  "lat": 55.3574548,
+  "lon": -3.0327920
+},
+{
+  "type": "way",
+  "id": 230040304,
+  "nodes": [
+    2385662632,
+    2385662634
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2503701552,
+  "lat": 55.3598658,
+  "lon": -3.0299483
+},
+{
+  "type": "node",
+  "id": 9451321937,
+  "lat": 55.3598698,
+  "lon": -3.0301666
+},
+{
+  "type": "way",
+  "id": 1025018249,
+  "nodes": [
+    9451321937,
+    2503701552
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9451213975,
+  "lat": 55.3628282,
+  "lon": -3.0286431
+},
+{
+  "type": "node",
+  "id": 9451213976,
+  "lat": 55.3627635,
+  "lon": -3.0286995,
+  "tags": {
+    "barrier": "bollard",
+    "bicycle": "yes",
+    "foot": "yes",
+    "horse": "yes",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1025004888,
+  "nodes": [
+    9451213975,
+    9451213976
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2385662617,
+  "lat": 55.3618328,
+  "lon": -3.0258295
+},
+{
+  "type": "node",
+  "id": 2385662618,
+  "lat": 55.3617219,
+  "lon": -3.0256772
+},
+{
+  "type": "way",
+  "id": 230040306,
+  "nodes": [
+    2385662617,
+    2385662618
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2385662625,
+  "lat": 55.3621003,
+  "lon": -3.0271990
+},
+{
+  "type": "node",
+  "id": 9451213974,
+  "lat": 55.3621369,
+  "lon": -3.0270982
+},
+{
+  "type": "way",
+  "id": 1025004886,
+  "nodes": [
+    9451213974,
+    2385662625
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

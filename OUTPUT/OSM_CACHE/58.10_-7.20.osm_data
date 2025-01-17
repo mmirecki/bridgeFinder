@@ -1,0 +1,157 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T15:56:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2966408143,
+  "lat": 58.1174636,
+  "lon": -7.1103921
+},
+{
+  "type": "node",
+  "id": 2966408164,
+  "lat": 58.1174261,
+  "lon": -7.1104720
+},
+{
+  "type": "way",
+  "id": 293085618,
+  "nodes": [
+    2966408143,
+    2966408164
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxweight:signed": "no",
+    "noname": "yes",
+    "passing_places": "yes",
+    "source": "OS7",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10704625676,
+  "lat": 58.1363113,
+  "lon": -7.1164908
+},
+{
+  "type": "node",
+  "id": 10704625677,
+  "lat": 58.1362415,
+  "lon": -7.1165891
+},
+{
+  "type": "way",
+  "id": 1150736719,
+  "nodes": [
+    10704625677,
+    10704625676
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "gravel",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10696733873,
+  "lat": 58.1428689,
+  "lon": -7.1037680
+},
+{
+  "type": "node",
+  "id": 10696733874,
+  "lat": 58.1428460,
+  "lon": -7.1038093
+},
+{
+  "type": "way",
+  "id": 1149849624,
+  "nodes": [
+    10696733873,
+    10696733874
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "passing_places": "yes",
+    "source": "OS7",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

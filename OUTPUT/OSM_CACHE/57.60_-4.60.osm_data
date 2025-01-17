@@ -1,0 +1,203 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:12:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2243009101,
+  "lat": 57.6085873,
+  "lon": -4.5619017
+},
+{
+  "type": "node",
+  "id": 2243009103,
+  "lat": 57.6086242,
+  "lon": -4.5618563
+},
+{
+  "type": "way",
+  "id": 214830628,
+  "nodes": [
+    2243009101,
+    2243009103
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8404697858,
+  "lat": 57.6096160,
+  "lon": -4.5857948
+},
+{
+  "type": "node",
+  "id": 8404697859,
+  "lat": 57.6096318,
+  "lon": -4.5856397
+},
+{
+  "type": "way",
+  "id": 905015979,
+  "nodes": [
+    8404697859,
+    8404697858
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "20 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1870-08-19",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2243009144,
+  "lat": 57.6095860,
+  "lon": -4.5659734
+},
+{
+  "type": "node",
+  "id": 2243009147,
+  "lat": 57.6096488,
+  "lon": -4.5656575
+},
+{
+  "type": "way",
+  "id": 214830611,
+  "nodes": [
+    2243009147,
+    2243009144
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1870-08-19",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3157897381,
+  "lat": 57.6271321,
+  "lon": -4.5333833
+},
+{
+  "type": "node",
+  "id": 3157897399,
+  "lat": 57.6272527,
+  "lon": -4.5330936
+},
+{
+  "type": "way",
+  "id": 310368468,
+  "nodes": [
+    3157897399,
+    3157897381
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

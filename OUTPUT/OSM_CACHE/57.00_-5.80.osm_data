@@ -1,0 +1,280 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:42:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 561150835,
+  "lat": 57.0589431,
+  "lon": -5.7600061
+},
+{
+  "type": "node",
+  "id": 7783577489,
+  "lat": 57.0589197,
+  "lon": -5.7599486
+},
+{
+  "type": "way",
+  "id": 833807324,
+  "nodes": [
+    561150835,
+    7783577489
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1040",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7783706006,
+  "lat": 57.0513218,
+  "lon": -5.7355950
+},
+{
+  "type": "node",
+  "id": 7783706007,
+  "lat": 57.0513676,
+  "lon": -5.7357204
+},
+{
+  "type": "way",
+  "id": 833820750,
+  "nodes": [
+    7783706007,
+    7783706006
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1040",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView;survey",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7783577410,
+  "lat": 57.0675163,
+  "lon": -5.7878644
+},
+{
+  "type": "node",
+  "id": 7783577411,
+  "lat": 57.0674850,
+  "lon": -5.7877805
+},
+{
+  "type": "way",
+  "id": 833807313,
+  "nodes": [
+    7783577410,
+    7783577411
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1933979017,
+  "lat": 57.0736257,
+  "lon": -5.7826743
+},
+{
+  "type": "node",
+  "id": 1933979023,
+  "lat": 57.0736475,
+  "lon": -5.7825880
+},
+{
+  "type": "way",
+  "id": 183036968,
+  "nodes": [
+    1933979017,
+    1933979023
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6304941780,
+  "lat": 57.0816322,
+  "lon": -5.7676838
+},
+{
+  "type": "node",
+  "id": 7783577310,
+  "lat": 57.0816261,
+  "lon": -5.7677602
+},
+{
+  "type": "way",
+  "id": 833807304,
+  "nodes": [
+    6304941780,
+    7783577310
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 690648363,
+  "lat": 57.0913013,
+  "lon": -5.7067329
+},
+{
+  "type": "node",
+  "id": 3211036024,
+  "lat": 57.0913672,
+  "lon": -5.7067670
+},
+{
+  "type": "way",
+  "id": 315020302,
+  "nodes": [
+    690648363,
+    3211036024
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

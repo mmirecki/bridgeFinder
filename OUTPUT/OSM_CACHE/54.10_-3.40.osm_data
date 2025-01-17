@@ -1,0 +1,191 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 11646091417,
+  "lat": 54.1968636,
+  "lon": -3.3251812
+},
+{
+  "type": "node",
+  "id": 12405680399,
+  "lat": 54.1968470,
+  "lon": -3.3251654
+},
+{
+  "type": "way",
+  "id": 1341103548,
+  "nodes": [
+    11646091417,
+    12405680399
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11646091421,
+  "lat": 54.1974687,
+  "lon": -3.3262956
+},
+{
+  "type": "node",
+  "id": 11646091422,
+  "lat": 54.1975103,
+  "lon": -3.3262943
+},
+{
+  "type": "way",
+  "id": 1341103550,
+  "nodes": [
+    11646091422,
+    11646091421
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8901732638,
+  "lat": 54.1935505,
+  "lon": -3.3001693
+},
+{
+  "type": "node",
+  "id": 8901732639,
+  "lat": 54.1935758,
+  "lon": -3.3000948
+},
+{
+  "type": "way",
+  "id": 962338117,
+  "nodes": [
+    8901732638,
+    8901732639
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3208776932,
+  "lat": 54.1951200,
+  "lon": -3.3018632
+},
+{
+  "type": "node",
+  "id": 3208776936,
+  "lat": 54.1951002,
+  "lon": -3.3019363
+},
+{
+  "type": "way",
+  "id": 314834966,
+  "nodes": [
+    3208776936,
+    3208776932
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "prow_ref": "415 013",
+    "source": "survey:www.mapthepaths.org.uk",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

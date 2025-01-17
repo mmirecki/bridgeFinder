@@ -1,0 +1,199 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:10:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8286444571,
+  "lat": 55.2038553,
+  "lon": -3.0937174
+},
+{
+  "type": "node",
+  "id": 8286444572,
+  "lat": 55.2038386,
+  "lon": -3.0935136
+},
+{
+  "type": "way",
+  "id": 891522095,
+  "nodes": [
+    8286444572,
+    8286444571
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1316361697,
+  "lat": 55.2019106,
+  "lon": -3.0831719
+},
+{
+  "type": "node",
+  "id": 1316361698,
+  "lat": 55.2015099,
+  "lon": -3.0830777
+},
+{
+  "type": "way",
+  "id": 116852043,
+  "nodes": [
+    1316361698,
+    1316361697
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Esk Bridge",
+    "heritage": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "source": "survey",
+    "wikidata": "Q17571315"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2522375971,
+  "lat": 55.2028181,
+  "lon": -3.0799760
+},
+{
+  "type": "node",
+  "id": 2522376702,
+  "lat": 55.2028373,
+  "lon": -3.0801630
+},
+{
+  "type": "way",
+  "id": 665008051,
+  "nodes": [
+    2522375971,
+    2522376702
+  ],
+  "tags": {
+    "bridge": "yes",
+    "heritage": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "surface": "asphalt",
+    "wikidata": "Q56622559"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9931984033,
+  "lat": 55.2352105,
+  "lon": -3.0009086
+},
+{
+  "type": "node",
+  "id": 9931984034,
+  "lat": 55.2351471,
+  "lon": -3.0009406
+},
+{
+  "type": "way",
+  "id": 1083807224,
+  "nodes": [
+    9931984033,
+    9931984034
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

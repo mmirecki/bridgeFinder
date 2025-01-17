@@ -1,0 +1,2627 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:08:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8032752327,
+  "lat": 50.7000245,
+  "lon": -4.6658003,
+  "tags": {
+    "barrier": "stile"
+  }
+},
+{
+  "type": "node",
+  "id": 10697373146,
+  "lat": 50.6999631,
+  "lon": -4.6657606
+},
+{
+  "type": "way",
+  "id": 1149918502,
+  "nodes": [
+    8032752327,
+    10697373146
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12096009463,
+  "lat": 50.7005102,
+  "lon": -4.6550046
+},
+{
+  "type": "node",
+  "id": 12096009464,
+  "lat": 50.7005474,
+  "lon": -4.6550280
+},
+{
+  "type": "way",
+  "id": 1306035722,
+  "nodes": [
+    12096009464,
+    12096009463
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "St Juliot FP 8"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339328550,
+  "lat": 50.7079974,
+  "lon": -4.6630624
+},
+{
+  "type": "node",
+  "id": 1593045237,
+  "lat": 50.7081167,
+  "lon": -4.6631385
+},
+{
+  "type": "node",
+  "id": 10697315988,
+  "lat": 50.7080758,
+  "lon": -4.6630891
+},
+{
+  "type": "way",
+  "id": 1123028862,
+  "nodes": [
+    339328550,
+    10697315988,
+    1593045237
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "St Juliot FP 11",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339328558,
+  "lat": 50.7106372,
+  "lon": -4.6558199
+},
+{
+  "type": "node",
+  "id": 10270492449,
+  "lat": 50.7105945,
+  "lon": -4.6559542
+},
+{
+  "type": "way",
+  "id": 1123028865,
+  "nodes": [
+    10270492449,
+    339328558
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "St Juliot FP 11",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12096009467,
+  "lat": 50.7024854,
+  "lon": -4.6521238
+},
+{
+  "type": "node",
+  "id": 12096009468,
+  "lat": 50.7024900,
+  "lon": -4.6521827
+},
+{
+  "type": "way",
+  "id": 1306035724,
+  "nodes": [
+    12096009468,
+    12096009467
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "St Juliot FP 7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4164118169,
+  "lat": 50.7150743,
+  "lon": -4.6525404
+},
+{
+  "type": "node",
+  "id": 10271320291,
+  "lat": 50.7150481,
+  "lon": -4.6525408
+},
+{
+  "type": "way",
+  "id": 1123109897,
+  "nodes": [
+    10271320291,
+    4164118169
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4751298968,
+  "lat": 50.7203559,
+  "lon": -4.6426172,
+  "tags": {
+    "barrier": "stile"
+  }
+},
+{
+  "type": "node",
+  "id": 4751298969,
+  "lat": 50.7203807,
+  "lon": -4.6426852
+},
+{
+  "type": "way",
+  "id": 482287534,
+  "nodes": [
+    4751298968,
+    4751298969
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "note": "continues to the south -- needs completing",
+    "prow_ref": "St Gennys FP 19"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4164118186,
+  "lat": 50.7233728,
+  "lon": -4.6484738
+},
+{
+  "type": "node",
+  "id": 10271331422,
+  "lat": 50.7233922,
+  "lon": -4.6484517
+},
+{
+  "type": "way",
+  "id": 1123109901,
+  "nodes": [
+    4164118186,
+    10271331422
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "path",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339328612,
+  "lat": 50.7386102,
+  "lon": -4.6466120
+},
+{
+  "type": "node",
+  "id": 10575074248,
+  "lat": 50.7385785,
+  "lon": -4.6466862
+},
+{
+  "type": "way",
+  "id": 1134330874,
+  "nodes": [
+    10575074248,
+    339328612
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "St Gennys FP 10",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339328612,
+  "lat": 50.7386102,
+  "lon": -4.6466120
+},
+{
+  "type": "node",
+  "id": 10575074249,
+  "lat": 50.7386229,
+  "lon": -4.6465430
+},
+{
+  "type": "way",
+  "id": 1134330875,
+  "nodes": [
+    339328612,
+    10575074249
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "St Gennys FP 10",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1717673267,
+  "lat": 50.7377528,
+  "lon": -4.6431794
+},
+{
+  "type": "node",
+  "id": 1717673268,
+  "lat": 50.7377429,
+  "lon": -4.6430935
+},
+{
+  "type": "way",
+  "id": 159651171,
+  "nodes": [
+    1717673267,
+    1717673268
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "St Gennys FP 10",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9773577559,
+  "lat": 50.7376212,
+  "lon": -4.6412111
+},
+{
+  "type": "node",
+  "id": 9773577560,
+  "lat": 50.7376003,
+  "lon": -4.6412630
+},
+{
+  "type": "way",
+  "id": 1064148996,
+  "nodes": [
+    9773577560,
+    9773577559
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "St Gennys FP 10",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1715001453,
+  "lat": 50.7260493,
+  "lon": -4.6359084,
+  "tags": {
+    "barrier": "stile"
+  }
+},
+{
+  "type": "node",
+  "id": 1715001469,
+  "lat": 50.7260607,
+  "lon": -4.6357573,
+  "tags": {
+    "barrier": "stile"
+  }
+},
+{
+  "type": "way",
+  "id": 159512290,
+  "nodes": [
+    1715001453,
+    1715001469
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "St Gennys FP 17"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4751292060,
+  "lat": 50.7257616,
+  "lon": -4.6361261
+},
+{
+  "type": "node",
+  "id": 4751292061,
+  "lat": 50.7257042,
+  "lon": -4.6361113
+},
+{
+  "type": "way",
+  "id": 482286653,
+  "nodes": [
+    4751292060,
+    4751292061
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "note": "continues to the south -- needs completing",
+    "prow_ref": "St Gennys FP 18"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 33795992,
+  "lat": 50.7407212,
+  "lon": -4.6333891
+},
+{
+  "type": "node",
+  "id": 33795993,
+  "lat": 50.7404724,
+  "lon": -4.6331966
+},
+{
+  "type": "node",
+  "id": 33795997,
+  "lat": 50.7404034,
+  "lon": -4.6330791
+},
+{
+  "type": "node",
+  "id": 33795998,
+  "lat": 50.7400158,
+  "lon": -4.6326375
+},
+{
+  "type": "node",
+  "id": 339328489,
+  "lat": 50.7408329,
+  "lon": -4.6333637
+},
+{
+  "type": "node",
+  "id": 1577889508,
+  "lat": 50.7398116,
+  "lon": -4.6323142
+},
+{
+  "type": "node",
+  "id": 1715001515,
+  "lat": 50.7400998,
+  "lon": -4.6327378
+},
+{
+  "type": "node",
+  "id": 1715836570,
+  "lat": 50.7405412,
+  "lon": -4.6333443
+},
+{
+  "type": "node",
+  "id": 1850215098,
+  "lat": 50.7396672,
+  "lon": -4.6320500
+},
+{
+  "type": "node",
+  "id": 10699756581,
+  "lat": 50.7406223,
+  "lon": -4.6333938
+},
+{
+  "type": "node",
+  "id": 10699756582,
+  "lat": 50.7403482,
+  "lon": -4.6329966
+},
+{
+  "type": "node",
+  "id": 10699756584,
+  "lat": 50.7405788,
+  "lon": -4.6333800
+},
+{
+  "type": "way",
+  "id": 120139462,
+  "nodes": [
+    339328489,
+    33795992,
+    10699756581,
+    10699756584,
+    1715836570,
+    33795993,
+    33795997
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1123109904,
+  "nodes": [
+    33795997,
+    10699756582,
+    1715001515,
+    33795998,
+    1577889508,
+    1850215098
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 33796020,
+  "lat": 50.7398359,
+  "lon": -4.6335590
+},
+{
+  "type": "node",
+  "id": 2188596315,
+  "lat": 50.7397418,
+  "lon": -4.6338057
+},
+{
+  "type": "way",
+  "id": 208577331,
+  "nodes": [
+    33796020,
+    2188596315
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "highway": "unclassified",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxweight:signed": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 33795987,
+  "lat": 50.7415707,
+  "lon": -4.6330291
+},
+{
+  "type": "node",
+  "id": 33795988,
+  "lat": 50.7414913,
+  "lon": -4.6331283
+},
+{
+  "type": "node",
+  "id": 33795992,
+  "lat": 50.7407212,
+  "lon": -4.6333891
+},
+{
+  "type": "node",
+  "id": 33795993,
+  "lat": 50.7404724,
+  "lon": -4.6331966
+},
+{
+  "type": "node",
+  "id": 33795997,
+  "lat": 50.7404034,
+  "lon": -4.6330791
+},
+{
+  "type": "node",
+  "id": 33795998,
+  "lat": 50.7400158,
+  "lon": -4.6326375
+},
+{
+  "type": "node",
+  "id": 339328489,
+  "lat": 50.7408329,
+  "lon": -4.6333637
+},
+{
+  "type": "node",
+  "id": 1577889508,
+  "lat": 50.7398116,
+  "lon": -4.6323142
+},
+{
+  "type": "node",
+  "id": 1715001515,
+  "lat": 50.7400998,
+  "lon": -4.6327378
+},
+{
+  "type": "node",
+  "id": 1715836570,
+  "lat": 50.7405412,
+  "lon": -4.6333443
+},
+{
+  "type": "node",
+  "id": 1715846587,
+  "lat": 50.7411432,
+  "lon": -4.6319630
+},
+{
+  "type": "node",
+  "id": 1715846595,
+  "lat": 50.7415608,
+  "lon": -4.6330810
+},
+{
+  "type": "node",
+  "id": 1716152490,
+  "lat": 50.7409568,
+  "lon": -4.6332120
+},
+{
+  "type": "node",
+  "id": 1716152492,
+  "lat": 50.7410563,
+  "lon": -4.6331531
+},
+{
+  "type": "node",
+  "id": 1849601093,
+  "lat": 50.7411407,
+  "lon": -4.6331252
+},
+{
+  "type": "node",
+  "id": 1849601095,
+  "lat": 50.7411591,
+  "lon": -4.6320042
+},
+{
+  "type": "node",
+  "id": 1850215098,
+  "lat": 50.7396672,
+  "lon": -4.6320500
+},
+{
+  "type": "node",
+  "id": 1863715864,
+  "lat": 50.7409203,
+  "lon": -4.6332621
+},
+{
+  "type": "node",
+  "id": 4902642967,
+  "lat": 50.7415686,
+  "lon": -4.6329725
+},
+{
+  "type": "node",
+  "id": 5699049423,
+  "lat": 50.7415609,
+  "lon": -4.6329328
+},
+{
+  "type": "node",
+  "id": 5699049448,
+  "lat": 50.7415370,
+  "lon": -4.6331146
+},
+{
+  "type": "node",
+  "id": 9773577558,
+  "lat": 50.7411108,
+  "lon": -4.6331351
+},
+{
+  "type": "node",
+  "id": 10699756581,
+  "lat": 50.7406223,
+  "lon": -4.6333938
+},
+{
+  "type": "node",
+  "id": 10699756582,
+  "lat": 50.7403482,
+  "lon": -4.6329966
+},
+{
+  "type": "node",
+  "id": 10699756584,
+  "lat": 50.7405788,
+  "lon": -4.6333800
+},
+{
+  "type": "way",
+  "id": 120139462,
+  "nodes": [
+    339328489,
+    33795992,
+    10699756581,
+    10699756584,
+    1715836570,
+    33795993,
+    33795997
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 159506370,
+  "nodes": [
+    1716152490,
+    1863715864
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 175497866,
+  "nodes": [
+    1715846587,
+    1849601095,
+    5699049423,
+    4902642967,
+    33795987,
+    1715846595,
+    5699049448,
+    33795988,
+    1849601093,
+    9773577558,
+    1716152492
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 217667610,
+  "nodes": [
+    1863715864,
+    339328489
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1123109904,
+  "nodes": [
+    33795997,
+    10699756582,
+    1715001515,
+    33795998,
+    1577889508,
+    1850215098
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1716039536,
+  "lat": 50.7409084,
+  "lon": -4.6333707
+},
+{
+  "type": "node",
+  "id": 1716042654,
+  "lat": 50.7410103,
+  "lon": -4.6333806
+},
+{
+  "type": "way",
+  "id": 159493204,
+  "nodes": [
+    1716042654,
+    1716039536
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "St Gennys FP 10;St Gennys FP 32",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 33795987,
+  "lat": 50.7415707,
+  "lon": -4.6330291
+},
+{
+  "type": "node",
+  "id": 33795988,
+  "lat": 50.7414913,
+  "lon": -4.6331283
+},
+{
+  "type": "node",
+  "id": 33795992,
+  "lat": 50.7407212,
+  "lon": -4.6333891
+},
+{
+  "type": "node",
+  "id": 33795993,
+  "lat": 50.7404724,
+  "lon": -4.6331966
+},
+{
+  "type": "node",
+  "id": 33795997,
+  "lat": 50.7404034,
+  "lon": -4.6330791
+},
+{
+  "type": "node",
+  "id": 33795998,
+  "lat": 50.7400158,
+  "lon": -4.6326375
+},
+{
+  "type": "node",
+  "id": 339328489,
+  "lat": 50.7408329,
+  "lon": -4.6333637
+},
+{
+  "type": "node",
+  "id": 1577889508,
+  "lat": 50.7398116,
+  "lon": -4.6323142
+},
+{
+  "type": "node",
+  "id": 1715001515,
+  "lat": 50.7400998,
+  "lon": -4.6327378
+},
+{
+  "type": "node",
+  "id": 1715836570,
+  "lat": 50.7405412,
+  "lon": -4.6333443
+},
+{
+  "type": "node",
+  "id": 1715846587,
+  "lat": 50.7411432,
+  "lon": -4.6319630
+},
+{
+  "type": "node",
+  "id": 1715846595,
+  "lat": 50.7415608,
+  "lon": -4.6330810
+},
+{
+  "type": "node",
+  "id": 1715962022,
+  "lat": 50.7409830,
+  "lon": -4.6314383
+},
+{
+  "type": "node",
+  "id": 1716152490,
+  "lat": 50.7409568,
+  "lon": -4.6332120
+},
+{
+  "type": "node",
+  "id": 1716152492,
+  "lat": 50.7410563,
+  "lon": -4.6331531
+},
+{
+  "type": "node",
+  "id": 1849601093,
+  "lat": 50.7411407,
+  "lon": -4.6331252
+},
+{
+  "type": "node",
+  "id": 1849601095,
+  "lat": 50.7411591,
+  "lon": -4.6320042
+},
+{
+  "type": "node",
+  "id": 1850215098,
+  "lat": 50.7396672,
+  "lon": -4.6320500
+},
+{
+  "type": "node",
+  "id": 1863715864,
+  "lat": 50.7409203,
+  "lon": -4.6332621
+},
+{
+  "type": "node",
+  "id": 4902642967,
+  "lat": 50.7415686,
+  "lon": -4.6329725
+},
+{
+  "type": "node",
+  "id": 5699049423,
+  "lat": 50.7415609,
+  "lon": -4.6329328
+},
+{
+  "type": "node",
+  "id": 5699049448,
+  "lat": 50.7415370,
+  "lon": -4.6331146
+},
+{
+  "type": "node",
+  "id": 9773577558,
+  "lat": 50.7411108,
+  "lon": -4.6331351
+},
+{
+  "type": "node",
+  "id": 10699756581,
+  "lat": 50.7406223,
+  "lon": -4.6333938
+},
+{
+  "type": "node",
+  "id": 10699756582,
+  "lat": 50.7403482,
+  "lon": -4.6329966
+},
+{
+  "type": "node",
+  "id": 10699756584,
+  "lat": 50.7405788,
+  "lon": -4.6333800
+},
+{
+  "type": "way",
+  "id": 120139462,
+  "nodes": [
+    339328489,
+    33795992,
+    10699756581,
+    10699756584,
+    1715836570,
+    33795993,
+    33795997
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 159506370,
+  "nodes": [
+    1716152490,
+    1863715864
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 175497866,
+  "nodes": [
+    1715846587,
+    1849601095,
+    5699049423,
+    4902642967,
+    33795987,
+    1715846595,
+    5699049448,
+    33795988,
+    1849601093,
+    9773577558,
+    1716152492
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 175497867,
+  "nodes": [
+    1715962022,
+    1715846587
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 217667610,
+  "nodes": [
+    1863715864,
+    339328489
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1123109904,
+  "nodes": [
+    33795997,
+    10699756582,
+    1715001515,
+    33795998,
+    1577889508,
+    1850215098
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1716152490,
+  "lat": 50.7409568,
+  "lon": -4.6332120
+},
+{
+  "type": "node",
+  "id": 1716152492,
+  "lat": 50.7410563,
+  "lon": -4.6331531
+},
+{
+  "type": "way",
+  "id": 159506371,
+  "nodes": [
+    1716152492,
+    1716152490
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "foot": "yes",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxweight:signed": "no",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1716222078,
+  "lat": 50.7360127,
+  "lon": -4.6321597
+},
+{
+  "type": "node",
+  "id": 1716222079,
+  "lat": 50.7359619,
+  "lon": -4.6321467
+},
+{
+  "type": "way",
+  "id": 159512236,
+  "nodes": [
+    1716222078,
+    1716222079
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "prow_ref": "St Gennys FP 20"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1715001607,
+  "lat": 50.7355819,
+  "lon": -4.6326577
+},
+{
+  "type": "node",
+  "id": 4751322458,
+  "lat": 50.7356246,
+  "lon": -4.6325850,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "way",
+  "id": 482289028,
+  "nodes": [
+    4751322458,
+    1715001607
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "St Gennys FP 20"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1715006075,
+  "lat": 50.7356423,
+  "lon": -4.6325642
+},
+{
+  "type": "node",
+  "id": 4751322458,
+  "lat": 50.7356246,
+  "lon": -4.6325850,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "way",
+  "id": 482289029,
+  "nodes": [
+    1715006075,
+    4751322458
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "prow_ref": "St Gennys FP 20"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 33795976,
+  "lat": 50.7407725,
+  "lon": -4.6302795
+},
+{
+  "type": "node",
+  "id": 33795987,
+  "lat": 50.7415707,
+  "lon": -4.6330291
+},
+{
+  "type": "node",
+  "id": 33795988,
+  "lat": 50.7414913,
+  "lon": -4.6331283
+},
+{
+  "type": "node",
+  "id": 33795992,
+  "lat": 50.7407212,
+  "lon": -4.6333891
+},
+{
+  "type": "node",
+  "id": 33795993,
+  "lat": 50.7404724,
+  "lon": -4.6331966
+},
+{
+  "type": "node",
+  "id": 33795997,
+  "lat": 50.7404034,
+  "lon": -4.6330791
+},
+{
+  "type": "node",
+  "id": 33795998,
+  "lat": 50.7400158,
+  "lon": -4.6326375
+},
+{
+  "type": "node",
+  "id": 339328489,
+  "lat": 50.7408329,
+  "lon": -4.6333637
+},
+{
+  "type": "node",
+  "id": 1577888974,
+  "lat": 50.7407195,
+  "lon": -4.6271774
+},
+{
+  "type": "node",
+  "id": 1577889508,
+  "lat": 50.7398116,
+  "lon": -4.6323142
+},
+{
+  "type": "node",
+  "id": 1715001515,
+  "lat": 50.7400998,
+  "lon": -4.6327378
+},
+{
+  "type": "node",
+  "id": 1715836570,
+  "lat": 50.7405412,
+  "lon": -4.6333443
+},
+{
+  "type": "node",
+  "id": 1715846587,
+  "lat": 50.7411432,
+  "lon": -4.6319630
+},
+{
+  "type": "node",
+  "id": 1715846595,
+  "lat": 50.7415608,
+  "lon": -4.6330810
+},
+{
+  "type": "node",
+  "id": 1715957205,
+  "lat": 50.7406950,
+  "lon": -4.6284008
+},
+{
+  "type": "node",
+  "id": 1715962022,
+  "lat": 50.7409830,
+  "lon": -4.6314383
+},
+{
+  "type": "node",
+  "id": 1715962024,
+  "lat": 50.7407045,
+  "lon": -4.6295188
+},
+{
+  "type": "node",
+  "id": 1716152490,
+  "lat": 50.7409568,
+  "lon": -4.6332120
+},
+{
+  "type": "node",
+  "id": 1716152492,
+  "lat": 50.7410563,
+  "lon": -4.6331531
+},
+{
+  "type": "node",
+  "id": 1716469271,
+  "lat": 50.7407385,
+  "lon": -4.6298992
+},
+{
+  "type": "node",
+  "id": 1849601093,
+  "lat": 50.7411407,
+  "lon": -4.6331252
+},
+{
+  "type": "node",
+  "id": 1849601095,
+  "lat": 50.7411591,
+  "lon": -4.6320042
+},
+{
+  "type": "node",
+  "id": 1850215098,
+  "lat": 50.7396672,
+  "lon": -4.6320500
+},
+{
+  "type": "node",
+  "id": 1863715864,
+  "lat": 50.7409203,
+  "lon": -4.6332621
+},
+{
+  "type": "node",
+  "id": 4902642967,
+  "lat": 50.7415686,
+  "lon": -4.6329725
+},
+{
+  "type": "node",
+  "id": 5699049423,
+  "lat": 50.7415609,
+  "lon": -4.6329328
+},
+{
+  "type": "node",
+  "id": 5699049448,
+  "lat": 50.7415370,
+  "lon": -4.6331146
+},
+{
+  "type": "node",
+  "id": 9077501911,
+  "lat": 50.7407097,
+  "lon": -4.6274446
+},
+{
+  "type": "node",
+  "id": 9773577558,
+  "lat": 50.7411108,
+  "lon": -4.6331351
+},
+{
+  "type": "node",
+  "id": 10573822414,
+  "lat": 50.7405220,
+  "lon": -4.6252869
+},
+{
+  "type": "node",
+  "id": 10699756581,
+  "lat": 50.7406223,
+  "lon": -4.6333938
+},
+{
+  "type": "node",
+  "id": 10699756582,
+  "lat": 50.7403482,
+  "lon": -4.6329966
+},
+{
+  "type": "node",
+  "id": 10699756584,
+  "lat": 50.7405788,
+  "lon": -4.6333800
+},
+{
+  "type": "node",
+  "id": 11766133673,
+  "lat": 50.7405589,
+  "lon": -4.6257092
+},
+{
+  "type": "way",
+  "id": 120139462,
+  "nodes": [
+    339328489,
+    33795992,
+    10699756581,
+    10699756584,
+    1715836570,
+    33795993,
+    33795997
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 159506370,
+  "nodes": [
+    1716152490,
+    1863715864
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 175497866,
+  "nodes": [
+    1715846587,
+    1849601095,
+    5699049423,
+    4902642967,
+    33795987,
+    1715846595,
+    5699049448,
+    33795988,
+    1849601093,
+    9773577558,
+    1716152492
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 175497867,
+  "nodes": [
+    1715962022,
+    1715846587
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 217667610,
+  "nodes": [
+    1863715864,
+    339328489
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "parking:both": "no",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 490886850,
+  "nodes": [
+    10573822414,
+    11766133673,
+    1577888974,
+    9077501911,
+    1715957205,
+    1715962024,
+    1716469271,
+    33795976,
+    1715962022
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1123109904,
+  "nodes": [
+    33795997,
+    10699756582,
+    1715001515,
+    33795998,
+    1577889508,
+    1850215098
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "name": "Mill Ball Hill",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1715846606,
+  "lat": 50.7406565,
+  "lon": -4.6325048
+},
+{
+  "type": "node",
+  "id": 1715846614,
+  "lat": 50.7406954,
+  "lon": -4.6324615
+},
+{
+  "type": "node",
+  "id": 9773577551,
+  "lat": 50.7406396,
+  "lon": -4.6325163
+},
+{
+  "type": "node",
+  "id": 10699791833,
+  "lat": 50.7406746,
+  "lon": -4.6324846
+},
+{
+  "type": "way",
+  "id": 1150194243,
+  "nodes": [
+    9773577551,
+    1715846606,
+    10699791833,
+    1715846614
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "St Gennys FP 28",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9599221757,
+  "lat": 50.7299539,
+  "lon": -4.6169860
+},
+{
+  "type": "node",
+  "id": 9599221758,
+  "lat": 50.7300397,
+  "lon": -4.6166827
+},
+{
+  "type": "way",
+  "id": 1042870520,
+  "nodes": [
+    9599221758,
+    9599221757
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1577889519,
+  "lat": 50.7377035,
+  "lon": -4.6181525
+},
+{
+  "type": "node",
+  "id": 1716237062,
+  "lat": 50.7379419,
+  "lon": -4.6180386
+},
+{
+  "type": "node",
+  "id": 3658724986,
+  "lat": 50.7377424,
+  "lon": -4.6181411
+},
+{
+  "type": "way",
+  "id": 159513443,
+  "nodes": [
+    1716237062,
+    3658724986,
+    1577889519
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "name": "Congdon's Bridge",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 339327927,
+  "lat": 50.7471717,
+  "lon": -4.6314125
+},
+{
+  "type": "node",
+  "id": 9773577525,
+  "lat": 50.7472148,
+  "lon": -4.6314038
+},
+{
+  "type": "way",
+  "id": 1064148987,
+  "nodes": [
+    339327927,
+    9773577525
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 968210101,
+  "lat": 50.7498650,
+  "lon": -4.6152641
+},
+{
+  "type": "node",
+  "id": 968210107,
+  "lat": 50.7495663,
+  "lon": -4.6112293,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 968210128,
+  "lat": 50.7496004,
+  "lon": -4.6154027
+},
+{
+  "type": "node",
+  "id": 968210136,
+  "lat": 50.7497848,
+  "lon": -4.6135978
+},
+{
+  "type": "node",
+  "id": 968210142,
+  "lat": 50.7497374,
+  "lon": -4.6153530,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 968210169,
+  "lat": 50.7497663,
+  "lon": -4.6131133
+},
+{
+  "type": "node",
+  "id": 968210171,
+  "lat": 50.7496505,
+  "lon": -4.6128485
+},
+{
+  "type": "node",
+  "id": 968210192,
+  "lat": 50.7495548,
+  "lon": -4.6118347
+},
+{
+  "type": "node",
+  "id": 10614333087,
+  "lat": 50.7494742,
+  "lon": -4.6154790
+},
+{
+  "type": "way",
+  "id": 83206934,
+  "nodes": [
+    10614333087,
+    968210128,
+    968210142,
+    968210101,
+    968210136,
+    968210169,
+    968210171,
+    968210192,
+    968210107
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "no",
+    "foot": "permissive",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "service": "driveway",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9773577491,
+  "lat": 50.7480479,
+  "lon": -4.6232758
+},
+{
+  "type": "node",
+  "id": 9773577494,
+  "lat": 50.7480919,
+  "lon": -4.6231964
+},
+{
+  "type": "way",
+  "id": 1064148992,
+  "nodes": [
+    9773577491,
+    9773577494
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "prow_ref": "St Gennys FP 29"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1913164426,
+  "lat": 50.7520869,
+  "lon": -4.6169661
+},
+{
+  "type": "node",
+  "id": 5699049440,
+  "lat": 50.7521523,
+  "lon": -4.6169361
+},
+{
+  "type": "way",
+  "id": 598830971,
+  "nodes": [
+    1913164426,
+    5699049440
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "lit": "no",
+    "prow_ref": "St Gennys FP 27",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9773577473,
+  "lat": 50.7478849,
+  "lon": -4.6195459
+},
+{
+  "type": "node",
+  "id": 9773577499,
+  "lat": 50.7479368,
+  "lon": -4.6193737
+},
+{
+  "type": "way",
+  "id": 1064148980,
+  "nodes": [
+    9773577499,
+    9773577473
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "St Gennys FP 1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 968210166,
+  "lat": 50.7492385,
+  "lon": -4.6156215
+},
+{
+  "type": "node",
+  "id": 10614333087,
+  "lat": 50.7494742,
+  "lon": -4.6154790
+},
+{
+  "type": "way",
+  "id": 1138696561,
+  "nodes": [
+    968210166,
+    10614333087
+  ],
+  "tags": {
+    "bridge": "no",
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "hiking",
+    "service": "driveway",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1913164376,
+  "lat": 50.7571576,
+  "lon": -4.6147629
+},
+{
+  "type": "node",
+  "id": 1913164377,
+  "lat": 50.7571005,
+  "lon": -4.6148681
+},
+{
+  "type": "way",
+  "id": 598830973,
+  "nodes": [
+    1913164377,
+    1913164376
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "handrail": "no",
+    "highway": "footway",
+    "horse": "no",
+    "incline": "down",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "St Gennys FP 27",
+    "ramp": "no",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10575074272,
+  "lat": 50.7355154,
+  "lon": -4.6118732
+},
+{
+  "type": "node",
+  "id": 10575074273,
+  "lat": 50.7355035,
+  "lon": -4.6118931
+},
+{
+  "type": "way",
+  "id": 1332500214,
+  "nodes": [
+    10575074272,
+    10575074273
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:07:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 613027777,
+  "lat": 58.3367089,
+  "lon": -4.7985953
+},
+{
+  "type": "node",
+  "id": 613553769,
+  "lat": 58.3367124,
+  "lon": -4.7987275
+},
+{
+  "type": "node",
+  "id": 3706681566,
+  "lat": 58.3367103,
+  "lon": -4.7984935
+},
+{
+  "type": "way",
+  "id": 366680654,
+  "nodes": [
+    613553769,
+    613027777,
+    3706681566
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "gravel",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1796206124,
+  "lat": 58.3623264,
+  "lon": -4.7274389
+},
+{
+  "type": "node",
+  "id": 1796206342,
+  "lat": 58.3621984,
+  "lon": -4.7273128
+},
+{
+  "type": "way",
+  "id": 506096520,
+  "nodes": [
+    1796206342,
+    1796206124
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "note": "Actually a small track for Argocat+Co, not for Landrover - weak bridges!",
+    "surface": "gravel",
+    "tracktype": "grade4",
+    "width": "1.5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3706681447,
+  "lat": 58.3345091,
+  "lon": -4.7079022
+},
+{
+  "type": "node",
+  "id": 3706681448,
+  "lat": 58.3345317,
+  "lon": -4.7076524
+},
+{
+  "type": "node",
+  "id": 3706681449,
+  "lat": 58.3345374,
+  "lon": -4.7075553
+},
+{
+  "type": "way",
+  "id": 366680650,
+  "nodes": [
+    3706681447,
+    3706681448,
+    3706681449
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "dirt",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4958782657,
+  "lat": 58.3589968,
+  "lon": -4.7175162
+},
+{
+  "type": "node",
+  "id": 10188885603,
+  "lat": 58.3590236,
+  "lon": -4.7176657
+},
+{
+  "type": "way",
+  "id": 1113709573,
+  "nodes": [
+    10188885603,
+    4958782657
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

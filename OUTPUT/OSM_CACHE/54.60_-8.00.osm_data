@@ -1,0 +1,157 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T15:25:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3812047334,
+  "lat": 54.6475712,
+  "lon": -7.9963003
+},
+{
+  "type": "node",
+  "id": 3812047335,
+  "lat": 54.6475961,
+  "lon": -7.9964189
+},
+{
+  "type": "way",
+  "id": 377806582,
+  "nodes": [
+    3812047334,
+    3812047335
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "name": "Finmore Bridge",
+    "name:en": "Finmore Bridge",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5929120986,
+  "lat": 54.6974313,
+  "lon": -7.9992057
+},
+{
+  "type": "node",
+  "id": 5929120987,
+  "lat": 54.6973042,
+  "lon": -7.9990930
+},
+{
+  "type": "way",
+  "id": 628053277,
+  "nodes": [
+    5929120986,
+    5929120987
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1329140281,
+  "lat": 54.6618220,
+  "lon": -7.9016049
+},
+{
+  "type": "node",
+  "id": 1329141608,
+  "lat": 54.6617065,
+  "lon": -7.9017174
+},
+{
+  "type": "node",
+  "id": 5653468385,
+  "lat": 54.6617643,
+  "lon": -7.9016612,
+  "tags": {
+    "description": "Republic of Ireland - Northern Ireland border crossing.",
+    "name": "Border NI/ROI"
+  }
+},
+{
+  "type": "way",
+  "id": 306289299,
+  "nodes": [
+    1329140281,
+    5653468385,
+    1329141608
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Kelly's Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

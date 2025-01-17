@@ -1,0 +1,238 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:51:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1838245427,
+  "lat": 56.7139744,
+  "lon": -5.3051307
+},
+{
+  "type": "node",
+  "id": 1838245428,
+  "lat": 56.7136533,
+  "lon": -5.3052404
+},
+{
+  "type": "way",
+  "id": 172992968,
+  "nodes": [
+    1838245427,
+    1838245428
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1389",
+    "layer": "1",
+    "name": "Drochaid Shallachain",
+    "old_ref": "A861",
+    "source": "OS_OpenData_StreetView",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4254374823,
+  "lat": 56.7581189,
+  "lon": -5.3629073
+},
+{
+  "type": "node",
+  "id": 4254374825,
+  "lat": 56.7582248,
+  "lon": -5.3627866
+},
+{
+  "type": "way",
+  "id": 426120924,
+  "nodes": [
+    4254374825,
+    4254374823
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "bing",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6407535631,
+  "lat": 56.7942997,
+  "lon": -5.3452590
+},
+{
+  "type": "node",
+  "id": 6407535632,
+  "lat": 56.7944686,
+  "lon": -5.3453207
+},
+{
+  "type": "way",
+  "id": 684002313,
+  "nodes": [
+    6407535631,
+    6407535632
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4254152285,
+  "lat": 56.7946897,
+  "lon": -5.3435115
+},
+{
+  "type": "node",
+  "id": 4254152286,
+  "lat": 56.7947176,
+  "lon": -5.3436228
+},
+{
+  "type": "way",
+  "id": 684002318,
+  "nodes": [
+    4254152285,
+    4254152286
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "wood",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6534544931,
+  "lat": 56.7919729,
+  "lon": -5.3334667
+},
+{
+  "type": "node",
+  "id": 6534544932,
+  "lat": 56.7921080,
+  "lon": -5.3334546
+},
+{
+  "type": "way",
+  "id": 695890354,
+  "nodes": [
+    6534544931,
+    6534544932
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "surface": "metal",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

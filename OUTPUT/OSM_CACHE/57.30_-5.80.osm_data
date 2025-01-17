@@ -1,0 +1,424 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:42:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 406563131,
+  "lat": 57.3717558,
+  "lon": -5.7712730
+},
+{
+  "type": "node",
+  "id": 11174858979,
+  "lat": 57.3717796,
+  "lon": -5.7712761
+},
+{
+  "type": "node",
+  "id": 11174858980,
+  "lat": 57.3717360,
+  "lon": -5.7712693
+},
+{
+  "type": "way",
+  "id": 1205910942,
+  "nodes": [
+    11174858980,
+    406563131,
+    11174858979
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26494624,
+  "lat": 57.3025510,
+  "lon": -5.7179902
+},
+{
+  "type": "node",
+  "id": 26494625,
+  "lat": 57.3027348,
+  "lon": -5.7180539
+},
+{
+  "type": "way",
+  "id": 55660865,
+  "nodes": [
+    26494625,
+    26494624
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1897-11-02",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 357606573,
+  "lat": 57.3032362,
+  "lon": -5.7159755
+},
+{
+  "type": "node",
+  "id": 2914344357,
+  "lat": 57.3031576,
+  "lon": -5.7159289
+},
+{
+  "type": "way",
+  "id": 287870129,
+  "nodes": [
+    2914344357,
+    357606573
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "lit": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567218375,
+  "lat": 57.3102973,
+  "lon": -5.7188408
+},
+{
+  "type": "node",
+  "id": 567218376,
+  "lat": 57.3105554,
+  "lon": -5.7186818
+},
+{
+  "type": "way",
+  "id": 44703042,
+  "nodes": [
+    567218376,
+    567218375
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1897-11-02",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26494747,
+  "lat": 57.3088138,
+  "lon": -5.7206135
+},
+{
+  "type": "node",
+  "id": 3820420506,
+  "lat": 57.3089161,
+  "lon": -5.7204275
+},
+{
+  "type": "way",
+  "id": 378630153,
+  "nodes": [
+    3820420506,
+    26494747
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1897-11-02",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820420468,
+  "lat": 57.3086239,
+  "lon": -5.7192372
+},
+{
+  "type": "node",
+  "id": 3820420486,
+  "lat": 57.3087175,
+  "lon": -5.7193288
+},
+{
+  "type": "way",
+  "id": 378630157,
+  "nodes": [
+    3820420468,
+    3820420486
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "lit": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 243765129,
+  "lat": 57.3031512,
+  "lon": -5.7058034
+},
+{
+  "type": "node",
+  "id": 243765131,
+  "lat": 57.3028973,
+  "lon": -5.7082026
+},
+{
+  "type": "node",
+  "id": 243765132,
+  "lat": 57.3025930,
+  "lon": -5.7098069,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 243765133,
+  "lat": 57.3020672,
+  "lon": -5.7125584
+},
+{
+  "type": "node",
+  "id": 357606559,
+  "lat": 57.3018440,
+  "lon": -5.7136779,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 616244124,
+  "lat": 57.3027932,
+  "lon": -5.7088844
+},
+{
+  "type": "node",
+  "id": 2956180360,
+  "lat": 57.3023539,
+  "lon": -5.7110353
+},
+{
+  "type": "way",
+  "id": 672786992,
+  "nodes": [
+    357606559,
+    243765133,
+    2956180360,
+    243765132,
+    616244124,
+    243765131,
+    243765129
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C1232",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "40 mph",
+    "old_ref": "A87",
+    "source:highway_authority_ref": "http://www.highland.gov.uk/NR/rdonlyres/BFE44322-6850-4DED-9225-ED8F6E5B61A5/0/LISTOFADOPTEDROADSCCLASS.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 616244118,
+  "lat": 57.3031721,
+  "lon": -5.7089704
+},
+{
+  "type": "node",
+  "id": 616244120,
+  "lat": 57.3030607,
+  "lon": -5.7089642
+},
+{
+  "type": "way",
+  "id": 287870127,
+  "nodes": [
+    616244118,
+    616244120
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "survey",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

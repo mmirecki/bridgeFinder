@@ -1,0 +1,100 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T19:01:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8291605384,
+  "lat": 54.8243435,
+  "lon": -2.1085529
+},
+{
+  "type": "node",
+  "id": 8291605385,
+  "lat": 54.8243122,
+  "lon": -2.1084362
+},
+{
+  "type": "way",
+  "id": 892080545,
+  "nodes": [
+    8291605385,
+    8291605384
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "highway": "track",
+    "layer": "1",
+    "prow_ref": "Hunstansworth FP 11"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6862346197,
+  "lat": 54.8941631,
+  "lon": -2.1362619
+},
+{
+  "type": "node",
+  "id": 6862346198,
+  "lat": 54.8942923,
+  "lon": -2.1363940
+},
+{
+  "type": "way",
+  "id": 732839272,
+  "nodes": [
+    6862346197,
+    6862346198
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

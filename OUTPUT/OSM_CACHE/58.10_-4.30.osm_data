@@ -1,0 +1,145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:22:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8619142274,
+  "lat": 58.1448874,
+  "lon": -4.2023176
+},
+{
+  "type": "node",
+  "id": 8619144089,
+  "lat": 58.1448464,
+  "lon": -4.2022991
+},
+{
+  "type": "way",
+  "id": 929401826,
+  "nodes": [
+    8619142274,
+    8619144089
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "digitalglobe"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2326160207,
+  "lat": 58.1640686,
+  "lon": -4.2643372
+},
+{
+  "type": "node",
+  "id": 2326160456,
+  "lat": 58.1643208,
+  "lon": -4.2642970
+},
+{
+  "type": "way",
+  "id": 223727000,
+  "nodes": [
+    2326160207,
+    2326160456
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "note": "Argocat track",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2323703749,
+  "lat": 58.1971198,
+  "lon": -4.2762983
+},
+{
+  "type": "node",
+  "id": 8682034695,
+  "lat": 58.1971837,
+  "lon": -4.2762618
+},
+{
+  "type": "way",
+  "id": 937004571,
+  "nodes": [
+    2323703749,
+    8682034695
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "note": "Argocat track",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

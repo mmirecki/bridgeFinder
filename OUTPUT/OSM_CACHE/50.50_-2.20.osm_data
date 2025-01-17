@@ -1,0 +1,159 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:56:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 11073420601,
+  "lat": 50.5997390,
+  "lon": -2.1141326
+},
+{
+  "type": "node",
+  "id": 11073420602,
+  "lat": 50.5997451,
+  "lon": -2.1140553
+},
+{
+  "type": "way",
+  "id": 1192950392,
+  "nodes": [
+    11073420602,
+    11073420601
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "SE15/4",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 253213043,
+  "lat": 50.5998349,
+  "lon": -2.1154553
+},
+{
+  "type": "node",
+  "id": 11073420603,
+  "lat": 50.5998620,
+  "lon": -2.1155632
+},
+{
+  "type": "way",
+  "id": 1192950394,
+  "nodes": [
+    253213043,
+    11073420603
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "SE15/4",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2738803775,
+  "lat": 50.5983635,
+  "lon": -2.1010907
+},
+{
+  "type": "node",
+  "id": 2738803777,
+  "lat": 50.5983708,
+  "lon": -2.1012226
+},
+{
+  "type": "way",
+  "id": 1192950390,
+  "nodes": [
+    2738803775,
+    2738803777
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "SE11/43",
+    "source:prow_ref": "dorset_council_prow_gis_data",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

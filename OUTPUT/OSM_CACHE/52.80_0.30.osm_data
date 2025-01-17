@@ -1,0 +1,148 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:16:38Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 12206927385,
+  "lat": 52.8109114,
+  "lon": 0.3246117
+},
+{
+  "type": "node",
+  "id": 12206927386,
+  "lat": 52.8108506,
+  "lon": 0.3244843
+},
+{
+  "type": "way",
+  "id": 1318996565,
+  "nodes": [
+    12206927386,
+    12206927385
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12206927390,
+  "lat": 52.8110849,
+  "lon": 0.3243917
+},
+{
+  "type": "node",
+  "id": 12206927391,
+  "lat": 52.8110281,
+  "lon": 0.3242750
+},
+{
+  "type": "way",
+  "id": 1318996568,
+  "nodes": [
+    12206927391,
+    12206927390
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3935514887,
+  "lat": 52.8005425,
+  "lon": 0.3495196
+},
+{
+  "type": "node",
+  "id": 3935514888,
+  "lat": 52.8006041,
+  "lon": 0.3495946
+},
+{
+  "type": "way",
+  "id": 390385756,
+  "nodes": [
+    3935514888,
+    3935514887
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Terrington St Clement FP 17",
+    "source:prow_ref": "definitive_statement"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

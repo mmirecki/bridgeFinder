@@ -1,0 +1,54 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T19:48:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1640544689,
+  "lat": 50.5873320,
+  "lon": -1.3113221
+},
+{
+  "type": "node",
+  "id": 1640544734,
+  "lat": 50.5873526,
+  "lon": -1.3111768
+},
+{
+  "type": "way",
+  "id": 151234030,
+  "nodes": [
+    1640544734,
+    1640544689
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

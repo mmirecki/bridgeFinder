@@ -1,0 +1,151 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:07:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2178502754,
+  "lat": 57.4149564,
+  "lon": -4.7973546
+},
+{
+  "type": "node",
+  "id": 2178502759,
+  "lat": 57.4150021,
+  "lon": -4.7975443
+},
+{
+  "type": "way",
+  "id": 207597996,
+  "nodes": [
+    2178502754,
+    2178502759
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "motor_vehicle": "permissive",
+    "motor_vehicle:conditional": "yes @ (Apr - Oct)",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1131319831,
+  "lat": 57.4166419,
+  "lon": -4.7818217
+},
+{
+  "type": "node",
+  "id": 1131320021,
+  "lat": 57.4164581,
+  "lon": -4.7819232
+},
+{
+  "type": "way",
+  "id": 97723701,
+  "nodes": [
+    1131319831,
+    1131320021
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Pollcherian Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1131319232,
+  "lat": 57.4193669,
+  "lon": -4.7125311
+},
+{
+  "type": "node",
+  "id": 2178502775,
+  "lat": 57.4191993,
+  "lon": -4.7127040
+},
+{
+  "type": "way",
+  "id": 207597997,
+  "nodes": [
+    1131319232,
+    2178502775
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "motor_vehicle": "permissive",
+    "motor_vehicle:conditional": "yes @ (Apr - Oct)",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

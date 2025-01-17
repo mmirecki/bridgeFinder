@@ -1,0 +1,154 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:16:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1505442123,
+  "lat": 52.9001283,
+  "lon": -4.3754172
+},
+{
+  "type": "node",
+  "id": 1505442148,
+  "lat": 52.8999204,
+  "lon": -4.3753933
+},
+{
+  "type": "way",
+  "id": 137243309,
+  "nodes": [
+    1505442123,
+    1505442148
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2176270922,
+  "lat": 52.8994982,
+  "lon": -4.3681143
+},
+{
+  "type": "node",
+  "id": 2176270938,
+  "lat": 52.8995584,
+  "lon": -4.3677689
+},
+{
+  "type": "way",
+  "id": 207383780,
+  "nodes": [
+    2176270922,
+    2176270938
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "fixme": "metric speed limit on Cambrian Line after ECTS upgrade",
+    "gauge": "1435",
+    "layer": "1",
+    "loading_gauge": "W6A",
+    "maxspeed": "55 mph",
+    "name": "Cambrian Line",
+    "name:cy": "Rheilffordd y Cambrian",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:etcs": "2",
+    "ref": "DJP",
+    "ref:lor": "GW734",
+    "source": "Bing",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8510710363,
+  "lat": 52.8996055,
+  "lon": -4.3688256
+},
+{
+  "type": "node",
+  "id": 8510710364,
+  "lat": 52.8996845,
+  "lon": -4.3687866
+},
+{
+  "type": "way",
+  "id": 916303912,
+  "nodes": [
+    8510710363,
+    8510710364
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

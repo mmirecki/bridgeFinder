@@ -1,0 +1,146 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T19:57:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3816832662,
+  "lat": 59.9380266,
+  "lon": -1.2755144
+},
+{
+  "type": "node",
+  "id": 3816832663,
+  "lat": 59.9380677,
+  "lon": -1.2754226
+},
+{
+  "type": "way",
+  "id": 378282210,
+  "nodes": [
+    3816832663,
+    3816832662
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7792440783,
+  "lat": 59.9927718,
+  "lon": -1.2754162
+},
+{
+  "type": "node",
+  "id": 7792440784,
+  "lat": 59.9927771,
+  "lon": -1.2755731
+},
+{
+  "type": "way",
+  "id": 834782828,
+  "nodes": [
+    7792440784,
+    7792440783
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "access_route",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "source": "Shetland Islands Council"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3859868117,
+  "lat": 59.9958410,
+  "lon": -1.2238503
+},
+{
+  "type": "node",
+  "id": 3859868118,
+  "lat": 59.9958162,
+  "lon": -1.2237417
+},
+{
+  "type": "way",
+  "id": 382767165,
+  "nodes": [
+    3859868117,
+    3859868118
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "core_path",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

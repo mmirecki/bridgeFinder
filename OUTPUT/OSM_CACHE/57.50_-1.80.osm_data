@@ -1,0 +1,230 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T19:26:55Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 566223929,
+  "lat": 57.5047556,
+  "lon": -1.7739770
+},
+{
+  "type": "node",
+  "id": 796200891,
+  "lat": 57.5028446,
+  "lon": -1.7755910
+},
+{
+  "type": "node",
+  "id": 796201331,
+  "lat": 57.5037729,
+  "lon": -1.7739668
+},
+{
+  "type": "node",
+  "id": 1213925729,
+  "lat": 57.5046489,
+  "lon": -1.7737731
+},
+{
+  "type": "node",
+  "id": 1213926437,
+  "lat": 57.5032322,
+  "lon": -1.7745928
+},
+{
+  "type": "node",
+  "id": 1214107579,
+  "lat": 57.5041242,
+  "lon": -1.7747649
+},
+{
+  "type": "node",
+  "id": 1214107730,
+  "lat": 57.5039956,
+  "lon": -1.7737941
+},
+{
+  "type": "node",
+  "id": 1214107909,
+  "lat": 57.5027811,
+  "lon": -1.7759231
+},
+{
+  "type": "node",
+  "id": 1214108085,
+  "lat": 57.5041556,
+  "lon": -1.7750983
+},
+{
+  "type": "node",
+  "id": 1214108200,
+  "lat": 57.5042596,
+  "lon": -1.7761884
+},
+{
+  "type": "node",
+  "id": 1303200274,
+  "lat": 57.5044686,
+  "lon": -1.7734124
+},
+{
+  "type": "node",
+  "id": 9944138882,
+  "lat": 57.5033555,
+  "lon": -1.7744111
+},
+{
+  "type": "node",
+  "id": 9944138883,
+  "lat": 57.5034872,
+  "lon": -1.7742558
+},
+{
+  "type": "node",
+  "id": 9944138884,
+  "lat": 57.5030799,
+  "lon": -1.7749228
+},
+{
+  "type": "node",
+  "id": 9944138885,
+  "lat": 57.5029405,
+  "lon": -1.7752677
+},
+{
+  "type": "node",
+  "id": 9944138887,
+  "lat": 57.5042575,
+  "lon": -1.7760915
+},
+{
+  "type": "node",
+  "id": 9991624226,
+  "lat": 57.5042264,
+  "lon": -1.7757887
+},
+{
+  "type": "node",
+  "id": 12215741617,
+  "lat": 57.5044159,
+  "lon": -1.7734549,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "way",
+  "id": 115283094,
+  "nodes": [
+    1214107909,
+    796200891,
+    9944138885,
+    9944138884,
+    1213926437,
+    9944138882,
+    9944138883,
+    796201331,
+    1214107730,
+    12215741617,
+    1303200274
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Harbour Street",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 115283122,
+  "nodes": [
+    1214108200,
+    9944138887,
+    9991624226,
+    1214108085,
+    1214107579,
+    1214107730
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "James Street",
+    "oneway": "yes",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 115283131,
+  "nodes": [
+    1303200274,
+    1213925729,
+    566223929
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Union Street",
+    "source": "OS7"
+  }
+},
+{
+  "type": "node",
+  "id": 2911389590,
+  "lat": 57.5041867,
+  "lon": -1.7724559
+},
+{
+  "type": "node",
+  "id": 12215741606,
+  "lat": 57.5041036,
+  "lon": -1.7721719
+},
+{
+  "type": "way",
+  "id": 929042186,
+  "nodes": [
+    12215741606,
+    2911389590
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:movable": "bascule",
+    "bridge:structure": "bascule",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxweightrating": "4.4",
+    "name": "Queenie Brig",
+    "oneway": "no",
+    "priority": "backward",
+    "surface": "asphalt",
+    "wikidata": "Q127684511"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

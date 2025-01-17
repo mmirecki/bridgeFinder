@@ -1,0 +1,3022 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T19:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 281853345,
+  "lat": 50.7011119,
+  "lon": -1.4963177
+},
+{
+  "type": "node",
+  "id": 4596408291,
+  "lat": 50.7012232,
+  "lon": -1.4962592
+},
+{
+  "type": "way",
+  "id": 527320179,
+  "nodes": [
+    281853345,
+    4596408291
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "cycleway": "shared",
+    "cycleway:est_width": "2.5",
+    "designation": "public_bridleway",
+    "est_width": "2.5",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "designated",
+    "lit": "no",
+    "motor_vehicle": "private",
+    "name": "Freshwater to Yarmouth cyclepath",
+    "old_name": "Freshwater, Yarmouth & Newport Railway",
+    "prow_ref": "Y19",
+    "segregated": "no",
+    "source": "NPE",
+    "surface": "gravel",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1635427566,
+  "lat": 50.7028799,
+  "lon": -1.4951357
+},
+{
+  "type": "node",
+  "id": 1635427567,
+  "lat": 50.7029538,
+  "lon": -1.4952958
+},
+{
+  "type": "node",
+  "id": 1635427568,
+  "lat": 50.7030864,
+  "lon": -1.4954582
+},
+{
+  "type": "node",
+  "id": 1635427570,
+  "lat": 50.7033081,
+  "lon": -1.4957029
+},
+{
+  "type": "node",
+  "id": 1635427575,
+  "lat": 50.7035796,
+  "lon": -1.4960276
+},
+{
+  "type": "node",
+  "id": 1635427579,
+  "lat": 50.7036077,
+  "lon": -1.4949674
+},
+{
+  "type": "node",
+  "id": 1635427580,
+  "lat": 50.7036126,
+  "lon": -1.4961279
+},
+{
+  "type": "node",
+  "id": 1635427582,
+  "lat": 50.7037038,
+  "lon": -1.4947236
+},
+{
+  "type": "node",
+  "id": 1635427584,
+  "lat": 50.7037450,
+  "lon": -1.4951196
+},
+{
+  "type": "node",
+  "id": 6053061702,
+  "lat": 50.7033543,
+  "lon": -1.4957582
+},
+{
+  "type": "way",
+  "id": 150645231,
+  "nodes": [
+    1635427579,
+    1635427584
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Heytesbury Close",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 150645232,
+  "nodes": [
+    1635427570,
+    1635427579,
+    1635427582
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Heytesbury Road",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 150645236,
+  "nodes": [
+    1635427566,
+    1635427567,
+    1635427568,
+    1635427570,
+    6053061702,
+    1635427575,
+    1635427580
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Station Road",
+    "sidewalk": "left",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 281853256,
+  "lat": 50.7027419,
+  "lon": -1.4950255
+},
+{
+  "type": "node",
+  "id": 765382958,
+  "lat": 50.7026498,
+  "lon": -1.4951383
+},
+{
+  "type": "node",
+  "id": 1625020213,
+  "lat": 50.7026729,
+  "lon": -1.4951110
+},
+{
+  "type": "way",
+  "id": 61240667,
+  "nodes": [
+    765382958,
+    1625020213,
+    281853256
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "cycleway": "shared",
+    "cycleway:est_width": "2.5",
+    "designation": "public_bridleway",
+    "est_width": "2.5",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "designated",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "private",
+    "prow_ref": "Y19",
+    "segregated": "no",
+    "source": "NPE",
+    "surface": "gravel",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2382352,
+  "lat": 50.7044868,
+  "lon": -1.4987303
+},
+{
+  "type": "node",
+  "id": 2383866,
+  "lat": 50.7031948,
+  "lon": -1.4973699
+},
+{
+  "type": "node",
+  "id": 298903092,
+  "lat": 50.7031101,
+  "lon": -1.4972738
+},
+{
+  "type": "node",
+  "id": 1635427566,
+  "lat": 50.7028799,
+  "lon": -1.4951357
+},
+{
+  "type": "node",
+  "id": 1635427567,
+  "lat": 50.7029538,
+  "lon": -1.4952958
+},
+{
+  "type": "node",
+  "id": 1635427568,
+  "lat": 50.7030864,
+  "lon": -1.4954582
+},
+{
+  "type": "node",
+  "id": 1635427570,
+  "lat": 50.7033081,
+  "lon": -1.4957029
+},
+{
+  "type": "node",
+  "id": 1635427571,
+  "lat": 50.7033320,
+  "lon": -1.4975062
+},
+{
+  "type": "node",
+  "id": 1635427572,
+  "lat": 50.7035424,
+  "lon": -1.4963744
+},
+{
+  "type": "node",
+  "id": 1635427575,
+  "lat": 50.7035796,
+  "lon": -1.4960276
+},
+{
+  "type": "node",
+  "id": 1635427580,
+  "lat": 50.7036126,
+  "lon": -1.4961279
+},
+{
+  "type": "node",
+  "id": 1635427581,
+  "lat": 50.7036742,
+  "lon": -1.4978943
+},
+{
+  "type": "node",
+  "id": 1635427587,
+  "lat": 50.7040983,
+  "lon": -1.4983483
+},
+{
+  "type": "node",
+  "id": 5092292390,
+  "lat": 50.7028578,
+  "lon": -1.4969137
+},
+{
+  "type": "node",
+  "id": 6053061702,
+  "lat": 50.7033543,
+  "lon": -1.4957582
+},
+{
+  "type": "node",
+  "id": 9485824117,
+  "lat": 50.7044283,
+  "lon": -1.4986728
+},
+{
+  "type": "way",
+  "id": 27235530,
+  "nodes": [
+    2383866,
+    298903092,
+    5092292390
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Mill Road",
+    "sidewalk": "none",
+    "source": "bing",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 150645233,
+  "nodes": [
+    2382352,
+    9485824117,
+    1635427587,
+    1635427581,
+    1635427571,
+    2383866
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Mill Road",
+    "sidewalk": "none",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 150645235,
+  "nodes": [
+    1635427580,
+    1635427572,
+    2383866
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Station Road",
+    "sidewalk": "none",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 150645236,
+  "nodes": [
+    1635427566,
+    1635427567,
+    1635427568,
+    1635427570,
+    6053061702,
+    1635427575,
+    1635427580
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Station Road",
+    "sidewalk": "left",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 298903089,
+  "lat": 50.7026558,
+  "lon": -1.4967031
+},
+{
+  "type": "node",
+  "id": 765382916,
+  "lat": 50.7025306,
+  "lon": -1.4966934
+},
+{
+  "type": "way",
+  "id": 61240672,
+  "nodes": [
+    765382916,
+    298903089
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "no",
+    "layer": "1",
+    "prow_ref": "Y1",
+    "surface": "gravel",
+    "tracktype": "grade2",
+    "vehicle": "destination"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1635427566,
+  "lat": 50.7028799,
+  "lon": -1.4951357
+},
+{
+  "type": "node",
+  "id": 1635427567,
+  "lat": 50.7029538,
+  "lon": -1.4952958
+},
+{
+  "type": "node",
+  "id": 1635427568,
+  "lat": 50.7030864,
+  "lon": -1.4954582
+},
+{
+  "type": "node",
+  "id": 1635427570,
+  "lat": 50.7033081,
+  "lon": -1.4957029
+},
+{
+  "type": "node",
+  "id": 1635427575,
+  "lat": 50.7035796,
+  "lon": -1.4960276
+},
+{
+  "type": "node",
+  "id": 1635427579,
+  "lat": 50.7036077,
+  "lon": -1.4949674
+},
+{
+  "type": "node",
+  "id": 1635427580,
+  "lat": 50.7036126,
+  "lon": -1.4961279
+},
+{
+  "type": "node",
+  "id": 1635427582,
+  "lat": 50.7037038,
+  "lon": -1.4947236
+},
+{
+  "type": "node",
+  "id": 1635427584,
+  "lat": 50.7037450,
+  "lon": -1.4951196
+},
+{
+  "type": "node",
+  "id": 6053061702,
+  "lat": 50.7033543,
+  "lon": -1.4957582
+},
+{
+  "type": "way",
+  "id": 150645231,
+  "nodes": [
+    1635427579,
+    1635427584
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Heytesbury Close",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 150645232,
+  "nodes": [
+    1635427570,
+    1635427579,
+    1635427582
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Heytesbury Road",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 150645236,
+  "nodes": [
+    1635427566,
+    1635427567,
+    1635427568,
+    1635427570,
+    6053061702,
+    1635427575,
+    1635427580
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Station Road",
+    "sidewalk": "left",
+    "source": "bing",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 819336877,
+  "lat": 50.7029240,
+  "lon": -1.4947504
+},
+{
+  "type": "node",
+  "id": 819336881,
+  "lat": 50.7028194,
+  "lon": -1.4946755
+},
+{
+  "type": "way",
+  "id": 703842015,
+  "nodes": [
+    819336881,
+    819336877
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6370906,
+  "lat": 50.6995737,
+  "lon": -1.4817870,
+  "tags": {
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 6370908,
+  "lat": 50.7004349,
+  "lon": -1.4825332
+},
+{
+  "type": "node",
+  "id": 6370909,
+  "lat": 50.7012325,
+  "lon": -1.4828211
+},
+{
+  "type": "node",
+  "id": 6370910,
+  "lat": 50.7014814,
+  "lon": -1.4831621
+},
+{
+  "type": "node",
+  "id": 6370911,
+  "lat": 50.7023059,
+  "lon": -1.4850474
+},
+{
+  "type": "node",
+  "id": 6370915,
+  "lat": 50.7039583,
+  "lon": -1.4849037
+},
+{
+  "type": "node",
+  "id": 6370916,
+  "lat": 50.7036101,
+  "lon": -1.4849332
+},
+{
+  "type": "node",
+  "id": 6370917,
+  "lat": 50.7047941,
+  "lon": -1.4857272
+},
+{
+  "type": "node",
+  "id": 294631238,
+  "lat": 50.6998524,
+  "lon": -1.4817387,
+  "tags": {
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 604278113,
+  "lat": 50.7001484,
+  "lon": -1.4822386
+},
+{
+  "type": "node",
+  "id": 765383050,
+  "lat": 50.7034287,
+  "lon": -1.4849932
+},
+{
+  "type": "node",
+  "id": 1043773299,
+  "lat": 50.6999847,
+  "lon": -1.4818381,
+  "tags": {
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1263363033,
+  "lat": 50.7029578,
+  "lon": -1.4851237
+},
+{
+  "type": "node",
+  "id": 1263363077,
+  "lat": 50.7041163,
+  "lon": -1.4849815
+},
+{
+  "type": "node",
+  "id": 1263363099,
+  "lat": 50.7021280,
+  "lon": -1.4847932
+},
+{
+  "type": "node",
+  "id": 1263363102,
+  "lat": 50.7018151,
+  "lon": -1.4840018
+},
+{
+  "type": "node",
+  "id": 1263363119,
+  "lat": 50.7002187,
+  "lon": -1.4823499
+},
+{
+  "type": "node",
+  "id": 1263363136,
+  "lat": 50.7003667,
+  "lon": -1.4824951
+},
+{
+  "type": "node",
+  "id": 1263363170,
+  "lat": 50.7039312,
+  "lon": -1.4848904
+},
+{
+  "type": "node",
+  "id": 1263363251,
+  "lat": 50.7013216,
+  "lon": -1.4829151
+},
+{
+  "type": "node",
+  "id": 1263363284,
+  "lat": 50.6999227,
+  "lon": -1.4817769
+},
+{
+  "type": "node",
+  "id": 1263363306,
+  "lat": 50.7024715,
+  "lon": -1.4851352
+},
+{
+  "type": "node",
+  "id": 1263363331,
+  "lat": 50.7020748,
+  "lon": -1.4846782
+},
+{
+  "type": "node",
+  "id": 1263363369,
+  "lat": 50.7031871,
+  "lon": -1.4850620
+},
+{
+  "type": "node",
+  "id": 1263363405,
+  "lat": 50.7042420,
+  "lon": -1.4850727
+},
+{
+  "type": "node",
+  "id": 1263363423,
+  "lat": 50.7015926,
+  "lon": -1.4833957
+},
+{
+  "type": "node",
+  "id": 1263363449,
+  "lat": 50.7026179,
+  "lon": -1.4851541
+},
+{
+  "type": "node",
+  "id": 1263363468,
+  "lat": 50.7045045,
+  "lon": -1.4853879
+},
+{
+  "type": "node",
+  "id": 1263363470,
+  "lat": 50.7043465,
+  "lon": -1.4851920
+},
+{
+  "type": "node",
+  "id": 1263363491,
+  "lat": 50.7002988,
+  "lon": -1.4824395
+},
+{
+  "type": "node",
+  "id": 4060251633,
+  "lat": 50.7009906,
+  "lon": -1.4827043
+},
+{
+  "type": "node",
+  "id": 4594816824,
+  "lat": 50.6982924,
+  "lon": -1.4820409
+},
+{
+  "type": "node",
+  "id": 4911502477,
+  "lat": 50.7005524,
+  "lon": -1.4825694
+},
+{
+  "type": "node",
+  "id": 4912264983,
+  "lat": 50.6999669,
+  "lon": -1.4818205
+},
+{
+  "type": "node",
+  "id": 4936719384,
+  "lat": 50.7023568,
+  "lon": -1.4850895
+},
+{
+  "type": "node",
+  "id": 5220478800,
+  "lat": 50.7017101,
+  "lon": -1.4837046
+},
+{
+  "type": "node",
+  "id": 5220478802,
+  "lat": 50.7037288,
+  "lon": -1.4848889
+},
+{
+  "type": "node",
+  "id": 5220478803,
+  "lat": 50.7021724,
+  "lon": -1.4848757
+},
+{
+  "type": "node",
+  "id": 5220478805,
+  "lat": 50.7038341,
+  "lon": -1.4848783
+},
+{
+  "type": "node",
+  "id": 5220478806,
+  "lat": 50.7022599,
+  "lon": -1.4849979
+},
+{
+  "type": "node",
+  "id": 5220478808,
+  "lat": 50.7024218,
+  "lon": -1.4851221
+},
+{
+  "type": "node",
+  "id": 5220478809,
+  "lat": 50.7025474,
+  "lon": -1.4851497
+},
+{
+  "type": "node",
+  "id": 5220478810,
+  "lat": 50.7022202,
+  "lon": -1.4849417
+},
+{
+  "type": "node",
+  "id": 8493245968,
+  "lat": 50.6984507,
+  "lon": -1.4820098
+},
+{
+  "type": "node",
+  "id": 8493246000,
+  "lat": 50.6981236,
+  "lon": -1.4820715
+},
+{
+  "type": "node",
+  "id": 12431732174,
+  "lat": 50.7011589,
+  "lon": -1.4827856
+},
+{
+  "type": "way",
+  "id": 1496813,
+  "nodes": [
+    8493246000,
+    4594816824,
+    8493245968,
+    6370906,
+    294631238,
+    1263363284,
+    4912264983,
+    1043773299,
+    604278113,
+    1263363119,
+    1263363491,
+    1263363136,
+    6370908,
+    4911502477,
+    4060251633,
+    12431732174,
+    6370909,
+    1263363251,
+    6370910,
+    1263363423,
+    5220478800,
+    1263363102,
+    1263363331,
+    1263363099,
+    5220478803,
+    5220478810,
+    5220478806,
+    6370911,
+    4936719384,
+    5220478808,
+    1263363306,
+    5220478809,
+    1263363449,
+    1263363033,
+    1263363369,
+    765383050
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 61240670,
+  "nodes": [
+    6370916,
+    5220478802,
+    5220478805,
+    1263363170,
+    6370915,
+    1263363077,
+    1263363405,
+    1263363470
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 231735178,
+  "nodes": [
+    1263363470,
+    1263363468,
+    6370917
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6370916,
+  "lat": 50.7036101,
+  "lon": -1.4849332
+},
+{
+  "type": "node",
+  "id": 765383050,
+  "lat": 50.7034287,
+  "lon": -1.4849932
+},
+{
+  "type": "way",
+  "id": 61240664,
+  "nodes": [
+    765383050,
+    6370916
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Thorley Bridge",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2384053,
+  "lat": 50.7064310,
+  "lon": -1.4870741
+},
+{
+  "type": "node",
+  "id": 6370915,
+  "lat": 50.7039583,
+  "lon": -1.4849037
+},
+{
+  "type": "node",
+  "id": 6370916,
+  "lat": 50.7036101,
+  "lon": -1.4849332
+},
+{
+  "type": "node",
+  "id": 6370917,
+  "lat": 50.7047941,
+  "lon": -1.4857272
+},
+{
+  "type": "node",
+  "id": 6370918,
+  "lat": 50.7055384,
+  "lon": -1.4865653
+},
+{
+  "type": "node",
+  "id": 1263363077,
+  "lat": 50.7041163,
+  "lon": -1.4849815
+},
+{
+  "type": "node",
+  "id": 1263363115,
+  "lat": 50.7058279,
+  "lon": -1.4867368
+},
+{
+  "type": "node",
+  "id": 1263363139,
+  "lat": 50.7052731,
+  "lon": -1.4862878
+},
+{
+  "type": "node",
+  "id": 1263363170,
+  "lat": 50.7039312,
+  "lon": -1.4848904
+},
+{
+  "type": "node",
+  "id": 1263363299,
+  "lat": 50.7063172,
+  "lon": -1.4870277
+},
+{
+  "type": "node",
+  "id": 1263363405,
+  "lat": 50.7042420,
+  "lon": -1.4850727
+},
+{
+  "type": "node",
+  "id": 1263363468,
+  "lat": 50.7045045,
+  "lon": -1.4853879
+},
+{
+  "type": "node",
+  "id": 1263363470,
+  "lat": 50.7043465,
+  "lon": -1.4851920
+},
+{
+  "type": "node",
+  "id": 1263363489,
+  "lat": 50.7054057,
+  "lon": -1.4864457
+},
+{
+  "type": "node",
+  "id": 2499281625,
+  "lat": 50.7048654,
+  "lon": -1.4858076
+},
+{
+  "type": "node",
+  "id": 4910941046,
+  "lat": 50.7049397,
+  "lon": -1.4858982
+},
+{
+  "type": "node",
+  "id": 4910941065,
+  "lat": 50.7050990,
+  "lon": -1.4860925
+},
+{
+  "type": "node",
+  "id": 4910941074,
+  "lat": 50.7053654,
+  "lon": -1.4863977
+},
+{
+  "type": "node",
+  "id": 5220478802,
+  "lat": 50.7037288,
+  "lon": -1.4848889
+},
+{
+  "type": "node",
+  "id": 5220478805,
+  "lat": 50.7038341,
+  "lon": -1.4848783
+},
+{
+  "type": "way",
+  "id": 61240670,
+  "nodes": [
+    6370916,
+    5220478802,
+    5220478805,
+    1263363170,
+    6370915,
+    1263363077,
+    1263363405,
+    1263363470
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 231735178,
+  "nodes": [
+    1263363470,
+    1263363468,
+    6370917
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 242466242,
+  "nodes": [
+    2499281625,
+    4910941046,
+    4910941065,
+    1263363139,
+    4910941074,
+    1263363489,
+    6370918,
+    1263363115,
+    1263363299,
+    2384053
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6370917,
+  "lat": 50.7047941,
+  "lon": -1.4857272
+},
+{
+  "type": "node",
+  "id": 2499281625,
+  "lat": 50.7048654,
+  "lon": -1.4858076
+},
+{
+  "type": "way",
+  "id": 210266630,
+  "nodes": [
+    6370917,
+    2499281625
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Thorley Road",
+    "ref": "B3401",
+    "sidewalk": "none",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 294732795,
+  "lat": 50.7093592,
+  "lon": -1.4695378,
+  "tags": {
+    "source": "Locally rectified NPE map"
+  }
+},
+{
+  "type": "node",
+  "id": 2483395087,
+  "lat": 50.7093188,
+  "lon": -1.4703193
+},
+{
+  "type": "way",
+  "id": 244849967,
+  "nodes": [
+    2483395087,
+    294732795
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "designation": "public_footpath",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "S1",
+    "source": "NPE map & Bing",
+    "source:designation": "OS7",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6573312325,
+  "lat": 50.7556552,
+  "lon": -1.4886038
+},
+{
+  "type": "node",
+  "id": 6573312326,
+  "lat": 50.7556554,
+  "lon": -1.4885406
+},
+{
+  "type": "way",
+  "id": 699978939,
+  "nodes": [
+    6573312325,
+    6573312326
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "permissive",
+    "handrail": "both",
+    "highway": "footway",
+    "layer": "1",
+    "material": "wood",
+    "surface": "wood",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 294636780,
+  "lat": 50.7035485,
+  "lon": -1.4359969,
+  "tags": {
+    "barrier": "stile",
+    "foot": "yes",
+    "material": "wood",
+    "note": "survey 07/2016",
+    "source": "Bing",
+    "stile": "stepover"
+  }
+},
+{
+  "type": "node",
+  "id": 4294827430,
+  "lat": 50.7034176,
+  "lon": -1.4358268
+},
+{
+  "type": "way",
+  "id": 430210715,
+  "nodes": [
+    4294827430,
+    294636780
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "highway": "footway",
+    "note": "survey 07/2016",
+    "prow_ref": "S9",
+    "source": "OS7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1635391963,
+  "lat": 50.7046851,
+  "lon": -1.4308032
+},
+{
+  "type": "node",
+  "id": 1635391968,
+  "lat": 50.7047592,
+  "lon": -1.4308249
+},
+{
+  "type": "way",
+  "id": 150641737,
+  "nodes": [
+    1635391963,
+    1635391968
+  ],
+  "tags": {
+    "access": "destination",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "highway": "track",
+    "layer": "1",
+    "name": "Hamstead Drive",
+    "prow_ref": "S27",
+    "source": "OS_OpenData_StreetView",
+    "source:designation": "OS7",
+    "source:name": "OS_OpenData_Locator",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2384366,
+  "lat": 50.7015928,
+  "lon": -1.4149874
+},
+{
+  "type": "node",
+  "id": 2384369,
+  "lat": 50.7015779,
+  "lon": -1.4136417
+},
+{
+  "type": "node",
+  "id": 2384370,
+  "lat": 50.7015537,
+  "lon": -1.4134072
+},
+{
+  "type": "node",
+  "id": 6369997,
+  "lat": 50.7010087,
+  "lon": -1.4119796
+},
+{
+  "type": "node",
+  "id": 6369998,
+  "lat": 50.7011176,
+  "lon": -1.4119225
+},
+{
+  "type": "node",
+  "id": 6370023,
+  "lat": 50.7012607,
+  "lon": -1.4118530
+},
+{
+  "type": "node",
+  "id": 260118512,
+  "lat": 50.7012979,
+  "lon": -1.4120387,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 294641634,
+  "lat": 50.7016700,
+  "lon": -1.4154489,
+  "tags": {
+    "source": "Locally rectified NPE map"
+  }
+},
+{
+  "type": "node",
+  "id": 687710222,
+  "lat": 50.7043357,
+  "lon": -1.4135865
+},
+{
+  "type": "node",
+  "id": 687710224,
+  "lat": 50.7015612,
+  "lon": -1.4148113
+},
+{
+  "type": "node",
+  "id": 687710228,
+  "lat": 50.7036166,
+  "lon": -1.4139617
+},
+{
+  "type": "node",
+  "id": 1495284523,
+  "lat": 50.7016931,
+  "lon": -1.4155986,
+  "tags": {
+    "source": "Locally rectified NPE map"
+  }
+},
+{
+  "type": "node",
+  "id": 1495284560,
+  "lat": 50.7021538,
+  "lon": -1.4145649
+},
+{
+  "type": "node",
+  "id": 1620067941,
+  "lat": 50.7017598,
+  "lon": -1.4160477
+},
+{
+  "type": "node",
+  "id": 1620067942,
+  "lat": 50.7015254,
+  "lon": -1.4141651
+},
+{
+  "type": "node",
+  "id": 1620067960,
+  "lat": 50.7015286,
+  "lon": -1.4146162
+},
+{
+  "type": "node",
+  "id": 2066320586,
+  "lat": 50.7016578,
+  "lon": -1.4182762
+},
+{
+  "type": "node",
+  "id": 4511163726,
+  "lat": 50.7013904,
+  "lon": -1.4124829
+},
+{
+  "type": "node",
+  "id": 4511163741,
+  "lat": 50.7015764,
+  "lon": -1.4149006,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 4625802836,
+  "lat": 50.7028781,
+  "lon": -1.4142059
+},
+{
+  "type": "node",
+  "id": 4625802843,
+  "lat": 50.7040221,
+  "lon": -1.4137394
+},
+{
+  "type": "node",
+  "id": 4651835176,
+  "lat": 50.7010294,
+  "lon": -1.4137548,
+  "tags": {
+    "highway": "turning_circle"
+  }
+},
+{
+  "type": "node",
+  "id": 4651835177,
+  "lat": 50.7010379,
+  "lon": -1.4136689
+},
+{
+  "type": "node",
+  "id": 4651835178,
+  "lat": 50.7010345,
+  "lon": -1.4134571
+},
+{
+  "type": "node",
+  "id": 4651835179,
+  "lat": 50.7010234,
+  "lon": -1.4132439
+},
+{
+  "type": "node",
+  "id": 4651835180,
+  "lat": 50.7009903,
+  "lon": -1.4129099
+},
+{
+  "type": "node",
+  "id": 4651835181,
+  "lat": 50.7009682,
+  "lon": -1.4127597
+},
+{
+  "type": "node",
+  "id": 4651835182,
+  "lat": 50.7009088,
+  "lon": -1.4124056
+},
+{
+  "type": "node",
+  "id": 4651835183,
+  "lat": 50.7008986,
+  "lon": -1.4122715
+},
+{
+  "type": "node",
+  "id": 4651835184,
+  "lat": 50.7009105,
+  "lon": -1.4121803
+},
+{
+  "type": "node",
+  "id": 4651835185,
+  "lat": 50.7009529,
+  "lon": -1.4120623
+},
+{
+  "type": "node",
+  "id": 5222180353,
+  "lat": 50.7016090,
+  "lon": -1.4150633
+},
+{
+  "type": "node",
+  "id": 5222180361,
+  "lat": 50.7017360,
+  "lon": -1.4166519
+},
+{
+  "type": "node",
+  "id": 5222180362,
+  "lat": 50.7017166,
+  "lon": -1.4172567
+},
+{
+  "type": "node",
+  "id": 5222180371,
+  "lat": 50.7015422,
+  "lon": -1.4147098
+},
+{
+  "type": "node",
+  "id": 5222180373,
+  "lat": 50.7017266,
+  "lon": -1.4158574
+},
+{
+  "type": "node",
+  "id": 5454620547,
+  "lat": 50.7023225,
+  "lon": -1.4144763
+},
+{
+  "type": "node",
+  "id": 5454620553,
+  "lat": 50.7019416,
+  "lon": -1.4146641
+},
+{
+  "type": "node",
+  "id": 5454620554,
+  "lat": 50.7026246,
+  "lon": -1.4143235
+},
+{
+  "type": "node",
+  "id": 5454689576,
+  "lat": 50.7015747,
+  "lon": -1.4136106
+},
+{
+  "type": "node",
+  "id": 8072900025,
+  "lat": 50.7009786,
+  "lon": -1.4128571
+},
+{
+  "type": "node",
+  "id": 8664658614,
+  "lat": 50.7027680,
+  "lon": -1.4142570
+},
+{
+  "type": "way",
+  "id": 1496356,
+  "nodes": [
+    6370023,
+    6369998,
+    6369997,
+    4651835185,
+    4651835184,
+    4651835183,
+    4651835182,
+    4651835181,
+    8072900025,
+    4651835180,
+    4651835179,
+    4651835178,
+    4651835177,
+    4651835176
+  ],
+  "tags": {
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "St Michaels Close",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 54630264,
+  "nodes": [
+    687710222,
+    4625802843,
+    687710228,
+    4625802836,
+    8664658614,
+    5454620554,
+    5454620547,
+    1495284560,
+    5454620553,
+    687710224
+  ],
+  "tags": {
+    "highway": "residential",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Mill Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 196286128,
+  "nodes": [
+    687710224,
+    5222180371,
+    1620067960
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Main Road",
+    "ref": "A3054",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 196286130,
+  "nodes": [
+    2066320586,
+    5222180362,
+    5222180361,
+    1620067941,
+    5222180373,
+    1495284523,
+    294641634,
+    5222180353,
+    2384366,
+    4511163741,
+    687710224
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Main Road",
+    "ref": "A3054",
+    "sidewalk": "none",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 539725706,
+  "nodes": [
+    1620067942,
+    2384369,
+    5454689576,
+    2384370,
+    4511163726,
+    260118512
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Main Road",
+    "ref": "A3054",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1620067942,
+  "lat": 50.7015254,
+  "lon": -1.4141651
+},
+{
+  "type": "node",
+  "id": 1620067960,
+  "lat": 50.7015286,
+  "lon": -1.4146162
+},
+{
+  "type": "node",
+  "id": 4511163729,
+  "lat": 50.7015175,
+  "lon": -1.4142973
+},
+{
+  "type": "node",
+  "id": 5222180374,
+  "lat": 50.7015213,
+  "lon": -1.4145371
+},
+{
+  "type": "way",
+  "id": 539724727,
+  "nodes": [
+    1620067960,
+    5222180374,
+    4511163729,
+    1620067942
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Main Road",
+    "ref": "A3054",
+    "sidewalk": "both",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 687710222,
+  "lat": 50.7043357,
+  "lon": -1.4135865
+},
+{
+  "type": "node",
+  "id": 687710224,
+  "lat": 50.7015612,
+  "lon": -1.4148113
+},
+{
+  "type": "node",
+  "id": 687710228,
+  "lat": 50.7036166,
+  "lon": -1.4139617
+},
+{
+  "type": "node",
+  "id": 1495284560,
+  "lat": 50.7021538,
+  "lon": -1.4145649
+},
+{
+  "type": "node",
+  "id": 4625802836,
+  "lat": 50.7028781,
+  "lon": -1.4142059
+},
+{
+  "type": "node",
+  "id": 4625802843,
+  "lat": 50.7040221,
+  "lon": -1.4137394
+},
+{
+  "type": "node",
+  "id": 5454620547,
+  "lat": 50.7023225,
+  "lon": -1.4144763
+},
+{
+  "type": "node",
+  "id": 5454620553,
+  "lat": 50.7019416,
+  "lon": -1.4146641
+},
+{
+  "type": "node",
+  "id": 5454620554,
+  "lat": 50.7026246,
+  "lon": -1.4143235
+},
+{
+  "type": "node",
+  "id": 8664658614,
+  "lat": 50.7027680,
+  "lon": -1.4142570
+},
+{
+  "type": "way",
+  "id": 54630264,
+  "nodes": [
+    687710222,
+    4625802843,
+    687710228,
+    4625802836,
+    8664658614,
+    5454620554,
+    5454620547,
+    1495284560,
+    5454620553,
+    687710224
+  ],
+  "tags": {
+    "highway": "residential",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxspeed:type": "GB:nsl_restricted",
+    "name": "Mill Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8664658615,
+  "lat": 50.7046550,
+  "lon": -1.4127143
+},
+{
+  "type": "node",
+  "id": 8664658616,
+  "lat": 50.7046343,
+  "lon": -1.4128732
+},
+{
+  "type": "way",
+  "id": 935010020,
+  "nodes": [
+    8664658615,
+    8664658616
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8124828,
+  "lat": 50.7113700,
+  "lon": -1.4016496
+},
+{
+  "type": "node",
+  "id": 8124829,
+  "lat": 50.7110450,
+  "lon": -1.4017261
+},
+{
+  "type": "node",
+  "id": 1263363276,
+  "lat": 50.7112794,
+  "lon": -1.4016603
+},
+{
+  "type": "node",
+  "id": 1263363282,
+  "lat": 50.7111583,
+  "lon": -1.4016849
+},
+{
+  "type": "way",
+  "id": 39442535,
+  "nodes": [
+    8124828,
+    1263363276,
+    1263363282,
+    8124829
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Town Lane",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 471581215,
+  "lat": 50.7196908,
+  "lon": -1.4181656
+},
+{
+  "type": "node",
+  "id": 4294841041,
+  "lat": 50.7194472,
+  "lon": -1.4182695
+},
+{
+  "type": "node",
+  "id": 4294841042,
+  "lat": 50.7195054,
+  "lon": -1.4182435
+},
+{
+  "type": "node",
+  "id": 4294841043,
+  "lat": 50.7197332,
+  "lon": -1.4181460,
+  "tags": {
+    "barrier": "stile",
+    "foot": "yes",
+    "material": "wood",
+    "note": "survey 07/2016",
+    "stile": "stepover"
+  }
+},
+{
+  "type": "way",
+  "id": 430213194,
+  "nodes": [
+    4294841041,
+    4294841042,
+    471581215,
+    4294841043
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "S3",
+    "source:designation": "OS7",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 471581210,
+  "lat": 50.7187484,
+  "lon": -1.4182359
+},
+{
+  "type": "node",
+  "id": 1095216051,
+  "lat": 50.7187779,
+  "lon": -1.4183237,
+  "tags": {
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4294841033,
+  "lat": 50.7189115,
+  "lon": -1.4178919
+},
+{
+  "type": "node",
+  "id": 5082009018,
+  "lat": 50.7187699,
+  "lon": -1.4181257
+},
+{
+  "type": "node",
+  "id": 5082009121,
+  "lat": 50.7188254,
+  "lon": -1.4180434
+},
+{
+  "type": "way",
+  "id": 430213195,
+  "nodes": [
+    4294841033,
+    5082009121,
+    5082009018,
+    471581210,
+    1095216051
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "S3",
+    "source:designation": "OS7",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4294841034,
+  "lat": 50.7190380,
+  "lon": -1.4184543
+},
+{
+  "type": "node",
+  "id": 4294841036,
+  "lat": 50.7191056,
+  "lon": -1.4184204
+},
+{
+  "type": "node",
+  "id": 4294841037,
+  "lat": 50.7191758,
+  "lon": -1.4184014
+},
+{
+  "type": "way",
+  "id": 430213196,
+  "nodes": [
+    4294841034,
+    4294841036,
+    4294841037
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "S3",
+    "source:designation": "OS7",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 471581231,
+  "lat": 50.7243498,
+  "lon": -1.4220125
+},
+{
+  "type": "node",
+  "id": 1040249331,
+  "lat": 50.7248936,
+  "lon": -1.4220406
+},
+{
+  "type": "way",
+  "id": 113055220,
+  "nodes": [
+    471581231,
+    1040249331
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "prow_ref": "S3",
+    "source": "Bing",
+    "source:designation": "OS7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8332897280,
+  "lat": 50.7672207,
+  "lon": -1.4651614
+},
+{
+  "type": "node",
+  "id": 8773818324,
+  "lat": 50.7671271,
+  "lon": -1.4652655
+},
+{
+  "type": "way",
+  "id": 947917145,
+  "nodes": [
+    8773818324,
+    8332897280
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Sowley Lane"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8775463285,
+  "lat": 50.7675070,
+  "lon": -1.4162835
+},
+{
+  "type": "node",
+  "id": 8775463286,
+  "lat": 50.7673270,
+  "lon": -1.4162057
+},
+{
+  "type": "way",
+  "id": 948045206,
+  "nodes": [
+    8775463285,
+    8775463286
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "boardwalk",
+    "highway": "path",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5081006706,
+  "lat": 50.7167091,
+  "lon": -1.4065831
+},
+{
+  "type": "node",
+  "id": 5269557201,
+  "lat": 50.7179201,
+  "lon": -1.4077441
+},
+{
+  "type": "node",
+  "id": 8664232930,
+  "lat": 50.7167412,
+  "lon": -1.4066121
+},
+{
+  "type": "way",
+  "id": 39442546,
+  "nodes": [
+    5269557201,
+    8664232930,
+    5081006706
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "boardwalk",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "CB9"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5081398696,
+  "lat": 50.7167115,
+  "lon": -1.4046437
+},
+{
+  "type": "node",
+  "id": 10681117699,
+  "lat": 50.7166478,
+  "lon": -1.4046837
+},
+{
+  "type": "node",
+  "id": 10681117700,
+  "lat": 50.7167176,
+  "lon": -1.4045985
+},
+{
+  "type": "way",
+  "id": 1147977505,
+  "nodes": [
+    10681117699,
+    5081398696,
+    10681117700
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "boardwalk",
+    "foot": "permissive",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9165936387,
+  "lat": 50.7743327,
+  "lon": -1.4757036
+},
+{
+  "type": "node",
+  "id": 9165936388,
+  "lat": 50.7743444,
+  "lon": -1.4757687
+},
+{
+  "type": "way",
+  "id": 992053256,
+  "nodes": [
+    9165936388,
+    9165936387
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8778562063,
+  "lat": 50.7839913,
+  "lon": -1.4247673
+},
+{
+  "type": "node",
+  "id": 8778562064,
+  "lat": 50.7839116,
+  "lon": -1.4247452
+},
+{
+  "type": "way",
+  "id": 948381009,
+  "nodes": [
+    8778562064,
+    8778562063
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Sowley Lane"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8778562061,
+  "lat": 50.7884852,
+  "lon": -1.4245624
+},
+{
+  "type": "node",
+  "id": 8778562062,
+  "lat": 50.7884616,
+  "lon": -1.4246880
+},
+{
+  "type": "way",
+  "id": 948381007,
+  "nodes": [
+    8778562062,
+    8778562061
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "name": "Bucklers Hard Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6734592935,
+  "lat": 50.7938403,
+  "lon": -1.4273211
+},
+{
+  "type": "node",
+  "id": 8778562060,
+  "lat": 50.7938200,
+  "lon": -1.4273887
+},
+{
+  "type": "way",
+  "id": 948381005,
+  "nodes": [
+    6734592935,
+    8778562060
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8191155958,
+  "lat": 50.7839722,
+  "lon": -1.4130512
+},
+{
+  "type": "node",
+  "id": 8778562065,
+  "lat": 50.7840426,
+  "lon": -1.4130442
+},
+{
+  "type": "way",
+  "id": 948381011,
+  "nodes": [
+    8191155958,
+    8778562065
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2527610440,
+  "lat": 50.7958863,
+  "lon": -1.4026223
+},
+{
+  "type": "node",
+  "id": 2527610443,
+  "lat": 50.7959102,
+  "lon": -1.4026842
+},
+{
+  "type": "way",
+  "id": 245590105,
+  "nodes": [
+    2527610443,
+    2527610440
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 992044442,
+  "lat": 50.7949428,
+  "lon": -1.4051286
+},
+{
+  "type": "node",
+  "id": 8864221405,
+  "lat": 50.7950057,
+  "lon": -1.4051319
+},
+{
+  "type": "way",
+  "id": 958005990,
+  "nodes": [
+    8864221405,
+    992044442
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2527610413,
+  "lat": 50.7956682,
+  "lon": -1.4034055
+},
+{
+  "type": "node",
+  "id": 8864221406,
+  "lat": 50.7957181,
+  "lon": -1.4034218
+},
+{
+  "type": "way",
+  "id": 958005992,
+  "nodes": [
+    8864221406,
+    2527610413
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "bing; Survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8864221679,
+  "lat": 50.7944761,
+  "lon": -1.4058178
+},
+{
+  "type": "node",
+  "id": 8864221680,
+  "lat": 50.7944703,
+  "lon": -1.4059485
+},
+{
+  "type": "way",
+  "id": 958006015,
+  "nodes": [
+    8864221680,
+    8864221679
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "permissive",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

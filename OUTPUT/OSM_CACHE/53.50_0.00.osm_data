@@ -1,0 +1,1915 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:07:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 339259425,
+  "lat": 53.4985299,
+  "lon": 0.0053056
+},
+{
+  "type": "node",
+  "id": 339259428,
+  "lat": 53.4998287,
+  "lon": 0.0135144
+},
+{
+  "type": "node",
+  "id": 339259430,
+  "lat": 53.5006804,
+  "lon": 0.0189394
+},
+{
+  "type": "node",
+  "id": 339259431,
+  "lat": 53.5007482,
+  "lon": 0.0207703
+},
+{
+  "type": "node",
+  "id": 339259433,
+  "lat": 53.5006552,
+  "lon": 0.0210962
+},
+{
+  "type": "node",
+  "id": 339259434,
+  "lat": 53.4995957,
+  "lon": 0.0217777
+},
+{
+  "type": "node",
+  "id": 832617750,
+  "lat": 53.5001603,
+  "lon": 0.0158958
+},
+{
+  "type": "node",
+  "id": 832618214,
+  "lat": 53.4990301,
+  "lon": 0.0218647
+},
+{
+  "type": "node",
+  "id": 832618220,
+  "lat": 53.5006833,
+  "lon": 0.0210444
+},
+{
+  "type": "node",
+  "id": 832837911,
+  "lat": 53.5005496,
+  "lon": 0.0212301
+},
+{
+  "type": "node",
+  "id": 832837920,
+  "lat": 53.5006336,
+  "lon": 0.0211354
+},
+{
+  "type": "node",
+  "id": 5832031043,
+  "lat": 53.4987887,
+  "lon": 0.0068144
+},
+{
+  "type": "node",
+  "id": 5832031044,
+  "lat": 53.4990779,
+  "lon": 0.0085412
+},
+{
+  "type": "node",
+  "id": 5832031045,
+  "lat": 53.4992636,
+  "lon": 0.0096802
+},
+{
+  "type": "node",
+  "id": 5832031046,
+  "lat": 53.4995222,
+  "lon": 0.0113420
+},
+{
+  "type": "node",
+  "id": 5832031051,
+  "lat": 53.4994828,
+  "lon": 0.0110885
+},
+{
+  "type": "node",
+  "id": 5832031052,
+  "lat": 53.4993040,
+  "lon": 0.0099401
+},
+{
+  "type": "node",
+  "id": 5836412393,
+  "lat": 53.4984613,
+  "lon": 0.0049604
+},
+{
+  "type": "node",
+  "id": 7104567106,
+  "lat": 53.5003283,
+  "lon": 0.0213706
+},
+{
+  "type": "node",
+  "id": 7865538274,
+  "lat": 53.4999593,
+  "lon": 0.0145370
+},
+{
+  "type": "node",
+  "id": 9904654527,
+  "lat": 53.4993631,
+  "lon": 0.0218259
+},
+{
+  "type": "node",
+  "id": 9904654530,
+  "lat": 53.4999890,
+  "lon": 0.0215799
+},
+{
+  "type": "node",
+  "id": 9904654531,
+  "lat": 53.5007356,
+  "lon": 0.0208984
+},
+{
+  "type": "node",
+  "id": 9904654532,
+  "lat": 53.5007579,
+  "lon": 0.0205773
+},
+{
+  "type": "node",
+  "id": 9904654533,
+  "lat": 53.5007283,
+  "lon": 0.0194149
+},
+{
+  "type": "node",
+  "id": 9904654534,
+  "lat": 53.5006972,
+  "lon": 0.0191061
+},
+{
+  "type": "node",
+  "id": 9904654535,
+  "lat": 53.5006400,
+  "lon": 0.0185950
+},
+{
+  "type": "node",
+  "id": 9904654536,
+  "lat": 53.4997331,
+  "lon": 0.0128038
+},
+{
+  "type": "node",
+  "id": 11341148931,
+  "lat": 53.5007134,
+  "lon": 0.0209709
+},
+{
+  "type": "node",
+  "id": 11341148933,
+  "lat": 53.5004633,
+  "lon": 0.0212974
+},
+{
+  "type": "node",
+  "id": 11341148934,
+  "lat": 53.4997928,
+  "lon": 0.0216876
+},
+{
+  "type": "node",
+  "id": 11341148935,
+  "lat": 53.4994805,
+  "lon": 0.0218083
+},
+{
+  "type": "node",
+  "id": 11341148936,
+  "lat": 53.4992966,
+  "lon": 0.0218278
+},
+{
+  "type": "node",
+  "id": 11341148937,
+  "lat": 53.4992292,
+  "lon": 0.0218271
+},
+{
+  "type": "node",
+  "id": 12045457490,
+  "lat": 53.4999534,
+  "lon": 0.0144906
+},
+{
+  "type": "way",
+  "id": 69596876,
+  "nodes": [
+    832837911,
+    11341148933,
+    7104567106,
+    9904654530,
+    11341148934,
+    339259434,
+    11341148935,
+    9904654527,
+    11341148936,
+    11341148937,
+    832618214
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Tetney Lock Road"
+  }
+},
+{
+  "type": "way",
+  "id": 254947258,
+  "nodes": [
+    832618220,
+    339259433,
+    832837920
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Tetney Lock Road",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 1267962070,
+  "nodes": [
+    5836412393,
+    339259425,
+    5832031043,
+    5832031044,
+    5832031045,
+    5832031052,
+    5832031051,
+    5832031046,
+    9904654536,
+    339259428,
+    12045457490,
+    7865538274,
+    832617750,
+    9904654535,
+    339259430,
+    9904654534,
+    9904654533,
+    9904654532,
+    339259431,
+    9904654531,
+    11341148931,
+    832618220
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Tetney Lock Road",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "node",
+  "id": 832837911,
+  "lat": 53.5005496,
+  "lon": 0.0212301
+},
+{
+  "type": "node",
+  "id": 832837920,
+  "lat": 53.5006336,
+  "lon": 0.0211354
+},
+{
+  "type": "node",
+  "id": 11341148932,
+  "lat": 53.5005935,
+  "lon": 0.0211857
+},
+{
+  "type": "way",
+  "id": 69596891,
+  "nodes": [
+    832837920,
+    11341148932,
+    832837911
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "layer": "1",
+    "name": "Tetney Lock Road",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2150781932,
+  "lat": 53.5031687,
+  "lon": 0.0199714
+},
+{
+  "type": "node",
+  "id": 2150781933,
+  "lat": 53.5032233,
+  "lon": 0.0199746
+},
+{
+  "type": "way",
+  "id": 1273314056,
+  "nodes": [
+    2150781933,
+    2150781932
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Tetney Footpath 16",
+    "source:designation": "lincolnshire_county_council_prow_gis_data",
+    "source:prow_ref": "definitive_statement;lincolnshire_county_council_prow_gis_data",
+    "width": "1.5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2150781981,
+  "lat": 53.5058687,
+  "lon": 0.0210590
+},
+{
+  "type": "node",
+  "id": 2150781984,
+  "lat": 53.5059202,
+  "lon": 0.0210823
+},
+{
+  "type": "way",
+  "id": 1273314058,
+  "nodes": [
+    2150781984,
+    2150781981
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Tetney Footpath 16",
+    "source:designation": "lincolnshire_county_council_prow_gis_data",
+    "source:prow_ref": "definitive_statement;lincolnshire_county_council_prow_gis_data",
+    "width": "1.5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9359163321,
+  "lat": 53.5101954,
+  "lon": 0.0044365
+},
+{
+  "type": "node",
+  "id": 9359163324,
+  "lat": 53.5101998,
+  "lon": 0.0045017
+},
+{
+  "type": "way",
+  "id": 1014440347,
+  "nodes": [
+    9359163321,
+    9359163324
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Tetney Footpath 344",
+    "source:designation": "lincolnshire_county_council_prow_gis_data",
+    "source:prow_ref": "definitive_statement;lincolnshire_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12043967163,
+  "lat": 53.5136479,
+  "lon": 0.0121820
+},
+{
+  "type": "node",
+  "id": 12043967164,
+  "lat": 53.5136924,
+  "lon": 0.0121289
+},
+{
+  "type": "way",
+  "id": 1300293212,
+  "nodes": [
+    12043967164,
+    12043967163
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Tetney Footpath 16",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2150782057,
+  "lat": 53.5112463,
+  "lon": 0.0156438
+},
+{
+  "type": "node",
+  "id": 2150782059,
+  "lat": 53.5112821,
+  "lon": 0.0156404
+},
+{
+  "type": "way",
+  "id": 1300580741,
+  "nodes": [
+    2150782059,
+    2150782057
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Tetney Footpath 16",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 832651882,
+  "lat": 53.5177014,
+  "lon": 0.0194888
+},
+{
+  "type": "node",
+  "id": 832652051,
+  "lat": 53.5177590,
+  "lon": 0.0196021
+},
+{
+  "type": "way",
+  "id": 1022860532,
+  "nodes": [
+    832651882,
+    832652051
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "footbridge",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "material": "wood",
+    "prow_ref": "Tetney Footpath 13",
+    "source": "local_knowledge",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data",
+    "surface": "wood",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 811029271,
+  "lat": 53.5071426,
+  "lon": 0.0391996
+},
+{
+  "type": "node",
+  "id": 9422925730,
+  "lat": 53.5070940,
+  "lon": 0.0391056
+},
+{
+  "type": "way",
+  "id": 1021678303,
+  "nodes": [
+    811029271,
+    9422925730
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Tetney Footpath 17",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data",
+    "surface": "cobblestone"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 811029466,
+  "lat": 53.5079442,
+  "lon": 0.0405459,
+  "tags": {
+    "access": "permissive",
+    "barrier": "gate",
+    "gate:type": "stile"
+  }
+},
+{
+  "type": "node",
+  "id": 811430699,
+  "lat": 53.5079183,
+  "lon": 0.0408211
+},
+{
+  "type": "way",
+  "id": 67197158,
+  "nodes": [
+    811430699,
+    811029466
+  ],
+  "tags": {
+    "access": "permissive",
+    "bridge": "yes",
+    "highway": "track",
+    "surface": "cobblestone"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1607358834,
+  "lat": 53.5265738,
+  "lon": 0.0064904
+},
+{
+  "type": "node",
+  "id": 9422828578,
+  "lat": 53.5262996,
+  "lon": 0.0082574
+},
+{
+  "type": "node",
+  "id": 9422828579,
+  "lat": 53.5262094,
+  "lon": 0.0086393
+},
+{
+  "type": "node",
+  "id": 9422828580,
+  "lat": 53.5261038,
+  "lon": 0.0089104
+},
+{
+  "type": "node",
+  "id": 9422828581,
+  "lat": 53.5257485,
+  "lon": 0.0094176
+},
+{
+  "type": "node",
+  "id": 9422828582,
+  "lat": 53.5244216,
+  "lon": 0.0112742
+},
+{
+  "type": "way",
+  "id": 1021673588,
+  "nodes": [
+    1607358834,
+    9422828578,
+    9422828579,
+    9422828580,
+    9422828581,
+    9422828582
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Humberston Bridleway 53",
+    "source:prow_ref": "definitive map NELC",
+    "surface": "earth"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552342,
+  "lat": 53.5258572,
+  "lon": 0.0055517
+},
+{
+  "type": "node",
+  "id": 12049552343,
+  "lat": 53.5258549,
+  "lon": 0.0056492
+},
+{
+  "type": "way",
+  "id": 1300934560,
+  "nodes": [
+    12049552343,
+    12049552342
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552344,
+  "lat": 53.5253581,
+  "lon": 0.0058186
+},
+{
+  "type": "node",
+  "id": 12049552345,
+  "lat": 53.5253718,
+  "lon": 0.0059134
+},
+{
+  "type": "way",
+  "id": 1300934561,
+  "nodes": [
+    12049552345,
+    12049552344
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552346,
+  "lat": 53.5249281,
+  "lon": 0.0063977
+},
+{
+  "type": "node",
+  "id": 12049552347,
+  "lat": 53.5249710,
+  "lon": 0.0064635
+},
+{
+  "type": "way",
+  "id": 1300934562,
+  "nodes": [
+    12049552347,
+    12049552346
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 811029009,
+  "lat": 53.5234530,
+  "lon": 0.0130092
+},
+{
+  "type": "node",
+  "id": 9422828583,
+  "lat": 53.5236415,
+  "lon": 0.0125868
+},
+{
+  "type": "node",
+  "id": 9422828584,
+  "lat": 53.5236654,
+  "lon": 0.0124742
+},
+{
+  "type": "node",
+  "id": 9422828585,
+  "lat": 53.5239316,
+  "lon": 0.0120528
+},
+{
+  "type": "node",
+  "id": 9422828586,
+  "lat": 53.5244656,
+  "lon": 0.0113636
+},
+{
+  "type": "way",
+  "id": 1021673589,
+  "nodes": [
+    9422828584,
+    9422828585,
+    9422828586
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Humberston Bridleway 50",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "way",
+  "id": 1021673590,
+  "nodes": [
+    811029009,
+    9422828583
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Humberston Bridleway 56",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "node",
+  "id": 9422828583,
+  "lat": 53.5236415,
+  "lon": 0.0125868
+},
+{
+  "type": "node",
+  "id": 9422828584,
+  "lat": 53.5236654,
+  "lon": 0.0124742
+},
+{
+  "type": "way",
+  "id": 1021673591,
+  "nodes": [
+    9422828583,
+    9422828584
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "layer": "1",
+    "prow_ref": "Humberston Bridleway 50",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9572929008,
+  "lat": 53.5243143,
+  "lon": 0.0083498
+},
+{
+  "type": "node",
+  "id": 9572929009,
+  "lat": 53.5244234,
+  "lon": 0.0082755
+},
+{
+  "type": "way",
+  "id": 1039612553,
+  "nodes": [
+    9572929008,
+    9572929009
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "name": "Broadland Drive",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552348,
+  "lat": 53.5244746,
+  "lon": 0.0069379
+},
+{
+  "type": "node",
+  "id": 12049552349,
+  "lat": 53.5245157,
+  "lon": 0.0070069
+},
+{
+  "type": "way",
+  "id": 1300934563,
+  "nodes": [
+    12049552349,
+    12049552348
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552350,
+  "lat": 53.5244226,
+  "lon": 0.0077301
+},
+{
+  "type": "node",
+  "id": 12049552351,
+  "lat": 53.5244768,
+  "lon": 0.0076953
+},
+{
+  "type": "way",
+  "id": 1300934564,
+  "nodes": [
+    12049552351,
+    12049552350
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552352,
+  "lat": 53.5244274,
+  "lon": 0.0089291
+},
+{
+  "type": "node",
+  "id": 12049552353,
+  "lat": 53.5244927,
+  "lon": 0.0088915
+},
+{
+  "type": "way",
+  "id": 1300934565,
+  "nodes": [
+    12049552353,
+    12049552352
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12049552399,
+  "lat": 53.5216066,
+  "lon": 0.0073721
+},
+{
+  "type": "node",
+  "id": 12049552400,
+  "lat": 53.5215627,
+  "lon": 0.0072554
+},
+{
+  "type": "way",
+  "id": 1300934568,
+  "nodes": [
+    12049552400,
+    12049552399
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1607358737,
+  "lat": 53.5287297,
+  "lon": 0.0062965
+},
+{
+  "type": "node",
+  "id": 10286320845,
+  "lat": 53.5287814,
+  "lon": 0.0062330
+},
+{
+  "type": "way",
+  "id": 1124838143,
+  "nodes": [
+    1607358737,
+    10286320845
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1607358834,
+  "lat": 53.5265738,
+  "lon": 0.0064904
+},
+{
+  "type": "node",
+  "id": 9422828578,
+  "lat": 53.5262996,
+  "lon": 0.0082574
+},
+{
+  "type": "node",
+  "id": 9422828579,
+  "lat": 53.5262094,
+  "lon": 0.0086393
+},
+{
+  "type": "node",
+  "id": 9422828580,
+  "lat": 53.5261038,
+  "lon": 0.0089104
+},
+{
+  "type": "node",
+  "id": 9422828581,
+  "lat": 53.5257485,
+  "lon": 0.0094176
+},
+{
+  "type": "node",
+  "id": 9422828582,
+  "lat": 53.5244216,
+  "lon": 0.0112742
+},
+{
+  "type": "way",
+  "id": 1021673588,
+  "nodes": [
+    1607358834,
+    9422828578,
+    9422828579,
+    9422828580,
+    9422828581,
+    9422828582
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Humberston Bridleway 53",
+    "source:prow_ref": "definitive map NELC",
+    "surface": "earth"
+  }
+},
+{
+  "type": "node",
+  "id": 10286320869,
+  "lat": 53.5265985,
+  "lon": 0.0064990
+},
+{
+  "type": "node",
+  "id": 10286320870,
+  "lat": 53.5266741,
+  "lon": 0.0065255
+},
+{
+  "type": "way",
+  "id": 1124838153,
+  "nodes": [
+    10286320869,
+    10286320870
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "name": "Broadland Drive",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9549328749,
+  "lat": 53.5300585,
+  "lon": 0.0054404
+},
+{
+  "type": "node",
+  "id": 9549328750,
+  "lat": 53.5300741,
+  "lon": 0.0055102
+},
+{
+  "type": "node",
+  "id": 11338131076,
+  "lat": 53.5300772,
+  "lon": 0.0055250
+},
+{
+  "type": "node",
+  "id": 11338131077,
+  "lat": 53.5300548,
+  "lon": 0.0054228
+},
+{
+  "type": "way",
+  "id": 1222488637,
+  "nodes": [
+    11338131077,
+    9549328749,
+    9549328750,
+    11338131076
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1607358654,
+  "lat": 53.5281283,
+  "lon": 0.0125897
+},
+{
+  "type": "node",
+  "id": 1607359566,
+  "lat": 53.5281729,
+  "lon": 0.0127989
+},
+{
+  "type": "node",
+  "id": 9572928986,
+  "lat": 53.5281690,
+  "lon": 0.0127859,
+  "tags": {
+    "barrier": "swing_gate",
+    "bicycle": "use_sidepath",
+    "foot": "use_sidepath",
+    "note": "Gate is usually locked against motor vehicles",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 147521659,
+  "nodes": [
+    1607358654,
+    9572928986,
+    1607359566
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9502610800,
+  "lat": 53.5308337,
+  "lon": 0.0094414
+},
+{
+  "type": "node",
+  "id": 9502610801,
+  "lat": 53.5309421,
+  "lon": 0.0095138
+},
+{
+  "type": "way",
+  "id": 1030912876,
+  "nodes": [
+    9502610801,
+    9502610800
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9549328748,
+  "lat": 53.5291239,
+  "lon": 0.0077002
+},
+{
+  "type": "node",
+  "id": 9549328779,
+  "lat": 53.5292393,
+  "lon": 0.0076362
+},
+{
+  "type": "node",
+  "id": 9549328780,
+  "lat": 53.5291038,
+  "lon": 0.0077113
+},
+{
+  "type": "node",
+  "id": 9549339822,
+  "lat": 53.5292222,
+  "lon": 0.0076463
+},
+{
+  "type": "way",
+  "id": 1036505913,
+  "nodes": [
+    9549328780,
+    9549328748,
+    9549339822,
+    9549328779
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10286320851,
+  "lat": 53.5271053,
+  "lon": 0.0092985
+},
+{
+  "type": "node",
+  "id": 10286320852,
+  "lat": 53.5271165,
+  "lon": 0.0092027
+},
+{
+  "type": "way",
+  "id": 1124838147,
+  "nodes": [
+    10286320851,
+    10286320852
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10286320853,
+  "lat": 53.5294068,
+  "lon": 0.0096331
+},
+{
+  "type": "node",
+  "id": 10286320854,
+  "lat": 53.5294847,
+  "lon": 0.0096662
+},
+{
+  "type": "way",
+  "id": 1124838150,
+  "nodes": [
+    10286320854,
+    10286320853
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "name": "Anthony's Bank Road",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10286320881,
+  "lat": 53.5308210,
+  "lon": 0.0107824
+},
+{
+  "type": "node",
+  "id": 10286320882,
+  "lat": 53.5308852,
+  "lon": 0.0109486
+},
+{
+  "type": "way",
+  "id": 1124838156,
+  "nodes": [
+    10286320881,
+    10286320882
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1607358788,
+  "lat": 53.5253196,
+  "lon": 0.0141137
+},
+{
+  "type": "node",
+  "id": 1607359153,
+  "lat": 53.5252960,
+  "lon": 0.0138757
+},
+{
+  "type": "node",
+  "id": 9572928987,
+  "lat": 53.5253152,
+  "lon": 0.0140763,
+  "tags": {
+    "barrier": "swing_gate",
+    "bicycle": "use_sidepath",
+    "foot": "use_sidepath",
+    "note": "Gate is usually locked against motor vehicles",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 147521685,
+  "nodes": [
+    1607358788,
+    9572928987,
+    1607359153
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 810220836,
+  "lat": 53.5394811,
+  "lon": 0.0013583
+},
+{
+  "type": "node",
+  "id": 3631740743,
+  "lat": 53.5394662,
+  "lon": 0.0013938
+},
+{
+  "type": "node",
+  "id": 3631740745,
+  "lat": 53.5394950,
+  "lon": 0.0013418
+},
+{
+  "type": "node",
+  "id": 3631740752,
+  "lat": 53.5395765,
+  "lon": 0.0012269
+},
+{
+  "type": "node",
+  "id": 3631740754,
+  "lat": 53.5395887,
+  "lon": 0.0012115
+},
+{
+  "type": "node",
+  "id": 10971232144,
+  "lat": 53.5395640,
+  "lon": 0.0012469
+},
+{
+  "type": "way",
+  "id": 358214772,
+  "nodes": [
+    3631740754,
+    3631740752,
+    10971232144,
+    3631740745,
+    810220836,
+    3631740743
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "cycleway",
+    "segregated": "yes",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7247522158,
+  "lat": 53.5022277,
+  "lon": 0.0755359
+},
+{
+  "type": "node",
+  "id": 7247522159,
+  "lat": 53.5016185,
+  "lon": 0.0747913
+},
+{
+  "type": "way",
+  "id": 776749806,
+  "nodes": [
+    7247522159,
+    7247522158
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

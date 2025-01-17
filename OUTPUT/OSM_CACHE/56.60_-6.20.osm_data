@@ -1,0 +1,146 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:32:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 9261325454,
+  "lat": 56.6034906,
+  "lon": -6.1670356
+},
+{
+  "type": "node",
+  "id": 9261325455,
+  "lat": 56.6033452,
+  "lon": -6.1671254
+},
+{
+  "type": "way",
+  "id": 1003661526,
+  "nodes": [
+    9261325454,
+    9261325455
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "width": "2 m"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9261317095,
+  "lat": 56.6154208,
+  "lon": -6.1845878
+},
+{
+  "type": "node",
+  "id": 9261317096,
+  "lat": 56.6154483,
+  "lon": -6.1843637
+},
+{
+  "type": "way",
+  "id": 1003661518,
+  "nodes": [
+    9261317096,
+    9261317095
+  ],
+  "tags": {
+    "bridge": "yes",
+    "check_date": "2023-07-15",
+    "description": "Bridge has been repaired and is in good passible condition, by foot or cycle",
+    "layer": "1",
+    "width": "0.5 m"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1431432553,
+  "lat": 56.6363241,
+  "lon": -6.1750395
+},
+{
+  "type": "node",
+  "id": 1431432557,
+  "lat": 56.6363628,
+  "lon": -6.1749530
+},
+{
+  "type": "way",
+  "id": 129809266,
+  "nodes": [
+    1431432557,
+    1431432553
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "gravel",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

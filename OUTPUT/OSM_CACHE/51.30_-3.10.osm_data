@@ -1,0 +1,148 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:06:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8705598241,
+  "lat": 51.3051174,
+  "lon": -3.0050274
+},
+{
+  "type": "node",
+  "id": 8705598242,
+  "lat": 51.3051376,
+  "lon": -3.0049566
+},
+{
+  "type": "way",
+  "id": 939863200,
+  "nodes": [
+    8705598241,
+    8705598242
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3222242840,
+  "lat": 51.3282654,
+  "lon": -3.0341079
+},
+{
+  "type": "node",
+  "id": 3223170514,
+  "lat": 51.3282200,
+  "lon": -3.0339669
+},
+{
+  "type": "way",
+  "id": 83131154,
+  "nodes": [
+    3222242840,
+    3223170514
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "no",
+    "motor_vehicle": "private",
+    "prow_ref": "AX 7/16",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7252693878,
+  "lat": 51.3187274,
+  "lon": -3.0003779
+},
+{
+  "type": "node",
+  "id": 7252693879,
+  "lat": 51.3186702,
+  "lon": -3.0003594
+},
+{
+  "type": "way",
+  "id": 777267911,
+  "nodes": [
+    7252693879,
+    7252693878
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

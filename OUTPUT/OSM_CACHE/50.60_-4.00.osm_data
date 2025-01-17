@@ -1,0 +1,570 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:29:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 438222631,
+  "lat": 50.6954977,
+  "lon": -3.9890036
+},
+{
+  "type": "node",
+  "id": 2242970706,
+  "lat": 50.6955243,
+  "lon": -3.9890915
+},
+{
+  "type": "node",
+  "id": 8712767002,
+  "lat": 50.6955101,
+  "lon": -3.9890447
+},
+{
+  "type": "way",
+  "id": 214825488,
+  "nodes": [
+    2242970706,
+    8712767002,
+    438222631
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "permissive",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "service",
+    "horse": "designated",
+    "layer": "1",
+    "material": "stone",
+    "maxspeed": "15 mph",
+    "motor_vehicle": "private",
+    "name": "Circular Road",
+    "ref": "New Bridge",
+    "source:maxspeed": "MoD personnel",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2080385652,
+  "lat": 50.6440708,
+  "lon": -3.9258343
+},
+{
+  "type": "node",
+  "id": 2080385654,
+  "lat": 50.6440410,
+  "lon": -3.9256831
+},
+{
+  "type": "node",
+  "id": 4862255535,
+  "lat": 50.6440547,
+  "lon": -3.9257569
+},
+{
+  "type": "way",
+  "id": 197841753,
+  "nodes": [
+    2080385652,
+    4862255535,
+    2080385654
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Teignhead Farm Clapper Bridge",
+    "bridge:structure": "clapper",
+    "highway": "path",
+    "layer": "1",
+    "material": "stone",
+    "surface": "stone",
+    "website": "https://www.legendarydartmoor.co.uk/teign_clap.htm",
+    "width": "1.5",
+    "wikimedia_commons": "File:Teignhead clapper bridge - geograph.org.uk - 1378693.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4105080944,
+  "lat": 50.6435781,
+  "lon": -3.9300691
+},
+{
+  "type": "node",
+  "id": 4105080945,
+  "lat": 50.6436169,
+  "lon": -3.9300298
+},
+{
+  "type": "way",
+  "id": 408613660,
+  "nodes": [
+    4105080944,
+    4105080945
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Manga Brook Clapper Bridge",
+    "bridge:structure": "clapper",
+    "highway": "track",
+    "layer": "1",
+    "lit": "no",
+    "material": "stone",
+    "smoothness": "very_horrible",
+    "surface": "stone",
+    "website": "https://dartefacts.co.uk/dartefact/manga-brook-clapper-bridge/"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11653840753,
+  "lat": 50.6454833,
+  "lon": -3.9249737
+},
+{
+  "type": "node",
+  "id": 11653840754,
+  "lat": 50.6454994,
+  "lon": -3.9250273
+},
+{
+  "type": "way",
+  "id": 1253718597,
+  "nodes": [
+    11653840754,
+    11653840753
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Starkey’s Bridge",
+    "bridge:structure": "clapper",
+    "highway": "path",
+    "layer": "1",
+    "material": "stone",
+    "surface": "stone",
+    "website": "https://dartefacts.co.uk/dartefact/starkeys-bridge/",
+    "width": "0.5",
+    "wikimedia_commons": "File:Footbridge on the Teign - geograph.org.uk - 1378667.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 633437375,
+  "lat": 50.6388230,
+  "lon": -3.9059573
+},
+{
+  "type": "node",
+  "id": 4873677053,
+  "lat": 50.6387536,
+  "lon": -3.9060096
+},
+{
+  "type": "way",
+  "id": 495628977,
+  "nodes": [
+    4873677053,
+    633437375
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 302829627,
+  "lat": 50.6373087,
+  "lon": -3.9002806
+},
+{
+  "type": "node",
+  "id": 632725669,
+  "lat": 50.6371888,
+  "lon": -3.9002650
+},
+{
+  "type": "way",
+  "id": 495632725,
+  "nodes": [
+    302829627,
+    632725669
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2305426390,
+  "lat": 50.6687678,
+  "lon": -3.9432814
+},
+{
+  "type": "node",
+  "id": 2305426392,
+  "lat": 50.6687767,
+  "lon": -3.9433231
+},
+{
+  "type": "way",
+  "id": 221514775,
+  "nodes": [
+    2305426390,
+    2305426392
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "bridge:structure": "clapper",
+    "highway": "track",
+    "layer": "1",
+    "name": "Clapper Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1312922610,
+  "lat": 50.6905464,
+  "lon": -3.9731564
+},
+{
+  "type": "node",
+  "id": 1312922635,
+  "lat": 50.6905035,
+  "lon": -3.9732402
+},
+{
+  "type": "way",
+  "id": 265869319,
+  "nodes": [
+    1312922635,
+    1312922610
+  ],
+  "tags": {
+    "access": "permissive",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "designated",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "name": "Steeperton Tor Road",
+    "source": "survey",
+    "surface": "concrete",
+    "tracktype": "grade1",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 568478296,
+  "lat": 50.6676698,
+  "lon": -3.9065870
+},
+{
+  "type": "node",
+  "id": 3075536497,
+  "lat": 50.6676279,
+  "lon": -3.9065382
+},
+{
+  "type": "node",
+  "id": 4862255997,
+  "lat": 50.6676509,
+  "lon": -3.9065650
+},
+{
+  "type": "way",
+  "id": 303214157,
+  "nodes": [
+    3075536497,
+    4862255997,
+    568478296
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Teign-e-ver Clapper Bridge",
+    "bridge:structure": "clapper",
+    "highway": "path",
+    "layer": "1",
+    "material": "stone",
+    "surface": "stone",
+    "website": "https://holidayindartmoor.co.uk/chagford/teign-e-ver-clapper-bridge-35836.html",
+    "wikimedia_commons": "File:Clapper bridge on the North Teign - geograph.org.uk - 1508704.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1089219352,
+  "lat": 50.6681538,
+  "lon": -3.9066992
+},
+{
+  "type": "node",
+  "id": 1089219436,
+  "lat": 50.6681935,
+  "lon": -3.9066864
+},
+{
+  "type": "node",
+  "id": 8304301690,
+  "lat": 50.6681735,
+  "lon": -3.9066929
+},
+{
+  "type": "way",
+  "id": 303214160,
+  "nodes": [
+    1089219352,
+    8304301690,
+    1089219436
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Wallabrook Clapper Bridge",
+    "bridge:structure": "clapper",
+    "highway": "path",
+    "layer": "1",
+    "material": "stone",
+    "surface": "stone"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8304301693,
+  "lat": 50.6677143,
+  "lon": -3.9054108
+},
+{
+  "type": "node",
+  "id": 8304301694,
+  "lat": 50.6676827,
+  "lon": -3.9054100
+},
+{
+  "type": "way",
+  "id": 893505665,
+  "nodes": [
+    8304301693,
+    8304301694
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "clapper",
+    "highway": "path",
+    "layer": "1",
+    "wikimedia_commons": "File:Teign-e-ver Bridge - geograph.org.uk - 1505958.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:11:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 11771089463,
+  "lat": 57.3992636,
+  "lon": -6.7209721
+},
+{
+  "type": "node",
+  "id": 11771089464,
+  "lat": 57.3993496,
+  "lon": -6.7210861
+},
+{
+  "type": "way",
+  "id": 1267363290,
+  "nodes": [
+    11771089463,
+    11771089464
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "lanes": "1",
+    "layer": "1",
+    "name": "Ramasaig Road",
+    "ref": "U4760",
+    "source:ref": "official",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:28:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2296343239,
+  "lat": 53.9984892,
+  "lon": -6.2448421
+},
+{
+  "type": "node",
+  "id": 2485269802,
+  "lat": 53.9985225,
+  "lon": -6.2450777
+},
+{
+  "type": "way",
+  "id": 531737529,
+  "nodes": [
+    2296343239,
+    2485269802
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1600",
+    "layer": "1",
+    "name": "L&NWR - Dundalk, Newry and Greenore Branch",
+    "operator": "L&NWR",
+    "passenger": "no",
+    "railway": "abandoned",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 257610882,
+  "lat": 53.9942592,
+  "lon": -6.2215774
+},
+{
+  "type": "node",
+  "id": 258821306,
+  "lat": 53.9942276,
+  "lon": -6.2199531
+},
+{
+  "type": "node",
+  "id": 265490285,
+  "lat": 53.9943546,
+  "lon": -6.2222995
+},
+{
+  "type": "node",
+  "id": 265490286,
+  "lat": 53.9946026,
+  "lon": -6.2232679
+},
+{
+  "type": "node",
+  "id": 265490287,
+  "lat": 53.9948501,
+  "lon": -6.2238917
+},
+{
+  "type": "node",
+  "id": 265490288,
+  "lat": 53.9952170,
+  "lon": -6.2246575
+},
+{
+  "type": "node",
+  "id": 265490289,
+  "lat": 53.9957723,
+  "lon": -6.2258345
+},
+{
+  "type": "node",
+  "id": 2037134427,
+  "lat": 53.9942925,
+  "lon": -6.2219530
+},
+{
+  "type": "node",
+  "id": 2037134430,
+  "lat": 53.9944134,
+  "lon": -6.2226425
+},
+{
+  "type": "node",
+  "id": 2037134432,
+  "lat": 53.9944759,
+  "lon": -6.2229096
+},
+{
+  "type": "node",
+  "id": 2037134436,
+  "lat": 53.9960677,
+  "lon": -6.2264903
+},
+{
+  "type": "node",
+  "id": 5813547905,
+  "lat": 53.9943863,
+  "lon": -6.2224845
+},
+{
+  "type": "node",
+  "id": 8636140208,
+  "lat": 53.9942288,
+  "lon": -6.2200133
+},
+{
+  "type": "node",
+  "id": 12100518955,
+  "lat": 53.9954559,
+  "lon": -6.2251638,
+  "tags": {
+    "direction": "forward",
+    "traffic_calming": "rumble_strip"
+  }
+},
+{
+  "type": "way",
+  "id": 193196921,
+  "nodes": [
+    2037134436,
+    265490289,
+    12100518955,
+    265490288,
+    265490287,
+    265490286,
+    2037134432,
+    2037134430,
+    5813547905,
+    265490285,
+    2037134427,
+    257610882,
+    8636140208,
+    258821306
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "secondary",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "100",
+    "ref": "R173",
+    "sidewalk": "no",
+    "source": "bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8441597332,
+  "lat": 53.9958254,
+  "lon": -6.2240144
+},
+{
+  "type": "node",
+  "id": 8441597333,
+  "lat": 53.9958626,
+  "lon": -6.2241404
+},
+{
+  "type": "way",
+  "id": 909168644,
+  "nodes": [
+    8441597333,
+    8441597332
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

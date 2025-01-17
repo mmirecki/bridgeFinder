@@ -1,0 +1,147 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:50:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 12027973922,
+  "lat": 58.0475346,
+  "lon": -5.4595694
+},
+{
+  "type": "node",
+  "id": 12027973923,
+  "lat": 58.0475992,
+  "lon": -5.4595305
+},
+{
+  "type": "way",
+  "id": 1298348124,
+  "nodes": [
+    12027973923,
+    12027973922
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12027973920,
+  "lat": 58.0486577,
+  "lon": -5.4583034
+},
+{
+  "type": "node",
+  "id": 12027973921,
+  "lat": 58.0486928,
+  "lon": -5.4582571
+},
+{
+  "type": "way",
+  "id": 1298348123,
+  "nodes": [
+    12027973921,
+    12027973920
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2130935103,
+  "lat": 58.0723527,
+  "lon": -5.4530861
+},
+{
+  "type": "node",
+  "id": 2130935107,
+  "lat": 58.0723217,
+  "lon": -5.4532908
+},
+{
+  "type": "way",
+  "id": 209423215,
+  "nodes": [
+    2130935103,
+    2130935107
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U3387",
+    "lanes": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "source": "Bing",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/6844/list_of_adopted_roads_u_class_roads_u2706_to_onwards"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

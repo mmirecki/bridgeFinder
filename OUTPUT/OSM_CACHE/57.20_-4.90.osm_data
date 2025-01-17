@@ -1,0 +1,197 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:03:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 7795449764,
+  "lat": 57.2525664,
+  "lon": -4.8944213
+},
+{
+  "type": "node",
+  "id": 7795458706,
+  "lat": 57.2525248,
+  "lon": -4.8945882
+},
+{
+  "type": "way",
+  "id": 835139576,
+  "nodes": [
+    7795449764,
+    7795458706
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "survey",
+    "surface": "gravel",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 790500821,
+  "lat": 57.2723935,
+  "lon": -4.8595284,
+  "tags": {
+    "name": "Plodda Falls",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1735471697,
+  "lat": 57.2724862,
+  "lon": -4.8593517
+},
+{
+  "type": "way",
+  "id": 161577486,
+  "nodes": [
+    1735471697,
+    790500821
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "wikidata": "Q113869647"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 360940338,
+  "lat": 57.2721837,
+  "lon": -4.8544551
+},
+{
+  "type": "node",
+  "id": 1735471695,
+  "lat": 57.2721080,
+  "lon": -4.8545353
+},
+{
+  "type": "way",
+  "id": 161577483,
+  "nodes": [
+    360940338,
+    1735471695
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "estimate",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6535439120,
+  "lat": 57.2898396,
+  "lon": -4.8401351
+},
+{
+  "type": "node",
+  "id": 6535439121,
+  "lat": 57.2897410,
+  "lon": -4.8400815
+},
+{
+  "type": "way",
+  "id": 695986287,
+  "nodes": [
+    6535439120,
+    6535439121
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

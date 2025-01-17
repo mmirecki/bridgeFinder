@@ -1,0 +1,1762 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:33:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 889099772,
+  "lat": 52.7025299,
+  "lon": 1.5636215
+},
+{
+  "type": "node",
+  "id": 889100191,
+  "lat": 52.7024515,
+  "lon": 1.5635833
+},
+{
+  "type": "way",
+  "id": 75296043,
+  "nodes": [
+    889100191,
+    889099772
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "prow_ref": "Ludham FP 26"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1206395198,
+  "lat": 52.7174474,
+  "lon": 1.5078893
+},
+{
+  "type": "node",
+  "id": 1711426759,
+  "lat": 52.7174444,
+  "lon": 1.5077995
+},
+{
+  "type": "way",
+  "id": 159038722,
+  "nodes": [
+    1206395198,
+    1711426759
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4196696657,
+  "lat": 52.7268785,
+  "lon": 1.5595664
+},
+{
+  "type": "node",
+  "id": 4196696658,
+  "lat": 52.7269041,
+  "lon": 1.5595577
+},
+{
+  "type": "way",
+  "id": 419646494,
+  "nodes": [
+    4196696657,
+    4196696658
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "prow_ref": "Potter Heigham FP 11",
+    "source:prow_ref": "definitive_statement",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 441025,
+  "lat": 52.7261381,
+  "lon": 1.5541054
+},
+{
+  "type": "node",
+  "id": 954430068,
+  "lat": 52.7284374,
+  "lon": 1.5547112
+},
+{
+  "type": "node",
+  "id": 954430076,
+  "lat": 52.7310109,
+  "lon": 1.5543334
+},
+{
+  "type": "node",
+  "id": 954430102,
+  "lat": 52.7275290,
+  "lon": 1.5547615
+},
+{
+  "type": "node",
+  "id": 954430130,
+  "lat": 52.7280521,
+  "lon": 1.5547866
+},
+{
+  "type": "node",
+  "id": 954430136,
+  "lat": 52.7305246,
+  "lon": 1.5547591
+},
+{
+  "type": "node",
+  "id": 954430162,
+  "lat": 52.7266985,
+  "lon": 1.5547132
+},
+{
+  "type": "node",
+  "id": 954430188,
+  "lat": 52.7293548,
+  "lon": 1.5548619
+},
+{
+  "type": "node",
+  "id": 954430209,
+  "lat": 52.7265331,
+  "lon": 1.5546061
+},
+{
+  "type": "node",
+  "id": 954430331,
+  "lat": 52.7290963,
+  "lon": 1.5548033
+},
+{
+  "type": "node",
+  "id": 954430393,
+  "lat": 52.7287111,
+  "lon": 1.5546945
+},
+{
+  "type": "node",
+  "id": 1241291471,
+  "lat": 52.7295482,
+  "lon": 1.5548457
+},
+{
+  "type": "node",
+  "id": 1241291502,
+  "lat": 52.7305869,
+  "lon": 1.5547424
+},
+{
+  "type": "node",
+  "id": 2661867717,
+  "lat": 52.7261740,
+  "lon": 1.5541531,
+  "tags": {
+    "direction": "backward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 2661867718,
+  "lat": 52.7262196,
+  "lon": 1.5542128,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 2661867719,
+  "lat": 52.7266125,
+  "lon": 1.5546703
+},
+{
+  "type": "node",
+  "id": 2661867721,
+  "lat": 52.7306999,
+  "lon": 1.5546496
+},
+{
+  "type": "node",
+  "id": 6556740125,
+  "lat": 52.7301623,
+  "lon": 1.5547912
+},
+{
+  "type": "node",
+  "id": 6556740128,
+  "lat": 52.7298548,
+  "lon": 1.5548185
+},
+{
+  "type": "way",
+  "id": 26402643,
+  "nodes": [
+    441025,
+    2661867717,
+    2661867718,
+    954430209,
+    2661867719,
+    954430162,
+    954430102,
+    954430130,
+    954430068,
+    954430393,
+    954430331,
+    954430188,
+    1241291471,
+    6556740128,
+    6556740125,
+    954430136,
+    1241291502
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C407",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Potter Heigham Road",
+    "salting:ref": "CAI051",
+    "source": "OS_OpenData_StreetView",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 163919698,
+  "nodes": [
+    1241291502,
+    2661867721,
+    954430076
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C407",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Potter Heigham Road",
+    "salting:ref": "CAI051",
+    "source": "OS_OpenData_StreetView",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 6556732276,
+  "lat": 52.7301711,
+  "lon": 1.5554079
+},
+{
+  "type": "node",
+  "id": 6556732277,
+  "lat": 52.7301727,
+  "lon": 1.5554803
+},
+{
+  "type": "way",
+  "id": 698157995,
+  "nodes": [
+    6556732276,
+    6556732277
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 441025,
+  "lat": 52.7261381,
+  "lon": 1.5541054
+},
+{
+  "type": "node",
+  "id": 954430068,
+  "lat": 52.7284374,
+  "lon": 1.5547112
+},
+{
+  "type": "node",
+  "id": 954430076,
+  "lat": 52.7310109,
+  "lon": 1.5543334
+},
+{
+  "type": "node",
+  "id": 954430102,
+  "lat": 52.7275290,
+  "lon": 1.5547615
+},
+{
+  "type": "node",
+  "id": 954430130,
+  "lat": 52.7280521,
+  "lon": 1.5547866
+},
+{
+  "type": "node",
+  "id": 954430136,
+  "lat": 52.7305246,
+  "lon": 1.5547591
+},
+{
+  "type": "node",
+  "id": 954430162,
+  "lat": 52.7266985,
+  "lon": 1.5547132
+},
+{
+  "type": "node",
+  "id": 954430188,
+  "lat": 52.7293548,
+  "lon": 1.5548619
+},
+{
+  "type": "node",
+  "id": 954430209,
+  "lat": 52.7265331,
+  "lon": 1.5546061
+},
+{
+  "type": "node",
+  "id": 954430331,
+  "lat": 52.7290963,
+  "lon": 1.5548033
+},
+{
+  "type": "node",
+  "id": 954430393,
+  "lat": 52.7287111,
+  "lon": 1.5546945
+},
+{
+  "type": "node",
+  "id": 1241291471,
+  "lat": 52.7295482,
+  "lon": 1.5548457
+},
+{
+  "type": "node",
+  "id": 1241291502,
+  "lat": 52.7305869,
+  "lon": 1.5547424
+},
+{
+  "type": "node",
+  "id": 2661867717,
+  "lat": 52.7261740,
+  "lon": 1.5541531,
+  "tags": {
+    "direction": "backward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 2661867718,
+  "lat": 52.7262196,
+  "lon": 1.5542128,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 2661867719,
+  "lat": 52.7266125,
+  "lon": 1.5546703
+},
+{
+  "type": "node",
+  "id": 2661867721,
+  "lat": 52.7306999,
+  "lon": 1.5546496
+},
+{
+  "type": "node",
+  "id": 6556740125,
+  "lat": 52.7301623,
+  "lon": 1.5547912
+},
+{
+  "type": "node",
+  "id": 6556740128,
+  "lat": 52.7298548,
+  "lon": 1.5548185
+},
+{
+  "type": "way",
+  "id": 26402643,
+  "nodes": [
+    441025,
+    2661867717,
+    2661867718,
+    954430209,
+    2661867719,
+    954430162,
+    954430102,
+    954430130,
+    954430068,
+    954430393,
+    954430331,
+    954430188,
+    1241291471,
+    6556740128,
+    6556740125,
+    954430136,
+    1241291502
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C407",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Potter Heigham Road",
+    "salting:ref": "CAI051",
+    "source": "OS_OpenData_StreetView",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 163919698,
+  "nodes": [
+    1241291502,
+    2661867721,
+    954430076
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C407",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Potter Heigham Road",
+    "salting:ref": "CAI051",
+    "source": "OS_OpenData_StreetView",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "node",
+  "id": 6556732278,
+  "lat": 52.7298698,
+  "lon": 1.5554209
+},
+{
+  "type": "node",
+  "id": 6556732279,
+  "lat": 52.7298715,
+  "lon": 1.5554860
+},
+{
+  "type": "way",
+  "id": 698157998,
+  "nodes": [
+    6556732279,
+    6556732278
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1229450565,
+  "lat": 52.7089880,
+  "lon": 1.5792980
+},
+{
+  "type": "node",
+  "id": 1229450576,
+  "lat": 52.7086353,
+  "lon": 1.5788930
+},
+{
+  "type": "way",
+  "id": 106923334,
+  "nodes": [
+    1229450565,
+    1229450576
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Potter Heigham FP 20",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1229450562,
+  "lat": 52.7095881,
+  "lon": 1.5769524
+},
+{
+  "type": "node",
+  "id": 1229450573,
+  "lat": 52.7095711,
+  "lon": 1.5771886
+},
+{
+  "type": "way",
+  "id": 106923336,
+  "nodes": [
+    1229450562,
+    1229450573
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 441041,
+  "lat": 52.7159609,
+  "lon": 1.5758571
+},
+{
+  "type": "node",
+  "id": 441042,
+  "lat": 52.7148782,
+  "lon": 1.5774694
+},
+{
+  "type": "node",
+  "id": 441045,
+  "lat": 52.7135605,
+  "lon": 1.5790240
+},
+{
+  "type": "node",
+  "id": 441046,
+  "lat": 52.7121888,
+  "lon": 1.5805470,
+  "tags": {
+    "crossing": "unmarked",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 441047,
+  "lat": 52.7107671,
+  "lon": 1.5822604
+},
+{
+  "type": "node",
+  "id": 441048,
+  "lat": 52.7096621,
+  "lon": 1.5834954
+},
+{
+  "type": "node",
+  "id": 441049,
+  "lat": 52.7079791,
+  "lon": 1.5843579
+},
+{
+  "type": "node",
+  "id": 441064,
+  "lat": 52.7073350,
+  "lon": 1.5843924
+},
+{
+  "type": "node",
+  "id": 322916430,
+  "lat": 52.7102057,
+  "lon": 1.5829113
+},
+{
+  "type": "node",
+  "id": 623262968,
+  "lat": 52.7083293,
+  "lon": 1.5842462
+},
+{
+  "type": "node",
+  "id": 1229460913,
+  "lat": 52.7090754,
+  "lon": 1.5838984
+},
+{
+  "type": "node",
+  "id": 1229460940,
+  "lat": 52.7086805,
+  "lon": 1.5841100
+},
+{
+  "type": "node",
+  "id": 1229460950,
+  "lat": 52.7152918,
+  "lon": 1.5769071
+},
+{
+  "type": "node",
+  "id": 1249786898,
+  "lat": 52.7077899,
+  "lon": 1.5843865
+},
+{
+  "type": "node",
+  "id": 2005465866,
+  "lat": 52.7110173,
+  "lon": 1.5819741,
+  "tags": {
+    "historic:railway": "station",
+    "name": "Potter Heigham Bridge",
+    "railway": "site",
+    "source": "OS 1:25k",
+    "wikidata": "Q7235264",
+    "wikipedia": "en:Potter Heigham Bridge Halt railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 3290934216,
+  "lat": 52.7073866,
+  "lon": 1.5843875
+},
+{
+  "type": "node",
+  "id": 6945793564,
+  "lat": 52.7142170,
+  "lon": 1.5782627
+},
+{
+  "type": "way",
+  "id": 29357295,
+  "nodes": [
+    322916430,
+    441048
+  ],
+  "tags": {
+    "highway": "primary",
+    "maintenance": "salting",
+    "maxspeed": "50 mph",
+    "name": "High Road",
+    "railway": "abandoned",
+    "ref": "A149",
+    "salting:ref": "CAI050",
+    "source": "Landsat photo - shifted; NPE",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 81851835,
+  "nodes": [
+    441041,
+    1229460950,
+    441042,
+    6945793564,
+    441045,
+    441046,
+    2005465866,
+    441047
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "50 mph",
+    "name": "Yarmouth Road",
+    "railway": "abandoned",
+    "ref": "A149",
+    "salting:ref": "CAI050",
+    "source": "Landsat photo - shifted; NPE"
+  }
+},
+{
+  "type": "way",
+  "id": 156426704,
+  "nodes": [
+    441048,
+    1229460913,
+    1229460940,
+    623262968,
+    441049,
+    1249786898,
+    3290934216,
+    441064
+  ],
+  "tags": {
+    "highway": "primary",
+    "lit": "no",
+    "maintenance": "salting",
+    "maxspeed": "50 mph",
+    "name": "High Road",
+    "ref": "A149",
+    "salting:ref": "CAI050",
+    "source": "Landsat photo - shifted; NPE",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 441047,
+  "lat": 52.7107671,
+  "lon": 1.5822604
+},
+{
+  "type": "node",
+  "id": 322916430,
+  "lat": 52.7102057,
+  "lon": 1.5829113
+},
+{
+  "type": "way",
+  "id": 29357296,
+  "nodes": [
+    441047,
+    322916430
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "50 mph",
+    "maxweight:signed": "no",
+    "name": "High Road",
+    "railway": "abandoned",
+    "ref": "A149",
+    "salting:ref": "CAI050",
+    "source": "Landsat photo - shifted; NPE",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 285598059,
+  "lat": 52.7112015,
+  "lon": 1.5787360
+},
+{
+  "type": "node",
+  "id": 285598063,
+  "lat": 52.7104237,
+  "lon": 1.5801034
+},
+{
+  "type": "node",
+  "id": 322916432,
+  "lat": 52.7098819,
+  "lon": 1.5809960
+},
+{
+  "type": "node",
+  "id": 322916437,
+  "lat": 52.7097497,
+  "lon": 1.5811935
+},
+{
+  "type": "node",
+  "id": 1229460887,
+  "lat": 52.7079635,
+  "lon": 1.5837370
+},
+{
+  "type": "node",
+  "id": 1229460905,
+  "lat": 52.7085097,
+  "lon": 1.5830758
+},
+{
+  "type": "node",
+  "id": 1244744348,
+  "lat": 52.7114330,
+  "lon": 1.5783109
+},
+{
+  "type": "node",
+  "id": 1275805572,
+  "lat": 52.7100604,
+  "lon": 1.5807441
+},
+{
+  "type": "node",
+  "id": 1635095481,
+  "lat": 52.7113396,
+  "lon": 1.5784850
+},
+{
+  "type": "node",
+  "id": 1635096821,
+  "lat": 52.7104798,
+  "lon": 1.5800030
+},
+{
+  "type": "node",
+  "id": 1635098302,
+  "lat": 52.7102589,
+  "lon": 1.5803918
+},
+{
+  "type": "node",
+  "id": 1755825756,
+  "lat": 52.7100196,
+  "lon": 1.5808071
+},
+{
+  "type": "node",
+  "id": 1755852375,
+  "lat": 52.7092031,
+  "lon": 1.5820169
+},
+{
+  "type": "node",
+  "id": 2661132060,
+  "lat": 52.7096210,
+  "lon": 1.5813869,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 2661132061,
+  "lat": 52.7099116,
+  "lon": 1.5809562
+},
+{
+  "type": "node",
+  "id": 2661132062,
+  "lat": 52.7101129,
+  "lon": 1.5806572
+},
+{
+  "type": "node",
+  "id": 2661132063,
+  "lat": 52.7101469,
+  "lon": 1.5805968
+},
+{
+  "type": "node",
+  "id": 2661132067,
+  "lat": 52.7103255,
+  "lon": 1.5802744
+},
+{
+  "type": "node",
+  "id": 2661132073,
+  "lat": 52.7106904,
+  "lon": 1.5796220
+},
+{
+  "type": "node",
+  "id": 4642579282,
+  "lat": 52.7093017,
+  "lon": 1.5818665
+},
+{
+  "type": "node",
+  "id": 5024429686,
+  "lat": 52.7103826,
+  "lon": 1.5801785
+},
+{
+  "type": "node",
+  "id": 5024429770,
+  "lat": 52.7103655,
+  "lon": 1.5802073
+},
+{
+  "type": "node",
+  "id": 5024429772,
+  "lat": 52.7100444,
+  "lon": 1.5807739,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 5795657472,
+  "lat": 52.7100974,
+  "lon": 1.5806819
+},
+{
+  "type": "node",
+  "id": 5795657482,
+  "lat": 52.7102421,
+  "lon": 1.5804199
+},
+{
+  "type": "node",
+  "id": 9169899632,
+  "lat": 52.7086674,
+  "lon": 1.5828488
+},
+{
+  "type": "node",
+  "id": 9169899633,
+  "lat": 52.7081760,
+  "lon": 1.5834889
+},
+{
+  "type": "node",
+  "id": 12229463956,
+  "lat": 52.7109100,
+  "lon": 1.5792452
+},
+{
+  "type": "node",
+  "id": 12229463957,
+  "lat": 52.7106336,
+  "lon": 1.5797274
+},
+{
+  "type": "node",
+  "id": 12229463959,
+  "lat": 52.7105713,
+  "lon": 1.5798398
+},
+{
+  "type": "way",
+  "id": 29357297,
+  "nodes": [
+    322916437,
+    2661132060,
+    4642579282
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxweight:hgv": "7.5",
+    "name": "Bridge Road",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 108149798,
+  "nodes": [
+    4642579282,
+    1755852375
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxweight:hgv": "7.5",
+    "name": "The Causeway",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163922715,
+  "nodes": [
+    1755825756,
+    2661132061,
+    322916432
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163922716,
+  "nodes": [
+    1755852375,
+    9169899632,
+    1229460905,
+    9169899633,
+    1229460887
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxweight:hgv": "7.5",
+    "name": "The Causeway",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 260586603,
+  "nodes": [
+    1244744348,
+    1635095481,
+    285598059,
+    12229463956,
+    2661132073,
+    12229463957,
+    12229463959,
+    1635096821,
+    285598063,
+    5024429686,
+    5024429770,
+    2661132067,
+    1635098302,
+    5795657482,
+    2661132063
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 260586606,
+  "nodes": [
+    1275805572,
+    5024429772,
+    1755825756
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 260586608,
+  "nodes": [
+    2661132063,
+    2661132062,
+    5795657472,
+    1275805572
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "parking:lane:left": "no_stopping",
+    "parking:lane:right": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 322916432,
+  "lat": 52.7098819,
+  "lon": 1.5809960
+},
+{
+  "type": "node",
+  "id": 322916437,
+  "lat": 52.7097497,
+  "lon": 1.5811935
+},
+{
+  "type": "way",
+  "id": 29357298,
+  "nodes": [
+    322916432,
+    322916437
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Potter Heigham Bridge",
+    "heritage": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C536",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "30 mph",
+    "maxweight:hgv": "7.5",
+    "name": "Bridge Road",
+    "parking:lane:both": "no_parking",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt",
+    "wikidata": "Q17554447"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4197259391,
+  "lat": 52.7291228,
+  "lon": 1.5845483
+},
+{
+  "type": "node",
+  "id": 4197259392,
+  "lat": 52.7291695,
+  "lon": 1.5845644
+},
+{
+  "type": "way",
+  "id": 419718534,
+  "nodes": [
+    4197259392,
+    4197259391
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "prow_ref": "Potter Heigham FP 13",
+    "source:prow_ref": "definitive_statement",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3594223264,
+  "lat": 52.7411032,
+  "lon": 1.5908976
+},
+{
+  "type": "node",
+  "id": 7777290650,
+  "lat": 52.7410466,
+  "lon": 1.5908678
+},
+{
+  "type": "way",
+  "id": 833107680,
+  "nodes": [
+    7777290650,
+    3594223264
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6884892188,
+  "lat": 52.7515223,
+  "lon": 1.5790939
+},
+{
+  "type": "node",
+  "id": 9737125247,
+  "lat": 52.7515449,
+  "lon": 1.5790391
+},
+{
+  "type": "way",
+  "id": 1059801950,
+  "nodes": [
+    9737125247,
+    6884892188
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "service": "driveway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4701478157,
+  "lat": 52.7920641,
+  "lon": 1.5035418
+},
+{
+  "type": "node",
+  "id": 4701486844,
+  "lat": 52.7913974,
+  "lon": 1.5049420
+},
+{
+  "type": "node",
+  "id": 4701506530,
+  "lat": 52.7917372,
+  "lon": 1.5042383
+},
+{
+  "type": "way",
+  "id": 476650503,
+  "nodes": [
+    4701478157,
+    4701506530
+  ],
+  "tags": {
+    "designation": "public_footpath",
+    "foot": "designated",
+    "foot:physical": "no",
+    "highway": "no",
+    "note": "Definitive line, but obstructed",
+    "prow_ref": "East Ruston FP 8",
+    "source": "norfolk_county_council_prow_gis_data",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 476653180,
+  "nodes": [
+    4701506530,
+    4701486844
+  ],
+  "tags": {
+    "designation": "public_footpath",
+    "foot": "designated",
+    "foot:physical": "no",
+    "highway": "no",
+    "note": "Definitive line, but obstructed",
+    "prow_ref": "Brumstead FP 3",
+    "source": "norfolk_county_council_prow_gis_data",
+    "surface": "ground"
+  }
+},
+{
+  "type": "node",
+  "id": 1295869190,
+  "lat": 52.7917886,
+  "lon": 1.5043403
+},
+{
+  "type": "node",
+  "id": 4701486851,
+  "lat": 52.7918164,
+  "lon": 1.5042719
+},
+{
+  "type": "way",
+  "id": 476650501,
+  "nodes": [
+    1295869190,
+    4701486851
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "note": "Not the Definitive Line of Brumstead FP 3,  but what's available on the ground",
+    "source:prow_ref": "definitive_statement",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1459653034,
+  "lat": 52.7852395,
+  "lon": 1.5495437
+},
+{
+  "type": "node",
+  "id": 1459653036,
+  "lat": 52.7852803,
+  "lon": 1.5495251
+},
+{
+  "type": "way",
+  "id": 132696001,
+  "nodes": [
+    1459653036,
+    1459653034
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "prow_ref": "Ingham FP 6",
+    "source:prow_ref": "definitive_statement",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1248872063,
+  "lat": 52.7853276,
+  "lon": 1.5664450
+},
+{
+  "type": "node",
+  "id": 2400256638,
+  "lat": 52.7852441,
+  "lon": 1.5663639
+},
+{
+  "type": "way",
+  "id": 231685032,
+  "nodes": [
+    2400256638,
+    1248872063
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "layer": "1",
+    "prow_ref": "Ingham FP 8",
+    "source:designation": "norfolk_county_council_prow_gis_data",
+    "source:prow_ref": "norfolk_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1248872061,
+  "lat": 52.7847892,
+  "lon": 1.5673725
+},
+{
+  "type": "node",
+  "id": 2400256635,
+  "lat": 52.7848852,
+  "lon": 1.5674255
+},
+{
+  "type": "way",
+  "id": 231685033,
+  "nodes": [
+    1248872061,
+    2400256635
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3657588386,
+  "lat": 52.7701867,
+  "lon": 1.5924009
+},
+{
+  "type": "node",
+  "id": 3657588391,
+  "lat": 52.7703058,
+  "lon": 1.5924023
+},
+{
+  "type": "way",
+  "id": 361258862,
+  "nodes": [
+    3657588386,
+    3657588391
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3657588375,
+  "lat": 52.7695368,
+  "lon": 1.5981764
+},
+{
+  "type": "node",
+  "id": 3657588379,
+  "lat": 52.7696407,
+  "lon": 1.5982247
+},
+{
+  "type": "way",
+  "id": 361258859,
+  "nodes": [
+    3657588375,
+    3657588379
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

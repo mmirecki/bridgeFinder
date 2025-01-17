@@ -1,0 +1,154 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:19:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2920871906,
+  "lat": 57.2835030,
+  "lon": -6.4421641
+},
+{
+  "type": "node",
+  "id": 2920871907,
+  "lat": 57.2835429,
+  "lon": -6.4420168
+},
+{
+  "type": "way",
+  "id": 288530781,
+  "nodes": [
+    2920871907,
+    2920871906
+  ],
+  "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 988692505,
+  "lat": 57.2895170,
+  "lon": -6.4400143
+},
+{
+  "type": "node",
+  "id": 2920880504,
+  "lat": 57.2895919,
+  "lon": -6.4400453
+},
+{
+  "type": "way",
+  "id": 288531845,
+  "nodes": [
+    988692505,
+    2920880504
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 243761972,
+  "lat": 57.2886460,
+  "lon": -6.4291411
+},
+{
+  "type": "node",
+  "id": 2920888145,
+  "lat": 57.2886752,
+  "lon": -6.4290065
+},
+{
+  "type": "way",
+  "id": 288532580,
+  "nodes": [
+    2920888145,
+    243761972
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U4748",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Talisker Road",
+    "source": "GPS",
+    "source:ref": "official",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T20:45:05Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 10700349133,
+  "lat": 53.4331058,
+  "lon": -0.1996033
+},
+{
+  "type": "node",
+  "id": 10700349134,
+  "lat": 53.4331586,
+  "lon": -0.1996992
+},
+{
+  "type": "way",
+  "id": 1150255120,
+  "nodes": [
+    10700349133,
+    10700349134
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "prow_ref": "Stainton Le Vale Footpath 139",
+    "source": "npe",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12037858455,
+  "lat": 53.4360389,
+  "lon": -0.1838906
+},
+{
+  "type": "node",
+  "id": 12037858456,
+  "lat": 53.4360557,
+  "lon": -0.1839054
+},
+{
+  "type": "way",
+  "id": 1299540687,
+  "nodes": [
+    12037858455,
+    12037858456
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "track",
+    "layer": "1",
+    "prow_ref": "Binbrook Footpath 135",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12037858454,
+  "lat": 53.4312598,
+  "lon": -0.1783951
+},
+{
+  "type": "node",
+  "id": 12037929080,
+  "lat": 53.4312314,
+  "lon": -0.1784232
+},
+{
+  "type": "way",
+  "id": 1299540685,
+  "nodes": [
+    12037929080,
+    12037858454
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Binbrook Footpath 133",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10795481445,
+  "lat": 53.4387732,
+  "lon": -0.1814539
+},
+{
+  "type": "node",
+  "id": 10795481446,
+  "lat": 53.4387775,
+  "lon": -0.1815342
+},
+{
+  "type": "way",
+  "id": 1299540688,
+  "nodes": [
+    10795481445,
+    10795481446
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Binbrook Footpath 135",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11055594540,
+  "lat": 53.4478711,
+  "lon": -0.1724218
+},
+{
+  "type": "node",
+  "id": 11055594541,
+  "lat": 53.4479100,
+  "lon": -0.1725422
+},
+{
+  "type": "way",
+  "id": 1190697267,
+  "nodes": [
+    11055594541,
+    11055594540
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "OS OpenData StreetView"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6657842595,
+  "lat": 53.4676690,
+  "lon": -0.1866789
+},
+{
+  "type": "node",
+  "id": 6657842596,
+  "lat": 53.4676383,
+  "lon": -0.1864305
+},
+{
+  "type": "way",
+  "id": 708520113,
+  "nodes": [
+    6657842595,
+    6657842596
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 334254695,
+  "lat": 53.4816521,
+  "lon": -0.1922318
+},
+{
+  "type": "node",
+  "id": 334254698,
+  "lat": 53.4823286,
+  "lon": -0.1908044
+},
+{
+  "type": "node",
+  "id": 334254700,
+  "lat": 53.4829863,
+  "lon": -0.1888880
+},
+{
+  "type": "node",
+  "id": 334254703,
+  "lat": 53.4833848,
+  "lon": -0.1873192
+},
+{
+  "type": "node",
+  "id": 334254706,
+  "lat": 53.4837509,
+  "lon": -0.1853475
+},
+{
+  "type": "node",
+  "id": 334254709,
+  "lat": 53.4841821,
+  "lon": -0.1832708
+},
+{
+  "type": "node",
+  "id": 334254710,
+  "lat": 53.4844431,
+  "lon": -0.1816733
+},
+{
+  "type": "node",
+  "id": 334254711,
+  "lat": 53.4845071,
+  "lon": -0.1798256
+},
+{
+  "type": "node",
+  "id": 334254716,
+  "lat": 53.4845241,
+  "lon": -0.1782688
+},
+{
+  "type": "node",
+  "id": 334254723,
+  "lat": 53.4848905,
+  "lon": -0.1764136,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7476393082,
+  "lat": 53.4829973,
+  "lon": -0.1885569
+},
+{
+  "type": "node",
+  "id": 7476393083,
+  "lat": 53.4829926,
+  "lon": -0.1886962
+},
+{
+  "type": "node",
+  "id": 7476393084,
+  "lat": 53.4848636,
+  "lon": -0.1764263
+},
+{
+  "type": "node",
+  "id": 7476430709,
+  "lat": 53.4848271,
+  "lon": -0.1764538
+},
+{
+  "type": "node",
+  "id": 9525472148,
+  "lat": 53.4847064,
+  "lon": -0.1766419
+},
+{
+  "type": "way",
+  "id": 30316767,
+  "nodes": [
+    334254695,
+    334254698,
+    334254700,
+    7476393083
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Thoresway Bridleway 774",
+    "source": "survey",
+    "source:prow_ref": "lincolnshire_county_council_prow_gis_data"
+  }
+},
+{
+  "type": "way",
+  "id": 799406294,
+  "nodes": [
+    7476393082,
+    334254703,
+    334254706,
+    334254709,
+    334254710,
+    334254711,
+    334254716,
+    9525472148,
+    7476430709,
+    7476393084,
+    334254723
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Hatcliffe Bridleway 135",
+    "source": "npe",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "node",
+  "id": 7476393082,
+  "lat": 53.4829973,
+  "lon": -0.1885569
+},
+{
+  "type": "node",
+  "id": 7476393083,
+  "lat": 53.4829926,
+  "lon": -0.1886962
+},
+{
+  "type": "way",
+  "id": 799406295,
+  "nodes": [
+    7476393083,
+    7476393082
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "layer": "1",
+    "prow_ref": "Hatcliffe Bridleway 135",
+    "source": "survey",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 334254703,
+  "lat": 53.4833848,
+  "lon": -0.1873192
+},
+{
+  "type": "node",
+  "id": 334254706,
+  "lat": 53.4837509,
+  "lon": -0.1853475
+},
+{
+  "type": "node",
+  "id": 334254709,
+  "lat": 53.4841821,
+  "lon": -0.1832708
+},
+{
+  "type": "node",
+  "id": 334254710,
+  "lat": 53.4844431,
+  "lon": -0.1816733
+},
+{
+  "type": "node",
+  "id": 334254711,
+  "lat": 53.4845071,
+  "lon": -0.1798256
+},
+{
+  "type": "node",
+  "id": 334254716,
+  "lat": 53.4845241,
+  "lon": -0.1782688
+},
+{
+  "type": "node",
+  "id": 334254723,
+  "lat": 53.4848905,
+  "lon": -0.1764136,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7476393082,
+  "lat": 53.4829973,
+  "lon": -0.1885569
+},
+{
+  "type": "node",
+  "id": 7476393084,
+  "lat": 53.4848636,
+  "lon": -0.1764263
+},
+{
+  "type": "node",
+  "id": 7476401192,
+  "lat": 53.4847524,
+  "lon": -0.1704306
+},
+{
+  "type": "node",
+  "id": 7476401193,
+  "lat": 53.4847964,
+  "lon": -0.1706183
+},
+{
+  "type": "node",
+  "id": 7476401194,
+  "lat": 53.4847176,
+  "lon": -0.1706767
+},
+{
+  "type": "node",
+  "id": 7476401195,
+  "lat": 53.4847639,
+  "lon": -0.1714477
+},
+{
+  "type": "node",
+  "id": 7476401196,
+  "lat": 53.4849192,
+  "lon": -0.1749328
+},
+{
+  "type": "node",
+  "id": 7476401198,
+  "lat": 53.4849616,
+  "lon": -0.1761903,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7476401199,
+  "lat": 53.4847718,
+  "lon": -0.1706365,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7476401200,
+  "lat": 53.4847704,
+  "lon": -0.1705072,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7476430709,
+  "lat": 53.4848271,
+  "lon": -0.1764538
+},
+{
+  "type": "node",
+  "id": 7476430710,
+  "lat": 53.4850075,
+  "lon": -0.1763188
+},
+{
+  "type": "node",
+  "id": 7476430711,
+  "lat": 53.4850274,
+  "lon": -0.1762950
+},
+{
+  "type": "node",
+  "id": 9525472148,
+  "lat": 53.4847064,
+  "lon": -0.1766419
+},
+{
+  "type": "way",
+  "id": 799406294,
+  "nodes": [
+    7476393082,
+    334254703,
+    334254706,
+    334254709,
+    334254710,
+    334254711,
+    334254716,
+    9525472148,
+    7476430709,
+    7476393084,
+    334254723
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Hatcliffe Bridleway 135",
+    "source": "npe",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "way",
+  "id": 799407139,
+  "nodes": [
+    7476401192,
+    7476401200,
+    7476401193,
+    7476401199,
+    7476401194,
+    7476401195,
+    7476401196,
+    7476401198,
+    7476430711
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "bridleway"
+  }
+},
+{
+  "type": "way",
+  "id": 1084175472,
+  "nodes": [
+    7476430710,
+    7476430711
+  ],
+  "tags": {
+    "designation": "public_footpath",
+    "foot": "yes",
+    "highway": "bridleway",
+    "source": "npe"
+  }
+},
+{
+  "type": "node",
+  "id": 334254723,
+  "lat": 53.4848905,
+  "lon": -0.1764136,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 7476430710,
+  "lat": 53.4850075,
+  "lon": -0.1763188
+},
+{
+  "type": "way",
+  "id": 799410333,
+  "nodes": [
+    334254723,
+    7476430710
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "yes",
+    "highway": "bridleway",
+    "layer": "1",
+    "source": "npe"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10788630106,
+  "lat": 53.4875525,
+  "lon": -0.1014367
+},
+{
+  "type": "node",
+  "id": 10788630107,
+  "lat": 53.4875191,
+  "lon": -0.1012379
+},
+{
+  "type": "way",
+  "id": 1160029824,
+  "nodes": [
+    10788630107,
+    10788630106
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Ashby Cum Fenby Footpath 85",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12459268776,
+  "lat": 53.4960359,
+  "lon": -0.1118125
+},
+{
+  "type": "node",
+  "id": 12459268781,
+  "lat": 53.4959596,
+  "lon": -0.1118160
+},
+{
+  "type": "way",
+  "id": 1346918714,
+  "nodes": [
+    12459268781,
+    12459268776
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "layer": "1",
+    "prow_ref": "Ashby Cum Fenby Footpath 81",
+    "source:prow_ref": "definitive map NELC"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

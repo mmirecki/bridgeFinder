@@ -1,0 +1,580 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:51:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 339359743,
+  "lat": 57.2368628,
+  "lon": -5.3840316
+},
+{
+  "type": "node",
+  "id": 618396467,
+  "lat": 57.2364590,
+  "lon": -5.3840812
+},
+{
+  "type": "way",
+  "id": 48714774,
+  "nodes": [
+    618396467,
+    339359743
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Croe Bridge",
+    "heritage": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U4929",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "old_ref": "A87",
+    "source": "survey",
+    "source:ref": "official",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class",
+    "wikidata": "Q17829095"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 618396501,
+  "lat": 57.2353053,
+  "lon": -5.3680163
+},
+{
+  "type": "node",
+  "id": 618396502,
+  "lat": 57.2354337,
+  "lon": -5.3680072
+},
+{
+  "type": "way",
+  "id": 48714787,
+  "nodes": [
+    618396501,
+    618396502
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 921790004,
+  "lat": 57.2348687,
+  "lon": -5.3732519
+},
+{
+  "type": "node",
+  "id": 921790032,
+  "lat": 57.2348385,
+  "lon": -5.3731303
+},
+{
+  "type": "way",
+  "id": 78559712,
+  "nodes": [
+    921790004,
+    921790032
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "source": "survey",
+    "waymark": "red;blue"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6981820853,
+  "lat": 57.2469194,
+  "lon": -5.3471835
+},
+{
+  "type": "node",
+  "id": 6981820854,
+  "lat": 57.2467938,
+  "lon": -5.3470695
+},
+{
+  "type": "way",
+  "id": 746025015,
+  "nodes": [
+    6981820854,
+    6981820853
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1242249504,
+  "lat": 57.2543802,
+  "lon": -5.3428628
+},
+{
+  "type": "node",
+  "id": 2927179646,
+  "lat": 57.2541384,
+  "lon": -5.3430082
+},
+{
+  "type": "way",
+  "id": 289163975,
+  "nodes": [
+    2927179646,
+    1242249504
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "2",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1908895688,
+  "lat": 57.2605886,
+  "lon": -5.3416379
+},
+{
+  "type": "node",
+  "id": 1908895690,
+  "lat": 57.2605274,
+  "lon": -5.3415996
+},
+{
+  "type": "way",
+  "id": 289163978,
+  "nodes": [
+    1908895690,
+    1908895688
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "2",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2589902575,
+  "lat": 57.2997034,
+  "lon": -5.3801885
+},
+{
+  "type": "node",
+  "id": 8880140931,
+  "lat": 57.2996573,
+  "lon": -5.3800836
+},
+{
+  "type": "way",
+  "id": 959766637,
+  "nodes": [
+    8880140931,
+    2589902575
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "lanes": "1",
+    "layer": "1",
+    "source": "survey",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2589908463,
+  "lat": 57.2952352,
+  "lon": -5.3750243
+},
+{
+  "type": "node",
+  "id": 8880140983,
+  "lat": 57.2952190,
+  "lon": -5.3749511
+},
+{
+  "type": "way",
+  "id": 959766658,
+  "nodes": [
+    8880140983,
+    2589908463
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "survey",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2589902542,
+  "lat": 57.2956648,
+  "lon": -5.3733657
+},
+{
+  "type": "node",
+  "id": 2589902572,
+  "lat": 57.2954312,
+  "lon": -5.3736539
+},
+{
+  "type": "way",
+  "id": 252994712,
+  "nodes": [
+    2589902542,
+    2589902572
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "source": "survey",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1485745610,
+  "lat": 57.2871094,
+  "lon": -5.2999752
+},
+{
+  "type": "node",
+  "id": 1485745612,
+  "lat": 57.2872682,
+  "lon": -5.3000499
+},
+{
+  "type": "way",
+  "id": 256747290,
+  "nodes": [
+    1485745610,
+    1485745612
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1485745672,
+  "lat": 57.2896469,
+  "lon": -5.3057093
+},
+{
+  "type": "node",
+  "id": 1908894860,
+  "lat": 57.2897381,
+  "lon": -5.3056881
+},
+{
+  "type": "node",
+  "id": 6282912301,
+  "lat": 57.2897550,
+  "lon": -5.3056844
+},
+{
+  "type": "way",
+  "id": 256747288,
+  "nodes": [
+    1485745672,
+    1908894860,
+    6282912301
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "sac_scale": "mountain_hiking",
+    "source": "survey",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1485745681,
+  "lat": 57.2899374,
+  "lon": -5.3057047
+},
+{
+  "type": "node",
+  "id": 1908894862,
+  "lat": 57.2897835,
+  "lon": -5.3057257
+},
+{
+  "type": "node",
+  "id": 1908894864,
+  "lat": 57.2898371,
+  "lon": -5.3057166
+},
+{
+  "type": "way",
+  "id": 670934982,
+  "nodes": [
+    1908894862,
+    1908894864,
+    1485745681
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "sac_scale": "mountain_hiking",
+    "source": "survey",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

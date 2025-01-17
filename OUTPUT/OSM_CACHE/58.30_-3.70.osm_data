@@ -1,0 +1,117 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:41:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 25254701,
+  "lat": 58.3913030,
+  "lon": -3.6993220
+},
+{
+  "type": "node",
+  "id": 726534642,
+  "lat": 58.3913774,
+  "lon": -3.6991278
+},
+{
+  "type": "way",
+  "id": 51049010,
+  "nodes": [
+    25254701,
+    726534642
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "Bridge over stream",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "50 mph",
+    "name": "Far North Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "WCK",
+    "ref:elr": "WCK",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 25254696,
+  "lat": 58.3948779,
+  "lon": -3.6866102
+},
+{
+  "type": "node",
+  "id": 726534612,
+  "lat": 58.3949151,
+  "lon": -3.6864343
+},
+{
+  "type": "way",
+  "id": 51049013,
+  "nodes": [
+    25254696,
+    726534612
+  ],
+  "tags": {
+    "bridge": "yes",
+    "description": "Bridge over stream",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "50 mph",
+    "name": "Far North Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "WCK",
+    "ref:elr": "WCK",
+    "start_date": "1874-07-28",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

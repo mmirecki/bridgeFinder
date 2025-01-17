@@ -1,0 +1,56 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:01:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8989854918,
+  "lat": 51.3755033,
+  "lon": -3.1197998
+},
+{
+  "type": "node",
+  "id": 9801597234,
+  "lat": 51.3755428,
+  "lon": -3.1199399
+},
+{
+  "type": "way",
+  "id": 1067591027,
+  "nodes": [
+    9801597234,
+    8989854918
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "material": "wood",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

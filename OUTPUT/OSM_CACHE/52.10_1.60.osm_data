@@ -1,0 +1,193 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:33:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1540691460,
+  "lat": 52.1801563,
+  "lon": 1.6000794
+},
+{
+  "type": "node",
+  "id": 1540691482,
+  "lat": 52.1802539,
+  "lon": 1.6000654
+},
+{
+  "type": "way",
+  "id": 140673283,
+  "nodes": [
+    1540691460,
+    1540691482
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "lit": "no",
+    "source": "GPS",
+    "surface": "compacted"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8632400172,
+  "lat": 52.1802548,
+  "lon": 1.6000828
+},
+{
+  "type": "node",
+  "id": 8632400173,
+  "lat": 52.1801600,
+  "lon": 1.6000992
+},
+{
+  "type": "way",
+  "id": 142806852,
+  "nodes": [
+    8632400173,
+    8632400172
+  ],
+  "tags": {
+    "abandoned:railway": "rail",
+    "alt_name": "Sizewell Power Station Branch",
+    "bridge": "yes",
+    "layer": "1",
+    "name": "Aldeburgh Branch",
+    "railway": "abandoned",
+    "ref": "SIZ",
+    "source": "Bing Imagery;GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1511352588,
+  "lat": 52.1848504,
+  "lon": 1.6006790
+},
+{
+  "type": "node",
+  "id": 1511352589,
+  "lat": 52.1848926,
+  "lon": 1.6006222
+},
+{
+  "type": "way",
+  "id": 140673849,
+  "nodes": [
+    1511352588,
+    1511352589
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "track",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1511352608,
+  "lat": 52.1853460,
+  "lon": 1.6013717
+},
+{
+  "type": "node",
+  "id": 1511352609,
+  "lat": 52.1853709,
+  "lon": 1.6013009
+},
+{
+  "type": "way",
+  "id": 140674217,
+  "nodes": [
+    1511352609,
+    1511352608
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

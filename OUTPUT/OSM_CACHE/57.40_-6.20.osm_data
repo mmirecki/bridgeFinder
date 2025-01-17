@@ -1,0 +1,2018 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:32:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 32016261,
+  "lat": 57.4129416,
+  "lon": -6.2007730
+},
+{
+  "type": "node",
+  "id": 32016262,
+  "lat": 57.4132540,
+  "lon": -6.1987257
+},
+{
+  "type": "node",
+  "id": 34580611,
+  "lat": 57.4127085,
+  "lon": -6.2009933
+},
+{
+  "type": "node",
+  "id": 35541858,
+  "lat": 57.4132292,
+  "lon": -6.1998381
+},
+{
+  "type": "node",
+  "id": 291296494,
+  "lat": 57.4131462,
+  "lon": -6.1979710
+},
+{
+  "type": "node",
+  "id": 540457716,
+  "lat": 57.4131194,
+  "lon": -6.2003702
+},
+{
+  "type": "node",
+  "id": 758200377,
+  "lat": 57.4136724,
+  "lon": -6.2020319
+},
+{
+  "type": "node",
+  "id": 758200381,
+  "lat": 57.4130587,
+  "lon": -6.2010519
+},
+{
+  "type": "node",
+  "id": 758225794,
+  "lat": 57.4137501,
+  "lon": -6.2022164,
+  "tags": {
+    "check_date:crossing": "2023-06-09",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1104607738,
+  "lat": 57.4139835,
+  "lon": -6.1996081
+},
+{
+  "type": "node",
+  "id": 1104607949,
+  "lat": 57.4140733,
+  "lon": -6.1996416
+},
+{
+  "type": "node",
+  "id": 1104608011,
+  "lat": 57.4143531,
+  "lon": -6.1997373
+},
+{
+  "type": "node",
+  "id": 1104608314,
+  "lat": 57.4132707,
+  "lon": -6.1992308
+},
+{
+  "type": "node",
+  "id": 1104608415,
+  "lat": 57.4140885,
+  "lon": -6.1998389
+},
+{
+  "type": "node",
+  "id": 1104608696,
+  "lat": 57.4142238,
+  "lon": -6.2003774
+},
+{
+  "type": "node",
+  "id": 1666468990,
+  "lat": 57.4132646,
+  "lon": -6.1994607
+},
+{
+  "type": "node",
+  "id": 3533848973,
+  "lat": 57.4127952,
+  "lon": -6.2009409
+},
+{
+  "type": "node",
+  "id": 3533848974,
+  "lat": 57.4123621,
+  "lon": -6.2010479
+},
+{
+  "type": "node",
+  "id": 3813326321,
+  "lat": 57.4130116,
+  "lon": -6.2010388,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 3870588833,
+  "lat": 57.4130456,
+  "lon": -6.2005728
+},
+{
+  "type": "node",
+  "id": 3870588835,
+  "lat": 57.4130710,
+  "lon": -6.1976286
+},
+{
+  "type": "node",
+  "id": 3870588838,
+  "lat": 57.4132077,
+  "lon": -6.1983649
+},
+{
+  "type": "node",
+  "id": 3870588840,
+  "lat": 57.4132648,
+  "lon": -6.1989400
+},
+{
+  "type": "node",
+  "id": 10840047435,
+  "lat": 57.4138136,
+  "lon": -6.2023690
+},
+{
+  "type": "node",
+  "id": 10967388588,
+  "lat": 57.4129566,
+  "lon": -6.2008087,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 10967388589,
+  "lat": 57.4128219,
+  "lon": -6.2010382
+},
+{
+  "type": "node",
+  "id": 10967467384,
+  "lat": 57.4126778,
+  "lon": -6.2010083,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10970836213,
+  "lat": 57.4137201,
+  "lon": -6.2021444,
+  "tags": {
+    "crossing": "no",
+    "highway": "traffic_signals",
+    "traffic_signals": "traffic_lights",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 10978601649,
+  "lat": 57.4135600,
+  "lon": -6.2018349
+},
+{
+  "type": "way",
+  "id": 60615714,
+  "nodes": [
+    34580611,
+    10967388589,
+    3813326321,
+    758200381
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "trunk_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "oneway": "yes",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "ref": "A87",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt",
+    "turn:lanes": "left"
+  }
+},
+{
+  "type": "way",
+  "id": 95224467,
+  "nodes": [
+    1104608696,
+    1104608415,
+    1104607949
+  ],
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30 mph",
+    "name": "Manse Lane",
+    "name:en": "Manse Lane",
+    "name:gd": "Bealach a' Mhansa",
+    "ref:GB:usrn": "84406300;84416485"
+  }
+},
+{
+  "type": "way",
+  "id": 95224481,
+  "nodes": [
+    1104608011,
+    1104607949,
+    1104607738,
+    1104608314
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "30 mph",
+    "name": "Manse Lane",
+    "name:en": "Manse Lane",
+    "name:gd": "Bealach a' Mhansa",
+    "ref:GB:usrn": "84405663",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154044480,
+  "nodes": [
+    32016261,
+    3870588833,
+    540457716,
+    35541858
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "name:en": "Bridge Road",
+    "name:gd": "Rathad na Drochaid",
+    "ref": "A855",
+    "ref:GB:usrn": "84406320;84407985",
+    "sidewalk:left": "yes",
+    "sidewalk:left:surface": "asphalt",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154044481,
+  "nodes": [
+    1666468990,
+    1104608314,
+    3870588840,
+    32016262,
+    3870588838,
+    291296494,
+    3870588835
+  ],
+  "tags": {
+    "check_date:cycleway": "2023-06-08",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "name:en": "Bridge Road",
+    "name:gd": "Rathad na Drochaid",
+    "ref": "A855",
+    "ref:GB:usrn": "84406320;84407985",
+    "sidewalk:left": "yes",
+    "sidewalk:left:surface": "asphalt",
+    "sidewalk:right": "separate",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 346940415,
+  "nodes": [
+    758200381,
+    10967388588,
+    32016261
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Dunvegan Road",
+    "name:en": "Dunvegan Road",
+    "name:gd": "Rathad Dhunbheagain",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84406339;84410792",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 671288253,
+  "nodes": [
+    32016261,
+    3533848973,
+    34580611
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Viewfield Road",
+    "name:en": "Viewfield Road",
+    "name:gd": "Goirtean na Creige",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84405718;84410792",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1181178405,
+  "nodes": [
+    34580611,
+    10967467384,
+    3533848974
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Viewfield Road",
+    "name:en": "Viewfield Road",
+    "name:gd": "Goirtean na Creige",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84405718;84410792",
+    "sidewalk:both": "separate",
+    "sidewalk:right:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182207616,
+  "nodes": [
+    10840047435,
+    758225794,
+    10970836213,
+    758200377,
+    10978601649,
+    758200381
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:both": "no",
+    "foot": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Dunvegan Road",
+    "name:en": "Dunvegan Road",
+    "name:gd": "Rathad Dhunbheagain",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84406339;84410792",
+    "sidewalk:left": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 35541858,
+  "lat": 57.4132292,
+  "lon": -6.1998381
+},
+{
+  "type": "node",
+  "id": 1666468990,
+  "lat": 57.4132646,
+  "lon": -6.1994607
+},
+{
+  "type": "way",
+  "id": 154044476,
+  "nodes": [
+    35541858,
+    1666468990
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxweight:signed": "no",
+    "name": "Bridge Road",
+    "name:en": "Bridge Road",
+    "name:gd": "Rathad na Drochaid",
+    "ref": "A855",
+    "ref:GB:usrn": "84406320;84407985",
+    "sidewalk:left": "yes",
+    "sidewalk:left:surface": "asphalt",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 32016261,
+  "lat": 57.4129416,
+  "lon": -6.2007730
+},
+{
+  "type": "node",
+  "id": 32016262,
+  "lat": 57.4132540,
+  "lon": -6.1987257
+},
+{
+  "type": "node",
+  "id": 34580611,
+  "lat": 57.4127085,
+  "lon": -6.2009933
+},
+{
+  "type": "node",
+  "id": 35541858,
+  "lat": 57.4132292,
+  "lon": -6.1998381
+},
+{
+  "type": "node",
+  "id": 291296494,
+  "lat": 57.4131462,
+  "lon": -6.1979710
+},
+{
+  "type": "node",
+  "id": 540457716,
+  "lat": 57.4131194,
+  "lon": -6.2003702
+},
+{
+  "type": "node",
+  "id": 758200377,
+  "lat": 57.4136724,
+  "lon": -6.2020319
+},
+{
+  "type": "node",
+  "id": 758200381,
+  "lat": 57.4130587,
+  "lon": -6.2010519
+},
+{
+  "type": "node",
+  "id": 758225794,
+  "lat": 57.4137501,
+  "lon": -6.2022164,
+  "tags": {
+    "check_date:crossing": "2023-06-09",
+    "crossing": "traffic_signals",
+    "crossing:island": "no",
+    "crossing:markings": "dots",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1104607738,
+  "lat": 57.4139835,
+  "lon": -6.1996081
+},
+{
+  "type": "node",
+  "id": 1104607949,
+  "lat": 57.4140733,
+  "lon": -6.1996416
+},
+{
+  "type": "node",
+  "id": 1104608011,
+  "lat": 57.4143531,
+  "lon": -6.1997373
+},
+{
+  "type": "node",
+  "id": 1104608314,
+  "lat": 57.4132707,
+  "lon": -6.1992308
+},
+{
+  "type": "node",
+  "id": 1104608415,
+  "lat": 57.4140885,
+  "lon": -6.1998389
+},
+{
+  "type": "node",
+  "id": 1104608696,
+  "lat": 57.4142238,
+  "lon": -6.2003774
+},
+{
+  "type": "node",
+  "id": 1666468990,
+  "lat": 57.4132646,
+  "lon": -6.1994607
+},
+{
+  "type": "node",
+  "id": 3533848973,
+  "lat": 57.4127952,
+  "lon": -6.2009409
+},
+{
+  "type": "node",
+  "id": 3533848974,
+  "lat": 57.4123621,
+  "lon": -6.2010479
+},
+{
+  "type": "node",
+  "id": 3813326321,
+  "lat": 57.4130116,
+  "lon": -6.2010388,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 3870588833,
+  "lat": 57.4130456,
+  "lon": -6.2005728
+},
+{
+  "type": "node",
+  "id": 3870588835,
+  "lat": 57.4130710,
+  "lon": -6.1976286
+},
+{
+  "type": "node",
+  "id": 3870588838,
+  "lat": 57.4132077,
+  "lon": -6.1983649
+},
+{
+  "type": "node",
+  "id": 3870588840,
+  "lat": 57.4132648,
+  "lon": -6.1989400
+},
+{
+  "type": "node",
+  "id": 10840047435,
+  "lat": 57.4138136,
+  "lon": -6.2023690
+},
+{
+  "type": "node",
+  "id": 10967388588,
+  "lat": 57.4129566,
+  "lon": -6.2008087,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 10967388589,
+  "lat": 57.4128219,
+  "lon": -6.2010382
+},
+{
+  "type": "node",
+  "id": 10967467384,
+  "lat": 57.4126778,
+  "lon": -6.2010083,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10970836213,
+  "lat": 57.4137201,
+  "lon": -6.2021444,
+  "tags": {
+    "crossing": "no",
+    "highway": "traffic_signals",
+    "traffic_signals": "traffic_lights",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 10978601649,
+  "lat": 57.4135600,
+  "lon": -6.2018349
+},
+{
+  "type": "way",
+  "id": 60615714,
+  "nodes": [
+    34580611,
+    10967388589,
+    3813326321,
+    758200381
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "trunk_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "oneway": "yes",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "ref": "A87",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt",
+    "turn:lanes": "left"
+  }
+},
+{
+  "type": "way",
+  "id": 95224467,
+  "nodes": [
+    1104608696,
+    1104608415,
+    1104607949
+  ],
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30 mph",
+    "name": "Manse Lane",
+    "name:en": "Manse Lane",
+    "name:gd": "Bealach a' Mhansa",
+    "ref:GB:usrn": "84406300;84416485"
+  }
+},
+{
+  "type": "way",
+  "id": 95224481,
+  "nodes": [
+    1104608011,
+    1104607949,
+    1104607738,
+    1104608314
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "30 mph",
+    "name": "Manse Lane",
+    "name:en": "Manse Lane",
+    "name:gd": "Bealach a' Mhansa",
+    "ref:GB:usrn": "84405663",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154044480,
+  "nodes": [
+    32016261,
+    3870588833,
+    540457716,
+    35541858
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "name:en": "Bridge Road",
+    "name:gd": "Rathad na Drochaid",
+    "ref": "A855",
+    "ref:GB:usrn": "84406320;84407985",
+    "sidewalk:left": "yes",
+    "sidewalk:left:surface": "asphalt",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154044481,
+  "nodes": [
+    1666468990,
+    1104608314,
+    3870588840,
+    32016262,
+    3870588838,
+    291296494,
+    3870588835
+  ],
+  "tags": {
+    "check_date:cycleway": "2023-06-08",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Bridge Road",
+    "name:en": "Bridge Road",
+    "name:gd": "Rathad na Drochaid",
+    "ref": "A855",
+    "ref:GB:usrn": "84406320;84407985",
+    "sidewalk:left": "yes",
+    "sidewalk:left:surface": "asphalt",
+    "sidewalk:right": "separate",
+    "source:name": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 346940415,
+  "nodes": [
+    758200381,
+    10967388588,
+    32016261
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Dunvegan Road",
+    "name:en": "Dunvegan Road",
+    "name:gd": "Rathad Dhunbheagain",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84406339;84410792",
+    "sidewalk": "left",
+    "sidewalk:left:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 671288253,
+  "nodes": [
+    32016261,
+    3533848973,
+    34580611
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Viewfield Road",
+    "name:en": "Viewfield Road",
+    "name:gd": "Goirtean na Creige",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84405718;84410792",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1181178405,
+  "nodes": [
+    34580611,
+    10967467384,
+    3533848974
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Viewfield Road",
+    "name:en": "Viewfield Road",
+    "name:gd": "Goirtean na Creige",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84405718;84410792",
+    "sidewalk:both": "separate",
+    "sidewalk:right:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182207616,
+  "nodes": [
+    10840047435,
+    758225794,
+    10970836213,
+    758200377,
+    10978601649,
+    758200381
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:both": "no",
+    "foot": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxspeed:signals": "20 mph",
+    "name": "Dunvegan Road",
+    "name:en": "Dunvegan Road",
+    "name:gd": "Rathad Dhunbheagain",
+    "old_ref": "A850",
+    "operator": "Transport Scotland",
+    "operator:area": "North West",
+    "operator:wikidata": "Q7834896",
+    "ref": "A87",
+    "ref:GB:usrn": "84406339;84410792",
+    "sidewalk:left": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 9934768088,
+  "lat": 57.4131993,
+  "lon": -6.1998157
+},
+{
+  "type": "node",
+  "id": 10967388587,
+  "lat": 57.4132322,
+  "lon": -6.1994475
+},
+{
+  "type": "way",
+  "id": 1180923908,
+  "nodes": [
+    9934768088,
+    10967388587
+  ],
+  "tags": {
+    "bridge": "yes",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "yes",
+    "name": "Bridge Road",
+    "name:en": "Bridge Road",
+    "name:gd": "Rathad na Drochaid",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 35446614,
+  "lat": 57.4154182,
+  "lon": -6.1881047
+},
+{
+  "type": "node",
+  "id": 282344154,
+  "lat": 57.4160288,
+  "lon": -6.1883533
+},
+{
+  "type": "node",
+  "id": 282344160,
+  "lat": 57.4161771,
+  "lon": -6.1886447
+},
+{
+  "type": "node",
+  "id": 282344167,
+  "lat": 57.4163714,
+  "lon": -6.1891141
+},
+{
+  "type": "node",
+  "id": 282344173,
+  "lat": 57.4168772,
+  "lon": -6.1892041
+},
+{
+  "type": "node",
+  "id": 282344228,
+  "lat": 57.4165054,
+  "lon": -6.1858048
+},
+{
+  "type": "node",
+  "id": 846273429,
+  "lat": 57.4162508,
+  "lon": -6.1881983
+},
+{
+  "type": "node",
+  "id": 846273452,
+  "lat": 57.4168706,
+  "lon": -6.1885358
+},
+{
+  "type": "node",
+  "id": 1104607741,
+  "lat": 57.4167948,
+  "lon": -6.1867261
+},
+{
+  "type": "node",
+  "id": 3198643631,
+  "lat": 57.4160953,
+  "lon": -6.1884053
+},
+{
+  "type": "node",
+  "id": 3198643632,
+  "lat": 57.4160949,
+  "lon": -6.1882218
+},
+{
+  "type": "node",
+  "id": 3198643641,
+  "lat": 57.4162519,
+  "lon": -6.1889438
+},
+{
+  "type": "node",
+  "id": 3198643761,
+  "lat": 57.4165549,
+  "lon": -6.1891785
+},
+{
+  "type": "node",
+  "id": 10822357186,
+  "lat": 57.4166089,
+  "lon": -6.1860766
+},
+{
+  "type": "node",
+  "id": 10822357189,
+  "lat": 57.4167081,
+  "lon": -6.1864183
+},
+{
+  "type": "node",
+  "id": 10822357198,
+  "lat": 57.4165403,
+  "lon": -6.1858553
+},
+{
+  "type": "node",
+  "id": 10822357285,
+  "lat": 57.4163103,
+  "lon": -6.1890625
+},
+{
+  "type": "node",
+  "id": 10822357297,
+  "lat": 57.4161319,
+  "lon": -6.1884751
+},
+{
+  "type": "node",
+  "id": 10822357345,
+  "lat": 57.4168027,
+  "lon": -6.1885237
+},
+{
+  "type": "node",
+  "id": 10822357359,
+  "lat": 57.4162886,
+  "lon": -6.1882049
+},
+{
+  "type": "node",
+  "id": 10822357380,
+  "lat": 57.4160492,
+  "lon": -6.1882599
+},
+{
+  "type": "node",
+  "id": 10822357381,
+  "lat": 57.4163251,
+  "lon": -6.1882263
+},
+{
+  "type": "node",
+  "id": 10822357382,
+  "lat": 57.4160355,
+  "lon": -6.1882988
+},
+{
+  "type": "node",
+  "id": 10822357384,
+  "lat": 57.4156447,
+  "lon": -6.1882156
+},
+{
+  "type": "node",
+  "id": 10822357385,
+  "lat": 57.4154541,
+  "lon": -6.1881512
+},
+{
+  "type": "way",
+  "id": 25883411,
+  "nodes": [
+    35446614,
+    10822357385,
+    10822357384,
+    282344154,
+    3198643631,
+    10822357297,
+    282344160,
+    3198643641,
+    10822357285,
+    282344167,
+    3198643761,
+    282344173
+  ],
+  "tags": {
+    "highway": "residential",
+    "highway_authority_ref": "U4880",
+    "maxspeed": "30 mph",
+    "name": "Budhmor Place",
+    "name:gd": "Ionad a' Bhugha Mhòir",
+    "source:ref": "official",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class"
+  }
+},
+{
+  "type": "way",
+  "id": 71034068,
+  "nodes": [
+    846273452,
+    10822357345,
+    10822357381,
+    10822357359,
+    846273429,
+    3198643632,
+    10822357380,
+    10822357382,
+    282344154
+  ],
+  "tags": {
+    "highway": "residential",
+    "highway_authority_ref": "U4900",
+    "maxspeed": "30 mph",
+    "name": "Budhmor Place",
+    "source:ref": "official",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class"
+  }
+},
+{
+  "type": "way",
+  "id": 95224474,
+  "nodes": [
+    1104607741,
+    10822357189,
+    10822357186,
+    10822357198,
+    282344228
+  ],
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30 mph",
+    "name": "Coolin Hills Gardens",
+    "source": "OS_OpenData_StreetView"
+  }
+},
+{
+  "type": "node",
+  "id": 1688679551,
+  "lat": 57.4159779,
+  "lon": -6.1870379
+},
+{
+  "type": "node",
+  "id": 2152792066,
+  "lat": 57.4160149,
+  "lon": -6.1871501
+},
+{
+  "type": "way",
+  "id": 205301560,
+  "nodes": [
+    2152792066,
+    1688679551
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U4815",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Scorrybreac Road",
+    "source": "GPS",
+    "source:name": "OS_OpenData_StreetView",
+    "source:ref": "official",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10966082200,
+  "lat": 57.4147571,
+  "lon": -6.1819486
+},
+{
+  "type": "node",
+  "id": 10966082201,
+  "lat": 57.4147820,
+  "lon": -6.1820056
+},
+{
+  "type": "way",
+  "id": 1180742572,
+  "nodes": [
+    10966082201,
+    10966082200
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "highway": "path",
+    "surface": "compacted"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1000014985,
+  "lat": 57.4297721,
+  "lon": -6.1830082
+},
+{
+  "type": "node",
+  "id": 1803250886,
+  "lat": 57.4269602,
+  "lon": -6.1867696
+},
+{
+  "type": "node",
+  "id": 1803250891,
+  "lat": 57.4275168,
+  "lon": -6.1867564
+},
+{
+  "type": "node",
+  "id": 1803250898,
+  "lat": 57.4281339,
+  "lon": -6.1867652
+},
+{
+  "type": "node",
+  "id": 1803250907,
+  "lat": 57.4285865,
+  "lon": -6.1865741
+},
+{
+  "type": "node",
+  "id": 1803250933,
+  "lat": 57.4290549,
+  "lon": -6.1862096
+},
+{
+  "type": "node",
+  "id": 1803250936,
+  "lat": 57.4291831,
+  "lon": -6.1860068
+},
+{
+  "type": "node",
+  "id": 1803250939,
+  "lat": 57.4292986,
+  "lon": -6.1857040
+},
+{
+  "type": "node",
+  "id": 1803250942,
+  "lat": 57.4294310,
+  "lon": -6.1851777
+},
+{
+  "type": "node",
+  "id": 1803250943,
+  "lat": 57.4294689,
+  "lon": -6.1846109,
+  "tags": {
+    "barrier": "cattle_grid"
+  }
+},
+{
+  "type": "node",
+  "id": 1803250944,
+  "lat": 57.4294942,
+  "lon": -6.1842381
+},
+{
+  "type": "node",
+  "id": 1803250945,
+  "lat": 57.4296419,
+  "lon": -6.1834234
+},
+{
+  "type": "node",
+  "id": 1803250950,
+  "lat": 57.4303356,
+  "lon": -6.1825338
+},
+{
+  "type": "node",
+  "id": 1803251011,
+  "lat": 57.4317180,
+  "lon": -6.1819656
+},
+{
+  "type": "node",
+  "id": 1803251040,
+  "lat": 57.4328067,
+  "lon": -6.1818262
+},
+{
+  "type": "node",
+  "id": 1803251082,
+  "lat": 57.4374063,
+  "lon": -6.1826201
+},
+{
+  "type": "node",
+  "id": 1803251106,
+  "lat": 57.4387893,
+  "lon": -6.1819174
+},
+{
+  "type": "node",
+  "id": 1803251108,
+  "lat": 57.4394706,
+  "lon": -6.1819656
+},
+{
+  "type": "node",
+  "id": 1803251119,
+  "lat": 57.4400278,
+  "lon": -6.1823197
+},
+{
+  "type": "node",
+  "id": 2152792377,
+  "lat": 57.4296661,
+  "lon": -6.1833088
+},
+{
+  "type": "node",
+  "id": 2152792380,
+  "lat": 57.4297117,
+  "lon": -6.1831516
+},
+{
+  "type": "node",
+  "id": 2333633201,
+  "lat": 57.4295493,
+  "lon": -6.1838110
+},
+{
+  "type": "node",
+  "id": 2333633202,
+  "lat": 57.4300547,
+  "lon": -6.1827059
+},
+{
+  "type": "node",
+  "id": 2333634081,
+  "lat": 57.4313628,
+  "lon": -6.1820729
+},
+{
+  "type": "node",
+  "id": 2333634083,
+  "lat": 57.4322147,
+  "lon": -6.1818905
+},
+{
+  "type": "node",
+  "id": 2333636533,
+  "lat": 57.4353419,
+  "lon": -6.1822714
+},
+{
+  "type": "node",
+  "id": 2333636534,
+  "lat": 57.4377643,
+  "lon": -6.1826094,
+  "tags": {
+    "highway": "passing_place",
+    "source": "Mapbox Satellite"
+  }
+},
+{
+  "type": "node",
+  "id": 2333636535,
+  "lat": 57.4382927,
+  "lon": -6.1821909
+},
+{
+  "type": "node",
+  "id": 2333636536,
+  "lat": 57.4379549,
+  "lon": -6.1824860
+},
+{
+  "type": "node",
+  "id": 2333636537,
+  "lat": 57.4390636,
+  "lon": -6.1818483
+},
+{
+  "type": "node",
+  "id": 2333636538,
+  "lat": 57.4401837,
+  "lon": -6.1824055
+},
+{
+  "type": "node",
+  "id": 3809342312,
+  "lat": 57.4298623,
+  "lon": -6.1828683
+},
+{
+  "type": "node",
+  "id": 3809342315,
+  "lat": 57.4389178,
+  "lon": -6.1818620
+},
+{
+  "type": "node",
+  "id": 3809342319,
+  "lat": 57.4396676,
+  "lon": -6.1820571
+},
+{
+  "type": "node",
+  "id": 3813326326,
+  "lat": 57.4271140,
+  "lon": -6.1867258
+},
+{
+  "type": "node",
+  "id": 3813326327,
+  "lat": 57.4279423,
+  "lon": -6.1867925
+},
+{
+  "type": "node",
+  "id": 3813326328,
+  "lat": 57.4325886,
+  "lon": -6.1818499,
+  "tags": {
+    "highway": "passing_place",
+    "source": "Mapbox Satellite"
+  }
+},
+{
+  "type": "node",
+  "id": 3813326329,
+  "lat": 57.4334148,
+  "lon": -6.1819330,
+  "tags": {
+    "highway": "passing_place",
+    "source": "Mapbox Satellite"
+  }
+},
+{
+  "type": "node",
+  "id": 3813326330,
+  "lat": 57.4343838,
+  "lon": -6.1821031,
+  "tags": {
+    "highway": "passing_place",
+    "source": "Mapbox Satellite"
+  }
+},
+{
+  "type": "node",
+  "id": 3813326331,
+  "lat": 57.4361806,
+  "lon": -6.1824131,
+  "tags": {
+    "highway": "passing_place",
+    "source": "Mapbox Satellite"
+  }
+},
+{
+  "type": "node",
+  "id": 6366227456,
+  "lat": 57.4266189,
+  "lon": -6.1868910
+},
+{
+  "type": "way",
+  "id": 205301526,
+  "nodes": [
+    2152792377,
+    1803250945,
+    2333633201,
+    1803250944,
+    1803250943,
+    1803250942,
+    1803250939,
+    1803250936,
+    1803250933,
+    1803250907,
+    1803250898,
+    3813326327,
+    1803250891,
+    3813326326,
+    1803250886,
+    6366227456
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "ref": "A855",
+    "source": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 377555272,
+  "nodes": [
+    2333636538,
+    1803251119,
+    3809342319,
+    1803251108,
+    2333636537,
+    3809342315,
+    1803251106,
+    2333636535,
+    2333636536,
+    2333636534,
+    1803251082,
+    3813326331,
+    2333636533,
+    3813326330,
+    3813326329,
+    1803251040,
+    3813326328,
+    2333634083,
+    1803251011,
+    2333634081,
+    1803250950,
+    2333633202,
+    3809342312,
+    1000014985,
+    2152792380
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "ref": "A855",
+    "source": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 2152792377,
+  "lat": 57.4296661,
+  "lon": -6.1833088
+},
+{
+  "type": "node",
+  "id": 2152792380,
+  "lat": 57.4297117,
+  "lon": -6.1831516
+},
+{
+  "type": "way",
+  "id": 205301525,
+  "nodes": [
+    2152792380,
+    2152792377
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "ref": "A855",
+    "source": "OS_OpenData_StreetView",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 35450920,
+  "lat": 57.4754385,
+  "lon": -6.1807917
+},
+{
+  "type": "node",
+  "id": 35450921,
+  "lat": 57.4762602,
+  "lon": -6.1801407
+},
+{
+  "type": "node",
+  "id": 35450922,
+  "lat": 57.4766802,
+  "lon": -6.1798237
+},
+{
+  "type": "node",
+  "id": 35450923,
+  "lat": 57.4772158,
+  "lon": -6.1797501
+},
+{
+  "type": "node",
+  "id": 35450924,
+  "lat": 57.4779523,
+  "lon": -6.1800275
+},
+{
+  "type": "node",
+  "id": 35450925,
+  "lat": 57.4788165,
+  "lon": -6.1802539
+},
+{
+  "type": "node",
+  "id": 35450926,
+  "lat": 57.4792817,
+  "lon": -6.1802845
+},
+{
+  "type": "node",
+  "id": 35450927,
+  "lat": 57.4795449,
+  "lon": -6.1801821
+},
+{
+  "type": "node",
+  "id": 35450928,
+  "lat": 57.4800056,
+  "lon": -6.1798093
+},
+{
+  "type": "node",
+  "id": 35450929,
+  "lat": 57.4803634,
+  "lon": -6.1792995
+},
+{
+  "type": "node",
+  "id": 35450930,
+  "lat": 57.4811536,
+  "lon": -6.1783500
+},
+{
+  "type": "node",
+  "id": 35450931,
+  "lat": 57.4819784,
+  "lon": -6.1774327
+},
+{
+  "type": "node",
+  "id": 35450932,
+  "lat": 57.4831261,
+  "lon": -6.1763706
+},
+{
+  "type": "node",
+  "id": 35450933,
+  "lat": 57.4839370,
+  "lon": -6.1757403
+},
+{
+  "type": "node",
+  "id": 35450934,
+  "lat": 57.4851014,
+  "lon": -6.1749674
+},
+{
+  "type": "node",
+  "id": 35450935,
+  "lat": 57.4863898,
+  "lon": -6.1742833
+},
+{
+  "type": "node",
+  "id": 35450936,
+  "lat": 57.4873252,
+  "lon": -6.1738182
+},
+{
+  "type": "node",
+  "id": 35450937,
+  "lat": 57.4876761,
+  "lon": -6.1735918
+},
+{
+  "type": "node",
+  "id": 35450938,
+  "lat": 57.4881577,
+  "lon": -6.1732055
+},
+{
+  "type": "node",
+  "id": 35450939,
+  "lat": 57.4887624,
+  "lon": -6.1727537
+},
+{
+  "type": "node",
+  "id": 35450940,
+  "lat": 57.4896006,
+  "lon": -6.1722816
+},
+{
+  "type": "node",
+  "id": 35450941,
+  "lat": 57.4902653,
+  "lon": -6.1720101
+},
+{
+  "type": "node",
+  "id": 35450942,
+  "lat": 57.4910811,
+  "lon": -6.1717089
+},
+{
+  "type": "node",
+  "id": 35450943,
+  "lat": 57.4917493,
+  "lon": -6.1714124
+},
+{
+  "type": "node",
+  "id": 491711931,
+  "lat": 57.4797152,
+  "lon": -6.1800893
+},
+{
+  "type": "node",
+  "id": 1000035404,
+  "lat": 57.4758950,
+  "lon": -6.1804634
+},
+{
+  "type": "node",
+  "id": 1000035405,
+  "lat": 57.4769588,
+  "lon": -6.1797458
+},
+{
+  "type": "node",
+  "id": 1000035406,
+  "lat": 57.4790718,
+  "lon": -6.1803037
+},
+{
+  "type": "node",
+  "id": 1311798388,
+  "lat": 57.4852866,
+  "lon": -6.1748691
+},
+{
+  "type": "node",
+  "id": 1311798410,
+  "lat": 57.4860552,
+  "lon": -6.1744610
+},
+{
+  "type": "node",
+  "id": 2333642948,
+  "lat": 57.4891812,
+  "lon": -6.1724814
+},
+{
+  "type": "node",
+  "id": 2993819881,
+  "lat": 57.4794188,
+  "lon": -6.1802344
+},
+{
+  "type": "way",
+  "id": 86154271,
+  "nodes": [
+    35450920,
+    1000035404,
+    35450921,
+    35450922,
+    1000035405,
+    35450923,
+    35450924,
+    35450925,
+    1000035406,
+    35450926
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "ref": "A855",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 936925214,
+  "nodes": [
+    2993819881,
+    35450927,
+    491711931,
+    35450928,
+    35450929,
+    35450930,
+    35450931,
+    35450932,
+    35450933,
+    35450934,
+    1311798388,
+    1311798410,
+    35450935,
+    35450936,
+    35450937,
+    35450938,
+    35450939,
+    2333642948,
+    35450940,
+    35450941,
+    35450942,
+    35450943
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "ref": "A855",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 35450926,
+  "lat": 57.4792817,
+  "lon": -6.1802845
+},
+{
+  "type": "node",
+  "id": 2993819881,
+  "lat": 57.4794188,
+  "lon": -6.1802344
+},
+{
+  "type": "way",
+  "id": 295647649,
+  "nodes": [
+    35450926,
+    2993819881
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "ref": "A855",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

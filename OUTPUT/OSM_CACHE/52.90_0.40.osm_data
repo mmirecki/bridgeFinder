@@ -1,0 +1,1957 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:18:37Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 692817780,
+  "lat": 52.9036744,
+  "lon": 0.4704781
+},
+{
+  "type": "node",
+  "id": 703580454,
+  "lat": 52.9036779,
+  "lon": 0.4697606
+},
+{
+  "type": "node",
+  "id": 703580456,
+  "lat": 52.9036775,
+  "lon": 0.4703296
+},
+{
+  "type": "node",
+  "id": 1213800160,
+  "lat": 52.9036829,
+  "lon": 0.4700429
+},
+{
+  "type": "node",
+  "id": 2806104941,
+  "lat": 52.9036652,
+  "lon": 0.4698730
+},
+{
+  "type": "node",
+  "id": 4037173529,
+  "lat": 52.9036682,
+  "lon": 0.4717052
+},
+{
+  "type": "node",
+  "id": 4037173551,
+  "lat": 52.9036650,
+  "lon": 0.4721091
+},
+{
+  "type": "node",
+  "id": 7795155981,
+  "lat": 52.9036736,
+  "lon": 0.4705099
+},
+{
+  "type": "node",
+  "id": 11559474815,
+  "lat": 52.9036706,
+  "lon": 0.4712879
+},
+{
+  "type": "way",
+  "id": 176940251,
+  "nodes": [
+    703580454,
+    2806104941,
+    1213800160,
+    703580456
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C105",
+    "maxspeed": "30 mph",
+    "name": "South Beach Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1258977402,
+  "nodes": [
+    4037173551,
+    4037173529,
+    11559474815,
+    7795155981,
+    692817780
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C105",
+    "maxspeed": "30 mph",
+    "name": "South Beach Road",
+    "parking:lane:left": "no_parking",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 692817780,
+  "lat": 52.9036744,
+  "lon": 0.4704781
+},
+{
+  "type": "node",
+  "id": 703580456,
+  "lat": 52.9036775,
+  "lon": 0.4703296
+},
+{
+  "type": "way",
+  "id": 56054066,
+  "nodes": [
+    703580456,
+    692817780
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C105",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "South Beach Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 485591876,
+  "lat": 52.9089521,
+  "lon": 0.4728039
+},
+{
+  "type": "node",
+  "id": 485591877,
+  "lat": 52.9087692,
+  "lon": 0.4751200
+},
+{
+  "type": "node",
+  "id": 485591879,
+  "lat": 52.9086632,
+  "lon": 0.4768097
+},
+{
+  "type": "node",
+  "id": 485591880,
+  "lat": 52.9086292,
+  "lon": 0.4776805
+},
+{
+  "type": "node",
+  "id": 485591881,
+  "lat": 52.9086276,
+  "lon": 0.4795232
+},
+{
+  "type": "node",
+  "id": 692817611,
+  "lat": 52.9086295,
+  "lon": 0.4787901
+},
+{
+  "type": "node",
+  "id": 717927637,
+  "lat": 52.9086256,
+  "lon": 0.4801166
+},
+{
+  "type": "node",
+  "id": 717927685,
+  "lat": 52.9086333,
+  "lon": 0.4784324
+},
+{
+  "type": "node",
+  "id": 717927729,
+  "lat": 52.9086338,
+  "lon": 0.4780450
+},
+{
+  "type": "node",
+  "id": 1210205372,
+  "lat": 52.9089426,
+  "lon": 0.4729941
+},
+{
+  "type": "node",
+  "id": 1210205374,
+  "lat": 52.9089240,
+  "lon": 0.4732087
+},
+{
+  "type": "node",
+  "id": 1210212944,
+  "lat": 52.9089880,
+  "lon": 0.4751638
+},
+{
+  "type": "node",
+  "id": 1210216638,
+  "lat": 52.9091947,
+  "lon": 0.4741049
+},
+{
+  "type": "node",
+  "id": 1210216659,
+  "lat": 52.9089049,
+  "lon": 0.4734694
+},
+{
+  "type": "node",
+  "id": 1210216663,
+  "lat": 52.9102045,
+  "lon": 0.4753873
+},
+{
+  "type": "node",
+  "id": 1210216708,
+  "lat": 52.9093117,
+  "lon": 0.4741494
+},
+{
+  "type": "node",
+  "id": 1210224164,
+  "lat": 52.9088863,
+  "lon": 0.4736840
+},
+{
+  "type": "node",
+  "id": 1213800198,
+  "lat": 52.9089080,
+  "lon": 0.4726690
+},
+{
+  "type": "node",
+  "id": 1801185623,
+  "lat": 52.9086543,
+  "lon": 0.4769500
+},
+{
+  "type": "node",
+  "id": 3935477485,
+  "lat": 52.9086569,
+  "lon": 0.4769090
+},
+{
+  "type": "node",
+  "id": 4024367280,
+  "lat": 52.9089166,
+  "lon": 0.4727684
+},
+{
+  "type": "node",
+  "id": 4024367288,
+  "lat": 52.9089324,
+  "lon": 0.4727915
+},
+{
+  "type": "node",
+  "id": 4024380090,
+  "lat": 52.9089185,
+  "lon": 0.4726410
+},
+{
+  "type": "node",
+  "id": 4024380094,
+  "lat": 52.9089065,
+  "lon": 0.4727377
+},
+{
+  "type": "node",
+  "id": 4024380096,
+  "lat": 52.9090138,
+  "lon": 0.4727591
+},
+{
+  "type": "node",
+  "id": 4024380098,
+  "lat": 52.9089699,
+  "lon": 0.4728050
+},
+{
+  "type": "node",
+  "id": 4024380102,
+  "lat": 52.9089871,
+  "lon": 0.4727973
+},
+{
+  "type": "node",
+  "id": 4024380106,
+  "lat": 52.9090228,
+  "lon": 0.4727026
+},
+{
+  "type": "node",
+  "id": 4024380107,
+  "lat": 52.9089528,
+  "lon": 0.4726092
+},
+{
+  "type": "node",
+  "id": 4024380112,
+  "lat": 52.9090138,
+  "lon": 0.4726543
+},
+{
+  "type": "node",
+  "id": 4024380115,
+  "lat": 52.9090022,
+  "lon": 0.4727815
+},
+{
+  "type": "node",
+  "id": 4024380123,
+  "lat": 52.9090209,
+  "lon": 0.4727320
+},
+{
+  "type": "node",
+  "id": 4024380126,
+  "lat": 52.9089916,
+  "lon": 0.4726197
+},
+{
+  "type": "node",
+  "id": 4024380130,
+  "lat": 52.9089341,
+  "lon": 0.4726203
+},
+{
+  "type": "node",
+  "id": 4024380133,
+  "lat": 52.9089727,
+  "lon": 0.4726090
+},
+{
+  "type": "node",
+  "id": 4024380139,
+  "lat": 52.9089035,
+  "lon": 0.4727031
+},
+{
+  "type": "node",
+  "id": 4909135034,
+  "lat": 52.9097882,
+  "lon": 0.4743523,
+  "tags": {
+    "traffic_calming": "bump"
+  }
+},
+{
+  "type": "node",
+  "id": 4909135035,
+  "lat": 52.9102951,
+  "lon": 0.4745860,
+  "tags": {
+    "traffic_calming": "bump"
+  }
+},
+{
+  "type": "node",
+  "id": 7916324492,
+  "lat": 52.9091662,
+  "lon": 0.4743191
+},
+{
+  "type": "node",
+  "id": 7916324493,
+  "lat": 52.9090450,
+  "lon": 0.4744996
+},
+{
+  "type": "node",
+  "id": 7916324494,
+  "lat": 52.9089363,
+  "lon": 0.4757434
+},
+{
+  "type": "node",
+  "id": 7916324495,
+  "lat": 52.9088904,
+  "lon": 0.4762557
+},
+{
+  "type": "node",
+  "id": 7916324496,
+  "lat": 52.9091478,
+  "lon": 0.4743658
+},
+{
+  "type": "node",
+  "id": 7916324497,
+  "lat": 52.9091258,
+  "lon": 0.4743958
+},
+{
+  "type": "node",
+  "id": 7916324498,
+  "lat": 52.9090976,
+  "lon": 0.4744174
+},
+{
+  "type": "node",
+  "id": 7916324499,
+  "lat": 52.9090701,
+  "lon": 0.4744433
+},
+{
+  "type": "node",
+  "id": 7916324500,
+  "lat": 52.9090557,
+  "lon": 0.4744674
+},
+{
+  "type": "node",
+  "id": 7916324501,
+  "lat": 52.9090380,
+  "lon": 0.4746014
+},
+{
+  "type": "node",
+  "id": 7916324518,
+  "lat": 52.9102158,
+  "lon": 0.4752874
+},
+{
+  "type": "way",
+  "id": 40265643,
+  "nodes": [
+    1213800198,
+    4024380090,
+    4024380130,
+    4024380107,
+    4024380133,
+    4024380126
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "junction": "roundabout",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 104963475,
+  "nodes": [
+    1210205374,
+    1210216659,
+    1210224164,
+    485591877,
+    485591879,
+    3935477485,
+    1801185623,
+    485591880,
+    717927729,
+    717927685,
+    692817611,
+    485591881,
+    717927637
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 104964267,
+  "nodes": [
+    1210216638,
+    1210216708,
+    4909135034,
+    4909135035,
+    7916324518,
+    1210216663
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "living_street",
+    "maxspeed": "5 mph",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 399741973,
+  "nodes": [
+    485591876,
+    1210205372
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 848348270,
+  "nodes": [
+    1210216638,
+    7916324492,
+    7916324496,
+    7916324497,
+    7916324498,
+    7916324499,
+    7916324500,
+    7916324493,
+    7916324501,
+    1210212944,
+    7916324494,
+    7916324495
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "living_street",
+    "source": "maxar"
+  }
+},
+{
+  "type": "way",
+  "id": 1302482795,
+  "nodes": [
+    4024380106,
+    4024380123,
+    4024380096,
+    4024380115,
+    4024380102,
+    4024380098,
+    485591876
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "junction": "roundabout",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 1328377215,
+  "nodes": [
+    4024380126,
+    4024380112,
+    4024380106
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "junction": "roundabout",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 1328377216,
+  "nodes": [
+    485591876,
+    4024367288,
+    4024367280,
+    4024380094,
+    4024380139,
+    1213800198
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "junction": "roundabout",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1210205372,
+  "lat": 52.9089426,
+  "lon": 0.4729941
+},
+{
+  "type": "node",
+  "id": 1210205374,
+  "lat": 52.9089240,
+  "lon": 0.4732087
+},
+{
+  "type": "way",
+  "id": 104963479,
+  "nodes": [
+    1210205372,
+    1210205374
+  ],
+  "tags": {
+    "abutters": "residential",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Jubilee Road",
+    "source": "OS_OpenData_Locator",
+    "source:highway_authority_ref": "foi_request",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 485586719,
+  "lat": 52.9133613,
+  "lon": 0.4985462
+},
+{
+  "type": "node",
+  "id": 485586720,
+  "lat": 52.9131785,
+  "lon": 0.4983901
+},
+{
+  "type": "node",
+  "id": 485586721,
+  "lat": 52.9122476,
+  "lon": 0.4978796
+},
+{
+  "type": "node",
+  "id": 485586722,
+  "lat": 52.9116619,
+  "lon": 0.4975490
+},
+{
+  "type": "node",
+  "id": 485586723,
+  "lat": 52.9111961,
+  "lon": 0.4970716
+},
+{
+  "type": "node",
+  "id": 485587774,
+  "lat": 52.9103105,
+  "lon": 0.4964476
+},
+{
+  "type": "node",
+  "id": 717927558,
+  "lat": 52.9113798,
+  "lon": 0.4972286
+},
+{
+  "type": "node",
+  "id": 717927597,
+  "lat": 52.9125666,
+  "lon": 0.4980867
+},
+{
+  "type": "node",
+  "id": 717927606,
+  "lat": 52.9124008,
+  "lon": 0.4979823
+},
+{
+  "type": "node",
+  "id": 717928073,
+  "lat": 52.9128995,
+  "lon": 0.4982771
+},
+{
+  "type": "node",
+  "id": 3935477499,
+  "lat": 52.9114658,
+  "lon": 0.4973170
+},
+{
+  "type": "node",
+  "id": 4653493934,
+  "lat": 52.9132810,
+  "lon": 0.4984521
+},
+{
+  "type": "node",
+  "id": 5034885241,
+  "lat": 52.9127843,
+  "lon": 0.4982190
+},
+{
+  "type": "node",
+  "id": 7048150292,
+  "lat": 52.9135046,
+  "lon": 0.4988157
+},
+{
+  "type": "node",
+  "id": 8125950869,
+  "lat": 52.9107028,
+  "lon": 0.4967012
+},
+{
+  "type": "node",
+  "id": 11390250064,
+  "lat": 52.9103438,
+  "lon": 0.4964691,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "way",
+  "id": 57870023,
+  "nodes": [
+    485586723,
+    8125950869,
+    11390250064,
+    485587774
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Hunstanton Road",
+    "salting:ref": "KLY001",
+    "source": "GPS",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254550694,
+  "nodes": [
+    7048150292,
+    485586719,
+    4653493934,
+    485586720,
+    717928073,
+    5034885241,
+    717927597,
+    717927606,
+    485586721,
+    485586722,
+    3935477499,
+    717927558
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Hunstanton Road",
+    "salting:ref": "KLY001",
+    "source": "GPS",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 485586723,
+  "lat": 52.9111961,
+  "lon": 0.4970716
+},
+{
+  "type": "node",
+  "id": 717927558,
+  "lat": 52.9113798,
+  "lon": 0.4972286
+},
+{
+  "type": "way",
+  "id": 57870022,
+  "nodes": [
+    717927558,
+    485586723
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "layer": "1",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Hunstanton Road",
+    "salting:ref": "KLY001",
+    "source": "GPS",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 485586719,
+  "lat": 52.9133613,
+  "lon": 0.4985462
+},
+{
+  "type": "node",
+  "id": 485586720,
+  "lat": 52.9131785,
+  "lon": 0.4983901
+},
+{
+  "type": "node",
+  "id": 485586721,
+  "lat": 52.9122476,
+  "lon": 0.4978796
+},
+{
+  "type": "node",
+  "id": 485586722,
+  "lat": 52.9116619,
+  "lon": 0.4975490
+},
+{
+  "type": "node",
+  "id": 485586723,
+  "lat": 52.9111961,
+  "lon": 0.4970716
+},
+{
+  "type": "node",
+  "id": 485587774,
+  "lat": 52.9103105,
+  "lon": 0.4964476
+},
+{
+  "type": "node",
+  "id": 717927558,
+  "lat": 52.9113798,
+  "lon": 0.4972286
+},
+{
+  "type": "node",
+  "id": 717927597,
+  "lat": 52.9125666,
+  "lon": 0.4980867
+},
+{
+  "type": "node",
+  "id": 717927606,
+  "lat": 52.9124008,
+  "lon": 0.4979823
+},
+{
+  "type": "node",
+  "id": 717928073,
+  "lat": 52.9128995,
+  "lon": 0.4982771
+},
+{
+  "type": "node",
+  "id": 3935477499,
+  "lat": 52.9114658,
+  "lon": 0.4973170
+},
+{
+  "type": "node",
+  "id": 4653493934,
+  "lat": 52.9132810,
+  "lon": 0.4984521
+},
+{
+  "type": "node",
+  "id": 5034885241,
+  "lat": 52.9127843,
+  "lon": 0.4982190
+},
+{
+  "type": "node",
+  "id": 7048150292,
+  "lat": 52.9135046,
+  "lon": 0.4988157
+},
+{
+  "type": "node",
+  "id": 8125950869,
+  "lat": 52.9107028,
+  "lon": 0.4967012
+},
+{
+  "type": "node",
+  "id": 11390250064,
+  "lat": 52.9103438,
+  "lon": 0.4964691,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "way",
+  "id": 57870023,
+  "nodes": [
+    485586723,
+    8125950869,
+    11390250064,
+    485587774
+  ],
+  "tags": {
+    "abutters": "residential",
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Hunstanton Road",
+    "salting:ref": "KLY001",
+    "source": "GPS",
+    "source:highway_authority_ref": "foi_request"
+  }
+},
+{
+  "type": "way",
+  "id": 254550694,
+  "nodes": [
+    7048150292,
+    485586719,
+    4653493934,
+    485586720,
+    717928073,
+    5034885241,
+    717927597,
+    717927606,
+    485586721,
+    485586722,
+    3935477499,
+    717927558
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "highway_authority_ref": "C104",
+    "lanes": "2",
+    "maintenance": "salting",
+    "maxspeed": "30 mph",
+    "name": "Hunstanton Road",
+    "salting:ref": "KLY001",
+    "source": "GPS",
+    "source:highway_authority_ref": "foi_request",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 3935477500,
+  "lat": 52.9115244,
+  "lon": 0.4966761
+},
+{
+  "type": "node",
+  "id": 10095730755,
+  "lat": 52.9115423,
+  "lon": 0.4964755
+},
+{
+  "type": "way",
+  "id": 1103233201,
+  "nodes": [
+    3935477500,
+    10095730755
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4713816498,
+  "lat": 52.9181885,
+  "lon": 0.4888802
+},
+{
+  "type": "node",
+  "id": 4713816516,
+  "lat": 52.9182718,
+  "lon": 0.4888854
+},
+{
+  "type": "way",
+  "id": 478123222,
+  "nodes": [
+    4713816498,
+    4713816516
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4713816509,
+  "lat": 52.9179095,
+  "lon": 0.4910349
+},
+{
+  "type": "node",
+  "id": 4713816514,
+  "lat": 52.9178449,
+  "lon": 0.4909754
+},
+{
+  "type": "way",
+  "id": 478123231,
+  "nodes": [
+    4713816514,
+    4713816509
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4713816496,
+  "lat": 52.9178082,
+  "lon": 0.4863635
+},
+{
+  "type": "node",
+  "id": 4713816512,
+  "lat": 52.9178974,
+  "lon": 0.4863842
+},
+{
+  "type": "way",
+  "id": 478123235,
+  "nodes": [
+    4713816496,
+    4713816512
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4713816505,
+  "lat": 52.9207015,
+  "lon": 0.4928534
+},
+{
+  "type": "node",
+  "id": 4713816518,
+  "lat": 52.9207206,
+  "lon": 0.4927220
+},
+{
+  "type": "way",
+  "id": 478123229,
+  "nodes": [
+    4713816518,
+    4713816505
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5055602291,
+  "lat": 52.9255762,
+  "lon": 0.4948352
+},
+{
+  "type": "node",
+  "id": 5055602310,
+  "lat": 52.9245643,
+  "lon": 0.4936190
+},
+{
+  "type": "node",
+  "id": 5055602311,
+  "lat": 52.9251154,
+  "lon": 0.4932678
+},
+{
+  "type": "node",
+  "id": 5055602318,
+  "lat": 52.9231979,
+  "lon": 0.4956696
+},
+{
+  "type": "node",
+  "id": 5055604028,
+  "lat": 52.9230038,
+  "lon": 0.4961581
+},
+{
+  "type": "node",
+  "id": 5055604034,
+  "lat": 52.9254636,
+  "lon": 0.4941862
+},
+{
+  "type": "node",
+  "id": 5055604047,
+  "lat": 52.9238905,
+  "lon": 0.4952166
+},
+{
+  "type": "node",
+  "id": 5055604081,
+  "lat": 52.9229670,
+  "lon": 0.4969013
+},
+{
+  "type": "node",
+  "id": 5055604104,
+  "lat": 52.9240773,
+  "lon": 0.4947665
+},
+{
+  "type": "node",
+  "id": 5843744589,
+  "lat": 52.9250497,
+  "lon": 0.4932582
+},
+{
+  "type": "node",
+  "id": 5843744591,
+  "lat": 52.9234865,
+  "lon": 0.4954412
+},
+{
+  "type": "node",
+  "id": 5843744594,
+  "lat": 52.9252306,
+  "lon": 0.4934306
+},
+{
+  "type": "node",
+  "id": 5843744600,
+  "lat": 52.9229675,
+  "lon": 0.4964599
+},
+{
+  "type": "node",
+  "id": 5843744622,
+  "lat": 52.9247262,
+  "lon": 0.4934786
+},
+{
+  "type": "node",
+  "id": 5843744623,
+  "lat": 52.9239906,
+  "lon": 0.4949886
+},
+{
+  "type": "node",
+  "id": 5843744625,
+  "lat": 52.9233328,
+  "lon": 0.4955185
+},
+{
+  "type": "node",
+  "id": 5843744628,
+  "lat": 52.9238166,
+  "lon": 0.4953363
+},
+{
+  "type": "node",
+  "id": 5843744631,
+  "lat": 52.9230729,
+  "lon": 0.4958917
+},
+{
+  "type": "node",
+  "id": 6584133773,
+  "lat": 52.9234759,
+  "lon": 0.4933874
+},
+{
+  "type": "node",
+  "id": 6584133774,
+  "lat": 52.9236883,
+  "lon": 0.4938131
+},
+{
+  "type": "node",
+  "id": 6584133776,
+  "lat": 52.9238697,
+  "lon": 0.4939499
+},
+{
+  "type": "node",
+  "id": 6584133777,
+  "lat": 52.9239590,
+  "lon": 0.4940553
+},
+{
+  "type": "node",
+  "id": 6584133778,
+  "lat": 52.9241600,
+  "lon": 0.4943273
+},
+{
+  "type": "node",
+  "id": 6584133780,
+  "lat": 52.9242232,
+  "lon": 0.4944022
+},
+{
+  "type": "node",
+  "id": 8124541817,
+  "lat": 52.9235505,
+  "lon": 0.4936369
+},
+{
+  "type": "node",
+  "id": 8124542218,
+  "lat": 52.9251738,
+  "lon": 0.4933339
+},
+{
+  "type": "node",
+  "id": 8124542219,
+  "lat": 52.9249918,
+  "lon": 0.4932681
+},
+{
+  "type": "node",
+  "id": 8124542220,
+  "lat": 52.9253836,
+  "lon": 0.4940030
+},
+{
+  "type": "node",
+  "id": 8124542224,
+  "lat": 52.9245075,
+  "lon": 0.4937075
+},
+{
+  "type": "node",
+  "id": 8125950517,
+  "lat": 52.9254611,
+  "lon": 0.4944310
+},
+{
+  "type": "node",
+  "id": 8125950678,
+  "lat": 52.9235214,
+  "lon": 0.4935511
+},
+{
+  "type": "node",
+  "id": 8125950680,
+  "lat": 52.9235961,
+  "lon": 0.4937023
+},
+{
+  "type": "node",
+  "id": 8125950770,
+  "lat": 52.9247602,
+  "lon": 0.4934516
+},
+{
+  "type": "node",
+  "id": 8321705182,
+  "lat": 52.9229674,
+  "lon": 0.4965049
+},
+{
+  "type": "node",
+  "id": 12222199510,
+  "lat": 52.9241757,
+  "lon": 0.4945222,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "surface",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 518229471,
+  "nodes": [
+    5055602291,
+    8125950517,
+    5055604034,
+    8124542220,
+    5843744594,
+    8124542218,
+    5055602311,
+    5843744589,
+    8124542219,
+    8125950770,
+    5843744622,
+    5055602310,
+    8124542224,
+    6584133780,
+    12222199510
+  ],
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB:zone20",
+    "name": "Chalk River Road",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 618244103,
+  "nodes": [
+    5843744623,
+    5055604047,
+    5843744628,
+    5843744591,
+    5843744625,
+    5055602318,
+    5843744631,
+    5055604028,
+    5843744600,
+    8321705182,
+    5055604081
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "name": "Chalk River Road",
+    "sidewalk": "separate",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 701087976,
+  "nodes": [
+    6584133773,
+    8125950678,
+    8124541817,
+    8125950680,
+    6584133774,
+    6584133776,
+    6584133777,
+    6584133778,
+    6584133780
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1320718143,
+  "nodes": [
+    12222199510,
+    5055604104
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Chalk River Road",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 5055604104,
+  "lat": 52.9240773,
+  "lon": 0.4947665
+},
+{
+  "type": "node",
+  "id": 5843744623,
+  "lat": 52.9239906,
+  "lon": 0.4949886
+},
+{
+  "type": "way",
+  "id": 618244104,
+  "nodes": [
+    5055604104,
+    5843744623
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "name": "Chalk River Road",
+    "sidewalk": "separate",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5055602291,
+  "lat": 52.9255762,
+  "lon": 0.4948352
+},
+{
+  "type": "node",
+  "id": 5055602310,
+  "lat": 52.9245643,
+  "lon": 0.4936190
+},
+{
+  "type": "node",
+  "id": 5055602311,
+  "lat": 52.9251154,
+  "lon": 0.4932678
+},
+{
+  "type": "node",
+  "id": 5055602318,
+  "lat": 52.9231979,
+  "lon": 0.4956696
+},
+{
+  "type": "node",
+  "id": 5055604028,
+  "lat": 52.9230038,
+  "lon": 0.4961581
+},
+{
+  "type": "node",
+  "id": 5055604034,
+  "lat": 52.9254636,
+  "lon": 0.4941862
+},
+{
+  "type": "node",
+  "id": 5055604047,
+  "lat": 52.9238905,
+  "lon": 0.4952166
+},
+{
+  "type": "node",
+  "id": 5055604081,
+  "lat": 52.9229670,
+  "lon": 0.4969013
+},
+{
+  "type": "node",
+  "id": 5055604104,
+  "lat": 52.9240773,
+  "lon": 0.4947665
+},
+{
+  "type": "node",
+  "id": 5843744589,
+  "lat": 52.9250497,
+  "lon": 0.4932582
+},
+{
+  "type": "node",
+  "id": 5843744591,
+  "lat": 52.9234865,
+  "lon": 0.4954412
+},
+{
+  "type": "node",
+  "id": 5843744594,
+  "lat": 52.9252306,
+  "lon": 0.4934306
+},
+{
+  "type": "node",
+  "id": 5843744600,
+  "lat": 52.9229675,
+  "lon": 0.4964599
+},
+{
+  "type": "node",
+  "id": 5843744622,
+  "lat": 52.9247262,
+  "lon": 0.4934786
+},
+{
+  "type": "node",
+  "id": 5843744623,
+  "lat": 52.9239906,
+  "lon": 0.4949886
+},
+{
+  "type": "node",
+  "id": 5843744625,
+  "lat": 52.9233328,
+  "lon": 0.4955185
+},
+{
+  "type": "node",
+  "id": 5843744628,
+  "lat": 52.9238166,
+  "lon": 0.4953363
+},
+{
+  "type": "node",
+  "id": 5843744631,
+  "lat": 52.9230729,
+  "lon": 0.4958917
+},
+{
+  "type": "node",
+  "id": 6584133773,
+  "lat": 52.9234759,
+  "lon": 0.4933874
+},
+{
+  "type": "node",
+  "id": 6584133774,
+  "lat": 52.9236883,
+  "lon": 0.4938131
+},
+{
+  "type": "node",
+  "id": 6584133776,
+  "lat": 52.9238697,
+  "lon": 0.4939499
+},
+{
+  "type": "node",
+  "id": 6584133777,
+  "lat": 52.9239590,
+  "lon": 0.4940553
+},
+{
+  "type": "node",
+  "id": 6584133778,
+  "lat": 52.9241600,
+  "lon": 0.4943273
+},
+{
+  "type": "node",
+  "id": 6584133780,
+  "lat": 52.9242232,
+  "lon": 0.4944022
+},
+{
+  "type": "node",
+  "id": 8124541817,
+  "lat": 52.9235505,
+  "lon": 0.4936369
+},
+{
+  "type": "node",
+  "id": 8124542218,
+  "lat": 52.9251738,
+  "lon": 0.4933339
+},
+{
+  "type": "node",
+  "id": 8124542219,
+  "lat": 52.9249918,
+  "lon": 0.4932681
+},
+{
+  "type": "node",
+  "id": 8124542220,
+  "lat": 52.9253836,
+  "lon": 0.4940030
+},
+{
+  "type": "node",
+  "id": 8124542224,
+  "lat": 52.9245075,
+  "lon": 0.4937075
+},
+{
+  "type": "node",
+  "id": 8125950517,
+  "lat": 52.9254611,
+  "lon": 0.4944310
+},
+{
+  "type": "node",
+  "id": 8125950678,
+  "lat": 52.9235214,
+  "lon": 0.4935511
+},
+{
+  "type": "node",
+  "id": 8125950680,
+  "lat": 52.9235961,
+  "lon": 0.4937023
+},
+{
+  "type": "node",
+  "id": 8125950770,
+  "lat": 52.9247602,
+  "lon": 0.4934516
+},
+{
+  "type": "node",
+  "id": 8321705182,
+  "lat": 52.9229674,
+  "lon": 0.4965049
+},
+{
+  "type": "node",
+  "id": 12222199510,
+  "lat": 52.9241757,
+  "lon": 0.4945222,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:island": "no",
+    "crossing:markings": "surface",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 518229471,
+  "nodes": [
+    5055602291,
+    8125950517,
+    5055604034,
+    8124542220,
+    5843744594,
+    8124542218,
+    5055602311,
+    5843744589,
+    8124542219,
+    8125950770,
+    5843744622,
+    5055602310,
+    8124542224,
+    6584133780,
+    12222199510
+  ],
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "20 mph",
+    "maxspeed:type": "GB:zone20",
+    "name": "Chalk River Road",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 618244103,
+  "nodes": [
+    5843744623,
+    5055604047,
+    5843744628,
+    5843744591,
+    5843744625,
+    5055602318,
+    5843744631,
+    5055604028,
+    5843744600,
+    8321705182,
+    5055604081
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "name": "Chalk River Road",
+    "sidewalk": "separate",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 701087976,
+  "nodes": [
+    6584133773,
+    8125950678,
+    8124541817,
+    8125950680,
+    6584133774,
+    6584133776,
+    6584133777,
+    6584133778,
+    6584133780
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1320718143,
+  "nodes": [
+    12222199510,
+    5055604104
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Chalk River Road",
+    "source": "interpolated",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8321705177,
+  "lat": 52.9240407,
+  "lon": 0.4950212
+},
+{
+  "type": "node",
+  "id": 8321705178,
+  "lat": 52.9241245,
+  "lon": 0.4948251
+},
+{
+  "type": "way",
+  "id": 895262487,
+  "nodes": [
+    8321705177,
+    8321705178
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "cycleway",
+    "layer": "1",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

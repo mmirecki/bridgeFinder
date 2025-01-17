@@ -1,0 +1,583 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:03:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4190105907,
+  "lat": 56.5343395,
+  "lon": -4.8750618
+},
+{
+  "type": "node",
+  "id": 4190120302,
+  "lat": 56.5345444,
+  "lon": -4.8749548
+},
+{
+  "type": "way",
+  "id": 418639532,
+  "nodes": [
+    4190105907,
+    4190120302
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "simple-suspension",
+    "highway": "footway",
+    "layer": "1",
+    "name": "Clashgour Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3775749232,
+  "lat": 56.5422542,
+  "lon": -4.8759005
+},
+{
+  "type": "node",
+  "id": 3775749236,
+  "lat": 56.5423640,
+  "lon": -4.8757671
+},
+{
+  "type": "way",
+  "id": 374182892,
+  "nodes": [
+    3775749232,
+    3775749236
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4363603116,
+  "lat": 56.5373060,
+  "lon": -4.8664810
+},
+{
+  "type": "node",
+  "id": 4363603117,
+  "lat": 56.5373166,
+  "lon": -4.8665488
+},
+{
+  "type": "way",
+  "id": 438650824,
+  "nodes": [
+    4363603116,
+    4363603117
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4362045202,
+  "lat": 56.5395441,
+  "lon": -4.8582430
+},
+{
+  "type": "node",
+  "id": 4362045205,
+  "lat": 56.5395737,
+  "lon": -4.8581477
+},
+{
+  "type": "way",
+  "id": 438458849,
+  "nodes": [
+    4362045205,
+    4362045202
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 279214246,
+  "lat": 56.5418259,
+  "lon": -4.8382187
+},
+{
+  "type": "node",
+  "id": 279214247,
+  "lat": 56.5417982,
+  "lon": -4.8382974
+},
+{
+  "type": "way",
+  "id": 25618256,
+  "nodes": [
+    279214246,
+    279214247
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "created_by": "Potlatch 0.10f",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 279214240,
+  "lat": 56.5417143,
+  "lon": -4.8279846
+},
+{
+  "type": "node",
+  "id": 4363603296,
+  "lat": 56.5416895,
+  "lon": -4.8280602
+},
+{
+  "type": "way",
+  "id": 438650827,
+  "nodes": [
+    279214240,
+    4363603296
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "lit": "no",
+    "source": "survey",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 279214237,
+  "lat": 56.5416937,
+  "lon": -4.8248219
+},
+{
+  "type": "node",
+  "id": 3661778694,
+  "lat": 56.5416518,
+  "lon": -4.8246857
+},
+{
+  "type": "way",
+  "id": 439047209,
+  "nodes": [
+    3661778694,
+    279214237
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "lit": "no",
+    "source": "survey",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 43746088,
+  "lat": 56.5323044,
+  "lon": -4.8134125
+},
+{
+  "type": "node",
+  "id": 4166905622,
+  "lat": 56.5321653,
+  "lon": -4.8131988
+},
+{
+  "type": "way",
+  "id": 893324979,
+  "nodes": [
+    4166905622,
+    43746088
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "C63",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "old_ref": "A82;A8005",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 43746058,
+  "lat": 56.5328537,
+  "lon": -4.8068911
+},
+{
+  "type": "node",
+  "id": 305518711,
+  "lat": 56.5328209,
+  "lon": -4.8071030
+},
+{
+  "type": "way",
+  "id": 22731527,
+  "nodes": [
+    43746058,
+    305518711
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "C63",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight:signed": "no",
+    "old_ref": "A82;A8005"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 43746119,
+  "lat": 56.5398129,
+  "lon": -4.8138021
+},
+{
+  "type": "node",
+  "id": 279213934,
+  "lat": 56.5394737,
+  "lon": -4.8136249
+},
+{
+  "type": "way",
+  "id": 27825441,
+  "nodes": [
+    279213934,
+    43746119
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "C63",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Victoria Bridge",
+    "old_ref": "A82;A8005",
+    "source": "gps trip + local"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4017170071,
+  "lat": 56.5442921,
+  "lon": -4.8094640
+},
+{
+  "type": "node",
+  "id": 4017170075,
+  "lat": 56.5443480,
+  "lon": -4.8093819
+},
+{
+  "type": "way",
+  "id": 398981029,
+  "nodes": [
+    4017170071,
+    4017170075
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "West Highland Way",
+    "old_ref": "A82",
+    "sac_scale": "hiking",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 43746419,
+  "lat": 56.5957660,
+  "lon": -4.8075760
+},
+{
+  "type": "node",
+  "id": 679205907,
+  "lat": 56.5956612,
+  "lon": -4.8076212
+},
+{
+  "type": "way",
+  "id": 53804843,
+  "nodes": [
+    679205907,
+    43746419
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "yes",
+    "name": "Ba Bridge",
+    "old_ref": "A82",
+    "sac_scale": "hiking",
+    "source": "survey",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

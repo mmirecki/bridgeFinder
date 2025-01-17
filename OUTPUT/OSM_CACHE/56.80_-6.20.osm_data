@@ -1,0 +1,427 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:32:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 473203941,
+  "lat": 56.8794222,
+  "lon": -6.1349052
+},
+{
+  "type": "node",
+  "id": 7845409719,
+  "lat": 56.8794794,
+  "lon": -6.1349640
+},
+{
+  "type": "way",
+  "id": 840789571,
+  "nodes": [
+    473203941,
+    7845409719
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7845409723,
+  "lat": 56.8801902,
+  "lon": -6.1349174
+},
+{
+  "type": "node",
+  "id": 7845409724,
+  "lat": 56.8801208,
+  "lon": -6.1350040
+},
+{
+  "type": "way",
+  "id": 840789575,
+  "nodes": [
+    7845409724,
+    7845409723
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 706997183,
+  "lat": 56.8854560,
+  "lon": -6.1407163
+},
+{
+  "type": "node",
+  "id": 7845409721,
+  "lat": 56.8854065,
+  "lon": -6.1408024
+},
+{
+  "type": "way",
+  "id": 840789573,
+  "nodes": [
+    706997183,
+    7845409721
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source:location": "OS_OpenData_StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1749025808,
+  "lat": 56.8884870,
+  "lon": -6.1374595
+},
+{
+  "type": "node",
+  "id": 3206434652,
+  "lat": 56.8884134,
+  "lon": -6.1373756
+},
+{
+  "type": "way",
+  "id": 314599641,
+  "nodes": [
+    3206434652,
+    1749025808
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3768682201,
+  "lat": 56.8906445,
+  "lon": -6.1382555
+},
+{
+  "type": "node",
+  "id": 3768682202,
+  "lat": 56.8906593,
+  "lon": -6.1383994
+},
+{
+  "type": "way",
+  "id": 373394177,
+  "nodes": [
+    3768682202,
+    3768682201
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "service": "driveway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1749025993,
+  "lat": 56.8975524,
+  "lon": -6.1377985
+},
+{
+  "type": "node",
+  "id": 3768682203,
+  "lat": 56.8975913,
+  "lon": -6.1378407
+},
+{
+  "type": "way",
+  "id": 373394169,
+  "nodes": [
+    3768682203,
+    1749025993
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "lanes": "1",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1749025521,
+  "lat": 56.8975184,
+  "lon": -6.1391610
+},
+{
+  "type": "node",
+  "id": 3768682204,
+  "lat": 56.8976431,
+  "lon": -6.1392047
+},
+{
+  "type": "way",
+  "id": 373394172,
+  "nodes": [
+    1749025521,
+    3768682204
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 473203996,
+  "lat": 56.8914376,
+  "lon": -6.1289002
+},
+{
+  "type": "node",
+  "id": 4897854623,
+  "lat": 56.8914121,
+  "lon": -6.1290052
+},
+{
+  "type": "way",
+  "id": 498338444,
+  "nodes": [
+    4897854623,
+    473203996
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 473203991,
+  "lat": 56.8896405,
+  "lon": -6.1259694
+},
+{
+  "type": "node",
+  "id": 3206434654,
+  "lat": 56.8896294,
+  "lon": -6.1258452
+},
+{
+  "type": "way",
+  "id": 314599642,
+  "nodes": [
+    473203991,
+    3206434654
+  ],
+  "tags": {
+    "access": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1094",
+    "lanes": "1",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

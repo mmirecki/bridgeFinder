@@ -1,0 +1,150 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:54:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 921857441,
+  "lat": 57.2015188,
+  "lon": -5.2976946
+},
+{
+  "type": "node",
+  "id": 921857572,
+  "lat": 57.2016185,
+  "lon": -5.2974986
+},
+{
+  "type": "way",
+  "id": 78568422,
+  "nodes": [
+    921857441,
+    921857572
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "hiking;mountain_hiking",
+    "source": "survey",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 921857650,
+  "lat": 57.2029464,
+  "lon": -5.2977947
+},
+{
+  "type": "node",
+  "id": 921858559,
+  "lat": 57.2030440,
+  "lon": -5.2976836
+},
+{
+  "type": "way",
+  "id": 78568439,
+  "nodes": [
+    921857650,
+    921858559
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "hiking",
+    "source": "survey",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1485745610,
+  "lat": 57.2871094,
+  "lon": -5.2999752
+},
+{
+  "type": "node",
+  "id": 1485745612,
+  "lat": 57.2872682,
+  "lon": -5.3000499
+},
+{
+  "type": "way",
+  "id": 256747290,
+  "nodes": [
+    1485745610,
+    1485745612
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

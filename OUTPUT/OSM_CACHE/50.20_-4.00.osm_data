@@ -1,0 +1,111 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:29:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2214556853,
+  "lat": 50.2941592,
+  "lon": -3.9085993
+},
+{
+  "type": "node",
+  "id": 6595221652,
+  "lat": 50.2941114,
+  "lon": -3.9085353
+},
+{
+  "type": "way",
+  "id": 702311230,
+  "nodes": [
+    6595221652,
+    2214556853
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "prow_ref": "Ringmore Footpath 15",
+    "source:prow_ref": "definitive_statement"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9046678179,
+  "lat": 50.2990026,
+  "lon": -3.9001679
+},
+{
+  "type": "node",
+  "id": 9046678180,
+  "lat": 50.2990368,
+  "lon": -3.9000500
+},
+{
+  "type": "way",
+  "id": 977712491,
+  "nodes": [
+    9046678180,
+    9046678179
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "prow_ref": "Ringmore Footpath 9",
+    "source:prow_ref": "definitive_statement"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

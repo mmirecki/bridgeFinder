@@ -1,0 +1,598 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:09:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1315968697,
+  "lat": 56.5210545,
+  "lon": -4.6539352
+},
+{
+  "type": "node",
+  "id": 1315968748,
+  "lat": 56.5210802,
+  "lon": -4.6537344
+},
+{
+  "type": "way",
+  "id": 116803886,
+  "nodes": [
+    1315968748,
+    1315968697
+  ],
+  "tags": {
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8931137320,
+  "lat": 56.5204233,
+  "lon": -4.6586267
+},
+{
+  "type": "node",
+  "id": 8931137321,
+  "lat": 56.5204230,
+  "lon": -4.6586070
+},
+{
+  "type": "way",
+  "id": 965425063,
+  "nodes": [
+    8931137320,
+    8931137321
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "yes",
+    "surface": "gravel",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10022766685,
+  "lat": 56.5707739,
+  "lon": -4.6910076
+},
+{
+  "type": "node",
+  "id": 10022766686,
+  "lat": 56.5707335,
+  "lon": -4.6911354
+},
+{
+  "type": "way",
+  "id": 1094343779,
+  "nodes": [
+    10022766686,
+    10022766685
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "50 mph",
+    "name": "Barravourich Viaduct",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 383167086,
+  "lat": 56.5860980,
+  "lon": -4.6812153
+},
+{
+  "type": "node",
+  "id": 383167090,
+  "lat": 56.5861444,
+  "lon": -4.6810397
+},
+{
+  "type": "way",
+  "id": 33559246,
+  "nodes": [
+    383167086,
+    383167090
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motorcycle": "no",
+    "source": "survey",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1886581861,
+  "lat": 56.5842211,
+  "lon": -4.6832553
+},
+{
+  "type": "node",
+  "id": 1886581892,
+  "lat": 56.5842924,
+  "lon": -4.6834229
+},
+{
+  "type": "way",
+  "id": 218636072,
+  "nodes": [
+    1886581892,
+    1886581861
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "simple-suspension",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26576363,
+  "lat": 56.5831021,
+  "lon": -4.6734204
+},
+{
+  "type": "node",
+  "id": 365082440,
+  "lat": 56.5830197,
+  "lon": -4.6735916
+},
+{
+  "type": "way",
+  "id": 32472088,
+  "nodes": [
+    365082440,
+    26576363
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "50 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 383129605,
+  "lat": 56.5831508,
+  "lon": -4.6732860
+},
+{
+  "type": "node",
+  "id": 383130468,
+  "lat": 56.5832317,
+  "lon": -4.6730901
+},
+{
+  "type": "way",
+  "id": 33557567,
+  "nodes": [
+    383129605,
+    383130468
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "50 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9697312276,
+  "lat": 56.5855890,
+  "lon": -4.6646511
+},
+{
+  "type": "node",
+  "id": 9697312277,
+  "lat": 56.5854672,
+  "lon": -4.6645290
+},
+{
+  "type": "way",
+  "id": 1055337416,
+  "nodes": [
+    9697312276,
+    9697312277
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2410678555,
+  "lat": 56.5965568,
+  "lon": -4.6403746
+},
+{
+  "type": "node",
+  "id": 2410678647,
+  "lat": 56.5966897,
+  "lon": -4.6403397
+},
+{
+  "type": "way",
+  "id": 232739427,
+  "nodes": [
+    2410678647,
+    2410678555
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2410309424,
+  "lat": 56.5942170,
+  "lon": -4.6341373
+},
+{
+  "type": "node",
+  "id": 9697312273,
+  "lat": 56.5942075,
+  "lon": -4.6342076
+},
+{
+  "type": "way",
+  "id": 1119943728,
+  "nodes": [
+    9697312273,
+    2410309424
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2324076387,
+  "lat": 56.5481795,
+  "lon": -4.6049241
+},
+{
+  "type": "node",
+  "id": 2324076631,
+  "lat": 56.5481335,
+  "lon": -4.6048573
+},
+{
+  "type": "way",
+  "id": 892074100,
+  "nodes": [
+    2324076387,
+    2324076631
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "source": "survey",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6653179915,
+  "lat": 56.5999051,
+  "lon": -4.6080302
+},
+{
+  "type": "node",
+  "id": 6653179916,
+  "lat": 56.5999553,
+  "lon": -4.6079347
+},
+{
+  "type": "way",
+  "id": 708050704,
+  "nodes": [
+    6653179915,
+    6653179916
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

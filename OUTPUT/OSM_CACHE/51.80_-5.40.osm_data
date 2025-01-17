@@ -1,0 +1,181 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:50:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 259363996,
+  "lat": 51.8792506,
+  "lon": -5.3049376
+},
+{
+  "type": "node",
+  "id": 305524826,
+  "lat": 51.8793763,
+  "lon": -5.3027673
+},
+{
+  "type": "node",
+  "id": 305524827,
+  "lat": 51.8793521,
+  "lon": -5.3035927
+},
+{
+  "type": "node",
+  "id": 305524828,
+  "lat": 51.8793145,
+  "lon": -5.3041687
+},
+{
+  "type": "node",
+  "id": 305524829,
+  "lat": 51.8793811,
+  "lon": -5.3031229
+},
+{
+  "type": "node",
+  "id": 305524835,
+  "lat": 51.8791377,
+  "lon": -5.3079969,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1411619344,
+  "lat": 51.8791888,
+  "lon": -5.3059700
+},
+{
+  "type": "node",
+  "id": 1411619349,
+  "lat": 51.8791904,
+  "lon": -5.3074626
+},
+{
+  "type": "node",
+  "id": 1411619365,
+  "lat": 51.8791947,
+  "lon": -5.3064211
+},
+{
+  "type": "node",
+  "id": 1411619368,
+  "lat": 51.8791656,
+  "lon": -5.3077864,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "St Justinian (Car Park/Maes Parcio)",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1411619369,
+  "lat": 51.8792012,
+  "lon": -5.3070867
+},
+{
+  "type": "node",
+  "id": 6690591654,
+  "lat": 51.8791548,
+  "lon": -5.3078886
+},
+{
+  "type": "node",
+  "id": 8910064989,
+  "lat": 51.8791860,
+  "lon": -5.3058597
+},
+{
+  "type": "node",
+  "id": 8910064990,
+  "lat": 51.8791928,
+  "lon": -5.3056948
+},
+{
+  "type": "way",
+  "id": 27859621,
+  "nodes": [
+    305524835,
+    6690591654,
+    1411619368,
+    1411619349,
+    1411619369,
+    1411619365,
+    1411619344,
+    8910064989,
+    8910064990,
+    259363996,
+    305524828,
+    305524827,
+    305524829,
+    305524826
+  ],
+  "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "tertiary",
+    "horse": "yes",
+    "lanes": "1",
+    "maxspeed": "30 mph",
+    "motor_vehicle": "yes",
+    "oneway": "no",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8302329486,
+  "lat": 51.8787553,
+  "lon": -5.3088266
+},
+{
+  "type": "node",
+  "id": 8302329487,
+  "lat": 51.8786486,
+  "lon": -5.3089765
+},
+{
+  "type": "way",
+  "id": 893278882,
+  "nodes": [
+    8302329487,
+    8302329486
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:22:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 644089232,
+  "lat": 57.9132872,
+  "lon": -4.2997783
+},
+{
+  "type": "node",
+  "id": 644089233,
+  "lat": 57.9133912,
+  "lon": -4.2998174
+},
+{
+  "type": "way",
+  "id": 50599437,
+  "nodes": [
+    644089233,
+    644089232
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U3521",
+    "lanes": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Strathcarnoch Road",
+    "note": "Probably a bridge",
+    "source": "survey",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 644089236,
+  "lat": 57.9141974,
+  "lon": -4.2992016
+},
+{
+  "type": "node",
+  "id": 644089238,
+  "lat": 57.9141359,
+  "lon": -4.2989710
+},
+{
+  "type": "way",
+  "id": 50599440,
+  "nodes": [
+    644089236,
+    644089238
+  ],
+  "tags": {
+    "bridge": "yes",
+    "fixme": "Check road",
+    "highway": "track",
+    "source": "OS7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9656717278,
+  "lat": 57.9293568,
+  "lon": -4.2949943
+},
+{
+  "type": "node",
+  "id": 9656717285,
+  "lat": 57.9294947,
+  "lon": -4.2949711
+},
+{
+  "type": "way",
+  "id": 1050848976,
+  "nodes": [
+    9656717285,
+    9656717278
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U3521",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Strathcarnoch Road",
+    "source": "survey",
+    "source_ref:ref": "http://www.highland.gov.uk/download/downloads/id/11641/list_of_adopted_roads_-_u_class"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 643955772,
+  "lat": 57.9155162,
+  "lon": -4.2343474
+},
+{
+  "type": "node",
+  "id": 644089471,
+  "lat": 57.9154894,
+  "lon": -4.2342302
+},
+{
+  "type": "way",
+  "id": 50599445,
+  "nodes": [
+    643955772,
+    644089471
+  ],
+  "tags": {
+    "bridge": "yes",
+    "fixme": "Check road",
+    "highway": "track",
+    "note": "Probably a bridge",
+    "source": "OS7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 645303520,
+  "lat": 57.9936545,
+  "lon": -4.2283672
+},
+{
+  "type": "node",
+  "id": 645303526,
+  "lat": 57.9940243,
+  "lon": -4.2282353
+},
+{
+  "type": "way",
+  "id": 50673688,
+  "nodes": [
+    645303520,
+    645303526
+  ],
+  "tags": {
+    "bridge": "yes",
+    "fixme": "Check road",
+    "highway": "track",
+    "layer": "1",
+    "note": "Most probably a bridge",
+    "source": "OS7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 645303628,
+  "lat": 57.9973391,
+  "lon": -4.2286518
+},
+{
+  "type": "node",
+  "id": 645303630,
+  "lat": 57.9976233,
+  "lon": -4.2277952
+},
+{
+  "type": "way",
+  "id": 50673697,
+  "nodes": [
+    645303630,
+    645303628
+  ],
+  "tags": {
+    "bridge": "yes",
+    "fixme": "Check road",
+    "highway": "track",
+    "layer": "1",
+    "note": "Most probably a bridge",
+    "source": "OS7"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

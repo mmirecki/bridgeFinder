@@ -1,0 +1,4145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:33:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 6048963286,
+  "lat": 53.3619742,
+  "lon": -6.0818406
+},
+{
+  "type": "node",
+  "id": 12173658380,
+  "lat": 53.3620066,
+  "lon": -6.0818320
+},
+{
+  "type": "way",
+  "id": 1315189088,
+  "nodes": [
+    12173658380,
+    6048963286
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "horse_scale": "critical",
+    "layer": "1",
+    "name": "Bog of Frogs Loop",
+    "sac_scale": "hiking",
+    "surface": "boardwalk",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 290089712,
+  "lat": 53.3628053,
+  "lon": -6.0835573
+},
+{
+  "type": "node",
+  "id": 3358050846,
+  "lat": 53.3628009,
+  "lon": -6.0836112
+},
+{
+  "type": "way",
+  "id": 1315189082,
+  "nodes": [
+    3358050846,
+    290089712
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "horse_scale": "critical",
+    "layer": "1",
+    "name": "Bog of Frogs Loop",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 49572082,
+  "lat": 53.3911309,
+  "lon": -6.0970459,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 257308625,
+  "lat": 53.3907275,
+  "lon": -6.0948277
+},
+{
+  "type": "node",
+  "id": 257308626,
+  "lat": 53.3905115,
+  "lon": -6.0946750
+},
+{
+  "type": "node",
+  "id": 257308628,
+  "lat": 53.3903100,
+  "lon": -6.0943213
+},
+{
+  "type": "node",
+  "id": 257308630,
+  "lat": 53.3902372,
+  "lon": -6.0939489
+},
+{
+  "type": "node",
+  "id": 257308631,
+  "lat": 53.3901495,
+  "lon": -6.0937502
+},
+{
+  "type": "node",
+  "id": 257308632,
+  "lat": 53.3899701,
+  "lon": -6.0936135
+},
+{
+  "type": "node",
+  "id": 257308635,
+  "lat": 53.3897239,
+  "lon": -6.0936718
+},
+{
+  "type": "node",
+  "id": 257308636,
+  "lat": 53.3896234,
+  "lon": -6.0935810
+},
+{
+  "type": "node",
+  "id": 257308637,
+  "lat": 53.3894461,
+  "lon": -6.0930781
+},
+{
+  "type": "node",
+  "id": 336164015,
+  "lat": 53.3913691,
+  "lon": -6.0903712
+},
+{
+  "type": "node",
+  "id": 336164018,
+  "lat": 53.3915261,
+  "lon": -6.0966402
+},
+{
+  "type": "node",
+  "id": 664689435,
+  "lat": 53.3909013,
+  "lon": -6.0948518,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 681768157,
+  "lat": 53.3910441,
+  "lon": -6.0939065
+},
+{
+  "type": "node",
+  "id": 1487174640,
+  "lat": 53.3910691,
+  "lon": -6.0948397
+},
+{
+  "type": "node",
+  "id": 1487174667,
+  "lat": 53.3920029,
+  "lon": -6.1119754
+},
+{
+  "type": "node",
+  "id": 2187635938,
+  "lat": 53.3914964,
+  "lon": -6.0954596
+},
+{
+  "type": "node",
+  "id": 2380397846,
+  "lat": 53.3907036,
+  "lon": -6.0949414
+},
+{
+  "type": "node",
+  "id": 2380397914,
+  "lat": 53.3904053,
+  "lon": -6.0948575
+},
+{
+  "type": "node",
+  "id": 2380397935,
+  "lat": 53.3905212,
+  "lon": -6.0949280
+},
+{
+  "type": "node",
+  "id": 2380397951,
+  "lat": 53.3900637,
+  "lon": -6.0936620
+},
+{
+  "type": "node",
+  "id": 2380397955,
+  "lat": 53.3907579,
+  "lon": -6.0950058
+},
+{
+  "type": "node",
+  "id": 2380397962,
+  "lat": 53.3903637,
+  "lon": -6.0944483
+},
+{
+  "type": "node",
+  "id": 2380397992,
+  "lat": 53.3904831,
+  "lon": -6.0946272
+},
+{
+  "type": "node",
+  "id": 2380398010,
+  "lat": 53.3907691,
+  "lon": -6.0953786
+},
+{
+  "type": "node",
+  "id": 2380432494,
+  "lat": 53.3915024,
+  "lon": -6.0949592
+},
+{
+  "type": "node",
+  "id": 2380432516,
+  "lat": 53.3914632,
+  "lon": -6.0931354
+},
+{
+  "type": "node",
+  "id": 2380432530,
+  "lat": 53.3914672,
+  "lon": -6.0922698
+},
+{
+  "type": "node",
+  "id": 2380432537,
+  "lat": 53.3916855,
+  "lon": -6.1017761
+},
+{
+  "type": "node",
+  "id": 2380432542,
+  "lat": 53.3914392,
+  "lon": -6.0918358,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 2380432545,
+  "lat": 53.3914822,
+  "lon": -6.0928664
+},
+{
+  "type": "node",
+  "id": 2380432549,
+  "lat": 53.3913946,
+  "lon": -6.0909639
+},
+{
+  "type": "node",
+  "id": 2380432550,
+  "lat": 53.3914574,
+  "lon": -6.0938656
+},
+{
+  "type": "node",
+  "id": 3089122459,
+  "lat": 53.3913284,
+  "lon": -6.0894967
+},
+{
+  "type": "node",
+  "id": 3642841668,
+  "lat": 53.3915115,
+  "lon": -6.0960677,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841669,
+  "lat": 53.3915583,
+  "lon": -6.0976791,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841670,
+  "lat": 53.3916337,
+  "lon": -6.1001066,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841673,
+  "lat": 53.3917042,
+  "lon": -6.1023780,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841677,
+  "lat": 53.3918388,
+  "lon": -6.1067133,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841678,
+  "lat": 53.3918943,
+  "lon": -6.1084908,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841679,
+  "lat": 53.3919471,
+  "lon": -6.1102358,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841680,
+  "lat": 53.3920008,
+  "lon": -6.1119080,
+  "tags": {
+    "direction": "backward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 6666122960,
+  "lat": 53.3911254,
+  "lon": -6.0968804,
+  "tags": {
+    "crossing": "traffic_signals",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6666589519,
+  "lat": 53.3915242,
+  "lon": -6.0965640
+},
+{
+  "type": "node",
+  "id": 7183959035,
+  "lat": 53.3916546,
+  "lon": -6.1007805
+},
+{
+  "type": "node",
+  "id": 7183959037,
+  "lat": 53.3916300,
+  "lon": -6.0999867
+},
+{
+  "type": "node",
+  "id": 7183961379,
+  "lat": 53.3915288,
+  "lon": -6.0967287
+},
+{
+  "type": "node",
+  "id": 7183961381,
+  "lat": 53.3915323,
+  "lon": -6.0968392
+},
+{
+  "type": "node",
+  "id": 7183961383,
+  "lat": 53.3915360,
+  "lon": -6.0969593
+},
+{
+  "type": "node",
+  "id": 7183975185,
+  "lat": 53.3915398,
+  "lon": -6.0970827
+},
+{
+  "type": "node",
+  "id": 7183975187,
+  "lat": 53.3915447,
+  "lon": -6.0972413
+},
+{
+  "type": "node",
+  "id": 7192997401,
+  "lat": 53.3915016,
+  "lon": -6.0956689
+},
+{
+  "type": "node",
+  "id": 7307363366,
+  "lat": 53.3910850,
+  "lon": -6.0954166
+},
+{
+  "type": "way",
+  "id": 23750264,
+  "nodes": [
+    1487174640,
+    664689435,
+    257308625,
+    257308626,
+    2380397992,
+    2380397962,
+    257308628,
+    257308630,
+    257308631,
+    2380397951,
+    257308632,
+    257308635,
+    257308636,
+    257308637
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Corr Castle"
+  }
+},
+{
+  "type": "way",
+  "id": 165763800,
+  "nodes": [
+    1487174667,
+    3642841680,
+    3642841679,
+    3642841678,
+    3642841677,
+    3642841673,
+    2380432537,
+    7183959035,
+    3642841670,
+    7183959037,
+    3642841669,
+    7183975187,
+    7183975185,
+    7183961383,
+    7183961381,
+    7183961379,
+    336164018
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Burrow Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 229442487,
+  "nodes": [
+    2380397914,
+    2380397935,
+    2380397846,
+    2380397955,
+    2380398010
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Corr Castle"
+  }
+},
+{
+  "type": "way",
+  "id": 304383794,
+  "nodes": [
+    3089122459,
+    336164015,
+    2380432549,
+    2380432542,
+    2380432530,
+    2380432545,
+    2380432516,
+    2380432550,
+    2380432494,
+    2187635938,
+    7192997401,
+    3642841668,
+    6666589519,
+    336164018
+  ],
+  "tags": {
+    "fixme": "Check point at which name changes to Burrow Road.",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Claremont Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 782545500,
+  "nodes": [
+    7307363366,
+    1487174640
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 782545501,
+  "nodes": [
+    1487174640,
+    681768157
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1310016546,
+  "nodes": [
+    49572082,
+    6666122960,
+    7307363366
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 336164008,
+  "lat": 53.3914031,
+  "lon": -6.0953371
+},
+{
+  "type": "node",
+  "id": 336164011,
+  "lat": 53.3914109,
+  "lon": -6.0956065
+},
+{
+  "type": "way",
+  "id": 30458025,
+  "nodes": [
+    336164011,
+    336164008
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Howth Branch",
+    "operator": "Irish Rail",
+    "passenger": "suburban",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:atp": "yes",
+    "railway:caws": "yes",
+    "railway:track_ref": "Down Line",
+    "railway:traffic_mode": "passenger",
+    "ref": "Q",
+    "usage": "branch",
+    "voltage": "1500"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 49570889,
+  "lat": 53.3832359,
+  "lon": -6.0994217,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 49572082,
+  "lat": 53.3911309,
+  "lon": -6.0970459,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 49572573,
+  "lat": 53.3903736,
+  "lon": -6.0974014
+},
+{
+  "type": "node",
+  "id": 49572574,
+  "lat": 53.3895254,
+  "lon": -6.0976016
+},
+{
+  "type": "node",
+  "id": 49572577,
+  "lat": 53.3875941,
+  "lon": -6.0981451,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 49572578,
+  "lat": 53.3868508,
+  "lon": -6.0983460
+},
+{
+  "type": "node",
+  "id": 49572579,
+  "lat": 53.3863131,
+  "lon": -6.0984039,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 49572582,
+  "lat": 53.3845688,
+  "lon": -6.0979872
+},
+{
+  "type": "node",
+  "id": 49572583,
+  "lat": 53.3842712,
+  "lon": -6.0979809
+},
+{
+  "type": "node",
+  "id": 49572584,
+  "lat": 53.3838944,
+  "lon": -6.0981283
+},
+{
+  "type": "node",
+  "id": 49572585,
+  "lat": 53.3835816,
+  "lon": -6.0985534,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 257308625,
+  "lat": 53.3907275,
+  "lon": -6.0948277
+},
+{
+  "type": "node",
+  "id": 257308626,
+  "lat": 53.3905115,
+  "lon": -6.0946750
+},
+{
+  "type": "node",
+  "id": 257308628,
+  "lat": 53.3903100,
+  "lon": -6.0943213
+},
+{
+  "type": "node",
+  "id": 257308630,
+  "lat": 53.3902372,
+  "lon": -6.0939489
+},
+{
+  "type": "node",
+  "id": 257308631,
+  "lat": 53.3901495,
+  "lon": -6.0937502
+},
+{
+  "type": "node",
+  "id": 257308632,
+  "lat": 53.3899701,
+  "lon": -6.0936135
+},
+{
+  "type": "node",
+  "id": 257308635,
+  "lat": 53.3897239,
+  "lon": -6.0936718
+},
+{
+  "type": "node",
+  "id": 257308636,
+  "lat": 53.3896234,
+  "lon": -6.0935810
+},
+{
+  "type": "node",
+  "id": 257308637,
+  "lat": 53.3894461,
+  "lon": -6.0930781
+},
+{
+  "type": "node",
+  "id": 336164015,
+  "lat": 53.3913691,
+  "lon": -6.0903712
+},
+{
+  "type": "node",
+  "id": 336164018,
+  "lat": 53.3915261,
+  "lon": -6.0966402
+},
+{
+  "type": "node",
+  "id": 374102065,
+  "lat": 53.3905185,
+  "lon": -6.0973540
+},
+{
+  "type": "node",
+  "id": 664689435,
+  "lat": 53.3909013,
+  "lon": -6.0948518,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "node",
+  "id": 681768157,
+  "lat": 53.3910441,
+  "lon": -6.0939065
+},
+{
+  "type": "node",
+  "id": 1418591282,
+  "lat": 53.3909370,
+  "lon": -6.0994764
+},
+{
+  "type": "node",
+  "id": 1418591284,
+  "lat": 53.3910570,
+  "lon": -6.0987637
+},
+{
+  "type": "node",
+  "id": 1418591285,
+  "lat": 53.3911361,
+  "lon": -6.0982616
+},
+{
+  "type": "node",
+  "id": 1418591286,
+  "lat": 53.3911433,
+  "lon": -6.0974895
+},
+{
+  "type": "node",
+  "id": 1418591288,
+  "lat": 53.3911497,
+  "lon": -6.0977704
+},
+{
+  "type": "node",
+  "id": 1487174640,
+  "lat": 53.3910691,
+  "lon": -6.0948397
+},
+{
+  "type": "node",
+  "id": 1487174667,
+  "lat": 53.3920029,
+  "lon": -6.1119754
+},
+{
+  "type": "node",
+  "id": 2187635938,
+  "lat": 53.3914964,
+  "lon": -6.0954596
+},
+{
+  "type": "node",
+  "id": 2380397832,
+  "lat": 53.3837459,
+  "lon": -6.0983041
+},
+{
+  "type": "node",
+  "id": 2380397846,
+  "lat": 53.3907036,
+  "lon": -6.0949414
+},
+{
+  "type": "node",
+  "id": 2380397911,
+  "lat": 53.3834431,
+  "lon": -6.0988329
+},
+{
+  "type": "node",
+  "id": 2380397914,
+  "lat": 53.3904053,
+  "lon": -6.0948575
+},
+{
+  "type": "node",
+  "id": 2380397932,
+  "lat": 53.3833017,
+  "lon": -6.0992021
+},
+{
+  "type": "node",
+  "id": 2380397935,
+  "lat": 53.3905212,
+  "lon": -6.0949280
+},
+{
+  "type": "node",
+  "id": 2380397951,
+  "lat": 53.3900637,
+  "lon": -6.0936620
+},
+{
+  "type": "node",
+  "id": 2380397955,
+  "lat": 53.3907579,
+  "lon": -6.0950058
+},
+{
+  "type": "node",
+  "id": 2380397962,
+  "lat": 53.3903637,
+  "lon": -6.0944483
+},
+{
+  "type": "node",
+  "id": 2380397977,
+  "lat": 53.3841223,
+  "lon": -6.0980225
+},
+{
+  "type": "node",
+  "id": 2380397979,
+  "lat": 53.3911462,
+  "lon": -6.0980366
+},
+{
+  "type": "node",
+  "id": 2380397992,
+  "lat": 53.3904831,
+  "lon": -6.0946272
+},
+{
+  "type": "node",
+  "id": 2380398010,
+  "lat": 53.3907691,
+  "lon": -6.0953786
+},
+{
+  "type": "node",
+  "id": 2380432494,
+  "lat": 53.3915024,
+  "lon": -6.0949592
+},
+{
+  "type": "node",
+  "id": 2380432516,
+  "lat": 53.3914632,
+  "lon": -6.0931354
+},
+{
+  "type": "node",
+  "id": 2380432530,
+  "lat": 53.3914672,
+  "lon": -6.0922698
+},
+{
+  "type": "node",
+  "id": 2380432537,
+  "lat": 53.3916855,
+  "lon": -6.1017761
+},
+{
+  "type": "node",
+  "id": 2380432542,
+  "lat": 53.3914392,
+  "lon": -6.0918358,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 2380432545,
+  "lat": 53.3914822,
+  "lon": -6.0928664
+},
+{
+  "type": "node",
+  "id": 2380432549,
+  "lat": 53.3913946,
+  "lon": -6.0909639
+},
+{
+  "type": "node",
+  "id": 2380432550,
+  "lat": 53.3914574,
+  "lon": -6.0938656
+},
+{
+  "type": "node",
+  "id": 3089122459,
+  "lat": 53.3913284,
+  "lon": -6.0894967
+},
+{
+  "type": "node",
+  "id": 3642841645,
+  "lat": 53.3859277,
+  "lon": -6.0983530
+},
+{
+  "type": "node",
+  "id": 3642841667,
+  "lat": 53.3910266,
+  "lon": -6.0970687
+},
+{
+  "type": "node",
+  "id": 3642841668,
+  "lat": 53.3915115,
+  "lon": -6.0960677,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841669,
+  "lat": 53.3915583,
+  "lon": -6.0976791,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841670,
+  "lat": 53.3916337,
+  "lon": -6.1001066,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841673,
+  "lat": 53.3917042,
+  "lon": -6.1023780,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841677,
+  "lat": 53.3918388,
+  "lon": -6.1067133,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841678,
+  "lat": 53.3918943,
+  "lon": -6.1084908,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841679,
+  "lat": 53.3919471,
+  "lon": -6.1102358,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 3642841680,
+  "lat": 53.3920008,
+  "lon": -6.1119080,
+  "tags": {
+    "direction": "backward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 6645164625,
+  "lat": 53.3832679,
+  "lon": -6.0993148
+},
+{
+  "type": "node",
+  "id": 6645451893,
+  "lat": 53.3834308,
+  "lon": -6.0988649
+},
+{
+  "type": "node",
+  "id": 6666122960,
+  "lat": 53.3911254,
+  "lon": -6.0968804,
+  "tags": {
+    "crossing": "traffic_signals",
+    "highway": "crossing"
+  }
+},
+{
+  "type": "node",
+  "id": 6666447269,
+  "lat": 53.3911239,
+  "lon": -6.0983390
+},
+{
+  "type": "node",
+  "id": 6666589519,
+  "lat": 53.3915242,
+  "lon": -6.0965640
+},
+{
+  "type": "node",
+  "id": 6670680029,
+  "lat": 53.3909260,
+  "lon": -6.0995343
+},
+{
+  "type": "node",
+  "id": 7183895548,
+  "lat": 53.3904414,
+  "lon": -6.0973792
+},
+{
+  "type": "node",
+  "id": 7183959035,
+  "lat": 53.3916546,
+  "lon": -6.1007805
+},
+{
+  "type": "node",
+  "id": 7183959037,
+  "lat": 53.3916300,
+  "lon": -6.0999867
+},
+{
+  "type": "node",
+  "id": 7183961379,
+  "lat": 53.3915288,
+  "lon": -6.0967287
+},
+{
+  "type": "node",
+  "id": 7183961381,
+  "lat": 53.3915323,
+  "lon": -6.0968392
+},
+{
+  "type": "node",
+  "id": 7183961383,
+  "lat": 53.3915360,
+  "lon": -6.0969593
+},
+{
+  "type": "node",
+  "id": 7183975185,
+  "lat": 53.3915398,
+  "lon": -6.0970827
+},
+{
+  "type": "node",
+  "id": 7183975187,
+  "lat": 53.3915447,
+  "lon": -6.0972413
+},
+{
+  "type": "node",
+  "id": 7192997401,
+  "lat": 53.3915016,
+  "lon": -6.0956689
+},
+{
+  "type": "node",
+  "id": 7307363366,
+  "lat": 53.3910850,
+  "lon": -6.0954166
+},
+{
+  "type": "node",
+  "id": 7307363367,
+  "lat": 53.3850757,
+  "lon": -6.0981237,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 6021569,
+  "nodes": [
+    49572082,
+    3642841667,
+    374102065,
+    7183895548,
+    49572573,
+    49572574,
+    49572577,
+    49572578,
+    49572579,
+    3642841645,
+    7307363367,
+    49572582,
+    49572583,
+    2380397977,
+    49572584,
+    2380397832,
+    49572585,
+    2380397911,
+    6645451893,
+    2380397932,
+    6645164625,
+    49570889
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "logainm:ref": "1393271",
+    "logainm:url": "https://www.logainm.ie/1393271.aspx",
+    "maxspeed": "50",
+    "name": "Offington Park",
+    "name:ga": "Páirc Offington",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 23750264,
+  "nodes": [
+    1487174640,
+    664689435,
+    257308625,
+    257308626,
+    2380397992,
+    2380397962,
+    257308628,
+    257308630,
+    257308631,
+    2380397951,
+    257308632,
+    257308635,
+    257308636,
+    257308637
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Corr Castle"
+  }
+},
+{
+  "type": "way",
+  "id": 165763800,
+  "nodes": [
+    1487174667,
+    3642841680,
+    3642841679,
+    3642841678,
+    3642841677,
+    3642841673,
+    2380432537,
+    7183959035,
+    3642841670,
+    7183959037,
+    3642841669,
+    7183975187,
+    7183975185,
+    7183961383,
+    7183961381,
+    7183961379,
+    336164018
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Burrow Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 229442487,
+  "nodes": [
+    2380397914,
+    2380397935,
+    2380397846,
+    2380397955,
+    2380398010
+  ],
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Corr Castle"
+  }
+},
+{
+  "type": "way",
+  "id": 304383794,
+  "nodes": [
+    3089122459,
+    336164015,
+    2380432549,
+    2380432542,
+    2380432530,
+    2380432545,
+    2380432516,
+    2380432550,
+    2380432494,
+    2187635938,
+    7192997401,
+    3642841668,
+    6666589519,
+    336164018
+  ],
+  "tags": {
+    "fixme": "Check point at which name changes to Burrow Road.",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Claremont Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 782545500,
+  "nodes": [
+    7307363366,
+    1487174640
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 782545501,
+  "nodes": [
+    1487174640,
+    681768157
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1310016546,
+  "nodes": [
+    49572082,
+    6666122960,
+    7307363366
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1310016548,
+  "nodes": [
+    6670680029,
+    1418591282,
+    1418591284,
+    6666447269,
+    1418591285,
+    2380397979,
+    1418591288,
+    1418591286,
+    49572082
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk:left": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 2759163432,
+  "lat": 53.3913705,
+  "lon": -6.0953357
+},
+{
+  "type": "node",
+  "id": 2759163440,
+  "lat": 53.3913801,
+  "lon": -6.0956104
+},
+{
+  "type": "way",
+  "id": 270958259,
+  "nodes": [
+    2759163432,
+    2759163440
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Howth Branch",
+    "operator": "Irish Rail",
+    "passenger": "suburban",
+    "passenger_lines": "2",
+    "railway": "rail",
+    "railway:atp": "yes",
+    "railway:caws": "yes",
+    "railway:track_ref": "Up Line",
+    "railway:traffic_mode": "passenger",
+    "ref": "Q",
+    "usage": "branch",
+    "voltage": "1500"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 336164015,
+  "lat": 53.3913691,
+  "lon": -6.0903712
+},
+{
+  "type": "node",
+  "id": 336164018,
+  "lat": 53.3915261,
+  "lon": -6.0966402
+},
+{
+  "type": "node",
+  "id": 664673921,
+  "lat": 53.3910093,
+  "lon": -6.0922755
+},
+{
+  "type": "node",
+  "id": 681768157,
+  "lat": 53.3910441,
+  "lon": -6.0939065
+},
+{
+  "type": "node",
+  "id": 686839714,
+  "lat": 53.3906153,
+  "lon": -6.0859174
+},
+{
+  "type": "node",
+  "id": 774654650,
+  "lat": 53.3905479,
+  "lon": -6.0850978
+},
+{
+  "type": "node",
+  "id": 1487174613,
+  "lat": 53.3904120,
+  "lon": -6.0845406
+},
+{
+  "type": "node",
+  "id": 1487174632,
+  "lat": 53.3909414,
+  "lon": -6.0910378
+},
+{
+  "type": "node",
+  "id": 2187635938,
+  "lat": 53.3914964,
+  "lon": -6.0954596
+},
+{
+  "type": "node",
+  "id": 2380432494,
+  "lat": 53.3915024,
+  "lon": -6.0949592
+},
+{
+  "type": "node",
+  "id": 2380432516,
+  "lat": 53.3914632,
+  "lon": -6.0931354
+},
+{
+  "type": "node",
+  "id": 2380432530,
+  "lat": 53.3914672,
+  "lon": -6.0922698
+},
+{
+  "type": "node",
+  "id": 2380432542,
+  "lat": 53.3914392,
+  "lon": -6.0918358,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 2380432545,
+  "lat": 53.3914822,
+  "lon": -6.0928664
+},
+{
+  "type": "node",
+  "id": 2380432549,
+  "lat": 53.3913946,
+  "lon": -6.0909639
+},
+{
+  "type": "node",
+  "id": 2380432550,
+  "lat": 53.3914574,
+  "lon": -6.0938656
+},
+{
+  "type": "node",
+  "id": 3089122459,
+  "lat": 53.3913284,
+  "lon": -6.0894967
+},
+{
+  "type": "node",
+  "id": 3642841666,
+  "lat": 53.3904704,
+  "lon": -6.0847105
+},
+{
+  "type": "node",
+  "id": 3642841668,
+  "lat": 53.3915115,
+  "lon": -6.0960677,
+  "tags": {
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "node",
+  "id": 5589009040,
+  "lat": 53.3905100,
+  "lon": -6.0848815
+},
+{
+  "type": "node",
+  "id": 6665560880,
+  "lat": 53.3906213,
+  "lon": -6.0860111
+},
+{
+  "type": "node",
+  "id": 6666122945,
+  "lat": 53.3910016,
+  "lon": -6.0921343
+},
+{
+  "type": "node",
+  "id": 6666447246,
+  "lat": 53.3905883,
+  "lon": -6.0855885
+},
+{
+  "type": "node",
+  "id": 6666589519,
+  "lat": 53.3915242,
+  "lon": -6.0965640
+},
+{
+  "type": "node",
+  "id": 6725247644,
+  "lat": 53.3909184,
+  "lon": -6.0906759,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247645,
+  "lat": 53.3909968,
+  "lon": -6.0920470,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247646,
+  "lat": 53.3906259,
+  "lon": -6.0860827,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 7192997401,
+  "lat": 53.3915016,
+  "lon": -6.0956689
+},
+{
+  "type": "node",
+  "id": 11955626227,
+  "lat": 53.3906067,
+  "lon": -6.0858123
+},
+{
+  "type": "way",
+  "id": 54057186,
+  "nodes": [
+    681768157,
+    664673921,
+    6666122945,
+    6725247645,
+    1487174632,
+    6725247644,
+    6725247646,
+    6665560880,
+    686839714,
+    11955626227,
+    6666447246,
+    774654650,
+    5589009040,
+    3642841666,
+    1487174613
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Howth Road",
+    "name:en": "Howth Road",
+    "name:ga": "Bóthar Bhinn Éadair",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 304383794,
+  "nodes": [
+    3089122459,
+    336164015,
+    2380432549,
+    2380432542,
+    2380432530,
+    2380432545,
+    2380432516,
+    2380432550,
+    2380432494,
+    2187635938,
+    7192997401,
+    3642841668,
+    6666589519,
+    336164018
+  ],
+  "tags": {
+    "fixme": "Check point at which name changes to Burrow Road.",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Claremont Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1487174637,
+  "lat": 53.3910605,
+  "lon": -6.0910153
+},
+{
+  "type": "node",
+  "id": 1487174643,
+  "lat": 53.3913225,
+  "lon": -6.0909715
+},
+{
+  "type": "way",
+  "id": 135411051,
+  "nodes": [
+    1487174643,
+    1487174637
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Corr Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12173658525,
+  "lat": 53.3628709,
+  "lon": -6.0810496
+},
+{
+  "type": "node",
+  "id": 12173658526,
+  "lat": 53.3629090,
+  "lon": -6.0810648
+},
+{
+  "type": "way",
+  "id": 1315189106,
+  "nodes": [
+    12173658525,
+    12173658526
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 658703,
+  "lat": 53.3663257,
+  "lon": -6.0770832
+},
+{
+  "type": "node",
+  "id": 658705,
+  "lat": 53.3661567,
+  "lon": -6.0762471
+},
+{
+  "type": "node",
+  "id": 658706,
+  "lat": 53.3660995,
+  "lon": -6.0753882
+},
+{
+  "type": "node",
+  "id": 658708,
+  "lat": 53.3660741,
+  "lon": -6.0743890
+},
+{
+  "type": "node",
+  "id": 658709,
+  "lat": 53.3660883,
+  "lon": -6.0733585
+},
+{
+  "type": "node",
+  "id": 658712,
+  "lat": 53.3661209,
+  "lon": -6.0697785
+},
+{
+  "type": "node",
+  "id": 658713,
+  "lat": 53.3661676,
+  "lon": -6.0692371
+},
+{
+  "type": "node",
+  "id": 658716,
+  "lat": 53.3666448,
+  "lon": -6.0673281
+},
+{
+  "type": "node",
+  "id": 658718,
+  "lat": 53.3666659,
+  "lon": -6.0670149
+},
+{
+  "type": "node",
+  "id": 658721,
+  "lat": 53.3662491,
+  "lon": -6.0646979
+},
+{
+  "type": "node",
+  "id": 658724,
+  "lat": 53.3662242,
+  "lon": -6.0632645
+},
+{
+  "type": "node",
+  "id": 658725,
+  "lat": 53.3663440,
+  "lon": -6.0627113
+},
+{
+  "type": "node",
+  "id": 658726,
+  "lat": 53.3665041,
+  "lon": -6.0623330
+},
+{
+  "type": "node",
+  "id": 658727,
+  "lat": 53.3667796,
+  "lon": -6.0619833
+},
+{
+  "type": "node",
+  "id": 658728,
+  "lat": 53.3671317,
+  "lon": -6.0617138
+},
+{
+  "type": "node",
+  "id": 659601,
+  "lat": 53.3705424,
+  "lon": -6.0608200
+},
+{
+  "type": "node",
+  "id": 659605,
+  "lat": 53.3700867,
+  "lon": -6.0608296
+},
+{
+  "type": "node",
+  "id": 659606,
+  "lat": 53.3692080,
+  "lon": -6.0604862
+},
+{
+  "type": "node",
+  "id": 659607,
+  "lat": 53.3688856,
+  "lon": -6.0604689
+},
+{
+  "type": "node",
+  "id": 659610,
+  "lat": 53.3682901,
+  "lon": -6.0607961
+},
+{
+  "type": "node",
+  "id": 661204,
+  "lat": 53.3660129,
+  "lon": -6.0639456
+},
+{
+  "type": "node",
+  "id": 661205,
+  "lat": 53.3657590,
+  "lon": -6.0621431
+},
+{
+  "type": "node",
+  "id": 661206,
+  "lat": 53.3658446,
+  "lon": -6.0609212
+},
+{
+  "type": "node",
+  "id": 661210,
+  "lat": 53.3663112,
+  "lon": -6.0602838
+},
+{
+  "type": "node",
+  "id": 661212,
+  "lat": 53.3657746,
+  "lon": -6.0613490
+},
+{
+  "type": "node",
+  "id": 661217,
+  "lat": 53.3661125,
+  "lon": -6.0605028
+},
+{
+  "type": "node",
+  "id": 290089632,
+  "lat": 53.3659168,
+  "lon": -6.0607064
+},
+{
+  "type": "node",
+  "id": 665138639,
+  "lat": 53.3662112,
+  "lon": -6.0639578
+},
+{
+  "type": "node",
+  "id": 665138649,
+  "lat": 53.3686516,
+  "lon": -6.0605396
+},
+{
+  "type": "node",
+  "id": 665138663,
+  "lat": 53.3690223,
+  "lon": -6.0604651
+},
+{
+  "type": "node",
+  "id": 686818761,
+  "lat": 53.3683520,
+  "lon": -6.0607440
+},
+{
+  "type": "node",
+  "id": 686820798,
+  "lat": 53.3703615,
+  "lon": -6.0608388
+},
+{
+  "type": "node",
+  "id": 686990980,
+  "lat": 53.3657878,
+  "lon": -6.0612510
+},
+{
+  "type": "node",
+  "id": 895580125,
+  "lat": 53.3695197,
+  "lon": -6.0606110
+},
+{
+  "type": "node",
+  "id": 2380397813,
+  "lat": 53.3661784,
+  "lon": -6.0647017
+},
+{
+  "type": "node",
+  "id": 2380397817,
+  "lat": 53.3666435,
+  "lon": -6.0621353
+},
+{
+  "type": "node",
+  "id": 2380397820,
+  "lat": 53.3702645,
+  "lon": -6.0608492
+},
+{
+  "type": "node",
+  "id": 2380397843,
+  "lat": 53.3665272,
+  "lon": -6.0679247
+},
+{
+  "type": "node",
+  "id": 2380397848,
+  "lat": 53.3666469,
+  "lon": -6.0784048
+},
+{
+  "type": "node",
+  "id": 2380397871,
+  "lat": 53.3662860,
+  "lon": -6.0629031
+},
+{
+  "type": "node",
+  "id": 2380397923,
+  "lat": 53.3662261,
+  "lon": -6.0643459
+},
+{
+  "type": "node",
+  "id": 2380397927,
+  "lat": 53.3681186,
+  "lon": -6.0609427
+},
+{
+  "type": "node",
+  "id": 2380397931,
+  "lat": 53.3658037,
+  "lon": -6.0626527
+},
+{
+  "type": "node",
+  "id": 2380397937,
+  "lat": 53.3658929,
+  "lon": -6.0632745,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2380397966,
+  "lat": 53.3675856,
+  "lon": -6.0613448
+},
+{
+  "type": "node",
+  "id": 2380397990,
+  "lat": 53.3666395,
+  "lon": -6.0665824
+},
+{
+  "type": "node",
+  "id": 3400340241,
+  "lat": 53.3663537,
+  "lon": -6.0602409
+},
+{
+  "type": "node",
+  "id": 5585119747,
+  "lat": 53.3664776,
+  "lon": -6.0776841
+},
+{
+  "type": "node",
+  "id": 5585119750,
+  "lat": 53.3662530,
+  "lon": -6.0767977
+},
+{
+  "type": "node",
+  "id": 5585119751,
+  "lat": 53.3661921,
+  "lon": -6.0764976
+},
+{
+  "type": "node",
+  "id": 5585119752,
+  "lat": 53.3660724,
+  "lon": -6.0748839
+},
+{
+  "type": "node",
+  "id": 5585119753,
+  "lat": 53.3661169,
+  "lon": -6.0758150
+},
+{
+  "type": "node",
+  "id": 5585138351,
+  "lat": 53.3664753,
+  "lon": -6.0681140
+},
+{
+  "type": "node",
+  "id": 5585138362,
+  "lat": 53.3665821,
+  "lon": -6.0662089
+},
+{
+  "type": "node",
+  "id": 5585138363,
+  "lat": 53.3663932,
+  "lon": -6.0654641
+},
+{
+  "type": "node",
+  "id": 5585138364,
+  "lat": 53.3663099,
+  "lon": -6.0650864
+},
+{
+  "type": "node",
+  "id": 5630866254,
+  "lat": 53.3704527,
+  "lon": -6.0608293
+},
+{
+  "type": "node",
+  "id": 5631764390,
+  "lat": 53.3660788,
+  "lon": -6.0750025
+},
+{
+  "type": "node",
+  "id": 5631764392,
+  "lat": 53.3660798,
+  "lon": -6.0740943
+},
+{
+  "type": "node",
+  "id": 6013020400,
+  "lat": 53.3705594,
+  "lon": -6.0608126
+},
+{
+  "type": "node",
+  "id": 6614565374,
+  "lat": 53.3657603,
+  "lon": -6.0620751
+},
+{
+  "type": "node",
+  "id": 6614618699,
+  "lat": 53.3657669,
+  "lon": -6.0617400
+},
+{
+  "type": "node",
+  "id": 6614618701,
+  "lat": 53.3657977,
+  "lon": -6.0625844
+},
+{
+  "type": "node",
+  "id": 6614618719,
+  "lat": 53.3659143,
+  "lon": -6.0633894
+},
+{
+  "type": "node",
+  "id": 6641873178,
+  "lat": 53.3663494,
+  "lon": -6.0652657
+},
+{
+  "type": "node",
+  "id": 6641909842,
+  "lat": 53.3660858,
+  "lon": -6.0735287,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6641909843,
+  "lat": 53.3662596,
+  "lon": -6.0688476
+},
+{
+  "type": "node",
+  "id": 6641909844,
+  "lat": 53.3665940,
+  "lon": -6.0676546
+},
+{
+  "type": "node",
+  "id": 6725247660,
+  "lat": 53.3658816,
+  "lon": -6.0631942,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247661,
+  "lat": 53.3664939,
+  "lon": -6.0658610,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247662,
+  "lat": 53.3666117,
+  "lon": -6.0663742,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247663,
+  "lat": 53.3663778,
+  "lon": -6.0684456,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247664,
+  "lat": 53.3660804,
+  "lon": -6.0740356,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247665,
+  "lat": 53.3662800,
+  "lon": -6.0769036,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6725247666,
+  "lat": 53.3664035,
+  "lon": -6.0773910,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 7659406577,
+  "lat": 53.3665669,
+  "lon": -6.0622440
+},
+{
+  "type": "node",
+  "id": 7856513537,
+  "lat": 53.3666597,
+  "lon": -6.0667840
+},
+{
+  "type": "node",
+  "id": 10281497955,
+  "lat": 53.3658845,
+  "lon": -6.0608014
+},
+{
+  "type": "node",
+  "id": 12174946244,
+  "lat": 53.3664498,
+  "lon": -6.0656870
+},
+{
+  "type": "way",
+  "id": 584257217,
+  "nodes": [
+    12174946244,
+    5585138363,
+    6641873178,
+    5585138364,
+    658721
+  ],
+  "tags": {
+    "alt_name:ga": "Bóthar Na Carraige Brice",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Carrickbrack Road",
+    "name:en": "Carrickbrack Road",
+    "name:ga": "Bóthar Charraig Bhreac",
+    "ref": "R105",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 704331942,
+  "nodes": [
+    3400340241,
+    661210,
+    661217,
+    290089632,
+    10281497955,
+    661206,
+    686990980,
+    661212,
+    6614618699,
+    6614565374,
+    661205,
+    6614618701,
+    2380397931,
+    6725247660,
+    2380397937,
+    6614618719,
+    661204,
+    2380397813,
+    658721
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Thormanby Road",
+    "name:en": "Thormanby Road",
+    "name:ga": "Bóthar Thormanbaí",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 706821341,
+  "nodes": [
+    6013020400,
+    659601,
+    5630866254,
+    686820798,
+    2380397820,
+    659605,
+    895580125,
+    659606,
+    665138663,
+    659607,
+    665138649,
+    686818761,
+    659610,
+    2380397927,
+    2380397966,
+    658728,
+    658727,
+    2380397817,
+    7659406577,
+    658726,
+    658725,
+    2380397871,
+    658724,
+    665138639,
+    2380397923,
+    658721
+  ],
+  "tags": {
+    "alt_name:ga": "Bóthar Na Carraige Brice",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Carrickbrack Road",
+    "name:en": "Carrickbrack Road",
+    "name:ga": "Bóthar Charraig Bhreac",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 707082682,
+  "nodes": [
+    2380397848,
+    5585119747,
+    6725247666,
+    658703,
+    6725247665,
+    5585119750,
+    5585119751,
+    658705,
+    5585119753,
+    658706,
+    5631764390,
+    5585119752,
+    658708,
+    5631764392,
+    6725247664,
+    6641909842,
+    658709,
+    658712,
+    658713,
+    6641909843,
+    6725247663,
+    5585138351,
+    2380397843,
+    6641909844,
+    658716,
+    658718,
+    7856513537,
+    2380397990
+  ],
+  "tags": {
+    "alt_name:ga": "Bóthar Na Carraige Brice",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Carrickbrack Road",
+    "name:en": "Carrickbrack Road",
+    "name:ga": "Bóthar Charraig Bhreac",
+    "ref": "R105",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1315336754,
+  "nodes": [
+    2380397990,
+    6725247662,
+    5585138362,
+    6725247661,
+    12174946244
+  ],
+  "tags": {
+    "alt_name:ga": "Bóthar Na Carraige Brice",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Carrickbrack Road",
+    "name:en": "Carrickbrack Road",
+    "name:ga": "Bóthar Charraig Bhreac",
+    "ref": "R105",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6641873179,
+  "lat": 53.3662206,
+  "lon": -6.0653298
+},
+{
+  "type": "node",
+  "id": 6641873180,
+  "lat": 53.3660942,
+  "lon": -6.0648953
+},
+{
+  "type": "node",
+  "id": 6641909789,
+  "lat": 53.3662850,
+  "lon": -6.0652978,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "way",
+  "id": 706815690,
+  "nodes": [
+    6641909789,
+    6641873179,
+    6641873180
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "viaduct",
+    "highway": "service",
+    "layer": "1",
+    "note": "Viaduct raised above surrounding ground",
+    "service": "driveway",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 658721,
+  "lat": 53.3662491,
+  "lon": -6.0646979
+},
+{
+  "type": "node",
+  "id": 658724,
+  "lat": 53.3662242,
+  "lon": -6.0632645
+},
+{
+  "type": "node",
+  "id": 658725,
+  "lat": 53.3663440,
+  "lon": -6.0627113
+},
+{
+  "type": "node",
+  "id": 658726,
+  "lat": 53.3665041,
+  "lon": -6.0623330
+},
+{
+  "type": "node",
+  "id": 658727,
+  "lat": 53.3667796,
+  "lon": -6.0619833
+},
+{
+  "type": "node",
+  "id": 658728,
+  "lat": 53.3671317,
+  "lon": -6.0617138
+},
+{
+  "type": "node",
+  "id": 659601,
+  "lat": 53.3705424,
+  "lon": -6.0608200
+},
+{
+  "type": "node",
+  "id": 659605,
+  "lat": 53.3700867,
+  "lon": -6.0608296
+},
+{
+  "type": "node",
+  "id": 659606,
+  "lat": 53.3692080,
+  "lon": -6.0604862
+},
+{
+  "type": "node",
+  "id": 659607,
+  "lat": 53.3688856,
+  "lon": -6.0604689
+},
+{
+  "type": "node",
+  "id": 659610,
+  "lat": 53.3682901,
+  "lon": -6.0607961
+},
+{
+  "type": "node",
+  "id": 661207,
+  "lat": 53.3669736,
+  "lon": -6.0596900
+},
+{
+  "type": "node",
+  "id": 661208,
+  "lat": 53.3679953,
+  "lon": -6.0592763
+},
+{
+  "type": "node",
+  "id": 661219,
+  "lat": 53.3665093,
+  "lon": -6.0600841,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 60976824,
+  "lat": 53.3688790,
+  "lon": -6.0593679
+},
+{
+  "type": "node",
+  "id": 60976825,
+  "lat": 53.3692387,
+  "lon": -6.0592774
+},
+{
+  "type": "node",
+  "id": 60976826,
+  "lat": 53.3700121,
+  "lon": -6.0590606
+},
+{
+  "type": "node",
+  "id": 665138639,
+  "lat": 53.3662112,
+  "lon": -6.0639578
+},
+{
+  "type": "node",
+  "id": 665138649,
+  "lat": 53.3686516,
+  "lon": -6.0605396
+},
+{
+  "type": "node",
+  "id": 665138663,
+  "lat": 53.3690223,
+  "lon": -6.0604651
+},
+{
+  "type": "node",
+  "id": 665515554,
+  "lat": 53.3707756,
+  "lon": -6.0591809
+},
+{
+  "type": "node",
+  "id": 686818761,
+  "lat": 53.3683520,
+  "lon": -6.0607440
+},
+{
+  "type": "node",
+  "id": 686818770,
+  "lat": 53.3675410,
+  "lon": -6.0592990
+},
+{
+  "type": "node",
+  "id": 686818771,
+  "lat": 53.3677442,
+  "lon": -6.0592518
+},
+{
+  "type": "node",
+  "id": 686818776,
+  "lat": 53.3681235,
+  "lon": -6.0592948
+},
+{
+  "type": "node",
+  "id": 686820798,
+  "lat": 53.3703615,
+  "lon": -6.0608388
+},
+{
+  "type": "node",
+  "id": 686990984,
+  "lat": 53.3667195,
+  "lon": -6.0598899
+},
+{
+  "type": "node",
+  "id": 895580115,
+  "lat": 53.3687112,
+  "lon": -6.0593650
+},
+{
+  "type": "node",
+  "id": 895580125,
+  "lat": 53.3695197,
+  "lon": -6.0606110
+},
+{
+  "type": "node",
+  "id": 2380397817,
+  "lat": 53.3666435,
+  "lon": -6.0621353
+},
+{
+  "type": "node",
+  "id": 2380397820,
+  "lat": 53.3702645,
+  "lon": -6.0608492
+},
+{
+  "type": "node",
+  "id": 2380397871,
+  "lat": 53.3662860,
+  "lon": -6.0629031
+},
+{
+  "type": "node",
+  "id": 2380397923,
+  "lat": 53.3662261,
+  "lon": -6.0643459
+},
+{
+  "type": "node",
+  "id": 2380397927,
+  "lat": 53.3681186,
+  "lon": -6.0609427
+},
+{
+  "type": "node",
+  "id": 2380397966,
+  "lat": 53.3675856,
+  "lon": -6.0613448
+},
+{
+  "type": "node",
+  "id": 2380397975,
+  "lat": 53.3672135,
+  "lon": -6.0595089
+},
+{
+  "type": "node",
+  "id": 3400340241,
+  "lat": 53.3663537,
+  "lon": -6.0602409
+},
+{
+  "type": "node",
+  "id": 5630866254,
+  "lat": 53.3704527,
+  "lon": -6.0608293
+},
+{
+  "type": "node",
+  "id": 5633601873,
+  "lat": 53.3666871,
+  "lon": -6.0599201
+},
+{
+  "type": "node",
+  "id": 5633626058,
+  "lat": 53.3670203,
+  "lon": -6.0596547
+},
+{
+  "type": "node",
+  "id": 5633626089,
+  "lat": 53.3672192,
+  "lon": -6.0595053
+},
+{
+  "type": "node",
+  "id": 5633652866,
+  "lat": 53.3678474,
+  "lon": -6.0592619
+},
+{
+  "type": "node",
+  "id": 5633652879,
+  "lat": 53.3676828,
+  "lon": -6.0592661
+},
+{
+  "type": "node",
+  "id": 5633652902,
+  "lat": 53.3672471,
+  "lon": -6.0594874
+},
+{
+  "type": "node",
+  "id": 5633656559,
+  "lat": 53.3670765,
+  "lon": -6.0596123
+},
+{
+  "type": "node",
+  "id": 5633672722,
+  "lat": 53.3698856,
+  "lon": -6.0590571
+},
+{
+  "type": "node",
+  "id": 5633672726,
+  "lat": 53.3690779,
+  "lon": -6.0593179
+},
+{
+  "type": "node",
+  "id": 6013020400,
+  "lat": 53.3705594,
+  "lon": -6.0608126
+},
+{
+  "type": "node",
+  "id": 6614348495,
+  "lat": 53.3694269,
+  "lon": -6.0592133
+},
+{
+  "type": "node",
+  "id": 6725247659,
+  "lat": 53.3665844,
+  "lon": -6.0600159,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 7659406577,
+  "lat": 53.3665669,
+  "lon": -6.0622440
+},
+{
+  "type": "way",
+  "id": 704298091,
+  "nodes": [
+    665515554,
+    60976826,
+    5633672722,
+    6614348495,
+    60976825,
+    5633672726,
+    60976824,
+    895580115
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Thormanby Road",
+    "name:en": "Thormanby Road",
+    "name:ga": "Bóthar Thormanbaí",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 706821341,
+  "nodes": [
+    6013020400,
+    659601,
+    5630866254,
+    686820798,
+    2380397820,
+    659605,
+    895580125,
+    659606,
+    665138663,
+    659607,
+    665138649,
+    686818761,
+    659610,
+    2380397927,
+    2380397966,
+    658728,
+    658727,
+    2380397817,
+    7659406577,
+    658726,
+    658725,
+    2380397871,
+    658724,
+    665138639,
+    2380397923,
+    658721
+  ],
+  "tags": {
+    "alt_name:ga": "Bóthar Na Carraige Brice",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Carrickbrack Road",
+    "name:en": "Carrickbrack Road",
+    "name:ga": "Bóthar Charraig Bhreac",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1315336755,
+  "nodes": [
+    895580115,
+    686818776,
+    661208,
+    5633652866,
+    686818771,
+    5633652879,
+    686818770,
+    5633652902,
+    5633626089,
+    2380397975,
+    5633656559,
+    5633626058,
+    661207,
+    686990984,
+    5633601873,
+    6725247659,
+    661219,
+    3400340241
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Thormanby Road",
+    "name:en": "Thormanby Road",
+    "name:ga": "Bóthar Thormanbaí",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6613016238,
+  "lat": 53.3680928,
+  "lon": -6.0595305
+},
+{
+  "type": "node",
+  "id": 6613016239,
+  "lat": 53.3681240,
+  "lon": -6.0595027
+},
+{
+  "type": "way",
+  "id": 704298090,
+  "nodes": [
+    6613016239,
+    6613016238
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 658721,
+  "lat": 53.3662491,
+  "lon": -6.0646979
+},
+{
+  "type": "node",
+  "id": 658724,
+  "lat": 53.3662242,
+  "lon": -6.0632645
+},
+{
+  "type": "node",
+  "id": 658725,
+  "lat": 53.3663440,
+  "lon": -6.0627113
+},
+{
+  "type": "node",
+  "id": 658726,
+  "lat": 53.3665041,
+  "lon": -6.0623330
+},
+{
+  "type": "node",
+  "id": 658727,
+  "lat": 53.3667796,
+  "lon": -6.0619833
+},
+{
+  "type": "node",
+  "id": 658728,
+  "lat": 53.3671317,
+  "lon": -6.0617138
+},
+{
+  "type": "node",
+  "id": 659601,
+  "lat": 53.3705424,
+  "lon": -6.0608200
+},
+{
+  "type": "node",
+  "id": 659605,
+  "lat": 53.3700867,
+  "lon": -6.0608296
+},
+{
+  "type": "node",
+  "id": 659606,
+  "lat": 53.3692080,
+  "lon": -6.0604862
+},
+{
+  "type": "node",
+  "id": 659607,
+  "lat": 53.3688856,
+  "lon": -6.0604689
+},
+{
+  "type": "node",
+  "id": 659610,
+  "lat": 53.3682901,
+  "lon": -6.0607961
+},
+{
+  "type": "node",
+  "id": 661207,
+  "lat": 53.3669736,
+  "lon": -6.0596900
+},
+{
+  "type": "node",
+  "id": 661208,
+  "lat": 53.3679953,
+  "lon": -6.0592763
+},
+{
+  "type": "node",
+  "id": 661219,
+  "lat": 53.3665093,
+  "lon": -6.0600841,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 60976824,
+  "lat": 53.3688790,
+  "lon": -6.0593679
+},
+{
+  "type": "node",
+  "id": 60976825,
+  "lat": 53.3692387,
+  "lon": -6.0592774
+},
+{
+  "type": "node",
+  "id": 60976826,
+  "lat": 53.3700121,
+  "lon": -6.0590606
+},
+{
+  "type": "node",
+  "id": 665138639,
+  "lat": 53.3662112,
+  "lon": -6.0639578
+},
+{
+  "type": "node",
+  "id": 665138649,
+  "lat": 53.3686516,
+  "lon": -6.0605396
+},
+{
+  "type": "node",
+  "id": 665138663,
+  "lat": 53.3690223,
+  "lon": -6.0604651
+},
+{
+  "type": "node",
+  "id": 665515554,
+  "lat": 53.3707756,
+  "lon": -6.0591809
+},
+{
+  "type": "node",
+  "id": 686818761,
+  "lat": 53.3683520,
+  "lon": -6.0607440
+},
+{
+  "type": "node",
+  "id": 686818770,
+  "lat": 53.3675410,
+  "lon": -6.0592990
+},
+{
+  "type": "node",
+  "id": 686818771,
+  "lat": 53.3677442,
+  "lon": -6.0592518
+},
+{
+  "type": "node",
+  "id": 686818776,
+  "lat": 53.3681235,
+  "lon": -6.0592948
+},
+{
+  "type": "node",
+  "id": 686820798,
+  "lat": 53.3703615,
+  "lon": -6.0608388
+},
+{
+  "type": "node",
+  "id": 686990984,
+  "lat": 53.3667195,
+  "lon": -6.0598899
+},
+{
+  "type": "node",
+  "id": 895580115,
+  "lat": 53.3687112,
+  "lon": -6.0593650
+},
+{
+  "type": "node",
+  "id": 895580125,
+  "lat": 53.3695197,
+  "lon": -6.0606110
+},
+{
+  "type": "node",
+  "id": 2380397817,
+  "lat": 53.3666435,
+  "lon": -6.0621353
+},
+{
+  "type": "node",
+  "id": 2380397820,
+  "lat": 53.3702645,
+  "lon": -6.0608492
+},
+{
+  "type": "node",
+  "id": 2380397871,
+  "lat": 53.3662860,
+  "lon": -6.0629031
+},
+{
+  "type": "node",
+  "id": 2380397923,
+  "lat": 53.3662261,
+  "lon": -6.0643459
+},
+{
+  "type": "node",
+  "id": 2380397927,
+  "lat": 53.3681186,
+  "lon": -6.0609427
+},
+{
+  "type": "node",
+  "id": 2380397966,
+  "lat": 53.3675856,
+  "lon": -6.0613448
+},
+{
+  "type": "node",
+  "id": 2380397975,
+  "lat": 53.3672135,
+  "lon": -6.0595089
+},
+{
+  "type": "node",
+  "id": 3400340241,
+  "lat": 53.3663537,
+  "lon": -6.0602409
+},
+{
+  "type": "node",
+  "id": 5630866254,
+  "lat": 53.3704527,
+  "lon": -6.0608293
+},
+{
+  "type": "node",
+  "id": 5633601873,
+  "lat": 53.3666871,
+  "lon": -6.0599201
+},
+{
+  "type": "node",
+  "id": 5633626058,
+  "lat": 53.3670203,
+  "lon": -6.0596547
+},
+{
+  "type": "node",
+  "id": 5633626089,
+  "lat": 53.3672192,
+  "lon": -6.0595053
+},
+{
+  "type": "node",
+  "id": 5633652866,
+  "lat": 53.3678474,
+  "lon": -6.0592619
+},
+{
+  "type": "node",
+  "id": 5633652879,
+  "lat": 53.3676828,
+  "lon": -6.0592661
+},
+{
+  "type": "node",
+  "id": 5633652902,
+  "lat": 53.3672471,
+  "lon": -6.0594874
+},
+{
+  "type": "node",
+  "id": 5633656559,
+  "lat": 53.3670765,
+  "lon": -6.0596123
+},
+{
+  "type": "node",
+  "id": 5633672722,
+  "lat": 53.3698856,
+  "lon": -6.0590571
+},
+{
+  "type": "node",
+  "id": 5633672726,
+  "lat": 53.3690779,
+  "lon": -6.0593179
+},
+{
+  "type": "node",
+  "id": 6013020400,
+  "lat": 53.3705594,
+  "lon": -6.0608126
+},
+{
+  "type": "node",
+  "id": 6614348495,
+  "lat": 53.3694269,
+  "lon": -6.0592133
+},
+{
+  "type": "node",
+  "id": 6725247659,
+  "lat": 53.3665844,
+  "lon": -6.0600159,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Incomplete.",
+    "network": "Transport for Ireland",
+    "network:wikidata": "Q17100681",
+    "network:wikipedia": "en:National Transport Authority (Ireland)",
+    "operator": "Dublin Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 7659406577,
+  "lat": 53.3665669,
+  "lon": -6.0622440
+},
+{
+  "type": "way",
+  "id": 704298091,
+  "nodes": [
+    665515554,
+    60976826,
+    5633672722,
+    6614348495,
+    60976825,
+    5633672726,
+    60976824,
+    895580115
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Thormanby Road",
+    "name:en": "Thormanby Road",
+    "name:ga": "Bóthar Thormanbaí",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 706821341,
+  "nodes": [
+    6013020400,
+    659601,
+    5630866254,
+    686820798,
+    2380397820,
+    659605,
+    895580125,
+    659606,
+    665138663,
+    659607,
+    665138649,
+    686818761,
+    659610,
+    2380397927,
+    2380397966,
+    658728,
+    658727,
+    2380397817,
+    7659406577,
+    658726,
+    658725,
+    2380397871,
+    658724,
+    665138639,
+    2380397923,
+    658721
+  ],
+  "tags": {
+    "alt_name:ga": "Bóthar Na Carraige Brice",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Carrickbrack Road",
+    "name:en": "Carrickbrack Road",
+    "name:ga": "Bóthar Charraig Bhreac",
+    "ref": "R105",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1315336755,
+  "nodes": [
+    895580115,
+    686818776,
+    661208,
+    5633652866,
+    686818771,
+    5633652879,
+    686818770,
+    5633652902,
+    5633626089,
+    2380397975,
+    5633656559,
+    5633626058,
+    661207,
+    686990984,
+    5633601873,
+    6725247659,
+    661219,
+    3400340241
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Thormanby Road",
+    "name:en": "Thormanby Road",
+    "name:ga": "Bóthar Thormanbaí",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 686818755,
+  "lat": 53.3682110,
+  "lon": -6.0605476
+},
+{
+  "type": "node",
+  "id": 686818758,
+  "lat": 53.3682754,
+  "lon": -6.0605574
+},
+{
+  "type": "way",
+  "id": 704298094,
+  "nodes": [
+    686818755,
+    686818758
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6048962513,
+  "lat": 53.3638222,
+  "lon": -6.0614748,
+  "tags": {
+    "emergency": "access_point",
+    "emergency_telephone_code": "112",
+    "highway": "emergency_access_point",
+    "operator": "Irish Coast Guard",
+    "ref": "16"
+  }
+},
+{
+  "type": "node",
+  "id": 12174792733,
+  "lat": 53.3638203,
+  "lon": -6.0614249
+},
+{
+  "type": "node",
+  "id": 12174792734,
+  "lat": 53.3638242,
+  "lon": -6.0615079
+},
+{
+  "type": "way",
+  "id": 1315316558,
+  "nodes": [
+    12174792734,
+    6048962513,
+    12174792733
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "horse_scale": "critical",
+    "layer": "1",
+    "name": "Bog of Frogs Loop",
+    "sac_scale": "hiking",
+    "surface": "boardwalk",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 290306700,
+  "lat": 53.3648083,
+  "lon": -6.0598957
+},
+{
+  "type": "node",
+  "id": 12175153416,
+  "lat": 53.3648310,
+  "lon": -6.0598286
+},
+{
+  "type": "way",
+  "id": 1315357550,
+  "nodes": [
+    290306700,
+    12175153416
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "horse_scale": "critical",
+    "layer": "1",
+    "name": "Bog of Frogs Loop",
+    "sac_scale": "hiking",
+    "surface": "wood",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 290089607,
+  "lat": 53.3651844,
+  "lon": -6.0577580
+},
+{
+  "type": "node",
+  "id": 290089616,
+  "lat": 53.3655383,
+  "lon": -6.0588902
+},
+{
+  "type": "node",
+  "id": 290089622,
+  "lat": 53.3657370,
+  "lon": -6.0593673
+},
+{
+  "type": "node",
+  "id": 290089624,
+  "lat": 53.3658143,
+  "lon": -6.0598110
+},
+{
+  "type": "node",
+  "id": 290089631,
+  "lat": 53.3658877,
+  "lon": -6.0605890,
+  "tags": {
+    "barrier": "gate",
+    "motor_vehicle": "private"
+  }
+},
+{
+  "type": "node",
+  "id": 290089632,
+  "lat": 53.3659168,
+  "lon": -6.0607064
+},
+{
+  "type": "node",
+  "id": 895580098,
+  "lat": 53.3658714,
+  "lon": -6.0604199
+},
+{
+  "type": "node",
+  "id": 2516971399,
+  "lat": 53.3653120,
+  "lon": -6.0582492
+},
+{
+  "type": "node",
+  "id": 2516971401,
+  "lat": 53.3654114,
+  "lon": -6.0585691
+},
+{
+  "type": "node",
+  "id": 2516971404,
+  "lat": 53.3656747,
+  "lon": -6.0591743
+},
+{
+  "type": "node",
+  "id": 2516971405,
+  "lat": 53.3657820,
+  "lon": -6.0595510
+},
+{
+  "type": "node",
+  "id": 2516971406,
+  "lat": 53.3658467,
+  "lon": -6.0600764
+},
+{
+  "type": "way",
+  "id": 52302133,
+  "nodes": [
+    290089607,
+    2516971399,
+    2516971401,
+    290089616,
+    2516971404,
+    290089622,
+    2516971405,
+    290089624,
+    2516971406,
+    895580098,
+    290089631,
+    290089632
+  ],
+  "tags": {
+    "access": "private",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "10",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 10735865355,
+  "lat": 53.3650081,
+  "lon": -6.0584221
+},
+{
+  "type": "node",
+  "id": 12175186733,
+  "lat": 53.3650175,
+  "lon": -6.0584751
+},
+{
+  "type": "way",
+  "id": 1315360883,
+  "nodes": [
+    12175186733,
+    10735865355
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "horse_scale": "critical",
+    "layer": "1",
+    "name": "Bog of Frogs Loop",
+    "sac_scale": "hiking",
+    "surface": "compacted",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 316420388,
+  "lat": 53.3759545,
+  "lon": -6.0804662
+},
+{
+  "type": "node",
+  "id": 316420389,
+  "lat": 53.3760993,
+  "lon": -6.0801089
+},
+{
+  "type": "node",
+  "id": 316420390,
+  "lat": 53.3762909,
+  "lon": -6.0796657
+},
+{
+  "type": "node",
+  "id": 1708119888,
+  "lat": 53.3760230,
+  "lon": -6.0803079
+},
+{
+  "type": "node",
+  "id": 3776392869,
+  "lat": 53.3760663,
+  "lon": -6.0802157
+},
+{
+  "type": "node",
+  "id": 3776392880,
+  "lat": 53.3761174,
+  "lon": -6.0800724
+},
+{
+  "type": "node",
+  "id": 3776392885,
+  "lat": 53.3761344,
+  "lon": -6.0800427
+},
+{
+  "type": "node",
+  "id": 3776392887,
+  "lat": 53.3761537,
+  "lon": -6.0799936
+},
+{
+  "type": "node",
+  "id": 3776392891,
+  "lat": 53.3761712,
+  "lon": -6.0799529
+},
+{
+  "type": "node",
+  "id": 3776392895,
+  "lat": 53.3761962,
+  "lon": -6.0798820
+},
+{
+  "type": "node",
+  "id": 3776392899,
+  "lat": 53.3762406,
+  "lon": -6.0797807
+},
+{
+  "type": "node",
+  "id": 3776400719,
+  "lat": 53.3759743,
+  "lon": -6.0803897
+},
+{
+  "type": "node",
+  "id": 9038784235,
+  "lat": 53.3763484,
+  "lon": -6.0795058
+},
+{
+  "type": "node",
+  "id": 9942951540,
+  "lat": 53.3761198,
+  "lon": -6.0800682
+},
+{
+  "type": "way",
+  "id": 164589273,
+  "nodes": [
+    316420388,
+    3776400719,
+    1708119888,
+    3776392869,
+    316420389,
+    3776392880,
+    9942951540,
+    3776392885,
+    3776392887,
+    3776392891,
+    3776392895,
+    3776392899,
+    316420390,
+    9038784235
+  ],
+  "tags": {
+    "bridge": "boardwalk",
+    "highway": "footway",
+    "layer": "1",
+    "name": "Bog of Frogs Loop",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "surface": "ground",
+    "trail_visibility": "excellent",
+    "width": "1.50"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4610739553,
+  "lat": 53.3902504,
+  "lon": -6.0731744
+},
+{
+  "type": "node",
+  "id": 4610739554,
+  "lat": 53.3903209,
+  "lon": -6.0736252
+},
+{
+  "type": "node",
+  "id": 4620968774,
+  "lat": 53.3902864,
+  "lon": -6.0734046
+},
+{
+  "type": "way",
+  "id": 466215827,
+  "nodes": [
+    4610739553,
+    4620968774,
+    4610739554
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "broad",
+    "name": "Traverser",
+    "operator": "John Leonard Shipwright & Co",
+    "passenger": "no",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "freight",
+    "service": "yard",
+    "usage": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6721789388,
+  "lat": 53.3891637,
+  "lon": -6.0686951
+},
+{
+  "type": "node",
+  "id": 6721789389,
+  "lat": 53.3889512,
+  "lon": -6.0688846
+},
+{
+  "type": "way",
+  "id": 715169292,
+  "nodes": [
+    6721789388,
+    6721789389
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4305843535,
+  "lat": 53.3889466,
+  "lon": -6.0675914
+},
+{
+  "type": "node",
+  "id": 4305843543,
+  "lat": 53.3889895,
+  "lon": -6.0672633
+},
+{
+  "type": "way",
+  "id": 431381218,
+  "nodes": [
+    4305843535,
+    4305843543
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

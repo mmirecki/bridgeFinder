@@ -1,0 +1,463 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T21:14:39Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3580772636,
+  "lat": 53.0470052,
+  "lon": 0.2026090
+},
+{
+  "type": "node",
+  "id": 3580772641,
+  "lat": 53.0471023,
+  "lon": 0.2023859
+},
+{
+  "type": "way",
+  "id": 352319650,
+  "nodes": [
+    3580772641,
+    3580772636
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "Bing",
+    "tracktype": "grade1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3580772681,
+  "lat": 53.0508832,
+  "lon": 0.2073982
+},
+{
+  "type": "node",
+  "id": 3580772690,
+  "lat": 53.0509643,
+  "lon": 0.2072081
+},
+{
+  "type": "way",
+  "id": 352319647,
+  "nodes": [
+    3580772681,
+    3580772690
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3580735401,
+  "lat": 53.0560640,
+  "lon": 0.2138305
+},
+{
+  "type": "node",
+  "id": 3580735402,
+  "lat": 53.0561479,
+  "lon": 0.2136349
+},
+{
+  "type": "way",
+  "id": 352316957,
+  "nodes": [
+    3580735401,
+    3580735402
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "name": "The Staver",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3281008464,
+  "lat": 53.0659713,
+  "lon": 0.2261655
+},
+{
+  "type": "node",
+  "id": 3281008466,
+  "lat": 53.0660664,
+  "lon": 0.2260239
+},
+{
+  "type": "way",
+  "id": 321360308,
+  "nodes": [
+    3281008466,
+    3281008464
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "name": "Sea Lane",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9573046714,
+  "lat": 53.0794385,
+  "lon": 0.2063008
+},
+{
+  "type": "node",
+  "id": 9573046715,
+  "lat": 53.0794055,
+  "lon": 0.2062538
+},
+{
+  "type": "way",
+  "id": 1039614133,
+  "nodes": [
+    9573046715,
+    9573046714
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "name": "High Street",
+    "prow_ref": "Fris/322"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9573046710,
+  "lat": 53.0827132,
+  "lon": 0.2092686
+},
+{
+  "type": "node",
+  "id": 9573046711,
+  "lat": 53.0826915,
+  "lon": 0.2092364
+},
+{
+  "type": "way",
+  "id": 1039614130,
+  "nodes": [
+    9573046711,
+    9573046710
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "name": "High Street",
+    "prow_ref": "Fris/322"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9573046706,
+  "lat": 53.0840335,
+  "lon": 0.2106808
+},
+{
+  "type": "node",
+  "id": 9573046707,
+  "lat": 53.0840085,
+  "lon": 0.2106486
+},
+{
+  "type": "way",
+  "id": 1039614126,
+  "nodes": [
+    9573046707,
+    9573046706
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "name": "High Street",
+    "prow_ref": "Fris/322"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9573046708,
+  "lat": 53.0831925,
+  "lon": 0.2097756
+},
+{
+  "type": "node",
+  "id": 9573046709,
+  "lat": 53.0831732,
+  "lon": 0.2097434
+},
+{
+  "type": "way",
+  "id": 1039614128,
+  "nodes": [
+    9573046709,
+    9573046708
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "name": "High Street",
+    "prow_ref": "Fris/322"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9573046699,
+  "lat": 53.0877234,
+  "lon": 0.2154940
+},
+{
+  "type": "node",
+  "id": 9573046700,
+  "lat": 53.0876920,
+  "lon": 0.2154565
+},
+{
+  "type": "way",
+  "id": 1039614122,
+  "nodes": [
+    9573046700,
+    9573046699
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "name": "High Street",
+    "prow_ref": "WStM/322"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9573046696,
+  "lat": 53.0910555,
+  "lon": 0.2218039
+},
+{
+  "type": "node",
+  "id": 9573046697,
+  "lat": 53.0910104,
+  "lon": 0.2217583
+},
+{
+  "type": "way",
+  "id": 1039614124,
+  "nodes": [
+    9573046697,
+    9573046696
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "name": "High Street",
+    "prow_ref": "WStM/322"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

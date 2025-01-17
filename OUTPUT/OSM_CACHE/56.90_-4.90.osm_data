@@ -1,0 +1,245 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:03:54Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4286772244,
+  "lat": 56.9572679,
+  "lon": -4.8662259
+},
+{
+  "type": "node",
+  "id": 4286772245,
+  "lat": 56.9572862,
+  "lon": -4.8664747
+},
+{
+  "type": "way",
+  "id": 429526636,
+  "nodes": [
+    4286772245,
+    4286772244
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4286772605,
+  "lat": 56.9789520,
+  "lon": -4.8331986
+},
+{
+  "type": "node",
+  "id": 4286772609,
+  "lat": 56.9790802,
+  "lon": -4.8332642
+},
+{
+  "type": "way",
+  "id": 429526638,
+  "nodes": [
+    4286772609,
+    4286772605
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 554263238,
+  "lat": 56.9029906,
+  "lon": -4.8194699
+},
+{
+  "type": "node",
+  "id": 554263249,
+  "lat": 56.9030486,
+  "lon": -4.8196095
+},
+{
+  "type": "way",
+  "id": 43766943,
+  "nodes": [
+    554263238,
+    554263249
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1015",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight": "7.5",
+    "maxwidth": "7'6\"",
+    "name": "Glenroy Road",
+    "source": "survey",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1695369974,
+  "lat": 56.9207353,
+  "lon": -4.7997603
+},
+{
+  "type": "node",
+  "id": 1695369975,
+  "lat": 56.9209668,
+  "lon": -4.8000111
+},
+{
+  "type": "way",
+  "id": 157330277,
+  "nodes": [
+    1695369974,
+    1695369975
+  ],
+  "tags": {
+    "bridge": "yes",
+    "layer": "1",
+    "name": "Cranachan Bridge - collapsed"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9518778352,
+  "lat": 56.9392789,
+  "lon": -4.8033328
+},
+{
+  "type": "node",
+  "id": 9518778400,
+  "lat": 56.9392202,
+  "lon": -4.8033462
+},
+{
+  "type": "way",
+  "id": 1033162943,
+  "nodes": [
+    9518778352,
+    9518778400
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1015",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "maxweight": "7.5",
+    "maxwidth": "7'6\"",
+    "name": "Glenroy Road",
+    "source": "survey",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:13:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 9604243548,
+  "lat": 58.2510832,
+  "lon": -6.6971312
+},
+{
+  "type": "node",
+  "id": 9604243549,
+  "lat": 58.2511097,
+  "lon": -6.6972230
+},
+{
+  "type": "way",
+  "id": 1043566148,
+  "nodes": [
+    9604243548,
+    9604243549
+  ],
+  "tags": {
+    "alt_name:gd": "Rathad a' Phentland",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Rathad Phentland",
+    "name:en": "Pentland Road",
+    "name:gd": "Rathad Phentland",
+    "oneway": "no",
+    "passing_places": "yes",
+    "source": "GPS trace",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8149775783,
+  "lat": 58.2260604,
+  "lon": -6.6324305
+},
+{
+  "type": "node",
+  "id": 8149775784,
+  "lat": 58.2260317,
+  "lon": -6.6322900
+},
+{
+  "type": "way",
+  "id": 875591926,
+  "nodes": [
+    8149775784,
+    8149775783
+  ],
+  "tags": {
+    "alt_name:gd": "Rathad a' Phentland",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Rathad Phentland",
+    "name:en": "Pentland Road",
+    "name:gd": "Rathad Phentland",
+    "oneway": "no",
+    "passing_places": "yes",
+    "source": "GPS trace",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

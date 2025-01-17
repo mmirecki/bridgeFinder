@@ -1,0 +1,334 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:00:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3755674705,
+  "lat": 56.8317369,
+  "lon": -3.2988935
+},
+{
+  "type": "node",
+  "id": 8270241861,
+  "lat": 56.8318158,
+  "lon": -3.2990098
+},
+{
+  "type": "way",
+  "id": 889577006,
+  "nodes": [
+    3755674705,
+    8270241861
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "level": "1",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2328337316,
+  "lat": 56.8140389,
+  "lon": -3.2127542
+},
+{
+  "type": "node",
+  "id": 9487828489,
+  "lat": 56.8140905,
+  "lon": -3.2128148
+},
+{
+  "type": "way",
+  "id": 1029095341,
+  "nodes": [
+    9487828489,
+    2328337316
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "name": "Kilbo Path",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2328337328,
+  "lat": 56.8147825,
+  "lon": -3.2180275
+},
+{
+  "type": "node",
+  "id": 2328337332,
+  "lat": 56.8148198,
+  "lon": -3.2177611
+},
+{
+  "type": "way",
+  "id": 263080294,
+  "nodes": [
+    2328337328,
+    2328337332
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "name": "Kilbo Path",
+    "tracktype": "grade1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 286876164,
+  "lat": 56.8612363,
+  "lon": -3.2296732
+},
+{
+  "type": "node",
+  "id": 9505814383,
+  "lat": 56.8612257,
+  "lon": -3.2297038
+},
+{
+  "type": "way",
+  "id": 1031386316,
+  "nodes": [
+    286876164,
+    9505814383
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1187919846,
+  "lat": 56.8669718,
+  "lon": -3.2107988
+},
+{
+  "type": "node",
+  "id": 1187919908,
+  "lat": 56.8668447,
+  "lon": -3.2107109
+},
+{
+  "type": "way",
+  "id": 102864708,
+  "nodes": [
+    1187919908,
+    1187919846
+  ],
+  "tags": {
+    "access": "private",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "yes",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 286876113,
+  "lat": 56.8675858,
+  "lon": -3.2044702
+},
+{
+  "type": "node",
+  "id": 286876114,
+  "lat": 56.8672471,
+  "lon": -3.2049626
+},
+{
+  "type": "way",
+  "id": 102864714,
+  "nodes": [
+    286876113,
+    286876114
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "private",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1187919794,
+  "lat": 56.8758030,
+  "lon": -3.2361111
+},
+{
+  "type": "node",
+  "id": 1187919839,
+  "lat": 56.8759038,
+  "lon": -3.2359777
+},
+{
+  "type": "way",
+  "id": 102864712,
+  "nodes": [
+    1187919794,
+    1187919839
+  ],
+  "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

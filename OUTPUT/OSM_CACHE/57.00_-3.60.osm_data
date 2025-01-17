@@ -1,0 +1,240 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:45:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 304587809,
+  "lat": 57.0228745,
+  "lon": -3.5821420
+},
+{
+  "type": "node",
+  "id": 3004781317,
+  "lat": 57.0227252,
+  "lon": -3.5820885
+},
+{
+  "type": "way",
+  "id": 680026735,
+  "nodes": [
+    304587809,
+    3004781317
+  ],
+  "tags": {
+    "bridge": "yes",
+    "flickr": "https://www.flickr.com/photos/22985844@N07/52066744599/",
+    "highway": "path",
+    "layer": "1",
+    "source": "NPE",
+    "surface": "wood",
+    "width": "0.75",
+    "wikimedia_commons": "File:Footbridge over Derry Burn, Glen Lui Cairngorms nr Derry Lodge 20220510 0247.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3004778078,
+  "lat": 57.0430133,
+  "lon": -3.5842493
+},
+{
+  "type": "node",
+  "id": 3004778079,
+  "lat": 57.0429454,
+  "lon": -3.5843397
+},
+{
+  "type": "way",
+  "id": 296669251,
+  "nodes": [
+    3004778078,
+    3004778079
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Derry Dam Bridge",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8972473737,
+  "lat": 57.0404973,
+  "lon": -3.5780870
+},
+{
+  "type": "node",
+  "id": 8972473738,
+  "lat": 57.0404999,
+  "lon": -3.5780183
+},
+{
+  "type": "way",
+  "id": 969586186,
+  "nodes": [
+    8972473738,
+    8972473737
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "hiking",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 304577878,
+  "lat": 57.0047522,
+  "lon": -3.5432532
+},
+{
+  "type": "node",
+  "id": 3009148946,
+  "lat": 57.0048596,
+  "lon": -3.5429327
+},
+{
+  "type": "way",
+  "id": 297083035,
+  "nodes": [
+    304577878,
+    3009148946
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "survey",
+    "surface": "wood",
+    "width": "2.5"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8972473741,
+  "lat": 57.0762708,
+  "lon": -3.5985007
+},
+{
+  "type": "node",
+  "id": 8972473742,
+  "lat": 57.0763166,
+  "lon": -3.5984638
+},
+{
+  "type": "way",
+  "id": 969586188,
+  "nodes": [
+    8972473741,
+    8972473742
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

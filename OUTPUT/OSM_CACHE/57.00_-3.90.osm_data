@@ -1,0 +1,240 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:35:37Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3270409736,
+  "lat": 57.0448638,
+  "lon": -3.8964638
+},
+{
+  "type": "node",
+  "id": 3270409737,
+  "lat": 57.0448490,
+  "lon": -3.8960330
+},
+{
+  "type": "way",
+  "id": 26534334,
+  "nodes": [
+    3270409737,
+    3270409736
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "horse": "yes",
+    "name": "Pony Bridge",
+    "note": "This is not the Carnachuin, that is further upstream."
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7704975589,
+  "lat": 57.0586677,
+  "lon": -3.8977783
+},
+{
+  "type": "node",
+  "id": 7704975692,
+  "lat": 57.0587045,
+  "lon": -3.8977314
+},
+{
+  "type": "way",
+  "id": 825167112,
+  "nodes": [
+    7704975589,
+    7704975692
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7704975628,
+  "lat": 57.0601137,
+  "lon": -3.8979681
+},
+{
+  "type": "node",
+  "id": 7704975687,
+  "lat": 57.0600265,
+  "lon": -3.8979032
+},
+{
+  "type": "way",
+  "id": 825167120,
+  "nodes": [
+    7704975687,
+    7704975628
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3270417267,
+  "lat": 57.0873376,
+  "lon": -3.8961874
+},
+{
+  "type": "node",
+  "id": 3270417268,
+  "lat": 57.0872161,
+  "lon": -3.8962318
+},
+{
+  "type": "way",
+  "id": 320512127,
+  "nodes": [
+    3270417267,
+    3270417268
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U2094",
+    "lanes": "1",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Achlean Road"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11519012548,
+  "lat": 57.0857113,
+  "lon": -3.8834712
+},
+{
+  "type": "node",
+  "id": 11519012549,
+  "lat": 57.0856282,
+  "lon": -3.8835141
+},
+{
+  "type": "way",
+  "id": 1239883073,
+  "nodes": [
+    11519012549,
+    11519012548
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "smoothness": "horrible",
+    "surface": "ground",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

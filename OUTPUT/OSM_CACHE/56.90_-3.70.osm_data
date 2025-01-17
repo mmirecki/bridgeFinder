@@ -1,0 +1,150 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:40:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8986787111,
+  "lat": 56.9001401,
+  "lon": -3.6280337
+},
+{
+  "type": "node",
+  "id": 8986787112,
+  "lat": 56.9001963,
+  "lon": -3.6281038,
+  "tags": {
+    "barrier": "gate"
+  }
+},
+{
+  "type": "way",
+  "id": 971025127,
+  "nodes": [
+    8986787112,
+    8986787111
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4887014185,
+  "lat": 56.9675655,
+  "lon": -3.6789319
+},
+{
+  "type": "node",
+  "id": 4887014186,
+  "lat": 56.9676002,
+  "lon": -3.6788327
+},
+{
+  "type": "way",
+  "id": 497075503,
+  "nodes": [
+    4887014186,
+    4887014185
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1301300724,
+  "lat": 56.9769500,
+  "lon": -3.6156769
+},
+{
+  "type": "node",
+  "id": 1301300744,
+  "lat": 56.9767109,
+  "lon": -3.6155688
+},
+{
+  "type": "way",
+  "id": 115026201,
+  "nodes": [
+    1301300744,
+    1301300724
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "name": "White Bridge",
+    "place": "locality",
+    "source": "survey",
+    "surface": "wood",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:29:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1571435199,
+  "lat": 56.7257853,
+  "lon": -6.2111422
+},
+{
+  "type": "node",
+  "id": 9382738372,
+  "lat": 56.7255300,
+  "lon": -6.2113383
+},
+{
+  "type": "node",
+  "id": 9382738373,
+  "lat": 56.7257076,
+  "lon": -6.2112221
+},
+{
+  "type": "way",
+  "id": 1017242823,
+  "nodes": [
+    1571435199,
+    9382738373,
+    9382738372
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "U1353",
+    "lanes": "1",
+    "layer": "1",
+    "passing_places": "yes",
+    "source": "survey",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/1D30C91E-3670-4F51-A1ED-454B09D3137F/0/LISTOFUCLASSROADSver115.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1035 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T15:43:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 60791774,
+  "lat": 53.6301484,
+  "lon": -7.4722647
+},
+{
+  "type": "node",
+  "id": 60791775,
+  "lat": 53.6310248,
+  "lon": -7.4742959
+},
+{
+  "type": "node",
+  "id": 333354763,
+  "lat": 53.6298668,
+  "lon": -7.4717614
+},
+{
+  "type": "node",
+  "id": 529666412,
+  "lat": 53.6319168,
+  "lon": -7.4765741
+},
+{
+  "type": "node",
+  "id": 529666414,
+  "lat": 53.6315092,
+  "lon": -7.4755218
+},
+{
+  "type": "node",
+  "id": 731134262,
+  "lat": 53.6313100,
+  "lon": -7.4750068
+},
+{
+  "type": "node",
+  "id": 1240898053,
+  "lat": 53.6319536,
+  "lon": -7.4766682
+},
+{
+  "type": "node",
+  "id": 3064232587,
+  "lat": 53.6305325,
+  "lon": -7.4730803
+},
+{
+  "type": "node",
+  "id": 3064232588,
+  "lat": 53.6306796,
+  "lon": -7.4734196
+},
+{
+  "type": "node",
+  "id": 3783265190,
+  "lat": 53.6317178,
+  "lon": -7.4760656
+},
+{
+  "type": "node",
+  "id": 7853602075,
+  "lat": 53.6314502,
+  "lon": -7.4753693
+},
+{
+  "type": "node",
+  "id": 7853602100,
+  "lat": 53.6299008,
+  "lon": -7.4718221
+},
+{
+  "type": "node",
+  "id": 7853602104,
+  "lat": 53.6296674,
+  "lon": -7.4714321
+},
+{
+  "type": "way",
+  "id": 58992981,
+  "nodes": [
+    731134262,
+    7853602075
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "60",
+    "ref": "N4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 374943500,
+  "nodes": [
+    3783265190,
+    529666412,
+    1240898053
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "100",
+    "ref": "N4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 622902552,
+  "nodes": [
+    3064232588,
+    60791775
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "ref": "N4",
+    "shoulder": "no",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 841772844,
+  "nodes": [
+    7853602075,
+    529666414
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "60",
+    "ref": "N4",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 841772845,
+  "nodes": [
+    529666414,
+    3783265190
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "ref": "N4",
+    "shoulder": "no",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 841772853,
+  "nodes": [
+    7853602104,
+    333354763,
+    7853602100,
+    60791774,
+    3064232587,
+    3064232588
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "ref": "N4",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 60791775,
+  "lat": 53.6310248,
+  "lon": -7.4742959
+},
+{
+  "type": "node",
+  "id": 731134262,
+  "lat": 53.6313100,
+  "lon": -7.4750068
+},
+{
+  "type": "way",
+  "id": 58992980,
+  "nodes": [
+    60791775,
+    731134262
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "60",
+    "name": "Ballinalack Bridge",
+    "ref": "N4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 60791774,
+  "lat": 53.6301484,
+  "lon": -7.4722647
+},
+{
+  "type": "node",
+  "id": 60791775,
+  "lat": 53.6310248,
+  "lon": -7.4742959
+},
+{
+  "type": "node",
+  "id": 333354763,
+  "lat": 53.6298668,
+  "lon": -7.4717614
+},
+{
+  "type": "node",
+  "id": 529666412,
+  "lat": 53.6319168,
+  "lon": -7.4765741
+},
+{
+  "type": "node",
+  "id": 529666414,
+  "lat": 53.6315092,
+  "lon": -7.4755218
+},
+{
+  "type": "node",
+  "id": 731134262,
+  "lat": 53.6313100,
+  "lon": -7.4750068
+},
+{
+  "type": "node",
+  "id": 1240898053,
+  "lat": 53.6319536,
+  "lon": -7.4766682
+},
+{
+  "type": "node",
+  "id": 3064232587,
+  "lat": 53.6305325,
+  "lon": -7.4730803
+},
+{
+  "type": "node",
+  "id": 3064232588,
+  "lat": 53.6306796,
+  "lon": -7.4734196
+},
+{
+  "type": "node",
+  "id": 3783265190,
+  "lat": 53.6317178,
+  "lon": -7.4760656
+},
+{
+  "type": "node",
+  "id": 7853602075,
+  "lat": 53.6314502,
+  "lon": -7.4753693
+},
+{
+  "type": "node",
+  "id": 7853602100,
+  "lat": 53.6299008,
+  "lon": -7.4718221
+},
+{
+  "type": "node",
+  "id": 7853602104,
+  "lat": 53.6296674,
+  "lon": -7.4714321
+},
+{
+  "type": "way",
+  "id": 58992981,
+  "nodes": [
+    731134262,
+    7853602075
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "60",
+    "ref": "N4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 374943500,
+  "nodes": [
+    3783265190,
+    529666412,
+    1240898053
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "100",
+    "ref": "N4",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 622902552,
+  "nodes": [
+    3064232588,
+    60791775
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "ref": "N4",
+    "shoulder": "no",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 841772844,
+  "nodes": [
+    7853602075,
+    529666414
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "60",
+    "ref": "N4",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 841772845,
+  "nodes": [
+    529666414,
+    3783265190
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "ref": "N4",
+    "shoulder": "no",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 841772853,
+  "nodes": [
+    7853602104,
+    333354763,
+    7853602100,
+    60791774,
+    3064232587,
+    3064232588
+  ],
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "ref": "N4",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8082388674,
+  "lat": 53.6313112,
+  "lon": -7.4743243,
+  "tags": {
+    "noexit": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8082388679,
+  "lat": 53.6313905,
+  "lon": -7.4748786
+},
+{
+  "type": "way",
+  "id": 867096527,
+  "nodes": [
+    8082388674,
+    8082388679
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3151964288,
+  "lat": 53.6657763,
+  "lon": -7.4764057
+},
+{
+  "type": "node",
+  "id": 3151964312,
+  "lat": 53.6656492,
+  "lon": -7.4764701
+},
+{
+  "type": "way",
+  "id": 309854998,
+  "nodes": [
+    3151964312,
+    3151964288
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3884206191,
+  "lat": 53.6057000,
+  "lon": -7.4012965
+},
+{
+  "type": "node",
+  "id": 3884206194,
+  "lat": 53.6057973,
+  "lon": -7.4010320
+},
+{
+  "type": "way",
+  "id": 385064442,
+  "nodes": [
+    3884206194,
+    3884206191
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3884191429,
+  "lat": 53.6446656,
+  "lon": -7.4227161
+},
+{
+  "type": "node",
+  "id": 3884191430,
+  "lat": 53.6446276,
+  "lon": -7.4226848
+},
+{
+  "type": "way",
+  "id": 385063279,
+  "nodes": [
+    3884191430,
+    3884191429
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "75 mph",
+    "name": "Sligo Line",
+    "operator": "Irish Rail",
+    "passenger": "national;regional",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:tcb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "S",
+    "source": "landsat",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1785447791,
+  "lat": 53.6289426,
+  "lon": -7.4171387
+},
+{
+  "type": "node",
+  "id": 3143980694,
+  "lat": 53.6289276,
+  "lon": -7.4174960
+},
+{
+  "type": "node",
+  "id": 3143980695,
+  "lat": 53.6289317,
+  "lon": -7.4170338
+},
+{
+  "type": "way",
+  "id": 309089384,
+  "nodes": [
+    3143980694,
+    1785447791,
+    3143980695
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3884194403,
+  "lat": 53.6326290,
+  "lon": -7.4178976
+},
+{
+  "type": "node",
+  "id": 3884194404,
+  "lat": 53.6325969,
+  "lon": -7.4182901
+},
+{
+  "type": "way",
+  "id": 385063468,
+  "nodes": [
+    3884194403,
+    3884194404
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 769387982,
+  "lat": 53.6493900,
+  "lon": -7.4130150
+},
+{
+  "type": "node",
+  "id": 769389736,
+  "lat": 53.6486510,
+  "lon": -7.4131110
+},
+{
+  "type": "way",
+  "id": 118813712,
+  "nodes": [
+    769387982,
+    769389736
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 731134263,
+  "lat": 53.6528291,
+  "lon": -7.4343047
+},
+{
+  "type": "node",
+  "id": 731134264,
+  "lat": 53.6532911,
+  "lon": -7.4352105
+},
+{
+  "type": "way",
+  "id": 58992982,
+  "nodes": [
+    731134263,
+    731134264
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1600",
+    "layer": "1",
+    "maxspeed": "75 mph",
+    "name": "Sligo Line",
+    "operator": "Irish Rail",
+    "passenger": "national;regional",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:tcb": "yes",
+    "railway:traffic_mode": "mixed",
+    "ref": "S",
+    "source": "landsat",
+    "usage": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1770341653,
+  "lat": 53.6920141,
+  "lon": -7.4272614
+},
+{
+  "type": "node",
+  "id": 1770341654,
+  "lat": 53.6920478,
+  "lon": -7.4274920
+},
+{
+  "type": "way",
+  "id": 165494816,
+  "nodes": [
+    1770341654,
+    1770341653
+  ],
+  "tags": {
+    "access": "agricultural",
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 769388975,
+  "lat": 53.6787966,
+  "lon": -7.4143380
+},
+{
+  "type": "node",
+  "id": 769390219,
+  "lat": 53.6787922,
+  "lon": -7.4148463
+},
+{
+  "type": "way",
+  "id": 118813699,
+  "nodes": [
+    769388975,
+    769390219
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "unclassified",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1335645050,
+  "lat": 53.6941959,
+  "lon": -7.4174420
+},
+{
+  "type": "node",
+  "id": 1770341696,
+  "lat": 53.6943363,
+  "lon": -7.4175081
+},
+{
+  "type": "way",
+  "id": 165494827,
+  "nodes": [
+    1335645050,
+    1770341696
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "914",
+    "layer": "1",
+    "operator": "Bord na Móna",
+    "passenger": "no",
+    "passenger_lines": "1",
+    "railway": "narrow_gauge",
+    "railway:traffic_mode": "freight",
+    "source": "landsat",
+    "usage": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1770341729,
+  "lat": 53.6988026,
+  "lon": -7.4133389
+},
+{
+  "type": "node",
+  "id": 1770341732,
+  "lat": 53.6989314,
+  "lon": -7.4131859
+},
+{
+  "type": "way",
+  "id": 165494826,
+  "nodes": [
+    1770341729,
+    1770341732
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "914",
+    "layer": "1",
+    "operator": "Bord na Móna",
+    "passenger": "no",
+    "passenger_lines": "1",
+    "railway": "narrow_gauge",
+    "railway:traffic_mode": "freight",
+    "source": "landsat",
+    "usage": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8291817289,
+  "lat": 53.6978074,
+  "lon": -7.4110182
+},
+{
+  "type": "node",
+  "id": 8291817290,
+  "lat": 53.6978681,
+  "lon": -7.4109278
+},
+{
+  "type": "way",
+  "id": 892105708,
+  "nodes": [
+    8291817290,
+    8291817289
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

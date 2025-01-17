@@ -1,0 +1,8330 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T20:06:42Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 388269309,
+  "lat": 51.6569113,
+  "lon": -0.9914043
+},
+{
+  "type": "node",
+  "id": 388269310,
+  "lat": 51.6574905,
+  "lon": -0.9934878
+},
+{
+  "type": "node",
+  "id": 388269311,
+  "lat": 51.6575580,
+  "lon": -0.9936256
+},
+{
+  "type": "node",
+  "id": 2266290717,
+  "lat": 51.6572038,
+  "lon": -0.9924373
+},
+{
+  "type": "node",
+  "id": 2266290730,
+  "lat": 51.6575240,
+  "lon": -0.9935682
+},
+{
+  "type": "way",
+  "id": 33887502,
+  "nodes": [
+    388269309,
+    2266290717,
+    388269310,
+    2266290730,
+    388269311
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Castle Road"
+  }
+},
+{
+  "type": "node",
+  "id": 10029314665,
+  "lat": 51.6582516,
+  "lon": -0.9943371
+},
+{
+  "type": "node",
+  "id": 10029314666,
+  "lat": 51.6581494,
+  "lon": -0.9943094
+},
+{
+  "type": "way",
+  "id": 1095138951,
+  "nodes": [
+    10029314665,
+    10029314666
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469410120,
+  "lat": 51.6751518,
+  "lon": -0.9991704,
+  "tags": {
+    "barrier": "stile"
+  }
+},
+{
+  "type": "node",
+  "id": 469410128,
+  "lat": 51.6750372,
+  "lon": -0.9991236,
+  "tags": {
+    "barrier": "stile"
+  }
+},
+{
+  "type": "way",
+  "id": 39187784,
+  "nodes": [
+    469410120,
+    469410128
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2110432034,
+  "lat": 51.6746474,
+  "lon": -0.9935991,
+  "tags": {
+    "barrier": "stile",
+    "bicycle": "no",
+    "foot": "yes",
+    "material": "wood",
+    "stile": "stepover"
+  }
+},
+{
+  "type": "node",
+  "id": 2110432035,
+  "lat": 51.6746942,
+  "lon": -0.9936522
+},
+{
+  "type": "way",
+  "id": 201086026,
+  "nodes": [
+    2110432035,
+    2110432034
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 388266463,
+  "lat": 51.6788545,
+  "lon": -0.9860338
+},
+{
+  "type": "node",
+  "id": 388266465,
+  "lat": 51.6786958,
+  "lon": -0.9861785
+},
+{
+  "type": "node",
+  "id": 388266466,
+  "lat": 51.6784125,
+  "lon": -0.9864901
+},
+{
+  "type": "node",
+  "id": 388266467,
+  "lat": 51.6781036,
+  "lon": -0.9869035
+},
+{
+  "type": "node",
+  "id": 388266472,
+  "lat": 51.6779711,
+  "lon": -0.9873706
+},
+{
+  "type": "node",
+  "id": 388266473,
+  "lat": 51.6779037,
+  "lon": -0.9878393
+},
+{
+  "type": "node",
+  "id": 388266475,
+  "lat": 51.6779155,
+  "lon": -0.9882060
+},
+{
+  "type": "node",
+  "id": 388266477,
+  "lat": 51.6779496,
+  "lon": -0.9883436
+},
+{
+  "type": "node",
+  "id": 2110430650,
+  "lat": 51.6780216,
+  "lon": -0.9871446
+},
+{
+  "type": "way",
+  "id": 33887231,
+  "nodes": [
+    388266463,
+    388266465,
+    388266466,
+    388266467,
+    2110430650,
+    388266472,
+    388266473,
+    388266475,
+    388266477
+  ],
+  "tags": {
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "residential",
+    "name": "Rectory Lane",
+    "prow_ref": "Lewknor FP 30",
+    "ref:Chiltern_Society": "L30"
+  }
+},
+{
+  "type": "node",
+  "id": 10029300992,
+  "lat": 51.6770273,
+  "lon": -0.9885025
+},
+{
+  "type": "node",
+  "id": 10029301001,
+  "lat": 51.6771185,
+  "lon": -0.9884466
+},
+{
+  "type": "way",
+  "id": 1095138936,
+  "nodes": [
+    10029300992,
+    10029301001
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 388269181,
+  "lat": 51.6738945,
+  "lon": -0.9711041
+},
+{
+  "type": "node",
+  "id": 388269188,
+  "lat": 51.6741136,
+  "lon": -0.9707323
+},
+{
+  "type": "node",
+  "id": 388269189,
+  "lat": 51.6742319,
+  "lon": -0.9705138
+},
+{
+  "type": "node",
+  "id": 388269190,
+  "lat": 51.6742345,
+  "lon": -0.9703421
+},
+{
+  "type": "node",
+  "id": 388269192,
+  "lat": 51.6740251,
+  "lon": -0.9699984
+},
+{
+  "type": "node",
+  "id": 2266256868,
+  "lat": 51.6742440,
+  "lon": -0.9704312
+},
+{
+  "type": "node",
+  "id": 9036317659,
+  "lat": 51.6742183,
+  "lon": -0.9715510
+},
+{
+  "type": "node",
+  "id": 9036317660,
+  "lat": 51.6742069,
+  "lon": -0.9712359
+},
+{
+  "type": "node",
+  "id": 9036317661,
+  "lat": 51.6743067,
+  "lon": -0.9713754
+},
+{
+  "type": "node",
+  "id": 9036317662,
+  "lat": 51.6744297,
+  "lon": -0.9715122
+},
+{
+  "type": "node",
+  "id": 9036317663,
+  "lat": 51.6745894,
+  "lon": -0.9712359
+},
+{
+  "type": "node",
+  "id": 9036317666,
+  "lat": 51.6735781,
+  "lon": -0.9712735
+},
+{
+  "type": "node",
+  "id": 9036317667,
+  "lat": 51.6737162,
+  "lon": -0.9714237
+},
+{
+  "type": "node",
+  "id": 9036317668,
+  "lat": 51.6738243,
+  "lon": -0.9714478
+},
+{
+  "type": "node",
+  "id": 9036317669,
+  "lat": 51.6739174,
+  "lon": -0.9714854
+},
+{
+  "type": "node",
+  "id": 9036317670,
+  "lat": 51.6740234,
+  "lon": -0.9712820
+},
+{
+  "type": "way",
+  "id": 33887472,
+  "nodes": [
+    388269181,
+    388269188,
+    388269189,
+    2266256868,
+    388269190,
+    388269192
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Barley Close"
+  }
+},
+{
+  "type": "way",
+  "id": 976481735,
+  "nodes": [
+    9036317661,
+    9036317659
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Weston Road"
+  }
+},
+{
+  "type": "way",
+  "id": 976481736,
+  "nodes": [
+    9036317663,
+    9036317662,
+    9036317661,
+    9036317660
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Weston Road"
+  }
+},
+{
+  "type": "way",
+  "id": 976481738,
+  "nodes": [
+    9036317670,
+    9036317669,
+    9036317668,
+    9036317667,
+    9036317666
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Manor Close"
+  }
+},
+{
+  "type": "node",
+  "id": 6191849703,
+  "lat": 51.6746486,
+  "lon": -0.9702700
+},
+{
+  "type": "node",
+  "id": 6191849704,
+  "lat": 51.6746575,
+  "lon": -0.9703418,
+  "tags": {
+    "barrier": "stile",
+    "bicycle": "no",
+    "foot": "yes",
+    "material": "wood",
+    "stile": "stepover"
+  }
+},
+{
+  "type": "way",
+  "id": 661378442,
+  "nodes": [
+    6191849703,
+    6191849704
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "prow_ref": "Lewknor FP 9",
+    "ref:Chiltern_Society": "L9",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1610001729,
+  "lat": 51.6622595,
+  "lon": -0.9295303
+},
+{
+  "type": "node",
+  "id": 1610001748,
+  "lat": 51.6684092,
+  "lon": -0.9571725
+},
+{
+  "type": "node",
+  "id": 1610001751,
+  "lat": 51.6649756,
+  "lon": -0.9522925
+},
+{
+  "type": "node",
+  "id": 1610001757,
+  "lat": 51.6619234,
+  "lon": -0.9323003
+},
+{
+  "type": "node",
+  "id": 1610001764,
+  "lat": 51.6627575,
+  "lon": -0.9458240
+},
+{
+  "type": "node",
+  "id": 1610001789,
+  "lat": 51.6625977,
+  "lon": -0.9256226
+},
+{
+  "type": "node",
+  "id": 1610001790,
+  "lat": 51.6641574,
+  "lon": -0.9497939
+},
+{
+  "type": "node",
+  "id": 1610001797,
+  "lat": 51.6617259,
+  "lon": -0.9349326
+},
+{
+  "type": "node",
+  "id": 1610001826,
+  "lat": 51.6657812,
+  "lon": -0.9538469
+},
+{
+  "type": "node",
+  "id": 1610001834,
+  "lat": 51.6624613,
+  "lon": -0.9277660
+},
+{
+  "type": "node",
+  "id": 1610001839,
+  "lat": 51.6623755,
+  "lon": -0.9285803
+},
+{
+  "type": "node",
+  "id": 1610001844,
+  "lat": 51.6619820,
+  "lon": -0.9414887
+},
+{
+  "type": "node",
+  "id": 1610001861,
+  "lat": 51.6625417,
+  "lon": -0.9267390
+},
+{
+  "type": "node",
+  "id": 1610001867,
+  "lat": 51.6680005,
+  "lon": -0.9570870
+},
+{
+  "type": "node",
+  "id": 1610001879,
+  "lat": 51.6669456,
+  "lon": -0.9556974
+},
+{
+  "type": "node",
+  "id": 1610001900,
+  "lat": 51.6674831,
+  "lon": -0.9564479
+},
+{
+  "type": "node",
+  "id": 1610001901,
+  "lat": 51.6699692,
+  "lon": -0.9587605
+},
+{
+  "type": "node",
+  "id": 1610001906,
+  "lat": 51.6657606,
+  "lon": -0.9533088
+},
+{
+  "type": "node",
+  "id": 1610001908,
+  "lat": 51.6645981,
+  "lon": -0.9509035
+},
+{
+  "type": "node",
+  "id": 1610001914,
+  "lat": 51.6623169,
+  "lon": -0.9437592
+},
+{
+  "type": "node",
+  "id": 1610001938,
+  "lat": 51.6617451,
+  "lon": -0.9385021
+},
+{
+  "type": "node",
+  "id": 1610001941,
+  "lat": 51.6694702,
+  "lon": -0.9583019
+},
+{
+  "type": "node",
+  "id": 1610001958,
+  "lat": 51.6682434,
+  "lon": -0.9573713
+},
+{
+  "type": "node",
+  "id": 1610001981,
+  "lat": 51.6651655,
+  "lon": -0.9521538
+},
+{
+  "type": "node",
+  "id": 1610001987,
+  "lat": 51.6636296,
+  "lon": -0.9489831
+},
+{
+  "type": "node",
+  "id": 1610001997,
+  "lat": 51.6624899,
+  "lon": -0.9220295
+},
+{
+  "type": "node",
+  "id": 1610002000,
+  "lat": 51.6616986,
+  "lon": -0.9372975
+},
+{
+  "type": "node",
+  "id": 1610002003,
+  "lat": 51.6617675,
+  "lon": -0.9341480
+},
+{
+  "type": "node",
+  "id": 1610002019,
+  "lat": 51.6624033,
+  "lon": -0.9211745
+},
+{
+  "type": "node",
+  "id": 1610002022,
+  "lat": 51.6690361,
+  "lon": -0.9578594
+},
+{
+  "type": "node",
+  "id": 1610002029,
+  "lat": 51.6640139,
+  "lon": -0.9500554
+},
+{
+  "type": "node",
+  "id": 1610002035,
+  "lat": 51.6633523,
+  "lon": -0.9480290
+},
+{
+  "type": "node",
+  "id": 1610002038,
+  "lat": 51.6617855,
+  "lon": -0.9394180
+},
+{
+  "type": "node",
+  "id": 1610002041,
+  "lat": 51.6618712,
+  "lon": -0.9404518
+},
+{
+  "type": "node",
+  "id": 1610002062,
+  "lat": 51.6625626,
+  "lon": -0.9231566
+},
+{
+  "type": "node",
+  "id": 1610002066,
+  "lat": 51.6630624,
+  "lon": -0.9470060
+},
+{
+  "type": "node",
+  "id": 1610002089,
+  "lat": 51.6673110,
+  "lon": -0.9557712
+},
+{
+  "type": "node",
+  "id": 1610002090,
+  "lat": 51.6668239,
+  "lon": -0.9550824
+},
+{
+  "type": "node",
+  "id": 1610002096,
+  "lat": 51.6620166,
+  "lon": -0.9314825
+},
+{
+  "type": "node",
+  "id": 1610002103,
+  "lat": 51.6699041,
+  "lon": -0.9590824,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Lewknor",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1610002129,
+  "lat": 51.6689014,
+  "lon": -0.9581143
+},
+{
+  "type": "node",
+  "id": 1610002131,
+  "lat": 51.6663400,
+  "lon": -0.9547850
+},
+{
+  "type": "node",
+  "id": 1610002148,
+  "lat": 51.6681647,
+  "lon": -0.9568828
+},
+{
+  "type": "node",
+  "id": 1610002149,
+  "lat": 51.6625395,
+  "lon": -0.9448691
+},
+{
+  "type": "node",
+  "id": 1610002151,
+  "lat": 51.6616947,
+  "lon": -0.9359671
+},
+{
+  "type": "node",
+  "id": 1610002154,
+  "lat": 51.6621287,
+  "lon": -0.9425948
+},
+{
+  "type": "node",
+  "id": 1610002155,
+  "lat": 51.6643968,
+  "lon": -0.9510028
+},
+{
+  "type": "node",
+  "id": 1610002156,
+  "lat": 51.6626036,
+  "lon": -0.9245991
+},
+{
+  "type": "node",
+  "id": 1610002171,
+  "lat": 51.6692015,
+  "lon": -0.9584174
+},
+{
+  "type": "node",
+  "id": 1610002177,
+  "lat": 51.6664080,
+  "lon": -0.9544308
+},
+{
+  "type": "node",
+  "id": 1839043971,
+  "lat": 51.6635596,
+  "lon": -0.9481958,
+  "tags": {
+    "hazard": "falling_rocks",
+    "source": "survey",
+    "traffic_sign": "GB:559"
+  }
+},
+{
+  "type": "node",
+  "id": 1839043976,
+  "lat": 51.6678978,
+  "lon": -0.9565547,
+  "tags": {
+    "hazard": "slow_lorries",
+    "traffic_sign": "GB:583;583.1[1 mile]"
+  }
+},
+{
+  "type": "node",
+  "id": 2054613938,
+  "lat": 51.6618223,
+  "lon": -0.9333101
+},
+{
+  "type": "node",
+  "id": 2054613941,
+  "lat": 51.6653554,
+  "lon": -0.9530469
+},
+{
+  "type": "way",
+  "id": 147855730,
+  "nodes": [
+    1610002019,
+    1610001997,
+    1610002062,
+    1610002156,
+    1610001789,
+    1610001861,
+    1610001834,
+    1610001839,
+    1610001729,
+    1610002096,
+    1610001757,
+    2054613938,
+    1610002003,
+    1610001797,
+    1610002151,
+    1610002000,
+    1610001938,
+    1610002038,
+    1610002041,
+    1610001844,
+    1610002154,
+    1610001914,
+    1610002149,
+    1610001764,
+    1610002066,
+    1610002035,
+    1610001987,
+    1610002029,
+    1610002155,
+    1610001751,
+    2054613941,
+    1610001826,
+    1610002131,
+    1610001879,
+    1610001900,
+    1610001867
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855731,
+  "nodes": [
+    1610001901,
+    1610001941,
+    1610002022,
+    1610001748
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855734,
+  "nodes": [
+    1610001958,
+    1610002129,
+    1610002171,
+    1610002103
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855735,
+  "nodes": [
+    1610002148,
+    1839043976,
+    1610002089,
+    1610002090,
+    1610002177,
+    1610001906,
+    1610001981,
+    1610001908,
+    1610001790,
+    1839043971
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1610001867,
+  "lat": 51.6680005,
+  "lon": -0.9570870
+},
+{
+  "type": "node",
+  "id": 1610001958,
+  "lat": 51.6682434,
+  "lon": -0.9573713
+},
+{
+  "type": "way",
+  "id": 147855728,
+  "nodes": [
+    1610001867,
+    1610001958
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1610001729,
+  "lat": 51.6622595,
+  "lon": -0.9295303
+},
+{
+  "type": "node",
+  "id": 1610001748,
+  "lat": 51.6684092,
+  "lon": -0.9571725
+},
+{
+  "type": "node",
+  "id": 1610001751,
+  "lat": 51.6649756,
+  "lon": -0.9522925
+},
+{
+  "type": "node",
+  "id": 1610001757,
+  "lat": 51.6619234,
+  "lon": -0.9323003
+},
+{
+  "type": "node",
+  "id": 1610001764,
+  "lat": 51.6627575,
+  "lon": -0.9458240
+},
+{
+  "type": "node",
+  "id": 1610001789,
+  "lat": 51.6625977,
+  "lon": -0.9256226
+},
+{
+  "type": "node",
+  "id": 1610001790,
+  "lat": 51.6641574,
+  "lon": -0.9497939
+},
+{
+  "type": "node",
+  "id": 1610001797,
+  "lat": 51.6617259,
+  "lon": -0.9349326
+},
+{
+  "type": "node",
+  "id": 1610001826,
+  "lat": 51.6657812,
+  "lon": -0.9538469
+},
+{
+  "type": "node",
+  "id": 1610001834,
+  "lat": 51.6624613,
+  "lon": -0.9277660
+},
+{
+  "type": "node",
+  "id": 1610001839,
+  "lat": 51.6623755,
+  "lon": -0.9285803
+},
+{
+  "type": "node",
+  "id": 1610001844,
+  "lat": 51.6619820,
+  "lon": -0.9414887
+},
+{
+  "type": "node",
+  "id": 1610001861,
+  "lat": 51.6625417,
+  "lon": -0.9267390
+},
+{
+  "type": "node",
+  "id": 1610001867,
+  "lat": 51.6680005,
+  "lon": -0.9570870
+},
+{
+  "type": "node",
+  "id": 1610001879,
+  "lat": 51.6669456,
+  "lon": -0.9556974
+},
+{
+  "type": "node",
+  "id": 1610001900,
+  "lat": 51.6674831,
+  "lon": -0.9564479
+},
+{
+  "type": "node",
+  "id": 1610001901,
+  "lat": 51.6699692,
+  "lon": -0.9587605
+},
+{
+  "type": "node",
+  "id": 1610001906,
+  "lat": 51.6657606,
+  "lon": -0.9533088
+},
+{
+  "type": "node",
+  "id": 1610001908,
+  "lat": 51.6645981,
+  "lon": -0.9509035
+},
+{
+  "type": "node",
+  "id": 1610001914,
+  "lat": 51.6623169,
+  "lon": -0.9437592
+},
+{
+  "type": "node",
+  "id": 1610001938,
+  "lat": 51.6617451,
+  "lon": -0.9385021
+},
+{
+  "type": "node",
+  "id": 1610001941,
+  "lat": 51.6694702,
+  "lon": -0.9583019
+},
+{
+  "type": "node",
+  "id": 1610001958,
+  "lat": 51.6682434,
+  "lon": -0.9573713
+},
+{
+  "type": "node",
+  "id": 1610001981,
+  "lat": 51.6651655,
+  "lon": -0.9521538
+},
+{
+  "type": "node",
+  "id": 1610001987,
+  "lat": 51.6636296,
+  "lon": -0.9489831
+},
+{
+  "type": "node",
+  "id": 1610001997,
+  "lat": 51.6624899,
+  "lon": -0.9220295
+},
+{
+  "type": "node",
+  "id": 1610002000,
+  "lat": 51.6616986,
+  "lon": -0.9372975
+},
+{
+  "type": "node",
+  "id": 1610002003,
+  "lat": 51.6617675,
+  "lon": -0.9341480
+},
+{
+  "type": "node",
+  "id": 1610002019,
+  "lat": 51.6624033,
+  "lon": -0.9211745
+},
+{
+  "type": "node",
+  "id": 1610002022,
+  "lat": 51.6690361,
+  "lon": -0.9578594
+},
+{
+  "type": "node",
+  "id": 1610002029,
+  "lat": 51.6640139,
+  "lon": -0.9500554
+},
+{
+  "type": "node",
+  "id": 1610002035,
+  "lat": 51.6633523,
+  "lon": -0.9480290
+},
+{
+  "type": "node",
+  "id": 1610002038,
+  "lat": 51.6617855,
+  "lon": -0.9394180
+},
+{
+  "type": "node",
+  "id": 1610002041,
+  "lat": 51.6618712,
+  "lon": -0.9404518
+},
+{
+  "type": "node",
+  "id": 1610002062,
+  "lat": 51.6625626,
+  "lon": -0.9231566
+},
+{
+  "type": "node",
+  "id": 1610002066,
+  "lat": 51.6630624,
+  "lon": -0.9470060
+},
+{
+  "type": "node",
+  "id": 1610002089,
+  "lat": 51.6673110,
+  "lon": -0.9557712
+},
+{
+  "type": "node",
+  "id": 1610002090,
+  "lat": 51.6668239,
+  "lon": -0.9550824
+},
+{
+  "type": "node",
+  "id": 1610002096,
+  "lat": 51.6620166,
+  "lon": -0.9314825
+},
+{
+  "type": "node",
+  "id": 1610002103,
+  "lat": 51.6699041,
+  "lon": -0.9590824,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Lewknor",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1610002129,
+  "lat": 51.6689014,
+  "lon": -0.9581143
+},
+{
+  "type": "node",
+  "id": 1610002131,
+  "lat": 51.6663400,
+  "lon": -0.9547850
+},
+{
+  "type": "node",
+  "id": 1610002148,
+  "lat": 51.6681647,
+  "lon": -0.9568828
+},
+{
+  "type": "node",
+  "id": 1610002149,
+  "lat": 51.6625395,
+  "lon": -0.9448691
+},
+{
+  "type": "node",
+  "id": 1610002151,
+  "lat": 51.6616947,
+  "lon": -0.9359671
+},
+{
+  "type": "node",
+  "id": 1610002154,
+  "lat": 51.6621287,
+  "lon": -0.9425948
+},
+{
+  "type": "node",
+  "id": 1610002155,
+  "lat": 51.6643968,
+  "lon": -0.9510028
+},
+{
+  "type": "node",
+  "id": 1610002156,
+  "lat": 51.6626036,
+  "lon": -0.9245991
+},
+{
+  "type": "node",
+  "id": 1610002171,
+  "lat": 51.6692015,
+  "lon": -0.9584174
+},
+{
+  "type": "node",
+  "id": 1610002177,
+  "lat": 51.6664080,
+  "lon": -0.9544308
+},
+{
+  "type": "node",
+  "id": 1839043971,
+  "lat": 51.6635596,
+  "lon": -0.9481958,
+  "tags": {
+    "hazard": "falling_rocks",
+    "source": "survey",
+    "traffic_sign": "GB:559"
+  }
+},
+{
+  "type": "node",
+  "id": 1839043976,
+  "lat": 51.6678978,
+  "lon": -0.9565547,
+  "tags": {
+    "hazard": "slow_lorries",
+    "traffic_sign": "GB:583;583.1[1 mile]"
+  }
+},
+{
+  "type": "node",
+  "id": 2054613938,
+  "lat": 51.6618223,
+  "lon": -0.9333101
+},
+{
+  "type": "node",
+  "id": 2054613941,
+  "lat": 51.6653554,
+  "lon": -0.9530469
+},
+{
+  "type": "way",
+  "id": 147855730,
+  "nodes": [
+    1610002019,
+    1610001997,
+    1610002062,
+    1610002156,
+    1610001789,
+    1610001861,
+    1610001834,
+    1610001839,
+    1610001729,
+    1610002096,
+    1610001757,
+    2054613938,
+    1610002003,
+    1610001797,
+    1610002151,
+    1610002000,
+    1610001938,
+    1610002038,
+    1610002041,
+    1610001844,
+    1610002154,
+    1610001914,
+    1610002149,
+    1610001764,
+    1610002066,
+    1610002035,
+    1610001987,
+    1610002029,
+    1610002155,
+    1610001751,
+    2054613941,
+    1610001826,
+    1610002131,
+    1610001879,
+    1610001900,
+    1610001867
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855731,
+  "nodes": [
+    1610001901,
+    1610001941,
+    1610002022,
+    1610001748
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855734,
+  "nodes": [
+    1610001958,
+    1610002129,
+    1610002171,
+    1610002103
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855735,
+  "nodes": [
+    1610002148,
+    1839043976,
+    1610002089,
+    1610002090,
+    1610002177,
+    1610001906,
+    1610001981,
+    1610001908,
+    1610001790,
+    1839043971
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1610001748,
+  "lat": 51.6684092,
+  "lon": -0.9571725
+},
+{
+  "type": "node",
+  "id": 1610002148,
+  "lat": 51.6681647,
+  "lon": -0.9568828
+},
+{
+  "type": "way",
+  "id": 147855741,
+  "nodes": [
+    1610001748,
+    1610002148
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7884268,
+  "lat": 51.6718611,
+  "lon": -0.9623539
+},
+{
+  "type": "node",
+  "id": 7884269,
+  "lat": 51.6728053,
+  "lon": -0.9597178
+},
+{
+  "type": "node",
+  "id": 7884274,
+  "lat": 51.6739175,
+  "lon": -0.9563249
+},
+{
+  "type": "node",
+  "id": 7884275,
+  "lat": 51.6733115,
+  "lon": -0.9566681
+},
+{
+  "type": "node",
+  "id": 7884276,
+  "lat": 51.6731540,
+  "lon": -0.9571444
+},
+{
+  "type": "node",
+  "id": 7884277,
+  "lat": 51.6724260,
+  "lon": -0.9592923
+},
+{
+  "type": "node",
+  "id": 7884278,
+  "lat": 51.6719338,
+  "lon": -0.9597234
+},
+{
+  "type": "node",
+  "id": 28264029,
+  "lat": 51.6750536,
+  "lon": -0.9622288,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Lewknor",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 28264030,
+  "lat": 51.6753469,
+  "lon": -0.9628482
+},
+{
+  "type": "node",
+  "id": 190466747,
+  "lat": 51.6736067,
+  "lon": -0.9562980
+},
+{
+  "type": "node",
+  "id": 190466748,
+  "lat": 51.6727173,
+  "lon": -0.9586406
+},
+{
+  "type": "node",
+  "id": 190466749,
+  "lat": 51.6722552,
+  "lon": -0.9595035
+},
+{
+  "type": "node",
+  "id": 251710698,
+  "lat": 51.6721853,
+  "lon": -0.9616868
+},
+{
+  "type": "node",
+  "id": 251710699,
+  "lat": 51.6722621,
+  "lon": -0.9616278
+},
+{
+  "type": "node",
+  "id": 251710700,
+  "lat": 51.6723686,
+  "lon": -0.9615818
+},
+{
+  "type": "node",
+  "id": 251710701,
+  "lat": 51.6725759,
+  "lon": -0.9616949
+},
+{
+  "type": "node",
+  "id": 251710703,
+  "lat": 51.6727591,
+  "lon": -0.9617727
+},
+{
+  "type": "node",
+  "id": 251710707,
+  "lat": 51.6729776,
+  "lon": -0.9618105
+},
+{
+  "type": "node",
+  "id": 251710708,
+  "lat": 51.6740560,
+  "lon": -0.9612766
+},
+{
+  "type": "node",
+  "id": 251710709,
+  "lat": 51.6735380,
+  "lon": -0.9606437
+},
+{
+  "type": "node",
+  "id": 251710711,
+  "lat": 51.6717975,
+  "lon": -0.9597614
+},
+{
+  "type": "node",
+  "id": 251710712,
+  "lat": 51.6725864,
+  "lon": -0.9589823
+},
+{
+  "type": "node",
+  "id": 251710713,
+  "lat": 51.6737339,
+  "lon": -0.9562570
+},
+{
+  "type": "node",
+  "id": 251710714,
+  "lat": 51.6734852,
+  "lon": -0.9563907
+},
+{
+  "type": "node",
+  "id": 1137578355,
+  "lat": 51.6724540,
+  "lon": -0.9616322
+},
+{
+  "type": "node",
+  "id": 1137579661,
+  "lat": 51.6738660,
+  "lon": -0.9562790
+},
+{
+  "type": "node",
+  "id": 1137583530,
+  "lat": 51.6735425,
+  "lon": -0.9618696
+},
+{
+  "type": "node",
+  "id": 1137583532,
+  "lat": 51.6738264,
+  "lon": -0.9619309
+},
+{
+  "type": "node",
+  "id": 1141958966,
+  "lat": 51.6722128,
+  "lon": -0.9613430
+},
+{
+  "type": "node",
+  "id": 1141958970,
+  "lat": 51.6722420,
+  "lon": -0.9614240
+},
+{
+  "type": "node",
+  "id": 1141958995,
+  "lat": 51.6722972,
+  "lon": -0.9615130
+},
+{
+  "type": "node",
+  "id": 1141965393,
+  "lat": 51.6712006,
+  "lon": -0.9596108
+},
+{
+  "type": "node",
+  "id": 1141965394,
+  "lat": 51.6714450,
+  "lon": -0.9597288
+},
+{
+  "type": "node",
+  "id": 1610001760,
+  "lat": 51.6747900,
+  "lon": -0.9623922
+},
+{
+  "type": "node",
+  "id": 1610001792,
+  "lat": 51.6727326,
+  "lon": -0.9610647
+},
+{
+  "type": "node",
+  "id": 1610001800,
+  "lat": 51.6746202,
+  "lon": -0.9619149
+},
+{
+  "type": "node",
+  "id": 1610001830,
+  "lat": 51.6717466,
+  "lon": -0.9604666
+},
+{
+  "type": "node",
+  "id": 1610001901,
+  "lat": 51.6699692,
+  "lon": -0.9587605
+},
+{
+  "type": "node",
+  "id": 1610001911,
+  "lat": 51.6702317,
+  "lon": -0.9593636
+},
+{
+  "type": "node",
+  "id": 1610001918,
+  "lat": 51.6728268,
+  "lon": -0.9607695
+},
+{
+  "type": "node",
+  "id": 1610002032,
+  "lat": 51.6721756,
+  "lon": -0.9607401
+},
+{
+  "type": "node",
+  "id": 1610002061,
+  "lat": 51.6705149,
+  "lon": -0.9592326
+},
+{
+  "type": "node",
+  "id": 1610002067,
+  "lat": 51.6709904,
+  "lon": -0.9596054
+},
+{
+  "type": "node",
+  "id": 1610002092,
+  "lat": 51.6708006,
+  "lon": -0.9598411
+},
+{
+  "type": "node",
+  "id": 1610002098,
+  "lat": 51.6740382,
+  "lon": -0.9615152
+},
+{
+  "type": "node",
+  "id": 1610002103,
+  "lat": 51.6699041,
+  "lon": -0.9590824,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Lewknor",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1610002112,
+  "lat": 51.6739918,
+  "lon": -0.9564451
+},
+{
+  "type": "node",
+  "id": 1610002119,
+  "lat": 51.6711911,
+  "lon": -0.9601126
+},
+{
+  "type": "node",
+  "id": 1610002123,
+  "lat": 51.6715781,
+  "lon": -0.9600185
+},
+{
+  "type": "node",
+  "id": 1610002125,
+  "lat": 51.6740018,
+  "lon": -0.9618424
+},
+{
+  "type": "node",
+  "id": 1610002127,
+  "lat": 51.6744510,
+  "lon": -0.9621483
+},
+{
+  "type": "node",
+  "id": 1610002150,
+  "lat": 51.6733294,
+  "lon": -0.9610753
+},
+{
+  "type": "node",
+  "id": 1610002167,
+  "lat": 51.6722456,
+  "lon": -0.9604373
+},
+{
+  "type": "node",
+  "id": 2054636954,
+  "lat": 51.6741883,
+  "lon": -0.9620969
+},
+{
+  "type": "node",
+  "id": 2054636957,
+  "lat": 51.6720754,
+  "lon": -0.9596554
+},
+{
+  "type": "node",
+  "id": 2054636960,
+  "lat": 51.6733961,
+  "lon": -0.9565065
+},
+{
+  "type": "node",
+  "id": 2054636963,
+  "lat": 51.6731461,
+  "lon": -0.9601200
+},
+{
+  "type": "node",
+  "id": 2054636966,
+  "lat": 51.6737739,
+  "lon": -0.9609601
+},
+{
+  "type": "node",
+  "id": 2054636972,
+  "lat": 51.6716447,
+  "lon": -0.9597684
+},
+{
+  "type": "node",
+  "id": 3221461822,
+  "lat": 51.6733280,
+  "lon": -0.9582706
+},
+{
+  "type": "node",
+  "id": 5002265828,
+  "lat": 51.6720941,
+  "lon": -0.9618177
+},
+{
+  "type": "node",
+  "id": 5002265829,
+  "lat": 51.6723154,
+  "lon": -0.9616048,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 5002265830,
+  "lat": 51.6728960,
+  "lon": -0.9598248,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "way",
+  "id": 4541606,
+  "nodes": [
+    28264029,
+    251710708,
+    2054636966,
+    251710709,
+    2054636963,
+    5002265830,
+    7884269
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Watlington;P. Risborough",
+    "destination:ref": "B4009",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt",
+    "turn:lanes": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 4541607,
+  "nodes": [
+    251710700,
+    1137578355,
+    251710701,
+    251710703,
+    251710707,
+    1137583530,
+    1137583532,
+    2054636954,
+    28264030
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Birmingham;Oxford",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 79539008,
+  "nodes": [
+    7884269,
+    1141958966,
+    7884268
+  ],
+  "tags": {
+    "alt_name": "Lewknor Diversion Road",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "40 mph",
+    "name": "Oakley Road",
+    "ref": "B4009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 98707386,
+  "nodes": [
+    1141958966,
+    1141958970,
+    1141958995,
+    251710700
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855732,
+  "nodes": [
+    1610002103,
+    1610001911,
+    1610002092,
+    1610002119,
+    1610001830,
+    1610002032
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855733,
+  "nodes": [
+    1610002112,
+    7884274,
+    1137579661,
+    251710713,
+    190466747,
+    251710714,
+    2054636960,
+    7884275,
+    7884276,
+    190466748,
+    251710712,
+    7884277,
+    190466749,
+    2054636957,
+    7884278,
+    251710711,
+    2054636972,
+    1141965394,
+    1141965393,
+    1610001901
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855739,
+  "nodes": [
+    1610002167,
+    1610002123,
+    1610002067,
+    1610002061,
+    1610001901
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855740,
+  "nodes": [
+    1610001792,
+    1610002125,
+    1610002127,
+    1610001760,
+    28264030
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856179,
+  "nodes": [
+    28264029,
+    1610001800,
+    1610002098,
+    1610002150,
+    1610001918
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 316031350,
+  "nodes": [
+    3221461822,
+    7884269
+  ],
+  "tags": {
+    "alt_name": "Lewknor Diversion Road",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Oakley Road",
+    "ref": "B4009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1334860592,
+  "nodes": [
+    7884268,
+    5002265828,
+    251710698,
+    251710699,
+    5002265829,
+    251710700
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Birmingham;Oxford",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1610001918,
+  "lat": 51.6728268,
+  "lon": -0.9607695
+},
+{
+  "type": "node",
+  "id": 1610002167,
+  "lat": 51.6722456,
+  "lon": -0.9604373
+},
+{
+  "type": "way",
+  "id": 147855737,
+  "nodes": [
+    1610001918,
+    1610002167
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "bridge:name": "Lewknor Diversion Interchange Underbridge",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7884268,
+  "lat": 51.6718611,
+  "lon": -0.9623539
+},
+{
+  "type": "node",
+  "id": 7884269,
+  "lat": 51.6728053,
+  "lon": -0.9597178
+},
+{
+  "type": "node",
+  "id": 7884274,
+  "lat": 51.6739175,
+  "lon": -0.9563249
+},
+{
+  "type": "node",
+  "id": 7884275,
+  "lat": 51.6733115,
+  "lon": -0.9566681
+},
+{
+  "type": "node",
+  "id": 7884276,
+  "lat": 51.6731540,
+  "lon": -0.9571444
+},
+{
+  "type": "node",
+  "id": 7884277,
+  "lat": 51.6724260,
+  "lon": -0.9592923
+},
+{
+  "type": "node",
+  "id": 7884278,
+  "lat": 51.6719338,
+  "lon": -0.9597234
+},
+{
+  "type": "node",
+  "id": 28264029,
+  "lat": 51.6750536,
+  "lon": -0.9622288,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Lewknor",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 28264030,
+  "lat": 51.6753469,
+  "lon": -0.9628482
+},
+{
+  "type": "node",
+  "id": 190466747,
+  "lat": 51.6736067,
+  "lon": -0.9562980
+},
+{
+  "type": "node",
+  "id": 190466748,
+  "lat": 51.6727173,
+  "lon": -0.9586406
+},
+{
+  "type": "node",
+  "id": 190466749,
+  "lat": 51.6722552,
+  "lon": -0.9595035
+},
+{
+  "type": "node",
+  "id": 251710698,
+  "lat": 51.6721853,
+  "lon": -0.9616868
+},
+{
+  "type": "node",
+  "id": 251710699,
+  "lat": 51.6722621,
+  "lon": -0.9616278
+},
+{
+  "type": "node",
+  "id": 251710700,
+  "lat": 51.6723686,
+  "lon": -0.9615818
+},
+{
+  "type": "node",
+  "id": 251710701,
+  "lat": 51.6725759,
+  "lon": -0.9616949
+},
+{
+  "type": "node",
+  "id": 251710703,
+  "lat": 51.6727591,
+  "lon": -0.9617727
+},
+{
+  "type": "node",
+  "id": 251710707,
+  "lat": 51.6729776,
+  "lon": -0.9618105
+},
+{
+  "type": "node",
+  "id": 251710708,
+  "lat": 51.6740560,
+  "lon": -0.9612766
+},
+{
+  "type": "node",
+  "id": 251710709,
+  "lat": 51.6735380,
+  "lon": -0.9606437
+},
+{
+  "type": "node",
+  "id": 251710711,
+  "lat": 51.6717975,
+  "lon": -0.9597614
+},
+{
+  "type": "node",
+  "id": 251710712,
+  "lat": 51.6725864,
+  "lon": -0.9589823
+},
+{
+  "type": "node",
+  "id": 251710713,
+  "lat": 51.6737339,
+  "lon": -0.9562570
+},
+{
+  "type": "node",
+  "id": 251710714,
+  "lat": 51.6734852,
+  "lon": -0.9563907
+},
+{
+  "type": "node",
+  "id": 1137578355,
+  "lat": 51.6724540,
+  "lon": -0.9616322
+},
+{
+  "type": "node",
+  "id": 1137579661,
+  "lat": 51.6738660,
+  "lon": -0.9562790
+},
+{
+  "type": "node",
+  "id": 1137583530,
+  "lat": 51.6735425,
+  "lon": -0.9618696
+},
+{
+  "type": "node",
+  "id": 1137583532,
+  "lat": 51.6738264,
+  "lon": -0.9619309
+},
+{
+  "type": "node",
+  "id": 1141958966,
+  "lat": 51.6722128,
+  "lon": -0.9613430
+},
+{
+  "type": "node",
+  "id": 1141958970,
+  "lat": 51.6722420,
+  "lon": -0.9614240
+},
+{
+  "type": "node",
+  "id": 1141958995,
+  "lat": 51.6722972,
+  "lon": -0.9615130
+},
+{
+  "type": "node",
+  "id": 1141965393,
+  "lat": 51.6712006,
+  "lon": -0.9596108
+},
+{
+  "type": "node",
+  "id": 1141965394,
+  "lat": 51.6714450,
+  "lon": -0.9597288
+},
+{
+  "type": "node",
+  "id": 1610001760,
+  "lat": 51.6747900,
+  "lon": -0.9623922
+},
+{
+  "type": "node",
+  "id": 1610001792,
+  "lat": 51.6727326,
+  "lon": -0.9610647
+},
+{
+  "type": "node",
+  "id": 1610001800,
+  "lat": 51.6746202,
+  "lon": -0.9619149
+},
+{
+  "type": "node",
+  "id": 1610001830,
+  "lat": 51.6717466,
+  "lon": -0.9604666
+},
+{
+  "type": "node",
+  "id": 1610001901,
+  "lat": 51.6699692,
+  "lon": -0.9587605
+},
+{
+  "type": "node",
+  "id": 1610001911,
+  "lat": 51.6702317,
+  "lon": -0.9593636
+},
+{
+  "type": "node",
+  "id": 1610001918,
+  "lat": 51.6728268,
+  "lon": -0.9607695
+},
+{
+  "type": "node",
+  "id": 1610002032,
+  "lat": 51.6721756,
+  "lon": -0.9607401
+},
+{
+  "type": "node",
+  "id": 1610002061,
+  "lat": 51.6705149,
+  "lon": -0.9592326
+},
+{
+  "type": "node",
+  "id": 1610002067,
+  "lat": 51.6709904,
+  "lon": -0.9596054
+},
+{
+  "type": "node",
+  "id": 1610002092,
+  "lat": 51.6708006,
+  "lon": -0.9598411
+},
+{
+  "type": "node",
+  "id": 1610002098,
+  "lat": 51.6740382,
+  "lon": -0.9615152
+},
+{
+  "type": "node",
+  "id": 1610002103,
+  "lat": 51.6699041,
+  "lon": -0.9590824,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Lewknor",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 1610002112,
+  "lat": 51.6739918,
+  "lon": -0.9564451
+},
+{
+  "type": "node",
+  "id": 1610002119,
+  "lat": 51.6711911,
+  "lon": -0.9601126
+},
+{
+  "type": "node",
+  "id": 1610002123,
+  "lat": 51.6715781,
+  "lon": -0.9600185
+},
+{
+  "type": "node",
+  "id": 1610002125,
+  "lat": 51.6740018,
+  "lon": -0.9618424
+},
+{
+  "type": "node",
+  "id": 1610002127,
+  "lat": 51.6744510,
+  "lon": -0.9621483
+},
+{
+  "type": "node",
+  "id": 1610002150,
+  "lat": 51.6733294,
+  "lon": -0.9610753
+},
+{
+  "type": "node",
+  "id": 1610002167,
+  "lat": 51.6722456,
+  "lon": -0.9604373
+},
+{
+  "type": "node",
+  "id": 2054636954,
+  "lat": 51.6741883,
+  "lon": -0.9620969
+},
+{
+  "type": "node",
+  "id": 2054636957,
+  "lat": 51.6720754,
+  "lon": -0.9596554
+},
+{
+  "type": "node",
+  "id": 2054636960,
+  "lat": 51.6733961,
+  "lon": -0.9565065
+},
+{
+  "type": "node",
+  "id": 2054636963,
+  "lat": 51.6731461,
+  "lon": -0.9601200
+},
+{
+  "type": "node",
+  "id": 2054636966,
+  "lat": 51.6737739,
+  "lon": -0.9609601
+},
+{
+  "type": "node",
+  "id": 2054636972,
+  "lat": 51.6716447,
+  "lon": -0.9597684
+},
+{
+  "type": "node",
+  "id": 3221461822,
+  "lat": 51.6733280,
+  "lon": -0.9582706
+},
+{
+  "type": "node",
+  "id": 5002265828,
+  "lat": 51.6720941,
+  "lon": -0.9618177
+},
+{
+  "type": "node",
+  "id": 5002265829,
+  "lat": 51.6723154,
+  "lon": -0.9616048,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 5002265830,
+  "lat": 51.6728960,
+  "lon": -0.9598248,
+  "tags": {
+    "highway": "give_way"
+  }
+},
+{
+  "type": "way",
+  "id": 4541606,
+  "nodes": [
+    28264029,
+    251710708,
+    2054636966,
+    251710709,
+    2054636963,
+    5002265830,
+    7884269
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Watlington;P. Risborough",
+    "destination:ref": "B4009",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt",
+    "turn:lanes": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 4541607,
+  "nodes": [
+    251710700,
+    1137578355,
+    251710701,
+    251710703,
+    251710707,
+    1137583530,
+    1137583532,
+    2054636954,
+    28264030
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Birmingham;Oxford",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 79539008,
+  "nodes": [
+    7884269,
+    1141958966,
+    7884268
+  ],
+  "tags": {
+    "alt_name": "Lewknor Diversion Road",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "40 mph",
+    "name": "Oakley Road",
+    "ref": "B4009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 98707386,
+  "nodes": [
+    1141958966,
+    1141958970,
+    1141958995,
+    251710700
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855732,
+  "nodes": [
+    1610002103,
+    1610001911,
+    1610002092,
+    1610002119,
+    1610001830,
+    1610002032
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855733,
+  "nodes": [
+    1610002112,
+    7884274,
+    1137579661,
+    251710713,
+    190466747,
+    251710714,
+    2054636960,
+    7884275,
+    7884276,
+    190466748,
+    251710712,
+    7884277,
+    190466749,
+    2054636957,
+    7884278,
+    251710711,
+    2054636972,
+    1141965394,
+    1141965393,
+    1610001901
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855739,
+  "nodes": [
+    1610002167,
+    1610002123,
+    1610002067,
+    1610002061,
+    1610001901
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855740,
+  "nodes": [
+    1610001792,
+    1610002125,
+    1610002127,
+    1610001760,
+    28264030
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856179,
+  "nodes": [
+    28264029,
+    1610001800,
+    1610002098,
+    1610002150,
+    1610001918
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "slow_lorries",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 316031350,
+  "nodes": [
+    3221461822,
+    7884269
+  ],
+  "tags": {
+    "alt_name": "Lewknor Diversion Road",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Oakley Road",
+    "ref": "B4009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1334860592,
+  "nodes": [
+    7884268,
+    5002265828,
+    251710698,
+    251710699,
+    5002265829,
+    251710700
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Birmingham;Oxford",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "junction:ref": "6",
+    "lane_markings": "no",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "interpolation",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1610001792,
+  "lat": 51.6727326,
+  "lon": -0.9610647
+},
+{
+  "type": "node",
+  "id": 1610002032,
+  "lat": 51.6721756,
+  "lon": -0.9607401
+},
+{
+  "type": "way",
+  "id": 147855738,
+  "nodes": [
+    1610002032,
+    1610001792
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "bridge:name": "Lewknor Diversion Interchange Underbridge",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 28264030,
+  "lat": 51.6753469,
+  "lon": -0.9628482
+},
+{
+  "type": "node",
+  "id": 1610010213,
+  "lat": 51.6844666,
+  "lon": -0.9740601
+},
+{
+  "type": "node",
+  "id": 1610010215,
+  "lat": 51.6922220,
+  "lon": -0.9816024
+},
+{
+  "type": "node",
+  "id": 1610010219,
+  "lat": 51.6933858,
+  "lon": -0.9828309
+},
+{
+  "type": "node",
+  "id": 1610010233,
+  "lat": 51.6878623,
+  "lon": -0.9776113
+},
+{
+  "type": "node",
+  "id": 1610010234,
+  "lat": 51.7029914,
+  "lon": -0.9973202
+},
+{
+  "type": "node",
+  "id": 1610010235,
+  "lat": 51.6871073,
+  "lon": -0.9771607
+},
+{
+  "type": "node",
+  "id": 1610010236,
+  "lat": 51.6877592,
+  "lon": -0.9775147
+},
+{
+  "type": "node",
+  "id": 1610010237,
+  "lat": 51.6804455,
+  "lon": -0.9687117
+},
+{
+  "type": "node",
+  "id": 1610010245,
+  "lat": 51.6836784,
+  "lon": -0.9730408
+},
+{
+  "type": "node",
+  "id": 1610010258,
+  "lat": 51.6796073,
+  "lon": -0.9671936
+},
+{
+  "type": "node",
+  "id": 1610010260,
+  "lat": 51.7010665,
+  "lon": -0.9940264
+},
+{
+  "type": "node",
+  "id": 1610010262,
+  "lat": 51.6998230,
+  "lon": -0.9914676
+},
+{
+  "type": "node",
+  "id": 1610010268,
+  "lat": 51.6881117,
+  "lon": -0.9780351
+},
+{
+  "type": "node",
+  "id": 1610010270,
+  "lat": 51.6996900,
+  "lon": -0.9916768
+},
+{
+  "type": "node",
+  "id": 1610010271,
+  "lat": 51.6846296,
+  "lon": -0.9745268
+},
+{
+  "type": "node",
+  "id": 1610010273,
+  "lat": 51.6976020,
+  "lon": -0.9881631
+},
+{
+  "type": "node",
+  "id": 1610010287,
+  "lat": 51.6786593,
+  "lon": -0.9659437
+},
+{
+  "type": "node",
+  "id": 1610010291,
+  "lat": 51.7041350,
+  "lon": -0.9997985
+},
+{
+  "type": "node",
+  "id": 1610010293,
+  "lat": 51.7011363,
+  "lon": -0.9937475
+},
+{
+  "type": "node",
+  "id": 1610010294,
+  "lat": 51.6795174,
+  "lon": -0.9674296
+},
+{
+  "type": "node",
+  "id": 1610010296,
+  "lat": 51.6955605,
+  "lon": -0.9856955
+},
+{
+  "type": "node",
+  "id": 1610010298,
+  "lat": 51.6862260,
+  "lon": -0.9762380
+},
+{
+  "type": "node",
+  "id": 1610010300,
+  "lat": 51.6862959,
+  "lon": -0.9760181
+},
+{
+  "type": "node",
+  "id": 1610010307,
+  "lat": 51.6837183,
+  "lon": -0.9734378
+},
+{
+  "type": "node",
+  "id": 1610010308,
+  "lat": 51.6944916,
+  "lon": -0.9844295
+},
+{
+  "type": "node",
+  "id": 1610010309,
+  "lat": 51.6766069,
+  "lon": -0.9639320
+},
+{
+  "type": "node",
+  "id": 1610010310,
+  "lat": 51.7032873,
+  "lon": -0.9983340
+},
+{
+  "type": "node",
+  "id": 1610010311,
+  "lat": 51.6899973,
+  "lon": -0.9797302
+},
+{
+  "type": "node",
+  "id": 1610010312,
+  "lat": 51.6786360,
+  "lon": -0.9662012
+},
+{
+  "type": "node",
+  "id": 1610010313,
+  "lat": 51.6783732,
+  "lon": -0.9658793
+},
+{
+  "type": "node",
+  "id": 1610010314,
+  "lat": 51.6806450,
+  "lon": -0.9687117
+},
+{
+  "type": "node",
+  "id": 1610010322,
+  "lat": 51.6813169,
+  "lon": -0.9700153
+},
+{
+  "type": "node",
+  "id": 1610010324,
+  "lat": 51.6775815,
+  "lon": -0.9649513
+},
+{
+  "type": "node",
+  "id": 1610010327,
+  "lat": 51.6956935,
+  "lon": -0.9855292
+},
+{
+  "type": "node",
+  "id": 1610010328,
+  "lat": 51.6830132,
+  "lon": -0.9724936
+},
+{
+  "type": "node",
+  "id": 1610010329,
+  "lat": 51.6899042,
+  "lon": -0.9794191
+},
+{
+  "type": "node",
+  "id": 1610010330,
+  "lat": 51.7040752,
+  "lon": -1.0000453
+},
+{
+  "type": "node",
+  "id": 1610010331,
+  "lat": 51.6783100,
+  "lon": -0.9655092
+},
+{
+  "type": "node",
+  "id": 1610010332,
+  "lat": 51.6881998,
+  "lon": -0.9779192
+},
+{
+  "type": "node",
+  "id": 1610010344,
+  "lat": 51.6975754,
+  "lon": -0.9884689
+},
+{
+  "type": "node",
+  "id": 1610010347,
+  "lat": 51.7019608,
+  "lon": -0.9956518
+},
+{
+  "type": "node",
+  "id": 1610010348,
+  "lat": 51.7020738,
+  "lon": -0.9955070
+},
+{
+  "type": "node",
+  "id": 1610010350,
+  "lat": 51.6869061,
+  "lon": -0.9766669
+},
+{
+  "type": "node",
+  "id": 1610010351,
+  "lat": 51.6921089,
+  "lon": -0.9817473
+},
+{
+  "type": "node",
+  "id": 1610010365,
+  "lat": 51.6937050,
+  "lon": -0.9834961
+},
+{
+  "type": "node",
+  "id": 1610010367,
+  "lat": 51.6950916,
+  "lon": -0.9847782
+},
+{
+  "type": "node",
+  "id": 1610010369,
+  "lat": 51.6877924,
+  "lon": -0.9777508
+},
+{
+  "type": "node",
+  "id": 1610010371,
+  "lat": 51.6813335,
+  "lon": -0.9697095
+},
+{
+  "type": "node",
+  "id": 1610016477,
+  "lat": 51.7047665,
+  "lon": -1.0016927
+},
+{
+  "type": "node",
+  "id": 1610016578,
+  "lat": 51.7049106,
+  "lon": -1.0016391
+},
+{
+  "type": "node",
+  "id": 1839043981,
+  "lat": 51.6780266,
+  "lon": -0.9651635,
+  "tags": {
+    "hazard": "slow_lorries",
+    "note": "Slow lorries for 2 miles hazard sign",
+    "source": "survey",
+    "traffic_sign": "GB:583;583.1[2 miles]"
+  }
+},
+{
+  "type": "way",
+  "id": 147856182,
+  "nodes": [
+    1610010233,
+    1610010236,
+    1610010350,
+    1610010300,
+    1610010213,
+    1610010245,
+    1610010371,
+    1610010314,
+    1610010258,
+    1610010287,
+    1610010331,
+    1839043981
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856192,
+  "nodes": [
+    1610010268,
+    1610010311,
+    1610010351,
+    1610010365,
+    1610010308,
+    1610010296,
+    1610010344,
+    1610010270,
+    1610010260,
+    1610010347,
+    1610010310,
+    1610010330,
+    1610016477
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856196,
+  "nodes": [
+    28264030,
+    1610010309,
+    1610010324,
+    1610010313,
+    1610010312,
+    1610010294,
+    1610010237,
+    1610010322,
+    1610010328,
+    1610010307,
+    1610010271,
+    1610010298,
+    1610010235,
+    1610010369
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856383,
+  "nodes": [
+    1610016578,
+    1610010291,
+    1610010234,
+    1610010348,
+    1610010293,
+    1610010262,
+    1610010273,
+    1610010327,
+    1610010367,
+    1610010219,
+    1610010215,
+    1610010329,
+    1610010332
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1610010233,
+  "lat": 51.6878623,
+  "lon": -0.9776113
+},
+{
+  "type": "node",
+  "id": 1610010332,
+  "lat": 51.6881998,
+  "lon": -0.9779192
+},
+{
+  "type": "way",
+  "id": 147856180,
+  "nodes": [
+    1610010332,
+    1610010233
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 28264030,
+  "lat": 51.6753469,
+  "lon": -0.9628482
+},
+{
+  "type": "node",
+  "id": 1610010213,
+  "lat": 51.6844666,
+  "lon": -0.9740601
+},
+{
+  "type": "node",
+  "id": 1610010215,
+  "lat": 51.6922220,
+  "lon": -0.9816024
+},
+{
+  "type": "node",
+  "id": 1610010219,
+  "lat": 51.6933858,
+  "lon": -0.9828309
+},
+{
+  "type": "node",
+  "id": 1610010233,
+  "lat": 51.6878623,
+  "lon": -0.9776113
+},
+{
+  "type": "node",
+  "id": 1610010234,
+  "lat": 51.7029914,
+  "lon": -0.9973202
+},
+{
+  "type": "node",
+  "id": 1610010235,
+  "lat": 51.6871073,
+  "lon": -0.9771607
+},
+{
+  "type": "node",
+  "id": 1610010236,
+  "lat": 51.6877592,
+  "lon": -0.9775147
+},
+{
+  "type": "node",
+  "id": 1610010237,
+  "lat": 51.6804455,
+  "lon": -0.9687117
+},
+{
+  "type": "node",
+  "id": 1610010245,
+  "lat": 51.6836784,
+  "lon": -0.9730408
+},
+{
+  "type": "node",
+  "id": 1610010258,
+  "lat": 51.6796073,
+  "lon": -0.9671936
+},
+{
+  "type": "node",
+  "id": 1610010260,
+  "lat": 51.7010665,
+  "lon": -0.9940264
+},
+{
+  "type": "node",
+  "id": 1610010262,
+  "lat": 51.6998230,
+  "lon": -0.9914676
+},
+{
+  "type": "node",
+  "id": 1610010268,
+  "lat": 51.6881117,
+  "lon": -0.9780351
+},
+{
+  "type": "node",
+  "id": 1610010270,
+  "lat": 51.6996900,
+  "lon": -0.9916768
+},
+{
+  "type": "node",
+  "id": 1610010271,
+  "lat": 51.6846296,
+  "lon": -0.9745268
+},
+{
+  "type": "node",
+  "id": 1610010273,
+  "lat": 51.6976020,
+  "lon": -0.9881631
+},
+{
+  "type": "node",
+  "id": 1610010287,
+  "lat": 51.6786593,
+  "lon": -0.9659437
+},
+{
+  "type": "node",
+  "id": 1610010291,
+  "lat": 51.7041350,
+  "lon": -0.9997985
+},
+{
+  "type": "node",
+  "id": 1610010293,
+  "lat": 51.7011363,
+  "lon": -0.9937475
+},
+{
+  "type": "node",
+  "id": 1610010294,
+  "lat": 51.6795174,
+  "lon": -0.9674296
+},
+{
+  "type": "node",
+  "id": 1610010296,
+  "lat": 51.6955605,
+  "lon": -0.9856955
+},
+{
+  "type": "node",
+  "id": 1610010298,
+  "lat": 51.6862260,
+  "lon": -0.9762380
+},
+{
+  "type": "node",
+  "id": 1610010300,
+  "lat": 51.6862959,
+  "lon": -0.9760181
+},
+{
+  "type": "node",
+  "id": 1610010307,
+  "lat": 51.6837183,
+  "lon": -0.9734378
+},
+{
+  "type": "node",
+  "id": 1610010308,
+  "lat": 51.6944916,
+  "lon": -0.9844295
+},
+{
+  "type": "node",
+  "id": 1610010309,
+  "lat": 51.6766069,
+  "lon": -0.9639320
+},
+{
+  "type": "node",
+  "id": 1610010310,
+  "lat": 51.7032873,
+  "lon": -0.9983340
+},
+{
+  "type": "node",
+  "id": 1610010311,
+  "lat": 51.6899973,
+  "lon": -0.9797302
+},
+{
+  "type": "node",
+  "id": 1610010312,
+  "lat": 51.6786360,
+  "lon": -0.9662012
+},
+{
+  "type": "node",
+  "id": 1610010313,
+  "lat": 51.6783732,
+  "lon": -0.9658793
+},
+{
+  "type": "node",
+  "id": 1610010314,
+  "lat": 51.6806450,
+  "lon": -0.9687117
+},
+{
+  "type": "node",
+  "id": 1610010322,
+  "lat": 51.6813169,
+  "lon": -0.9700153
+},
+{
+  "type": "node",
+  "id": 1610010324,
+  "lat": 51.6775815,
+  "lon": -0.9649513
+},
+{
+  "type": "node",
+  "id": 1610010327,
+  "lat": 51.6956935,
+  "lon": -0.9855292
+},
+{
+  "type": "node",
+  "id": 1610010328,
+  "lat": 51.6830132,
+  "lon": -0.9724936
+},
+{
+  "type": "node",
+  "id": 1610010329,
+  "lat": 51.6899042,
+  "lon": -0.9794191
+},
+{
+  "type": "node",
+  "id": 1610010330,
+  "lat": 51.7040752,
+  "lon": -1.0000453
+},
+{
+  "type": "node",
+  "id": 1610010331,
+  "lat": 51.6783100,
+  "lon": -0.9655092
+},
+{
+  "type": "node",
+  "id": 1610010332,
+  "lat": 51.6881998,
+  "lon": -0.9779192
+},
+{
+  "type": "node",
+  "id": 1610010344,
+  "lat": 51.6975754,
+  "lon": -0.9884689
+},
+{
+  "type": "node",
+  "id": 1610010347,
+  "lat": 51.7019608,
+  "lon": -0.9956518
+},
+{
+  "type": "node",
+  "id": 1610010348,
+  "lat": 51.7020738,
+  "lon": -0.9955070
+},
+{
+  "type": "node",
+  "id": 1610010350,
+  "lat": 51.6869061,
+  "lon": -0.9766669
+},
+{
+  "type": "node",
+  "id": 1610010351,
+  "lat": 51.6921089,
+  "lon": -0.9817473
+},
+{
+  "type": "node",
+  "id": 1610010365,
+  "lat": 51.6937050,
+  "lon": -0.9834961
+},
+{
+  "type": "node",
+  "id": 1610010367,
+  "lat": 51.6950916,
+  "lon": -0.9847782
+},
+{
+  "type": "node",
+  "id": 1610010369,
+  "lat": 51.6877924,
+  "lon": -0.9777508
+},
+{
+  "type": "node",
+  "id": 1610010371,
+  "lat": 51.6813335,
+  "lon": -0.9697095
+},
+{
+  "type": "node",
+  "id": 1610016477,
+  "lat": 51.7047665,
+  "lon": -1.0016927
+},
+{
+  "type": "node",
+  "id": 1610016578,
+  "lat": 51.7049106,
+  "lon": -1.0016391
+},
+{
+  "type": "node",
+  "id": 1839043981,
+  "lat": 51.6780266,
+  "lon": -0.9651635,
+  "tags": {
+    "hazard": "slow_lorries",
+    "note": "Slow lorries for 2 miles hazard sign",
+    "source": "survey",
+    "traffic_sign": "GB:583;583.1[2 miles]"
+  }
+},
+{
+  "type": "way",
+  "id": 147856182,
+  "nodes": [
+    1610010233,
+    1610010236,
+    1610010350,
+    1610010300,
+    1610010213,
+    1610010245,
+    1610010371,
+    1610010314,
+    1610010258,
+    1610010287,
+    1610010331,
+    1839043981
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856192,
+  "nodes": [
+    1610010268,
+    1610010311,
+    1610010351,
+    1610010365,
+    1610010308,
+    1610010296,
+    1610010344,
+    1610010270,
+    1610010260,
+    1610010347,
+    1610010310,
+    1610010330,
+    1610016477
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856196,
+  "nodes": [
+    28264030,
+    1610010309,
+    1610010324,
+    1610010313,
+    1610010312,
+    1610010294,
+    1610010237,
+    1610010322,
+    1610010328,
+    1610010307,
+    1610010271,
+    1610010298,
+    1610010235,
+    1610010369
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147856383,
+  "nodes": [
+    1610016578,
+    1610010291,
+    1610010234,
+    1610010348,
+    1610010293,
+    1610010262,
+    1610010273,
+    1610010327,
+    1610010367,
+    1610010219,
+    1610010215,
+    1610010329,
+    1610010332
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1610010268,
+  "lat": 51.6881117,
+  "lon": -0.9780351
+},
+{
+  "type": "node",
+  "id": 1610010369,
+  "lat": 51.6877924,
+  "lon": -0.9777508
+},
+{
+  "type": "way",
+  "id": 147856187,
+  "nodes": [
+    1610010369,
+    1610010268
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "bridge": "yes",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6113676022,
+  "lat": 51.6948304,
+  "lon": -0.9716681
+},
+{
+  "type": "node",
+  "id": 6195970836,
+  "lat": 51.6948200,
+  "lon": -0.9716851
+},
+{
+  "type": "way",
+  "id": 661815791,
+  "nodes": [
+    6195970836,
+    6113676022
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "prow_ref": "Lewknor FP 5",
+    "ref:Chiltern_Society": "L5",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11227876784,
+  "lat": 51.6455628,
+  "lon": -0.9308352
+},
+{
+  "type": "node",
+  "id": 11227876785,
+  "lat": 51.6454613,
+  "lon": -0.9314279
+},
+{
+  "type": "way",
+  "id": 1211922401,
+  "nodes": [
+    11227876785,
+    11227876784
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4412011695,
+  "lat": 51.6454389,
+  "lon": -0.9331284
+},
+{
+  "type": "node",
+  "id": 11228047240,
+  "lat": 51.6453215,
+  "lon": -0.9331620
+},
+{
+  "type": "way",
+  "id": 1211939113,
+  "nodes": [
+    4412011695,
+    11228047240
+  ],
+  "tags": {
+    "access": "private",
+    "bridge": "yes",
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 21688645,
+  "lat": 51.6676002,
+  "lon": -0.9234473
+},
+{
+  "type": "node",
+  "id": 21688647,
+  "lat": 51.6675158,
+  "lon": -0.9237199
+},
+{
+  "type": "node",
+  "id": 21688651,
+  "lat": 51.6671200,
+  "lon": -0.9244966
+},
+{
+  "type": "node",
+  "id": 21688655,
+  "lat": 51.6666237,
+  "lon": -0.9253895
+},
+{
+  "type": "node",
+  "id": 21688659,
+  "lat": 51.6659695,
+  "lon": -0.9268726
+},
+{
+  "type": "node",
+  "id": 21688663,
+  "lat": 51.6653961,
+  "lon": -0.9284477
+},
+{
+  "type": "node",
+  "id": 21688667,
+  "lat": 51.6649368,
+  "lon": -0.9295213
+},
+{
+  "type": "node",
+  "id": 21688671,
+  "lat": 51.6642051,
+  "lon": -0.9314176
+},
+{
+  "type": "node",
+  "id": 21688676,
+  "lat": 51.6636021,
+  "lon": -0.9329644
+},
+{
+  "type": "node",
+  "id": 21688681,
+  "lat": 51.6629301,
+  "lon": -0.9341058
+},
+{
+  "type": "node",
+  "id": 21688684,
+  "lat": 51.6621550,
+  "lon": -0.9347569
+},
+{
+  "type": "node",
+  "id": 21688705,
+  "lat": 51.6614241,
+  "lon": -0.9353247
+},
+{
+  "type": "node",
+  "id": 21688710,
+  "lat": 51.6603209,
+  "lon": -0.9365514
+},
+{
+  "type": "node",
+  "id": 21688715,
+  "lat": 51.6596869,
+  "lon": -0.9379148
+},
+{
+  "type": "node",
+  "id": 21688719,
+  "lat": 51.6593968,
+  "lon": -0.9393012
+},
+{
+  "type": "node",
+  "id": 21688724,
+  "lat": 51.6593181,
+  "lon": -0.9414870
+},
+{
+  "type": "node",
+  "id": 21688728,
+  "lat": 51.6593239,
+  "lon": -0.9432394
+},
+{
+  "type": "node",
+  "id": 21688732,
+  "lat": 51.6593345,
+  "lon": -0.9451191
+},
+{
+  "type": "node",
+  "id": 21688736,
+  "lat": 51.6592346,
+  "lon": -0.9461563
+},
+{
+  "type": "node",
+  "id": 21688740,
+  "lat": 51.6585452,
+  "lon": -0.9486382
+},
+{
+  "type": "node",
+  "id": 21688745,
+  "lat": 51.6580034,
+  "lon": -0.9496067
+},
+{
+  "type": "node",
+  "id": 21688749,
+  "lat": 51.6572750,
+  "lon": -0.9504645
+},
+{
+  "type": "node",
+  "id": 21688758,
+  "lat": 51.6552083,
+  "lon": -0.9522700
+},
+{
+  "type": "node",
+  "id": 21688759,
+  "lat": 51.6538417,
+  "lon": -0.9533667
+},
+{
+  "type": "node",
+  "id": 21688763,
+  "lat": 51.6529605,
+  "lon": -0.9541286
+},
+{
+  "type": "node",
+  "id": 21688767,
+  "lat": 51.6518500,
+  "lon": -0.9550017
+},
+{
+  "type": "node",
+  "id": 21688774,
+  "lat": 51.6502797,
+  "lon": -0.9563565
+},
+{
+  "type": "node",
+  "id": 21688779,
+  "lat": 51.6493154,
+  "lon": -0.9572574
+},
+{
+  "type": "node",
+  "id": 21688784,
+  "lat": 51.6483047,
+  "lon": -0.9580463
+},
+{
+  "type": "node",
+  "id": 21688788,
+  "lat": 51.6475146,
+  "lon": -0.9584531
+},
+{
+  "type": "node",
+  "id": 21688797,
+  "lat": 51.6459574,
+  "lon": -0.9594820
+},
+{
+  "type": "node",
+  "id": 21688800,
+  "lat": 51.6455584,
+  "lon": -0.9601875
+},
+{
+  "type": "node",
+  "id": 21688804,
+  "lat": 51.6448483,
+  "lon": -0.9610767
+},
+{
+  "type": "node",
+  "id": 21688808,
+  "lat": 51.6441683,
+  "lon": -0.9620017
+},
+{
+  "type": "node",
+  "id": 21688812,
+  "lat": 51.6436000,
+  "lon": -0.9631967
+},
+{
+  "type": "node",
+  "id": 21688816,
+  "lat": 51.6431224,
+  "lon": -0.9646252
+},
+{
+  "type": "node",
+  "id": 21688820,
+  "lat": 51.6425366,
+  "lon": -0.9658660
+},
+{
+  "type": "node",
+  "id": 21688825,
+  "lat": 51.6416200,
+  "lon": -0.9671683
+},
+{
+  "type": "node",
+  "id": 21688830,
+  "lat": 51.6406848,
+  "lon": -0.9681663
+},
+{
+  "type": "node",
+  "id": 21688835,
+  "lat": 51.6401053,
+  "lon": -0.9686486
+},
+{
+  "type": "node",
+  "id": 21688839,
+  "lat": 51.6391226,
+  "lon": -0.9686867
+},
+{
+  "type": "node",
+  "id": 21688844,
+  "lat": 51.6379069,
+  "lon": -0.9689448
+},
+{
+  "type": "node",
+  "id": 21688849,
+  "lat": 51.6368117,
+  "lon": -0.9691813
+},
+{
+  "type": "node",
+  "id": 27241255,
+  "lat": 51.6466254,
+  "lon": -0.9589563
+},
+{
+  "type": "node",
+  "id": 27530469,
+  "lat": 51.6563227,
+  "lon": -0.9513366
+},
+{
+  "type": "node",
+  "id": 265648852,
+  "lat": 51.6647281,
+  "lon": -0.9300467
+},
+{
+  "type": "node",
+  "id": 268614619,
+  "lat": 51.6568333,
+  "lon": -0.9508898
+},
+{
+  "type": "node",
+  "id": 268615690,
+  "lat": 51.6588648,
+  "lon": -0.9477757
+},
+{
+  "type": "node",
+  "id": 268615726,
+  "lat": 51.6590988,
+  "lon": -0.9468836
+},
+{
+  "type": "node",
+  "id": 280884085,
+  "lat": 51.6606452,
+  "lon": -0.9360745
+},
+{
+  "type": "node",
+  "id": 280884294,
+  "lat": 51.6606583,
+  "lon": -0.9358938
+},
+{
+  "type": "node",
+  "id": 280884295,
+  "lat": 51.6608679,
+  "lon": -0.9355363
+},
+{
+  "type": "node",
+  "id": 280884296,
+  "lat": 51.6611181,
+  "lon": -0.9353217
+},
+{
+  "type": "node",
+  "id": 280884297,
+  "lat": 51.6612246,
+  "lon": -0.9350642
+},
+{
+  "type": "node",
+  "id": 280884299,
+  "lat": 51.6611713,
+  "lon": -0.9344806
+},
+{
+  "type": "node",
+  "id": 280884300,
+  "lat": 51.6612672,
+  "lon": -0.9339913
+},
+{
+  "type": "node",
+  "id": 280884301,
+  "lat": 51.6612778,
+  "lon": -0.9334763
+},
+{
+  "type": "node",
+  "id": 280884302,
+  "lat": 51.6611500,
+  "lon": -0.9330472
+},
+{
+  "type": "node",
+  "id": 280884303,
+  "lat": 51.6605484,
+  "lon": -0.9317597
+},
+{
+  "type": "node",
+  "id": 280884309,
+  "lat": 51.6572206,
+  "lon": -0.9294165
+},
+{
+  "type": "node",
+  "id": 280884315,
+  "lat": 51.6532909,
+  "lon": -0.9286269
+},
+{
+  "type": "node",
+  "id": 280884316,
+  "lat": 51.6526678,
+  "lon": -0.9279832
+},
+{
+  "type": "node",
+  "id": 280884317,
+  "lat": 51.6524282,
+  "lon": -0.9275969
+},
+{
+  "type": "node",
+  "id": 280884318,
+  "lat": 51.6520980,
+  "lon": -0.9275540
+},
+{
+  "type": "node",
+  "id": 280884319,
+  "lat": 51.6518531,
+  "lon": -0.9275798
+},
+{
+  "type": "node",
+  "id": 280884483,
+  "lat": 51.6579022,
+  "lon": -0.9292964
+},
+{
+  "type": "node",
+  "id": 280884484,
+  "lat": 51.6567308,
+  "lon": -0.9292706
+},
+{
+  "type": "node",
+  "id": 280884485,
+  "lat": 51.6556871,
+  "lon": -0.9292706
+},
+{
+  "type": "node",
+  "id": 280884486,
+  "lat": 51.6549416,
+  "lon": -0.9292706
+},
+{
+  "type": "node",
+  "id": 280884487,
+  "lat": 51.6546221,
+  "lon": -0.9292105
+},
+{
+  "type": "node",
+  "id": 280884547,
+  "lat": 51.6598562,
+  "lon": -0.9307727
+},
+{
+  "type": "node",
+  "id": 280884549,
+  "lat": 51.6587381,
+  "lon": -0.9297856
+},
+{
+  "type": "node",
+  "id": 280884551,
+  "lat": 51.6541855,
+  "lon": -0.9291247
+},
+{
+  "type": "node",
+  "id": 280884648,
+  "lat": 51.6611181,
+  "lon": -0.9348925
+},
+{
+  "type": "node",
+  "id": 280884661,
+  "lat": 51.6515495,
+  "lon": -0.9273824
+},
+{
+  "type": "node",
+  "id": 280884807,
+  "lat": 51.6593078,
+  "lon": -0.9301719
+},
+{
+  "type": "node",
+  "id": 280884808,
+  "lat": 51.6582429,
+  "lon": -0.9293994
+},
+{
+  "type": "node",
+  "id": 299159212,
+  "lat": 51.6365680,
+  "lon": -0.9692291
+},
+{
+  "type": "node",
+  "id": 300664011,
+  "lat": 51.6408833,
+  "lon": -0.9679302
+},
+{
+  "type": "node",
+  "id": 317242353,
+  "lat": 51.6547449,
+  "lon": -0.9526406
+},
+{
+  "type": "node",
+  "id": 317242371,
+  "lat": 51.6562156,
+  "lon": -0.9514120
+},
+{
+  "type": "node",
+  "id": 317242701,
+  "lat": 51.6568518,
+  "lon": -0.9293069
+},
+{
+  "type": "node",
+  "id": 1034776222,
+  "lat": 51.6404208,
+  "lon": -0.9684544
+},
+{
+  "type": "node",
+  "id": 1034778794,
+  "lat": 51.6609235,
+  "lon": -0.9357491
+},
+{
+  "type": "node",
+  "id": 1081251061,
+  "lat": 51.6524895,
+  "lon": -0.9545441
+},
+{
+  "type": "node",
+  "id": 1240230575,
+  "lat": 51.6528371,
+  "lon": -0.9542292
+},
+{
+  "type": "node",
+  "id": 1285434085,
+  "lat": 51.6541647,
+  "lon": -0.9531070
+},
+{
+  "type": "node",
+  "id": 1395071656,
+  "lat": 51.6637728,
+  "lon": -0.9325001
+},
+{
+  "type": "node",
+  "id": 1395071657,
+  "lat": 51.6600739,
+  "lon": -0.9369855
+},
+{
+  "type": "node",
+  "id": 1395071658,
+  "lat": 51.6510417,
+  "lon": -0.9556543
+},
+{
+  "type": "node",
+  "id": 1395071659,
+  "lat": 51.6633536,
+  "lon": -0.9334252
+},
+{
+  "type": "node",
+  "id": 1395071660,
+  "lat": 51.6626512,
+  "lon": -0.9344117
+},
+{
+  "type": "node",
+  "id": 1395071661,
+  "lat": 51.6514033,
+  "lon": -0.9553383
+},
+{
+  "type": "node",
+  "id": 1395071662,
+  "lat": 51.6631734,
+  "lon": -0.9337423
+},
+{
+  "type": "node",
+  "id": 1395071663,
+  "lat": 51.6598615,
+  "lon": -0.9374354
+},
+{
+  "type": "node",
+  "id": 1395071664,
+  "lat": 51.6582488,
+  "lon": -0.9491937
+},
+{
+  "type": "node",
+  "id": 1395071665,
+  "lat": 51.6610926,
+  "lon": -0.9355885
+},
+{
+  "type": "node",
+  "id": 1395071666,
+  "lat": 51.6462468,
+  "lon": -0.9591697
+},
+{
+  "type": "node",
+  "id": 1395071667,
+  "lat": 51.6488563,
+  "lon": -0.9576149
+},
+{
+  "type": "node",
+  "id": 1480421326,
+  "lat": 51.6593445,
+  "lon": -0.9399616
+},
+{
+  "type": "node",
+  "id": 1480421327,
+  "lat": 51.6594648,
+  "lon": -0.9388603
+},
+{
+  "type": "node",
+  "id": 1610001729,
+  "lat": 51.6622595,
+  "lon": -0.9295303
+},
+{
+  "type": "node",
+  "id": 1610001751,
+  "lat": 51.6649756,
+  "lon": -0.9522925
+},
+{
+  "type": "node",
+  "id": 1610001757,
+  "lat": 51.6619234,
+  "lon": -0.9323003
+},
+{
+  "type": "node",
+  "id": 1610001764,
+  "lat": 51.6627575,
+  "lon": -0.9458240
+},
+{
+  "type": "node",
+  "id": 1610001768,
+  "lat": 51.6618855,
+  "lon": -0.9345093
+},
+{
+  "type": "node",
+  "id": 1610001776,
+  "lat": 51.6620765,
+  "lon": -0.9411400
+},
+{
+  "type": "node",
+  "id": 1610001788,
+  "lat": 51.6623780,
+  "lon": -0.9298219
+},
+{
+  "type": "node",
+  "id": 1610001789,
+  "lat": 51.6625977,
+  "lon": -0.9256226
+},
+{
+  "type": "node",
+  "id": 1610001797,
+  "lat": 51.6617259,
+  "lon": -0.9349326
+},
+{
+  "type": "node",
+  "id": 1610001803,
+  "lat": 51.6619397,
+  "lon": -0.9396205
+},
+{
+  "type": "node",
+  "id": 1610001824,
+  "lat": 51.6618858,
+  "lon": -0.9387006
+},
+{
+  "type": "node",
+  "id": 1610001826,
+  "lat": 51.6657812,
+  "lon": -0.9538469
+},
+{
+  "type": "node",
+  "id": 1610001834,
+  "lat": 51.6624613,
+  "lon": -0.9277660
+},
+{
+  "type": "node",
+  "id": 1610001837,
+  "lat": 51.6625280,
+  "lon": -0.9285725
+},
+{
+  "type": "node",
+  "id": 1610001839,
+  "lat": 51.6623755,
+  "lon": -0.9285803
+},
+{
+  "type": "node",
+  "id": 1610001842,
+  "lat": 51.6633591,
+  "lon": -0.9475556
+},
+{
+  "type": "node",
+  "id": 1610001844,
+  "lat": 51.6619820,
+  "lon": -0.9414887
+},
+{
+  "type": "node",
+  "id": 1610001861,
+  "lat": 51.6625417,
+  "lon": -0.9267390
+},
+{
+  "type": "node",
+  "id": 1610001867,
+  "lat": 51.6680005,
+  "lon": -0.9570870
+},
+{
+  "type": "node",
+  "id": 1610001870,
+  "lat": 51.6618314,
+  "lon": -0.9365897
+},
+{
+  "type": "node",
+  "id": 1610001873,
+  "lat": 51.6626509,
+  "lon": -0.9218511
+},
+{
+  "type": "node",
+  "id": 1610001877,
+  "lat": 51.6627774,
+  "lon": -0.9251668
+},
+{
+  "type": "node",
+  "id": 1610001879,
+  "lat": 51.6669456,
+  "lon": -0.9556974
+},
+{
+  "type": "node",
+  "id": 1610001883,
+  "lat": 51.6623585,
+  "lon": -0.9431316
+},
+{
+  "type": "node",
+  "id": 1610001889,
+  "lat": 51.6621376,
+  "lon": -0.9316265
+},
+{
+  "type": "node",
+  "id": 1610001900,
+  "lat": 51.6674831,
+  "lon": -0.9564479
+},
+{
+  "type": "node",
+  "id": 1610001903,
+  "lat": 51.6625792,
+  "lon": -0.9210988
+},
+{
+  "type": "node",
+  "id": 1610001905,
+  "lat": 51.6627921,
+  "lon": -0.9453945
+},
+{
+  "type": "node",
+  "id": 1610001914,
+  "lat": 51.6623169,
+  "lon": -0.9437592
+},
+{
+  "type": "node",
+  "id": 1610001938,
+  "lat": 51.6617451,
+  "lon": -0.9385021
+},
+{
+  "type": "node",
+  "id": 1610001948,
+  "lat": 51.6618479,
+  "lon": -0.9354148
+},
+{
+  "type": "node",
+  "id": 1610001952,
+  "lat": 51.6626553,
+  "lon": -0.9275945
+},
+{
+  "type": "node",
+  "id": 1610001955,
+  "lat": 51.6620544,
+  "lon": -0.9323697
+},
+{
+  "type": "node",
+  "id": 1610001984,
+  "lat": 51.6627594,
+  "lon": -0.9258269
+},
+{
+  "type": "node",
+  "id": 1610001987,
+  "lat": 51.6636296,
+  "lon": -0.9489831
+},
+{
+  "type": "node",
+  "id": 1610001991,
+  "lat": 51.6618294,
+  "lon": -0.9374922
+},
+{
+  "type": "node",
+  "id": 1610001997,
+  "lat": 51.6624899,
+  "lon": -0.9220295
+},
+{
+  "type": "node",
+  "id": 1610002000,
+  "lat": 51.6616986,
+  "lon": -0.9372975
+},
+{
+  "type": "node",
+  "id": 1610002003,
+  "lat": 51.6617675,
+  "lon": -0.9341480
+},
+{
+  "type": "node",
+  "id": 1610002005,
+  "lat": 51.6627178,
+  "lon": -0.9266880
+},
+{
+  "type": "node",
+  "id": 1610002019,
+  "lat": 51.6624033,
+  "lon": -0.9211745
+},
+{
+  "type": "node",
+  "id": 1610002029,
+  "lat": 51.6640139,
+  "lon": -0.9500554
+},
+{
+  "type": "node",
+  "id": 1610002035,
+  "lat": 51.6633523,
+  "lon": -0.9480290
+},
+{
+  "type": "node",
+  "id": 1610002038,
+  "lat": 51.6617855,
+  "lon": -0.9394180
+},
+{
+  "type": "node",
+  "id": 1610002041,
+  "lat": 51.6618712,
+  "lon": -0.9404518
+},
+{
+  "type": "node",
+  "id": 1610002062,
+  "lat": 51.6625626,
+  "lon": -0.9231566
+},
+{
+  "type": "node",
+  "id": 1610002064,
+  "lat": 51.6621673,
+  "lon": -0.9419452
+},
+{
+  "type": "node",
+  "id": 1610002066,
+  "lat": 51.6630624,
+  "lon": -0.9470060
+},
+{
+  "type": "node",
+  "id": 1610002068,
+  "lat": 51.6630183,
+  "lon": -0.9462987
+},
+{
+  "type": "node",
+  "id": 1610002096,
+  "lat": 51.6620166,
+  "lon": -0.9314825
+},
+{
+  "type": "node",
+  "id": 1610002102,
+  "lat": 51.6619487,
+  "lon": -0.9335979
+},
+{
+  "type": "node",
+  "id": 1610002117,
+  "lat": 51.6625467,
+  "lon": -0.9442071
+},
+{
+  "type": "node",
+  "id": 1610002131,
+  "lat": 51.6663400,
+  "lon": -0.9547850
+},
+{
+  "type": "node",
+  "id": 1610002149,
+  "lat": 51.6625395,
+  "lon": -0.9448691
+},
+{
+  "type": "node",
+  "id": 1610002151,
+  "lat": 51.6616947,
+  "lon": -0.9359671
+},
+{
+  "type": "node",
+  "id": 1610002153,
+  "lat": 51.6627524,
+  "lon": -0.9236129
+},
+{
+  "type": "node",
+  "id": 1610002154,
+  "lat": 51.6621287,
+  "lon": -0.9425948
+},
+{
+  "type": "node",
+  "id": 1610002155,
+  "lat": 51.6643968,
+  "lon": -0.9510028
+},
+{
+  "type": "node",
+  "id": 1610002156,
+  "lat": 51.6626036,
+  "lon": -0.9245991
+},
+{
+  "type": "node",
+  "id": 1839043971,
+  "lat": 51.6635596,
+  "lon": -0.9481958,
+  "tags": {
+    "hazard": "falling_rocks",
+    "source": "survey",
+    "traffic_sign": "GB:559"
+  }
+},
+{
+  "type": "node",
+  "id": 2054613938,
+  "lat": 51.6618223,
+  "lon": -0.9333101
+},
+{
+  "type": "node",
+  "id": 2054613941,
+  "lat": 51.6653554,
+  "lon": -0.9530469
+},
+{
+  "type": "node",
+  "id": 2054663813,
+  "lat": 51.6627748,
+  "lon": -0.9243224
+},
+{
+  "type": "node",
+  "id": 2054663816,
+  "lat": 51.6627212,
+  "lon": -0.9227179
+},
+{
+  "type": "node",
+  "id": 2175006417,
+  "lat": 51.6607480,
+  "lon": -0.9359374
+},
+{
+  "type": "node",
+  "id": 2311730941,
+  "lat": 51.6601269,
+  "lon": -0.9311587
+},
+{
+  "type": "node",
+  "id": 3888097929,
+  "lat": 51.6514352,
+  "lon": -0.9272987
+},
+{
+  "type": "node",
+  "id": 4781400254,
+  "lat": 51.6453030,
+  "lon": -0.9605176
+},
+{
+  "type": "node",
+  "id": 4789076230,
+  "lat": 51.6596077,
+  "lon": -0.9378609
+},
+{
+  "type": "node",
+  "id": 4789076231,
+  "lat": 51.6596767,
+  "lon": -0.9379583
+},
+{
+  "type": "node",
+  "id": 4789076232,
+  "lat": 51.6598405,
+  "lon": -0.9371774
+},
+{
+  "type": "node",
+  "id": 4789076235,
+  "lat": 51.6601415,
+  "lon": -0.9366479
+},
+{
+  "type": "node",
+  "id": 4789076239,
+  "lat": 51.6603770,
+  "lon": -0.9362693
+},
+{
+  "type": "node",
+  "id": 4789076246,
+  "lat": 51.6612806,
+  "lon": -0.9354389
+},
+{
+  "type": "node",
+  "id": 4789076251,
+  "lat": 51.6622485,
+  "lon": -0.9346918
+},
+{
+  "type": "node",
+  "id": 6064366881,
+  "lat": 51.6634750,
+  "lon": -0.9332021
+},
+{
+  "type": "node",
+  "id": 6103815718,
+  "lat": 51.6525468,
+  "lon": -0.9544921
+},
+{
+  "type": "node",
+  "id": 6104002456,
+  "lat": 51.6611591,
+  "lon": -0.9349586,
+  "tags": {
+    "barrier": "gate",
+    "bicycle": "no",
+    "foot": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6138937861,
+  "lat": 51.6543058,
+  "lon": -0.9529936
+},
+{
+  "type": "node",
+  "id": 6571900839,
+  "lat": 51.6669660,
+  "lon": -0.9247633
+},
+{
+  "type": "node",
+  "id": 6572237445,
+  "lat": 51.6453908,
+  "lon": -0.9604041
+},
+{
+  "type": "node",
+  "id": 6572428954,
+  "lat": 51.6426763,
+  "lon": -0.9655702
+},
+{
+  "type": "node",
+  "id": 6572428959,
+  "lat": 51.6428940,
+  "lon": -0.9651089
+},
+{
+  "type": "node",
+  "id": 6769942340,
+  "lat": 51.6399670,
+  "lon": -0.9686905
+},
+{
+  "type": "node",
+  "id": 6769942348,
+  "lat": 51.6402599,
+  "lon": -0.9685740
+},
+{
+  "type": "node",
+  "id": 6769942349,
+  "lat": 51.6403435,
+  "lon": -0.9685267
+},
+{
+  "type": "node",
+  "id": 7419730594,
+  "lat": 51.6608160,
+  "lon": -0.9356249
+},
+{
+  "type": "node",
+  "id": 7419730597,
+  "lat": 51.6608858,
+  "lon": -0.9357895
+},
+{
+  "type": "node",
+  "id": 7640033309,
+  "lat": 51.6663907,
+  "lon": -0.9258711
+},
+{
+  "type": "node",
+  "id": 7640033317,
+  "lat": 51.6672958,
+  "lon": -0.9241919
+},
+{
+  "type": "node",
+  "id": 7640033323,
+  "lat": 51.6668678,
+  "lon": -0.9249342
+},
+{
+  "type": "node",
+  "id": 7640033324,
+  "lat": 51.6661539,
+  "lon": -0.9264224
+},
+{
+  "type": "node",
+  "id": 7640033327,
+  "lat": 51.6577304,
+  "lon": -0.9500118
+},
+{
+  "type": "node",
+  "id": 7640033330,
+  "lat": 51.6673754,
+  "lon": -0.9240332
+},
+{
+  "type": "node",
+  "id": 8481330761,
+  "lat": 51.6462243,
+  "lon": -0.9591939
+},
+{
+  "type": "node",
+  "id": 9676457993,
+  "lat": 51.6592970,
+  "lon": -0.9456466
+},
+{
+  "type": "node",
+  "id": 9676464967,
+  "lat": 51.6444987,
+  "lon": -0.9615170
+},
+{
+  "type": "node",
+  "id": 12057436153,
+  "lat": 51.6362073,
+  "lon": -0.9692952
+},
+{
+  "type": "way",
+  "id": 4490711,
+  "nodes": [
+    21688645,
+    21688647,
+    7640033330,
+    7640033317,
+    21688651,
+    6571900839,
+    7640033323,
+    21688655,
+    7640033309,
+    7640033324,
+    21688659,
+    21688663,
+    21688667,
+    265648852,
+    21688671,
+    1395071656,
+    21688676,
+    6064366881,
+    1395071659,
+    1395071662,
+    21688681,
+    1395071660,
+    4789076251,
+    21688684
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "name": "Christmas Common Road"
+  }
+},
+{
+  "type": "way",
+  "id": 4490752,
+  "nodes": [
+    21688705,
+    4789076246,
+    1395071665,
+    1034778794,
+    7419730597,
+    2175006417,
+    280884085,
+    21688710,
+    1395071657,
+    1395071663,
+    21688715,
+    4789076231,
+    1480421327,
+    21688719,
+    1480421326,
+    21688724,
+    21688728,
+    21688732,
+    9676457993,
+    21688736,
+    268615726,
+    268615690,
+    21688740,
+    1395071664,
+    21688745,
+    7640033327,
+    21688749,
+    268614619,
+    27530469,
+    317242371,
+    21688758,
+    317242353,
+    6138937861,
+    1285434085,
+    21688759,
+    21688763,
+    1240230575,
+    6103815718,
+    1081251061,
+    21688767,
+    1395071661,
+    1395071658,
+    21688774,
+    21688779,
+    1395071667,
+    21688784,
+    21688788,
+    27241255,
+    1395071666,
+    8481330761,
+    21688797,
+    21688800,
+    6572237445,
+    4781400254,
+    21688804,
+    9676464967,
+    21688808,
+    21688812,
+    21688816,
+    6572428959,
+    6572428954,
+    21688820,
+    21688825,
+    300664011,
+    21688830,
+    1034776222,
+    6769942349,
+    6769942348,
+    21688835,
+    6769942340,
+    21688839,
+    21688844,
+    21688849,
+    299159212,
+    12057436153
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Christmas Common Road"
+  }
+},
+{
+  "type": "way",
+  "id": 25756378,
+  "nodes": [
+    4789076231,
+    4789076230,
+    4789076232,
+    4789076235,
+    4789076239,
+    280884294,
+    7419730594,
+    280884295,
+    280884296,
+    280884297,
+    6104002456,
+    280884648,
+    280884299,
+    280884300,
+    280884301,
+    280884302,
+    280884303,
+    2311730941,
+    280884547,
+    280884807,
+    280884549,
+    280884808,
+    280884483,
+    280884309,
+    317242701,
+    280884484,
+    280884485,
+    280884486,
+    280884487,
+    280884551,
+    280884315,
+    280884316,
+    280884317,
+    280884318,
+    280884319,
+    280884661,
+    3888097929
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "designation": "public_bridleway",
+    "foot": "designated",
+    "highway": "bridleway",
+    "horse": "designated",
+    "prow_ref": "Lewknor BR 19",
+    "ref:Chiltern_Society": "L19",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 147855730,
+  "nodes": [
+    1610002019,
+    1610001997,
+    1610002062,
+    1610002156,
+    1610001789,
+    1610001861,
+    1610001834,
+    1610001839,
+    1610001729,
+    1610002096,
+    1610001757,
+    2054613938,
+    1610002003,
+    1610001797,
+    1610002151,
+    1610002000,
+    1610001938,
+    1610002038,
+    1610002041,
+    1610001844,
+    1610002154,
+    1610001914,
+    1610002149,
+    1610001764,
+    1610002066,
+    1610002035,
+    1610001987,
+    1610002029,
+    1610002155,
+    1610001751,
+    2054613941,
+    1610001826,
+    1610002131,
+    1610001879,
+    1610001900,
+    1610001867
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 173079432,
+  "nodes": [
+    1839043971,
+    1610001842,
+    1610002068,
+    1610001905,
+    1610002117,
+    1610001883,
+    1610002064,
+    1610001776,
+    1610001803,
+    1610001824,
+    1610001991,
+    1610001870
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "hazard": "falling_rocks",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 173079433,
+  "nodes": [
+    1610001870,
+    1610001948,
+    1610001768,
+    1610002102,
+    1610001955,
+    1610001889,
+    1610001788,
+    1610001837,
+    1610001952,
+    1610002005,
+    1610001984,
+    1610001877,
+    2054663813,
+    1610002153,
+    2054663816,
+    1610001873,
+    1610001903
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "no",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 21688684,
+  "lat": 51.6621550,
+  "lon": -0.9347569
+},
+{
+  "type": "node",
+  "id": 21688705,
+  "lat": 51.6614241,
+  "lon": -0.9353247
+},
+{
+  "type": "way",
+  "id": 4490712,
+  "nodes": [
+    21688684,
+    21688705
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "Christmas Common Overbridge",
+    "highway": "tertiary",
+    "layer": "1",
+    "maxweight": "7.5",
+    "name": "Christmas Common Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 213074,
+  "lat": 51.6619452,
+  "lon": -0.9175110,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Stokenchurch",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 21285398,
+  "lat": 51.6585253,
+  "lon": -0.9143791
+},
+{
+  "type": "node",
+  "id": 21285399,
+  "lat": 51.6589225,
+  "lon": -0.9139919
+},
+{
+  "type": "node",
+  "id": 21285401,
+  "lat": 51.6598762,
+  "lon": -0.9133454
+},
+{
+  "type": "node",
+  "id": 21285403,
+  "lat": 51.6608253,
+  "lon": -0.9126484
+},
+{
+  "type": "node",
+  "id": 21285404,
+  "lat": 51.6613295,
+  "lon": -0.9120715
+},
+{
+  "type": "node",
+  "id": 21285406,
+  "lat": 51.6614459,
+  "lon": -0.9122028
+},
+{
+  "type": "node",
+  "id": 21285407,
+  "lat": 51.6615338,
+  "lon": -0.9124154
+},
+{
+  "type": "node",
+  "id": 21285408,
+  "lat": 51.6615971,
+  "lon": -0.9131740
+},
+{
+  "type": "node",
+  "id": 21285409,
+  "lat": 51.6616268,
+  "lon": -0.9134220
+},
+{
+  "type": "node",
+  "id": 21285410,
+  "lat": 51.6617794,
+  "lon": -0.9143015
+},
+{
+  "type": "node",
+  "id": 21285411,
+  "lat": 51.6620871,
+  "lon": -0.9154248
+},
+{
+  "type": "node",
+  "id": 21285412,
+  "lat": 51.6625173,
+  "lon": -0.9168219
+},
+{
+  "type": "node",
+  "id": 21285413,
+  "lat": 51.6629812,
+  "lon": -0.9179951
+},
+{
+  "type": "node",
+  "id": 21285414,
+  "lat": 51.6636325,
+  "lon": -0.9192298
+},
+{
+  "type": "node",
+  "id": 21285415,
+  "lat": 51.6643507,
+  "lon": -0.9203010
+},
+{
+  "type": "node",
+  "id": 21285476,
+  "lat": 51.6602666,
+  "lon": -0.9130741
+},
+{
+  "type": "node",
+  "id": 21285478,
+  "lat": 51.6589120,
+  "lon": -0.9072814,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Stokenchurch",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 29836291,
+  "lat": 51.6614799,
+  "lon": -0.9116979
+},
+{
+  "type": "node",
+  "id": 719085339,
+  "lat": 51.6610722,
+  "lon": -0.9124279
+},
+{
+  "type": "node",
+  "id": 719097895,
+  "lat": 51.6602741,
+  "lon": -0.9105986
+},
+{
+  "type": "node",
+  "id": 848862092,
+  "lat": 51.6593891,
+  "lon": -0.9136859
+},
+{
+  "type": "node",
+  "id": 1141967650,
+  "lat": 51.6603084,
+  "lon": -0.9134116
+},
+{
+  "type": "node",
+  "id": 1141967657,
+  "lat": 51.6608723,
+  "lon": -0.9147555
+},
+{
+  "type": "node",
+  "id": 1141967660,
+  "lat": 51.6602013,
+  "lon": -0.9133085
+},
+{
+  "type": "node",
+  "id": 1141967661,
+  "lat": 51.6605991,
+  "lon": -0.9140732
+},
+{
+  "type": "node",
+  "id": 1141967674,
+  "lat": 51.6614622,
+  "lon": -0.9166253
+},
+{
+  "type": "node",
+  "id": 1141967684,
+  "lat": 51.6611382,
+  "lon": -0.9155283
+},
+{
+  "type": "node",
+  "id": 1141969179,
+  "lat": 51.6596161,
+  "lon": -0.9135203
+},
+{
+  "type": "node",
+  "id": 1141969181,
+  "lat": 51.6599285,
+  "lon": -0.9118494
+},
+{
+  "type": "node",
+  "id": 1141969182,
+  "lat": 51.6599415,
+  "lon": -0.9123416
+},
+{
+  "type": "node",
+  "id": 1141969183,
+  "lat": 51.6598129,
+  "lon": -0.9129598
+},
+{
+  "type": "node",
+  "id": 1141969184,
+  "lat": 51.6592312,
+  "lon": -0.9088481
+},
+{
+  "type": "node",
+  "id": 1141969186,
+  "lat": 51.6596859,
+  "lon": -0.9108178
+},
+{
+  "type": "node",
+  "id": 1141969187,
+  "lat": 51.6599550,
+  "lon": -0.9120937
+},
+{
+  "type": "node",
+  "id": 1141969342,
+  "lat": 51.6608595,
+  "lon": -0.9124843
+},
+{
+  "type": "node",
+  "id": 1141969343,
+  "lat": 51.6615648,
+  "lon": -0.9127467
+},
+{
+  "type": "node",
+  "id": 1141974326,
+  "lat": 51.6608602,
+  "lon": -0.9122571
+},
+{
+  "type": "node",
+  "id": 1141974328,
+  "lat": 51.6607906,
+  "lon": -0.9121221
+},
+{
+  "type": "node",
+  "id": 1141974329,
+  "lat": 51.6610499,
+  "lon": -0.9123322
+},
+{
+  "type": "node",
+  "id": 1141974330,
+  "lat": 51.6609534,
+  "lon": -0.9123214
+},
+{
+  "type": "node",
+  "id": 1141974331,
+  "lat": 51.6611633,
+  "lon": -0.9123146
+},
+{
+  "type": "node",
+  "id": 1141974539,
+  "lat": 51.6614640,
+  "lon": -0.9147788
+},
+{
+  "type": "node",
+  "id": 1141974540,
+  "lat": 51.6612416,
+  "lon": -0.9131656
+},
+{
+  "type": "node",
+  "id": 1393717359,
+  "lat": 51.6614079,
+  "lon": -0.9119126
+},
+{
+  "type": "node",
+  "id": 1393717376,
+  "lat": 51.6615383,
+  "lon": -0.9114357
+},
+{
+  "type": "node",
+  "id": 1442444688,
+  "lat": 51.6616824,
+  "lon": -0.9138451
+},
+{
+  "type": "node",
+  "id": 1442444689,
+  "lat": 51.6619475,
+  "lon": -0.9149517
+},
+{
+  "type": "node",
+  "id": 1442444690,
+  "lat": 51.6615596,
+  "lon": -0.9125592
+},
+{
+  "type": "node",
+  "id": 1442449560,
+  "lat": 51.6639759,
+  "lon": -0.9197804
+},
+{
+  "type": "node",
+  "id": 1442449570,
+  "lat": 51.6632387,
+  "lon": -0.9185162
+},
+{
+  "type": "node",
+  "id": 1442449586,
+  "lat": 51.6627139,
+  "lon": -0.9173593
+},
+{
+  "type": "node",
+  "id": 1609995353,
+  "lat": 51.6593212,
+  "lon": -0.9087947
+},
+{
+  "type": "node",
+  "id": 1609995355,
+  "lat": 51.6603478,
+  "lon": -0.9124103
+},
+{
+  "type": "node",
+  "id": 1609995379,
+  "lat": 51.6589434,
+  "lon": -0.9067275
+},
+{
+  "type": "node",
+  "id": 1609995392,
+  "lat": 51.6605289,
+  "lon": -0.9122762
+},
+{
+  "type": "node",
+  "id": 1609995422,
+  "lat": 51.6596805,
+  "lon": -0.9092718
+},
+{
+  "type": "node",
+  "id": 1610001772,
+  "lat": 51.6618341,
+  "lon": -0.9177650
+},
+{
+  "type": "node",
+  "id": 1610001787,
+  "lat": 51.6616168,
+  "lon": -0.9162169
+},
+{
+  "type": "node",
+  "id": 1610002100,
+  "lat": 51.6612233,
+  "lon": -0.9153994
+},
+{
+  "type": "node",
+  "id": 1610002121,
+  "lat": 51.6613636,
+  "lon": -0.9153358
+},
+{
+  "type": "node",
+  "id": 1667349749,
+  "lat": 51.6608519,
+  "lon": -0.9125680
+},
+{
+  "type": "node",
+  "id": 1667349764,
+  "lat": 51.6608479,
+  "lon": -0.9123768
+},
+{
+  "type": "node",
+  "id": 2049939954,
+  "lat": 51.6587757,
+  "lon": -0.9141262
+},
+{
+  "type": "node",
+  "id": 2054613936,
+  "lat": 51.6614712,
+  "lon": -0.9162867
+},
+{
+  "type": "node",
+  "id": 2054663812,
+  "lat": 51.6615452,
+  "lon": -0.9153203
+},
+{
+  "type": "node",
+  "id": 2054663814,
+  "lat": 51.6613851,
+  "lon": -0.9142285
+},
+{
+  "type": "node",
+  "id": 2054663815,
+  "lat": 51.6611588,
+  "lon": -0.9127446
+},
+{
+  "type": "node",
+  "id": 2054663818,
+  "lat": 51.6612972,
+  "lon": -0.9135220
+},
+{
+  "type": "node",
+  "id": 2054663819,
+  "lat": 51.6617213,
+  "lon": -0.9161696
+},
+{
+  "type": "node",
+  "id": 2054663935,
+  "lat": 51.6591354,
+  "lon": -0.9071762
+},
+{
+  "type": "node",
+  "id": 2054663936,
+  "lat": 51.6608014,
+  "lon": -0.9132204
+},
+{
+  "type": "node",
+  "id": 2054663964,
+  "lat": 51.6595985,
+  "lon": -0.9085501
+},
+{
+  "type": "node",
+  "id": 2188911970,
+  "lat": 51.6600262,
+  "lon": -0.9132462
+},
+{
+  "type": "node",
+  "id": 2600028306,
+  "lat": 51.6597937,
+  "lon": -0.9134023
+},
+{
+  "type": "node",
+  "id": 3111699066,
+  "lat": 51.6616003,
+  "lon": -0.9171215
+},
+{
+  "type": "node",
+  "id": 3662220454,
+  "lat": 51.6609463,
+  "lon": -0.9123165
+},
+{
+  "type": "node",
+  "id": 4217904570,
+  "lat": 51.6618526,
+  "lon": -0.9168387
+},
+{
+  "type": "node",
+  "id": 5002268069,
+  "lat": 51.6602675,
+  "lon": -0.9132683
+},
+{
+  "type": "node",
+  "id": 5002268070,
+  "lat": 51.6602607,
+  "lon": -0.9131609
+},
+{
+  "type": "node",
+  "id": 5002268071,
+  "lat": 51.6601370,
+  "lon": -0.9132847
+},
+{
+  "type": "node",
+  "id": 5002268073,
+  "lat": 51.6597089,
+  "lon": -0.9133494
+},
+{
+  "type": "node",
+  "id": 5002268074,
+  "lat": 51.6598318,
+  "lon": -0.9132761
+},
+{
+  "type": "node",
+  "id": 5002268075,
+  "lat": 51.6598032,
+  "lon": -0.9132054
+},
+{
+  "type": "node",
+  "id": 5002268076,
+  "lat": 51.6597953,
+  "lon": -0.9131109
+},
+{
+  "type": "node",
+  "id": 5002268078,
+  "lat": 51.6613925,
+  "lon": -0.9121243
+},
+{
+  "type": "node",
+  "id": 6639345588,
+  "lat": 51.6626275,
+  "lon": -0.9171230
+},
+{
+  "type": "node",
+  "id": 7630061651,
+  "lat": 51.6608549,
+  "lon": -0.9124414
+},
+{
+  "type": "node",
+  "id": 12066881525,
+  "lat": 51.6607575,
+  "lon": -0.9127000
+},
+{
+  "type": "node",
+  "id": 12066881526,
+  "lat": 51.6604303,
+  "lon": -0.9129494
+},
+{
+  "type": "node",
+  "id": 12349044506,
+  "lat": 51.6618042,
+  "lon": -0.9168982
+},
+{
+  "type": "way",
+  "id": 4016796,
+  "nodes": [
+    21285403,
+    1667349749,
+    1141969342,
+    7630061651,
+    1667349764,
+    1141974328
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "highway": "motorway_link",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19"
+  }
+},
+{
+  "type": "way",
+  "id": 4016797,
+  "nodes": [
+    213074,
+    4217904570,
+    2054663819,
+    2054663812,
+    1141974539,
+    2054663814,
+    2054663818,
+    1141974540,
+    2054663815,
+    719085339
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "highway": "motorway_link",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt",
+    "turn:lanes": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 4694040,
+  "nodes": [
+    21285476,
+    2188911970,
+    21285401
+  ],
+  "tags": {
+    "foot": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Ibstone Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 57953590,
+  "nodes": [
+    21285401,
+    2600028306,
+    1141969179,
+    848862092,
+    21285399,
+    2049939954,
+    21285398
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Ibstone Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 64951943,
+  "nodes": [
+    21285404,
+    1141974331,
+    719085339,
+    21285403
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Ibstone Road",
+    "ref": "A40",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 98708322,
+  "nodes": [
+    1141967650,
+    1141967661,
+    1141967657,
+    1141967684,
+    1141967674,
+    3111699066,
+    1610001772
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Oxford;B'ham",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 98708323,
+  "nodes": [
+    21285476,
+    5002268070,
+    5002268069,
+    1141967650
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Oxford;B'ham",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 98708459,
+  "nodes": [
+    1141969184,
+    1141969186,
+    1141969181,
+    1141969187,
+    1141969182,
+    1141969183
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "destination": "Stokenchurch",
+    "destination:ref": "A40",
+    "highway": "motorway_link",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt",
+    "turn:lanes": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 98708460,
+  "nodes": [
+    1141969183,
+    5002268076,
+    5002268075,
+    5002268074,
+    21285401
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "destination": "West Wycombe;Stokenchuch:Marlow:Local services",
+    "destination:ref": "A40",
+    "highway": "motorway_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 98709195,
+  "nodes": [
+    1141974331,
+    1141974329,
+    1141974330,
+    3662220454,
+    1141974326,
+    1141974328
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "destination": "London;High Wycombe",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19"
+  }
+},
+{
+  "type": "way",
+  "id": 147855727,
+  "nodes": [
+    213074,
+    12349044506,
+    1610001787,
+    1610002121,
+    2054663936,
+    1609995392,
+    1609995422,
+    1609995379
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 148212099,
+  "nodes": [
+    21285415,
+    1442449560,
+    21285414,
+    1442449570,
+    21285413,
+    1442449586,
+    6639345588,
+    21285412,
+    21285411,
+    1442444689,
+    21285410,
+    1442444688,
+    21285409,
+    21285408
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "50 mph",
+    "maxspeed:type": "sign",
+    "name": "Oxford Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 192214665,
+  "nodes": [
+    21285408,
+    1141969343,
+    1442444690,
+    21285407,
+    21285406,
+    5002268078,
+    21285404
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Oxford Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 238675853,
+  "nodes": [
+    1393717376,
+    29836291,
+    1393717359,
+    21285404
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Oxford Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 242296401,
+  "nodes": [
+    21285478,
+    1609995353,
+    1609995355,
+    1610002100,
+    2054613936,
+    1610001772
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422066164,
+  "nodes": [
+    1141969183,
+    5002268073,
+    1141969179
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "destination": "Ibstone",
+    "highway": "motorway_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422066189,
+  "nodes": [
+    1141974328,
+    719097895,
+    2054663964,
+    2054663935,
+    1609995379
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "highway": "motorway_link",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422066228,
+  "nodes": [
+    2188911970,
+    5002268071,
+    1141967660,
+    1141967650
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "destination": "Oxford;B'ham",
+    "destination:ref": "M40",
+    "highway": "motorway_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1302939207,
+  "nodes": [
+    21285403,
+    12066881525
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Ibstone Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1302939208,
+  "nodes": [
+    12066881526,
+    21285476
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "name": "Ibstone Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 12066881525,
+  "lat": 51.6607575,
+  "lon": -0.9127000
+},
+{
+  "type": "node",
+  "id": 12066881526,
+  "lat": 51.6604303,
+  "lon": -0.9129494
+},
+{
+  "type": "way",
+  "id": 4694042,
+  "nodes": [
+    12066881525,
+    12066881526
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "40 mph",
+    "maxweight:signed": "no",
+    "name": "Ibstone Road",
+    "ref": "A40",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 213074,
+  "lat": 51.6619452,
+  "lon": -0.9175110,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Stokenchurch",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 21285478,
+  "lat": 51.6589120,
+  "lon": -0.9072814,
+  "tags": {
+    "highway": "motorway_junction",
+    "name": "Stokenchurch",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 719097895,
+  "lat": 51.6602741,
+  "lon": -0.9105986
+},
+{
+  "type": "node",
+  "id": 1141969181,
+  "lat": 51.6599285,
+  "lon": -0.9118494
+},
+{
+  "type": "node",
+  "id": 1141969182,
+  "lat": 51.6599415,
+  "lon": -0.9123416
+},
+{
+  "type": "node",
+  "id": 1141969183,
+  "lat": 51.6598129,
+  "lon": -0.9129598
+},
+{
+  "type": "node",
+  "id": 1141969184,
+  "lat": 51.6592312,
+  "lon": -0.9088481
+},
+{
+  "type": "node",
+  "id": 1141969186,
+  "lat": 51.6596859,
+  "lon": -0.9108178
+},
+{
+  "type": "node",
+  "id": 1141969187,
+  "lat": 51.6599550,
+  "lon": -0.9120937
+},
+{
+  "type": "node",
+  "id": 1141974328,
+  "lat": 51.6607906,
+  "lon": -0.9121221
+},
+{
+  "type": "node",
+  "id": 1609992626,
+  "lat": 51.6268788,
+  "lon": -0.8476154
+},
+{
+  "type": "node",
+  "id": 1609992649,
+  "lat": 51.6270386,
+  "lon": -0.8490798
+},
+{
+  "type": "node",
+  "id": 1609992674,
+  "lat": 51.6267389,
+  "lon": -0.8467839
+},
+{
+  "type": "node",
+  "id": 1609992691,
+  "lat": 51.6270053,
+  "lon": -0.8486721
+},
+{
+  "type": "node",
+  "id": 1609995344,
+  "lat": 51.6553424,
+  "lon": -0.8985666
+},
+{
+  "type": "node",
+  "id": 1609995345,
+  "lat": 51.6508748,
+  "lon": -0.8935637
+},
+{
+  "type": "node",
+  "id": 1609995347,
+  "lat": 51.6270253,
+  "lon": -0.8605812
+},
+{
+  "type": "node",
+  "id": 1609995349,
+  "lat": 51.6412926,
+  "lon": -0.8870679
+},
+{
+  "type": "node",
+  "id": 1609995350,
+  "lat": 51.6516781,
+  "lon": -0.8942053
+},
+{
+  "type": "node",
+  "id": 1609995351,
+  "lat": 51.6366265,
+  "lon": -0.8826377
+},
+{
+  "type": "node",
+  "id": 1609995353,
+  "lat": 51.6593212,
+  "lon": -0.9087947
+},
+{
+  "type": "node",
+  "id": 1609995355,
+  "lat": 51.6603478,
+  "lon": -0.9124103
+},
+{
+  "type": "node",
+  "id": 1609995356,
+  "lat": 51.6529328,
+  "lon": -0.8954016
+},
+{
+  "type": "node",
+  "id": 1609995358,
+  "lat": 51.6392087,
+  "lon": -0.8853118
+},
+{
+  "type": "node",
+  "id": 1609995360,
+  "lat": 51.6398131,
+  "lon": -0.8858402
+},
+{
+  "type": "node",
+  "id": 1609995361,
+  "lat": 51.6404649,
+  "lon": -0.8864035
+},
+{
+  "type": "node",
+  "id": 1609995362,
+  "lat": 51.6555754,
+  "lon": -0.8989367
+},
+{
+  "type": "node",
+  "id": 1609995363,
+  "lat": 51.6270852,
+  "lon": -0.8498738
+},
+{
+  "type": "node",
+  "id": 1609995364,
+  "lat": 51.6309680,
+  "lon": -0.8737937
+},
+{
+  "type": "node",
+  "id": 1609995365,
+  "lat": 51.6273483,
+  "lon": -0.8627859
+},
+{
+  "type": "node",
+  "id": 1609995367,
+  "lat": 51.6278911,
+  "lon": -0.8653233
+},
+{
+  "type": "node",
+  "id": 1609995372,
+  "lat": 51.6322067,
+  "lon": -0.8762506
+},
+{
+  "type": "node",
+  "id": 1609995374,
+  "lat": 51.6281109,
+  "lon": -0.8660690
+},
+{
+  "type": "node",
+  "id": 1609995379,
+  "lat": 51.6589434,
+  "lon": -0.9067275
+},
+{
+  "type": "node",
+  "id": 1609995381,
+  "lat": 51.6288335,
+  "lon": -0.8683220
+},
+{
+  "type": "node",
+  "id": 1609995387,
+  "lat": 51.6547101,
+  "lon": -0.8976547
+},
+{
+  "type": "node",
+  "id": 1609995388,
+  "lat": 51.6534287,
+  "lon": -0.8959488
+},
+{
+  "type": "node",
+  "id": 1609995389,
+  "lat": 51.6564440,
+  "lon": -0.9004978
+},
+{
+  "type": "node",
+  "id": 1609995392,
+  "lat": 51.6605289,
+  "lon": -0.9122762
+},
+{
+  "type": "node",
+  "id": 1609995393,
+  "lat": 51.6432600,
+  "lon": -0.8885298
+},
+{
+  "type": "node",
+  "id": 1609995395,
+  "lat": 51.6268555,
+  "lon": -0.8553133
+},
+{
+  "type": "node",
+  "id": 1609995396,
+  "lat": 51.6456834,
+  "lon": -0.8901820
+},
+{
+  "type": "node",
+  "id": 1609995407,
+  "lat": 51.6348709,
+  "lon": -0.8804134
+},
+{
+  "type": "node",
+  "id": 1609995408,
+  "lat": 51.6270852,
+  "lon": -0.8515153
+},
+{
+  "type": "node",
+  "id": 1609995409,
+  "lat": 51.6481965,
+  "lon": -0.8918450
+},
+{
+  "type": "node",
+  "id": 1609995411,
+  "lat": 51.6586266,
+  "lon": -0.9062254
+},
+{
+  "type": "node",
+  "id": 1609995413,
+  "lat": 51.6381765,
+  "lon": -0.8843248
+},
+{
+  "type": "node",
+  "id": 1609995416,
+  "lat": 51.6269087,
+  "lon": -0.8595726
+},
+{
+  "type": "node",
+  "id": 1609995417,
+  "lat": 51.6540378,
+  "lon": -0.8967051
+},
+{
+  "type": "node",
+  "id": 1609995420,
+  "lat": 51.6568633,
+  "lon": -0.9013185
+},
+{
+  "type": "node",
+  "id": 1609995421,
+  "lat": 51.6574789,
+  "lon": -0.9028474
+},
+{
+  "type": "node",
+  "id": 1609995422,
+  "lat": 51.6596805,
+  "lon": -0.9092718
+},
+{
+  "type": "node",
+  "id": 1609995423,
+  "lat": 51.6325962,
+  "lon": -0.8769265
+},
+{
+  "type": "node",
+  "id": 1609995425,
+  "lat": 51.6283906,
+  "lon": -0.8670131
+},
+{
+  "type": "node",
+  "id": 1609995427,
+  "lat": 51.6268355,
+  "lon": -0.8562735
+},
+{
+  "type": "node",
+  "id": 1609995433,
+  "lat": 51.6582277,
+  "lon": -0.9048698
+},
+{
+  "type": "node",
+  "id": 1609995435,
+  "lat": 51.6302387,
+  "lon": -0.8721147
+},
+{
+  "type": "node",
+  "id": 1609995438,
+  "lat": 51.6287103,
+  "lon": -0.8679465
+},
+{
+  "type": "node",
+  "id": 1609995443,
+  "lat": 51.6345408,
+  "lon": -0.8799474
+},
+{
+  "type": "node",
+  "id": 1609995444,
+  "lat": 51.6271185,
+  "lon": -0.8613000
+},
+{
+  "type": "node",
+  "id": 1609995449,
+  "lat": 51.6268222,
+  "lon": -0.8568046
+},
+{
+  "type": "node",
+  "id": 1609995451,
+  "lat": 51.6276763,
+  "lon": -0.8644653
+},
+{
+  "type": "node",
+  "id": 1609995453,
+  "lat": 51.6316672,
+  "lon": -0.8752582
+},
+{
+  "type": "node",
+  "id": 1609995456,
+  "lat": 51.6523371,
+  "lon": -0.8948115
+},
+{
+  "type": "node",
+  "id": 1609995458,
+  "lat": 51.6573126,
+  "lon": -0.9024129
+},
+{
+  "type": "node",
+  "id": 1609995460,
+  "lat": 51.6270952,
+  "lon": -0.8506999
+},
+{
+  "type": "node",
+  "id": 1609995463,
+  "lat": 51.6274815,
+  "lon": -0.8635530
+},
+{
+  "type": "node",
+  "id": 1609995465,
+  "lat": 51.6269687,
+  "lon": -0.8534626
+},
+{
+  "type": "node",
+  "id": 1609995466,
+  "lat": 51.6268322,
+  "lon": -0.8583066
+},
+{
+  "type": "node",
+  "id": 1609995467,
+  "lat": 51.6272451,
+  "lon": -0.8621261
+},
+{
+  "type": "node",
+  "id": 1610001772,
+  "lat": 51.6618341,
+  "lon": -0.9177650
+},
+{
+  "type": "node",
+  "id": 1610001787,
+  "lat": 51.6616168,
+  "lon": -0.9162169
+},
+{
+  "type": "node",
+  "id": 1610002100,
+  "lat": 51.6612233,
+  "lon": -0.9153994
+},
+{
+  "type": "node",
+  "id": 1610002121,
+  "lat": 51.6613636,
+  "lon": -0.9153358
+},
+{
+  "type": "node",
+  "id": 2051161685,
+  "lat": 51.6356523,
+  "lon": -0.8814512
+},
+{
+  "type": "node",
+  "id": 2054613936,
+  "lat": 51.6614712,
+  "lon": -0.9162867
+},
+{
+  "type": "node",
+  "id": 2054663935,
+  "lat": 51.6591354,
+  "lon": -0.9071762
+},
+{
+  "type": "node",
+  "id": 2054663936,
+  "lat": 51.6608014,
+  "lon": -0.9132204
+},
+{
+  "type": "node",
+  "id": 2054663964,
+  "lat": 51.6595985,
+  "lon": -0.9085501
+},
+{
+  "type": "node",
+  "id": 12349044504,
+  "lat": 51.6589940,
+  "lon": -0.9077699
+},
+{
+  "type": "node",
+  "id": 12349044506,
+  "lat": 51.6618042,
+  "lon": -0.9168982
+},
+{
+  "type": "way",
+  "id": 98708459,
+  "nodes": [
+    1141969184,
+    1141969186,
+    1141969181,
+    1141969187,
+    1141969182,
+    1141969183
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "destination": "Stokenchurch",
+    "destination:ref": "A40",
+    "highway": "motorway_link",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt",
+    "turn:lanes": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 147854013,
+  "nodes": [
+    1609992674,
+    1609992626,
+    1609992691,
+    1609992649,
+    1609995363,
+    1609995460,
+    1609995408,
+    1609995465,
+    1609995395,
+    1609995427,
+    1609995449,
+    1609995466,
+    1609995416,
+    1609995347,
+    1609995444,
+    1609995467,
+    1609995365,
+    1609995463,
+    1609995451,
+    1609995367,
+    1609995374,
+    1609995425,
+    1609995438,
+    1609995381,
+    1609995435,
+    1609995364,
+    1609995453,
+    1609995372,
+    1609995423,
+    1609995443,
+    1609995407,
+    2051161685,
+    1609995351,
+    1609995413,
+    1609995358,
+    1609995360,
+    1609995361,
+    1609995349,
+    1609995393,
+    1609995396,
+    1609995409,
+    1609995345,
+    1609995350,
+    1609995456,
+    1609995356,
+    1609995388,
+    1609995417,
+    1609995387,
+    1609995344,
+    1609995362,
+    1609995389,
+    1609995420,
+    1609995458,
+    1609995421,
+    1609995433,
+    1609995411,
+    21285478
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 147855727,
+  "nodes": [
+    213074,
+    12349044506,
+    1610001787,
+    1610002121,
+    2054663936,
+    1609995392,
+    1609995422,
+    1609995379
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "B",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 242296401,
+  "nodes": [
+    21285478,
+    1609995353,
+    1609995355,
+    1610002100,
+    2054613936,
+    1610001772
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "carriageway_ref": "A",
+    "highway": "motorway",
+    "lanes": "3",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source": "GPS;Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 422066158,
+  "nodes": [
+    21285478,
+    12349044504,
+    1141969184
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "destination": "Stokenchurch",
+    "destination:ref": "A40",
+    "highway": "motorway_link",
+    "lanes": "1",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19"
+  }
+},
+{
+  "type": "way",
+  "id": 422066189,
+  "nodes": [
+    1141974328,
+    719097895,
+    2054663964,
+    2054663935,
+    1609995379
+  ],
+  "tags": {
+    "active_traffic_management": "no",
+    "admin_name": "High Wycombe Bypass",
+    "highway": "motorway_link",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "70 mph",
+    "maxspeed:type": "GB:motorway",
+    "maxspeed:variable": "no",
+    "national_highways:area": "DBFO30",
+    "old_ref": "A40(M)",
+    "oneway": "yes",
+    "operator": "National Highways",
+    "operator:wikidata": "Q5760006",
+    "ref": "M40",
+    "source:maxspeed": "Stats19",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1609995343,
+  "lat": 51.6597560,
+  "lon": -0.9083592
+},
+{
+  "type": "node",
+  "id": 1609995373,
+  "lat": 51.6597208,
+  "lon": -0.9082401
+},
+{
+  "type": "node",
+  "id": 1609995382,
+  "lat": 51.6589803,
+  "lon": -0.9087843
+},
+{
+  "type": "node",
+  "id": 1609995415,
+  "lat": 51.6598038,
+  "lon": -0.9083274
+},
+{
+  "type": "node",
+  "id": 9605989253,
+  "lat": 51.6591171,
+  "lon": -0.9086838
+},
+{
+  "type": "way",
+  "id": 147855134,
+  "nodes": [
+    1609995382,
+    9605989253,
+    1609995373,
+    1609995343,
+    1609995415
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 21689334,
+  "lat": 51.7011104,
+  "lon": -0.9087205,
+  "tags": {
+    "highway": "mini_roundabout"
+  }
+},
+{
+  "type": "node",
+  "id": 26847492,
+  "lat": 51.6995043,
+  "lon": -0.9064664
+},
+{
+  "type": "node",
+  "id": 253611256,
+  "lat": 51.7017154,
+  "lon": -0.9070973
+},
+{
+  "type": "node",
+  "id": 369848677,
+  "lat": 51.7011275,
+  "lon": -0.9066292
+},
+{
+  "type": "node",
+  "id": 369848678,
+  "lat": 51.7008675,
+  "lon": -0.9064049
+},
+{
+  "type": "node",
+  "id": 369848679,
+  "lat": 51.7007371,
+  "lon": -0.9063146
+},
+{
+  "type": "node",
+  "id": 369848680,
+  "lat": 51.7006191,
+  "lon": -0.9062443
+},
+{
+  "type": "node",
+  "id": 369848681,
+  "lat": 51.7004625,
+  "lon": -0.9061905
+},
+{
+  "type": "node",
+  "id": 369848683,
+  "lat": 51.7003121,
+  "lon": -0.9062027
+},
+{
+  "type": "node",
+  "id": 369848684,
+  "lat": 51.6997855,
+  "lon": -0.9062739
+},
+{
+  "type": "node",
+  "id": 369848688,
+  "lat": 51.6993752,
+  "lon": -0.9061837
+},
+{
+  "type": "node",
+  "id": 369848689,
+  "lat": 51.6990441,
+  "lon": -0.9059388
+},
+{
+  "type": "node",
+  "id": 369848690,
+  "lat": 51.6987383,
+  "lon": -0.9055502
+},
+{
+  "type": "node",
+  "id": 369848691,
+  "lat": 51.6986012,
+  "lon": -0.9053340
+},
+{
+  "type": "node",
+  "id": 686569551,
+  "lat": 51.7005885,
+  "lon": -0.9049787
+},
+{
+  "type": "node",
+  "id": 686569628,
+  "lat": 51.7002132,
+  "lon": -0.9046326
+},
+{
+  "type": "node",
+  "id": 686569630,
+  "lat": 51.7001439,
+  "lon": -0.9045845
+},
+{
+  "type": "node",
+  "id": 686569633,
+  "lat": 51.6999349,
+  "lon": -0.9045638
+},
+{
+  "type": "node",
+  "id": 686569635,
+  "lat": 51.6998455,
+  "lon": -0.9045985
+},
+{
+  "type": "node",
+  "id": 686569638,
+  "lat": 51.6995003,
+  "lon": -0.9048831
+},
+{
+  "type": "node",
+  "id": 686569639,
+  "lat": 51.6993233,
+  "lon": -0.9050611
+},
+{
+  "type": "node",
+  "id": 1034811825,
+  "lat": 51.7000162,
+  "lon": -0.9071365
+},
+{
+  "type": "node",
+  "id": 1079818866,
+  "lat": 51.6998286,
+  "lon": -0.9033163
+},
+{
+  "type": "node",
+  "id": 1079818867,
+  "lat": 51.6981560,
+  "lon": -0.9029556
+},
+{
+  "type": "node",
+  "id": 1079818869,
+  "lat": 51.6984936,
+  "lon": -0.9047576
+},
+{
+  "type": "node",
+  "id": 1079818872,
+  "lat": 51.6984222,
+  "lon": -0.9049581
+},
+{
+  "type": "node",
+  "id": 1079818875,
+  "lat": 51.6984822,
+  "lon": -0.9048123
+},
+{
+  "type": "node",
+  "id": 1079819019,
+  "lat": 51.6983611,
+  "lon": -0.9034044
+},
+{
+  "type": "node",
+  "id": 1079819039,
+  "lat": 51.6988128,
+  "lon": -0.9043607
+},
+{
+  "type": "node",
+  "id": 1079819041,
+  "lat": 51.6993760,
+  "lon": -0.9037562
+},
+{
+  "type": "node",
+  "id": 1079819044,
+  "lat": 51.6989621,
+  "lon": -0.9042390
+},
+{
+  "type": "node",
+  "id": 1127820775,
+  "lat": 51.6992598,
+  "lon": -0.9061880
+},
+{
+  "type": "node",
+  "id": 1127820803,
+  "lat": 51.6987638,
+  "lon": -0.9071175
+},
+{
+  "type": "node",
+  "id": 1127821938,
+  "lat": 51.6991981,
+  "lon": -0.9062995
+},
+{
+  "type": "node",
+  "id": 1128156344,
+  "lat": 51.6981295,
+  "lon": -0.9043379
+},
+{
+  "type": "node",
+  "id": 1128156346,
+  "lat": 51.6980431,
+  "lon": -0.9042360
+},
+{
+  "type": "node",
+  "id": 1128247041,
+  "lat": 51.6992890,
+  "lon": -0.9062183
+},
+{
+  "type": "node",
+  "id": 1129416221,
+  "lat": 51.6996761,
+  "lon": -0.9034654
+},
+{
+  "type": "node",
+  "id": 1150739684,
+  "lat": 51.7010215,
+  "lon": -0.9085758,
+  "tags": {
+    "traffic_calming": "island"
+  }
+},
+{
+  "type": "node",
+  "id": 1150739686,
+  "lat": 51.7008910,
+  "lon": -0.9083481
+},
+{
+  "type": "node",
+  "id": 1157433134,
+  "lat": 51.6996607,
+  "lon": -0.9066525
+},
+{
+  "type": "node",
+  "id": 1207846344,
+  "lat": 51.6991188,
+  "lon": -0.9064489
+},
+{
+  "type": "node",
+  "id": 1251043614,
+  "lat": 51.6984180,
+  "lon": -0.9049500,
+  "tags": {
+    "crossing:island": "yes",
+    "crossing:signals": "no",
+    "highway": "crossing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2121841216,
+  "lat": 51.7000709,
+  "lon": -0.9045636
+},
+{
+  "type": "node",
+  "id": 2121841218,
+  "lat": 51.7000128,
+  "lon": -0.9045533
+},
+{
+  "type": "node",
+  "id": 2175048574,
+  "lat": 51.6979174,
+  "lon": -0.9041395
+},
+{
+  "type": "node",
+  "id": 2507323957,
+  "lat": 51.6985536,
+  "lon": -0.9046654
+},
+{
+  "type": "node",
+  "id": 8852626698,
+  "lat": 51.6996178,
+  "lon": -0.9062627
+},
+{
+  "type": "node",
+  "id": 9743783961,
+  "lat": 51.6994163,
+  "lon": -0.9049794,
+  "tags": {
+    "highway": "turning_circle",
+    "turning_circle": "knuckle"
+  }
+},
+{
+  "type": "way",
+  "id": 4393479,
+  "nodes": [
+    21689334,
+    1150739684,
+    1150739686,
+    1034811825,
+    1157433134,
+    26847492,
+    1128247041,
+    1127820775
+  ],
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "30 mph",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 54512909,
+  "nodes": [
+    686569551,
+    686569628,
+    686569630,
+    2121841216,
+    2121841218,
+    686569633,
+    686569635,
+    686569638,
+    9743783961,
+    686569639
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "The Avenue"
+  }
+},
+{
+  "type": "way",
+  "id": 93144433,
+  "nodes": [
+    1079819039,
+    1079819019,
+    1079818867
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Golden Hills"
+  }
+},
+{
+  "type": "way",
+  "id": 93144435,
+  "nodes": [
+    1079818875,
+    1079818869,
+    2507323957,
+    1079819039,
+    1079819044,
+    1079819041,
+    1129416221,
+    1079818866
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Wykeham Rise"
+  }
+},
+{
+  "type": "way",
+  "id": 97375708,
+  "nodes": [
+    1127820803,
+    1207846344,
+    1127821938,
+    1127820775
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Meadow Road"
+  }
+},
+{
+  "type": "way",
+  "id": 97412607,
+  "nodes": [
+    369848691,
+    1079818872,
+    1251043614,
+    1128156344,
+    1128156346,
+    2175048574
+  ],
+  "tags": {
+    "alt_name": "Chinnor Hill",
+    "highway": "tertiary",
+    "maxspeed": "30 mph",
+    "name": "Hill Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 150113344,
+  "nodes": [
+    1127820775,
+    369848689,
+    369848690
+  ],
+  "tags": {
+    "alt_name": "Chinnor Hill",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "maxspeed": "30 mph",
+    "name": "Hill Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 161636695,
+  "nodes": [
+    253611256,
+    369848677,
+    369848678,
+    369848679,
+    369848680,
+    369848681,
+    369848683,
+    369848684,
+    8852626698,
+    369848688,
+    1128247041
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Church Lane",
+    "oneway": "yes",
+    "source:name": "OSSV",
+    "source:oneway": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 369848690,
+  "lat": 51.6987383,
+  "lon": -0.9055502
+},
+{
+  "type": "node",
+  "id": 369848691,
+  "lat": 51.6986012,
+  "lon": -0.9053340
+},
+{
+  "type": "node",
+  "id": 1129446513,
+  "lat": 51.6986715,
+  "lon": -0.9054587
+},
+{
+  "type": "way",
+  "id": 32825382,
+  "nodes": [
+    369848690,
+    1129446513,
+    369848691
+  ],
+  "tags": {
+    "alt_name": "Chinnor Hill",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "layer": "1",
+    "maxspeed": "30 mph",
+    "name": "Hill Road",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

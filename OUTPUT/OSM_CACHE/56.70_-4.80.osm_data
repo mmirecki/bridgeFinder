@@ -1,0 +1,477 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:07:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4103267204,
+  "lat": 56.7896697,
+  "lon": -4.7939996
+},
+{
+  "type": "node",
+  "id": 4103267212,
+  "lat": 56.7897505,
+  "lon": -4.7939433
+},
+{
+  "type": "way",
+  "id": 408384385,
+  "nodes": [
+    4103267204,
+    4103267212
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3696965765,
+  "lat": 56.7842068,
+  "lon": -4.7710593
+},
+{
+  "type": "node",
+  "id": 4103267010,
+  "lat": 56.7842763,
+  "lon": -4.7708120
+},
+{
+  "type": "way",
+  "id": 408384383,
+  "nodes": [
+    4103267010,
+    3696965765
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "source": "bing + historic NLS",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 715850554,
+  "lat": 56.7806665,
+  "lon": -4.7688546
+},
+{
+  "type": "node",
+  "id": 715850555,
+  "lat": 56.7808601,
+  "lon": -4.7690998
+},
+{
+  "type": "way",
+  "id": 57736993,
+  "nodes": [
+    715850555,
+    715850554
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "OS_OpenData_StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2093028819,
+  "lat": 56.7794947,
+  "lon": -4.7501179
+},
+{
+  "type": "node",
+  "id": 10124677002,
+  "lat": 56.7794830,
+  "lon": -4.7502866
+},
+{
+  "type": "way",
+  "id": 365691026,
+  "nodes": [
+    2093028819,
+    10124677002
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4556334244,
+  "lat": 56.7824688,
+  "lon": -4.7395332
+},
+{
+  "type": "node",
+  "id": 4556367635,
+  "lat": 56.7823593,
+  "lon": -4.7396700
+},
+{
+  "type": "way",
+  "id": 459913499,
+  "nodes": [
+    4556334244,
+    4556367635
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "service",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "sac_scale": "hiking",
+    "sidewalk": "none",
+    "source": "Bing",
+    "surface": "gravel",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 290995185,
+  "lat": 56.7694255,
+  "lon": -4.7060277
+},
+{
+  "type": "node",
+  "id": 4556340308,
+  "lat": 56.7694864,
+  "lon": -4.7059867
+},
+{
+  "type": "way",
+  "id": 459913490,
+  "nodes": [
+    4556340308,
+    290995185
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6513180585,
+  "lat": 56.7669567,
+  "lon": -4.7028510
+},
+{
+  "type": "node",
+  "id": 6513180586,
+  "lat": 56.7669061,
+  "lon": -4.7028134
+},
+{
+  "type": "way",
+  "id": 693736112,
+  "nodes": [
+    6513180585,
+    6513180586
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26575987,
+  "lat": 56.7750184,
+  "lon": -4.7147439
+},
+{
+  "type": "node",
+  "id": 26575988,
+  "lat": 56.7749499,
+  "lon": -4.7145166
+},
+{
+  "type": "way",
+  "id": 26549573,
+  "nodes": [
+    26575988,
+    26575987
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "2",
+    "maxspeed": "45 mph",
+    "name": "West Highland Line",
+    "operator": "Network Rail",
+    "passenger_lines": "1",
+    "railway": "rail",
+    "railway:traffic_mode": "mixed",
+    "ref": "WHL",
+    "ref:elr": "WHL",
+    "start_date": "1894-08-07",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4556367591,
+  "lat": 56.7749059,
+  "lon": -4.7146294
+},
+{
+  "type": "node",
+  "id": 5322278545,
+  "lat": 56.7749566,
+  "lon": -4.7147428
+},
+{
+  "type": "way",
+  "id": 551093165,
+  "nodes": [
+    5322278545,
+    4556367591
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3049075184,
+  "lat": 56.7750297,
+  "lon": -4.7144796
+},
+{
+  "type": "node",
+  "id": 6513180571,
+  "lat": 56.7749902,
+  "lon": -4.7147398
+},
+{
+  "type": "way",
+  "id": 693736111,
+  "nodes": [
+    3049075184,
+    6513180571
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "service",
+    "layer": "1",
+    "maxheight": "3.8",
+    "motor_vehicle": "private",
+    "sidewalk": "none",
+    "source": "Bing",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

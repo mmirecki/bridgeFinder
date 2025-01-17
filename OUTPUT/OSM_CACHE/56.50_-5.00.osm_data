@@ -1,0 +1,290 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:00:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3485446810,
+  "lat": 56.5006879,
+  "lon": -4.9833519
+},
+{
+  "type": "node",
+  "id": 3485446811,
+  "lat": 56.5005013,
+  "lon": -4.9829979
+},
+{
+  "type": "way",
+  "id": 341349679,
+  "nodes": [
+    3485446810,
+    3485446811
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4332735301,
+  "lat": 56.5006982,
+  "lon": -4.9839708
+},
+{
+  "type": "node",
+  "id": 4332735303,
+  "lat": 56.5007904,
+  "lon": -4.9838534
+},
+{
+  "type": "way",
+  "id": 435353261,
+  "nodes": [
+    4332735303,
+    4332735301
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "private",
+    "sidewalk": "none",
+    "surface": "gravel",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4362044866,
+  "lat": 56.5042759,
+  "lon": -4.9716454
+},
+{
+  "type": "node",
+  "id": 4362044869,
+  "lat": 56.5043318,
+  "lon": -4.9713306
+},
+{
+  "type": "way",
+  "id": 438458848,
+  "nodes": [
+    4362044869,
+    4362044866
+  ],
+  "tags": {
+    "bridge": "yes",
+    "bridge:structure": "simple-suspension",
+    "highway": "path",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 482764357,
+  "lat": 56.5162387,
+  "lon": -4.9505854
+},
+{
+  "type": "node",
+  "id": 4362044879,
+  "lat": 56.5163473,
+  "lon": -4.9507077
+},
+{
+  "type": "way",
+  "id": 438458846,
+  "nodes": [
+    482764357,
+    4362044879
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "sidewalk": "none",
+    "surface": "unpaved",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4363602834,
+  "lat": 56.5339619,
+  "lon": -4.9024254
+},
+{
+  "type": "node",
+  "id": 4363602835,
+  "lat": 56.5339652,
+  "lon": -4.9023641
+},
+{
+  "type": "way",
+  "id": 438650821,
+  "nodes": [
+    4363602835,
+    4363602834
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "sidewalk": "none",
+    "surface": "unpaved",
+    "tracktype": "grade4"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 608626253,
+  "lat": 56.5950734,
+  "lon": -4.9281021
+},
+{
+  "type": "node",
+  "id": 608626256,
+  "lat": 56.5949139,
+  "lon": -4.9282308
+},
+{
+  "type": "way",
+  "id": 565382043,
+  "nodes": [
+    608626253,
+    608626256
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "note": "Plank of wood wide. Extemely dangerous"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

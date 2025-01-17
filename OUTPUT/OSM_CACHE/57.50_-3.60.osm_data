@@ -1,0 +1,153 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:45:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8751141113,
+  "lat": 57.5427362,
+  "lon": -3.5885220
+},
+{
+  "type": "node",
+  "id": 8751141114,
+  "lat": 57.5427859,
+  "lon": -3.5886409
+},
+{
+  "type": "node",
+  "id": 8751223747,
+  "lat": 57.5427548,
+  "lon": -3.5885664
+},
+{
+  "type": "way",
+  "id": 945274314,
+  "nodes": [
+    8751141113,
+    8751223747,
+    8751141114
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1",
+    "service": "driveway",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1343107065,
+  "lat": 57.5826044,
+  "lon": -3.5901167
+},
+{
+  "type": "node",
+  "id": 1343107174,
+  "lat": 57.5826623,
+  "lon": -3.5902598
+},
+{
+  "type": "way",
+  "id": 119569085,
+  "nodes": [
+    1343107174,
+    1343107065
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "footway",
+    "name": "Dava Way",
+    "railway": "abandoned",
+    "source": "NPE"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7760831534,
+  "lat": 57.5984063,
+  "lon": -3.5963408
+},
+{
+  "type": "node",
+  "id": 7760831559,
+  "lat": 57.5983983,
+  "lon": -3.5965507
+},
+{
+  "type": "way",
+  "id": 831173222,
+  "nodes": [
+    7760831559,
+    7760831534
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "service",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

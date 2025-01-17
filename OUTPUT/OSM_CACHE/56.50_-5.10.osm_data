@@ -1,0 +1,386 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:57:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5468166020,
+  "lat": 56.5665075,
+  "lon": -5.0734553
+},
+{
+  "type": "node",
+  "id": 5468166021,
+  "lat": 56.5662999,
+  "lon": -5.0738310
+},
+{
+  "type": "way",
+  "id": 568364211,
+  "nodes": [
+    5468166021,
+    5468166020
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627171073,
+  "lat": 56.5638482,
+  "lon": -5.0718946
+},
+{
+  "type": "node",
+  "id": 1627171074,
+  "lat": 56.5639703,
+  "lon": -5.0717450
+},
+{
+  "type": "way",
+  "id": 568364215,
+  "nodes": [
+    1627171073,
+    1627171074
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "C1094",
+    "lanes": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Glen Etive Road",
+    "note": "road with passing places",
+    "source": "GPS/trip",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/BFE44322-6850-4DED-9225-ED8F6E5B61A5/0/LISTOFADOPTEDROADSCCLASS.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 362870098,
+  "lat": 56.5687323,
+  "lon": -5.0352023
+},
+{
+  "type": "node",
+  "id": 362870099,
+  "lat": 56.5688347,
+  "lon": -5.0348675
+},
+{
+  "type": "way",
+  "id": 32284107,
+  "nodes": [
+    362870098,
+    362870099
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "sac_scale": "hiking",
+    "source": "GPS/trip",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1657757968,
+  "lat": 56.5947373,
+  "lon": -5.0667674
+},
+{
+  "type": "node",
+  "id": 1657758083,
+  "lat": 56.5948673,
+  "lon": -5.0666386
+},
+{
+  "type": "way",
+  "id": 153027705,
+  "nodes": [
+    1657757968,
+    1657758083
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "name": "Dodgy Bridge 1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1657757971,
+  "lat": 56.5951036,
+  "lon": -5.0691706
+},
+{
+  "type": "node",
+  "id": 1657758079,
+  "lat": 56.5952335,
+  "lon": -5.0689990
+},
+{
+  "type": "way",
+  "id": 153027706,
+  "nodes": [
+    1657757971,
+    1657758079
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "name": "Dodgy Bridge 2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 362859500,
+  "lat": 56.5764025,
+  "lon": -5.0283686
+},
+{
+  "type": "node",
+  "id": 362859502,
+  "lat": 56.5765816,
+  "lon": -5.0287143
+},
+{
+  "type": "way",
+  "id": 32302455,
+  "nodes": [
+    362859500,
+    362859502
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "created_by": "Potlatch 0.10f",
+    "highway": "track",
+    "layer": "1",
+    "source": "GPS/trip",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1817709908,
+  "lat": 56.5848435,
+  "lon": -5.0169817
+},
+{
+  "type": "node",
+  "id": 1817709916,
+  "lat": 56.5846661,
+  "lon": -5.0172608
+},
+{
+  "type": "node",
+  "id": 11108159154,
+  "lat": 56.5848139,
+  "lon": -5.0170354
+},
+{
+  "type": "way",
+  "id": 170600838,
+  "nodes": [
+    1817709908,
+    11108159154,
+    1817709916
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 362844315,
+  "lat": 56.5909907,
+  "lon": -5.0256866
+},
+{
+  "type": "node",
+  "id": 362844317,
+  "lat": 56.5911013,
+  "lon": -5.0255788
+},
+{
+  "type": "way",
+  "id": 153026964,
+  "nodes": [
+    362844315,
+    362844317
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "highway": "unclassified",
+    "highway_authority_ref": "C1094",
+    "lanes": "1",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "name": "Glen Etive Road",
+    "note": "road with passing places",
+    "source": "GPS/trip",
+    "source_ref:ref": "http://www.highland.gov.uk/NR/rdonlyres/BFE44322-6850-4DED-9225-ED8F6E5B61A5/0/LISTOFADOPTEDROADSCCLASS.pdf"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

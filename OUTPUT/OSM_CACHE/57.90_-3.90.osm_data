@@ -1,0 +1,63 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:35:37Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 8387687061,
+  "lat": 57.9975955,
+  "lon": -3.8844880
+},
+{
+  "type": "node",
+  "id": 8387687062,
+  "lat": 57.9975149,
+  "lon": -3.8845996
+},
+{
+  "type": "way",
+  "id": 903071011,
+  "nodes": [
+    8387687062,
+    8387687061
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "60 mph",
+    "name": "Far North Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "WCK",
+    "start_date": "1871-06-19",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

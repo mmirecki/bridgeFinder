@@ -1,0 +1,3893 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:30:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 27462742,
+  "lat": 51.5995733,
+  "lon": -3.9936765
+},
+{
+  "type": "node",
+  "id": 27779579,
+  "lat": 51.5996719,
+  "lon": -3.9942810
+},
+{
+  "type": "node",
+  "id": 27779582,
+  "lat": 51.5996569,
+  "lon": -3.9941461
+},
+{
+  "type": "node",
+  "id": 27779583,
+  "lat": 51.5996401,
+  "lon": -3.9939961
+},
+{
+  "type": "node",
+  "id": 41682665,
+  "lat": 51.5986749,
+  "lon": -3.9944861,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "traffic_signals",
+    "kerb": "lowered",
+    "supervised": "no",
+    "tactile_paving": "yes",
+    "traffic_signals:direction": "both",
+    "traffic_signals:sound": "yes",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 257535026,
+  "lat": 51.5983224,
+  "lon": -3.9947684
+},
+{
+  "type": "node",
+  "id": 291189674,
+  "lat": 51.5999246,
+  "lon": -3.9933580
+},
+{
+  "type": "node",
+  "id": 7834704353,
+  "lat": 51.5996503,
+  "lon": -3.9948607
+},
+{
+  "type": "node",
+  "id": 9634216228,
+  "lat": 51.5995978,
+  "lon": -3.9937998,
+  "tags": {
+    "direction": "forward",
+    "highway": "give_way"
+  }
+},
+{
+  "type": "node",
+  "id": 9634216229,
+  "lat": 51.5994354,
+  "lon": -3.9938012
+},
+{
+  "type": "node",
+  "id": 10570126431,
+  "lat": 51.5986590,
+  "lon": -3.9944988
+},
+{
+  "type": "way",
+  "id": 23769814,
+  "nodes": [
+    7834704353,
+    27779579,
+    27779582,
+    27779583
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 30417388,
+  "nodes": [
+    291189674,
+    27462742
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "5",
+    "lanes:forward": "3",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "placement:forward": "middle_of:3",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 59148642,
+  "nodes": [
+    9634216229,
+    41682665,
+    10570126431
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1047710927,
+  "nodes": [
+    27779583,
+    9634216228,
+    27462742
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "placement:forward": "right_of:2",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1047710928,
+  "nodes": [
+    27462742,
+    9634216229
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "5",
+    "lanes:forward": "3",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "placement:forward": "middle_of:3",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1133760573,
+  "nodes": [
+    10570126431,
+    257535026
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 27472175,
+  "lat": 51.5986475,
+  "lon": -3.9933238
+},
+{
+  "type": "node",
+  "id": 27656647,
+  "lat": 51.5988806,
+  "lon": -3.9933593
+},
+{
+  "type": "way",
+  "id": 23769790,
+  "nodes": [
+    27656647,
+    27472175
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "cycleway:surface": "asphalt",
+    "cycleway:width": "2",
+    "foot": "designated",
+    "footway:surface": "asphalt",
+    "highway": "cycleway",
+    "layer": "1",
+    "lit": "no",
+    "name": "Swansea Bay Cycle Path",
+    "segregated": "yes",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27462737,
+  "lat": 51.5979848,
+  "lon": -3.9949373
+},
+{
+  "type": "node",
+  "id": 41682665,
+  "lat": 51.5986749,
+  "lon": -3.9944861,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "traffic_signals",
+    "kerb": "lowered",
+    "supervised": "no",
+    "tactile_paving": "yes",
+    "traffic_signals:direction": "both",
+    "traffic_signals:sound": "yes",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 98843313,
+  "lat": 51.5965366,
+  "lon": -3.9955321
+},
+{
+  "type": "node",
+  "id": 98843414,
+  "lat": 51.5978257,
+  "lon": -3.9949312,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 98843415,
+  "lat": 51.5969790,
+  "lon": -3.9952593,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844301,
+  "lat": 51.5969250,
+  "lon": -3.9954144,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844303,
+  "lat": 51.5978463,
+  "lon": -3.9950636
+},
+{
+  "type": "node",
+  "id": 109924954,
+  "lat": 51.5980614,
+  "lon": -3.9956973
+},
+{
+  "type": "node",
+  "id": 109924957,
+  "lat": 51.5980681,
+  "lon": -3.9959657
+},
+{
+  "type": "node",
+  "id": 109924960,
+  "lat": 51.5979654,
+  "lon": -3.9966929
+},
+{
+  "type": "node",
+  "id": 109924963,
+  "lat": 51.5978840,
+  "lon": -3.9968907
+},
+{
+  "type": "node",
+  "id": 109924964,
+  "lat": 51.5976847,
+  "lon": -3.9974624
+},
+{
+  "type": "node",
+  "id": 109924966,
+  "lat": 51.5976309,
+  "lon": -3.9979827
+},
+{
+  "type": "node",
+  "id": 109924967,
+  "lat": 51.5975224,
+  "lon": -3.9982216
+},
+{
+  "type": "node",
+  "id": 109924968,
+  "lat": 51.5972844,
+  "lon": -3.9984290
+},
+{
+  "type": "node",
+  "id": 109924970,
+  "lat": 51.5971937,
+  "lon": -3.9985578
+},
+{
+  "type": "node",
+  "id": 109924973,
+  "lat": 51.5971458,
+  "lon": -3.9987208
+},
+{
+  "type": "node",
+  "id": 109924975,
+  "lat": 51.5972102,
+  "lon": -3.9992820
+},
+{
+  "type": "node",
+  "id": 109924978,
+  "lat": 51.5972364,
+  "lon": -3.9995620
+},
+{
+  "type": "node",
+  "id": 109924979,
+  "lat": 51.5974070,
+  "lon": -4.0005319
+},
+{
+  "type": "node",
+  "id": 109924981,
+  "lat": 51.5975647,
+  "lon": -4.0010584
+},
+{
+  "type": "node",
+  "id": 109924986,
+  "lat": 51.5982062,
+  "lon": -4.0026161
+},
+{
+  "type": "node",
+  "id": 109924987,
+  "lat": 51.5982138,
+  "lon": -4.0026802
+},
+{
+  "type": "node",
+  "id": 109924992,
+  "lat": 51.5980022,
+  "lon": -4.0038907
+},
+{
+  "type": "node",
+  "id": 109924993,
+  "lat": 51.5979491,
+  "lon": -4.0042175
+},
+{
+  "type": "node",
+  "id": 257535026,
+  "lat": 51.5983224,
+  "lon": -3.9947684
+},
+{
+  "type": "node",
+  "id": 257535027,
+  "lat": 51.5981198,
+  "lon": -3.9948862
+},
+{
+  "type": "node",
+  "id": 562647913,
+  "lat": 51.5970893,
+  "lon": -3.9953510,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 1145408863,
+  "lat": 51.5967076,
+  "lon": -3.9955018
+},
+{
+  "type": "node",
+  "id": 1145408951,
+  "lat": 51.5971366,
+  "lon": -3.9951954
+},
+{
+  "type": "node",
+  "id": 1145409080,
+  "lat": 51.5966868,
+  "lon": -3.9953784
+},
+{
+  "type": "node",
+  "id": 1259624254,
+  "lat": 51.5978379,
+  "lon": -4.0017202
+},
+{
+  "type": "node",
+  "id": 1259624359,
+  "lat": 51.5979682,
+  "lon": -4.0019976
+},
+{
+  "type": "node",
+  "id": 1259624493,
+  "lat": 51.5982031,
+  "lon": -4.0027945
+},
+{
+  "type": "node",
+  "id": 1259624518,
+  "lat": 51.5980612,
+  "lon": -4.0035919
+},
+{
+  "type": "node",
+  "id": 1259624533,
+  "lat": 51.5980919,
+  "lon": -4.0023369
+},
+{
+  "type": "node",
+  "id": 7235839812,
+  "lat": 51.5973895,
+  "lon": -3.9983337
+},
+{
+  "type": "node",
+  "id": 7235839813,
+  "lat": 51.5977609,
+  "lon": -3.9971975
+},
+{
+  "type": "node",
+  "id": 7235839814,
+  "lat": 51.5976732,
+  "lon": -3.9977203
+},
+{
+  "type": "node",
+  "id": 8603351675,
+  "lat": 51.5974818,
+  "lon": -3.9950618
+},
+{
+  "type": "node",
+  "id": 8603351676,
+  "lat": 51.5974685,
+  "lon": -3.9952093
+},
+{
+  "type": "node",
+  "id": 8935860419,
+  "lat": 51.5976595,
+  "lon": -3.9978051
+},
+{
+  "type": "node",
+  "id": 9021639458,
+  "lat": 51.5979093,
+  "lon": -4.0018723
+},
+{
+  "type": "node",
+  "id": 9634216229,
+  "lat": 51.5994354,
+  "lon": -3.9938012
+},
+{
+  "type": "node",
+  "id": 9875498880,
+  "lat": 51.5976005,
+  "lon": -4.0011450
+},
+{
+  "type": "node",
+  "id": 10570126431,
+  "lat": 51.5986590,
+  "lon": -3.9944988
+},
+{
+  "type": "way",
+  "id": 11085915,
+  "nodes": [
+    27462737,
+    98843414,
+    8603351675,
+    1145408951,
+    98843415,
+    1145409080,
+    98843313
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 11085983,
+  "nodes": [
+    98843313,
+    1145408863,
+    98844301,
+    562647913,
+    8603351676,
+    98844303
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 12125276,
+  "nodes": [
+    27462737,
+    109924954,
+    109924957,
+    109924960,
+    109924963,
+    7235839813,
+    109924964,
+    7235839814,
+    8935860419,
+    109924966,
+    109924967,
+    7235839812,
+    109924968,
+    109924970,
+    109924973,
+    109924975,
+    109924978,
+    109924979,
+    109924981,
+    9875498880,
+    1259624254,
+    9021639458,
+    1259624359,
+    1259624533,
+    109924986,
+    109924987,
+    1259624493,
+    1259624518,
+    109924992,
+    109924993
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Mill Lane",
+    "name:cy": "Lôn y Felin",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23769796,
+  "nodes": [
+    257535027,
+    27462737
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 59148642,
+  "nodes": [
+    9634216229,
+    41682665,
+    10570126431
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773840055,
+  "nodes": [
+    98844303,
+    27462737
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1133760573,
+  "nodes": [
+    10570126431,
+    257535026
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 257535026,
+  "lat": 51.5983224,
+  "lon": -3.9947684
+},
+{
+  "type": "node",
+  "id": 257535027,
+  "lat": 51.5981198,
+  "lon": -3.9948862
+},
+{
+  "type": "way",
+  "id": 23769794,
+  "nodes": [
+    257535026,
+    257535027
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "maxweight:signed": "no",
+    "name": "Mumbles Road",
+    "ref": "A4067",
+    "shoulder": "no",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27462737,
+  "lat": 51.5979848,
+  "lon": -3.9949373
+},
+{
+  "type": "node",
+  "id": 27779571,
+  "lat": 51.5999113,
+  "lon": -3.9965382
+},
+{
+  "type": "node",
+  "id": 27779574,
+  "lat": 51.5997885,
+  "lon": -3.9965073
+},
+{
+  "type": "node",
+  "id": 27779575,
+  "lat": 51.5996407,
+  "lon": -3.9963448
+},
+{
+  "type": "node",
+  "id": 41682665,
+  "lat": 51.5986749,
+  "lon": -3.9944861,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "traffic_signals",
+    "kerb": "lowered",
+    "supervised": "no",
+    "tactile_paving": "yes",
+    "traffic_signals:direction": "both",
+    "traffic_signals:sound": "yes",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 98843313,
+  "lat": 51.5965366,
+  "lon": -3.9955321
+},
+{
+  "type": "node",
+  "id": 98843414,
+  "lat": 51.5978257,
+  "lon": -3.9949312,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 98843415,
+  "lat": 51.5969790,
+  "lon": -3.9952593,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844303,
+  "lat": 51.5978463,
+  "lon": -3.9950636
+},
+{
+  "type": "node",
+  "id": 109924954,
+  "lat": 51.5980614,
+  "lon": -3.9956973
+},
+{
+  "type": "node",
+  "id": 109924957,
+  "lat": 51.5980681,
+  "lon": -3.9959657
+},
+{
+  "type": "node",
+  "id": 109924960,
+  "lat": 51.5979654,
+  "lon": -3.9966929
+},
+{
+  "type": "node",
+  "id": 109924963,
+  "lat": 51.5978840,
+  "lon": -3.9968907
+},
+{
+  "type": "node",
+  "id": 109924964,
+  "lat": 51.5976847,
+  "lon": -3.9974624
+},
+{
+  "type": "node",
+  "id": 109924966,
+  "lat": 51.5976309,
+  "lon": -3.9979827
+},
+{
+  "type": "node",
+  "id": 109924967,
+  "lat": 51.5975224,
+  "lon": -3.9982216
+},
+{
+  "type": "node",
+  "id": 109924968,
+  "lat": 51.5972844,
+  "lon": -3.9984290
+},
+{
+  "type": "node",
+  "id": 109924970,
+  "lat": 51.5971937,
+  "lon": -3.9985578
+},
+{
+  "type": "node",
+  "id": 109924973,
+  "lat": 51.5971458,
+  "lon": -3.9987208
+},
+{
+  "type": "node",
+  "id": 109924975,
+  "lat": 51.5972102,
+  "lon": -3.9992820
+},
+{
+  "type": "node",
+  "id": 109924978,
+  "lat": 51.5972364,
+  "lon": -3.9995620
+},
+{
+  "type": "node",
+  "id": 109924979,
+  "lat": 51.5974070,
+  "lon": -4.0005319
+},
+{
+  "type": "node",
+  "id": 109924981,
+  "lat": 51.5975647,
+  "lon": -4.0010584
+},
+{
+  "type": "node",
+  "id": 109924986,
+  "lat": 51.5982062,
+  "lon": -4.0026161
+},
+{
+  "type": "node",
+  "id": 109924987,
+  "lat": 51.5982138,
+  "lon": -4.0026802
+},
+{
+  "type": "node",
+  "id": 109924992,
+  "lat": 51.5980022,
+  "lon": -4.0038907
+},
+{
+  "type": "node",
+  "id": 109924993,
+  "lat": 51.5979491,
+  "lon": -4.0042175
+},
+{
+  "type": "node",
+  "id": 257535026,
+  "lat": 51.5983224,
+  "lon": -3.9947684
+},
+{
+  "type": "node",
+  "id": 257535027,
+  "lat": 51.5981198,
+  "lon": -3.9948862
+},
+{
+  "type": "node",
+  "id": 257535124,
+  "lat": 51.5996024,
+  "lon": -3.9960733
+},
+{
+  "type": "node",
+  "id": 387318022,
+  "lat": 51.5984523,
+  "lon": -3.9975507
+},
+{
+  "type": "node",
+  "id": 387318024,
+  "lat": 51.5984043,
+  "lon": -3.9976622
+},
+{
+  "type": "node",
+  "id": 387318026,
+  "lat": 51.5983616,
+  "lon": -3.9977738
+},
+{
+  "type": "node",
+  "id": 387318027,
+  "lat": 51.5984096,
+  "lon": -3.9979455
+},
+{
+  "type": "node",
+  "id": 387318029,
+  "lat": 51.5985056,
+  "lon": -3.9981257
+},
+{
+  "type": "node",
+  "id": 387318030,
+  "lat": 51.5987028,
+  "lon": -3.9984948
+},
+{
+  "type": "node",
+  "id": 387318032,
+  "lat": 51.5987828,
+  "lon": -3.9988295
+},
+{
+  "type": "node",
+  "id": 387318034,
+  "lat": 51.5988361,
+  "lon": -3.9991900
+},
+{
+  "type": "node",
+  "id": 387318036,
+  "lat": 51.5988361,
+  "lon": -3.9994475
+},
+{
+  "type": "node",
+  "id": 387318038,
+  "lat": 51.5988895,
+  "lon": -3.9996192
+},
+{
+  "type": "node",
+  "id": 387318040,
+  "lat": 51.5989907,
+  "lon": -3.9998767
+},
+{
+  "type": "node",
+  "id": 387318042,
+  "lat": 51.5991080,
+  "lon": -3.9999882
+},
+{
+  "type": "node",
+  "id": 387318044,
+  "lat": 51.5992360,
+  "lon": -3.9999625
+},
+{
+  "type": "node",
+  "id": 387318046,
+  "lat": 51.5993213,
+  "lon": -4.0001170
+},
+{
+  "type": "node",
+  "id": 387318049,
+  "lat": 51.5994439,
+  "lon": -4.0003316
+},
+{
+  "type": "node",
+  "id": 387318051,
+  "lat": 51.5996305,
+  "lon": -4.0005633
+},
+{
+  "type": "node",
+  "id": 387318053,
+  "lat": 51.5998651,
+  "lon": -4.0009410
+},
+{
+  "type": "node",
+  "id": 387318055,
+  "lat": 51.5999717,
+  "lon": -4.0011126
+},
+{
+  "type": "node",
+  "id": 387318057,
+  "lat": 51.6002063,
+  "lon": -4.0014989
+},
+{
+  "type": "node",
+  "id": 387318058,
+  "lat": 51.6003876,
+  "lon": -4.0018164
+},
+{
+  "type": "node",
+  "id": 387318059,
+  "lat": 51.6004835,
+  "lon": -4.0018765
+},
+{
+  "type": "node",
+  "id": 387318060,
+  "lat": 51.6007181,
+  "lon": -4.0020653
+},
+{
+  "type": "node",
+  "id": 387318061,
+  "lat": 51.6007714,
+  "lon": -4.0021426
+},
+{
+  "type": "node",
+  "id": 387318062,
+  "lat": 51.6008141,
+  "lon": -4.0022799
+},
+{
+  "type": "node",
+  "id": 387318063,
+  "lat": 51.6008781,
+  "lon": -4.0023486
+},
+{
+  "type": "node",
+  "id": 387318064,
+  "lat": 51.6009634,
+  "lon": -4.0024087
+},
+{
+  "type": "node",
+  "id": 387318065,
+  "lat": 51.6009953,
+  "lon": -4.0023143
+},
+{
+  "type": "node",
+  "id": 387319239,
+  "lat": 51.5984071,
+  "lon": -3.9974529
+},
+{
+  "type": "node",
+  "id": 1145408951,
+  "lat": 51.5971366,
+  "lon": -3.9951954
+},
+{
+  "type": "node",
+  "id": 1145409080,
+  "lat": 51.5966868,
+  "lon": -3.9953784
+},
+{
+  "type": "node",
+  "id": 1259624254,
+  "lat": 51.5978379,
+  "lon": -4.0017202
+},
+{
+  "type": "node",
+  "id": 1259624359,
+  "lat": 51.5979682,
+  "lon": -4.0019976
+},
+{
+  "type": "node",
+  "id": 1259624493,
+  "lat": 51.5982031,
+  "lon": -4.0027945
+},
+{
+  "type": "node",
+  "id": 1259624518,
+  "lat": 51.5980612,
+  "lon": -4.0035919
+},
+{
+  "type": "node",
+  "id": 1259624533,
+  "lat": 51.5980919,
+  "lon": -4.0023369
+},
+{
+  "type": "node",
+  "id": 1817907897,
+  "lat": 51.6000147,
+  "lon": -3.9965644
+},
+{
+  "type": "node",
+  "id": 3992731835,
+  "lat": 51.5996084,
+  "lon": -3.9962358
+},
+{
+  "type": "node",
+  "id": 3992731836,
+  "lat": 51.5996827,
+  "lon": -3.9964154
+},
+{
+  "type": "node",
+  "id": 7235839812,
+  "lat": 51.5973895,
+  "lon": -3.9983337
+},
+{
+  "type": "node",
+  "id": 7235839813,
+  "lat": 51.5977609,
+  "lon": -3.9971975
+},
+{
+  "type": "node",
+  "id": 7235839814,
+  "lat": 51.5976732,
+  "lon": -3.9977203
+},
+{
+  "type": "node",
+  "id": 8603351675,
+  "lat": 51.5974818,
+  "lon": -3.9950618
+},
+{
+  "type": "node",
+  "id": 8935860419,
+  "lat": 51.5976595,
+  "lon": -3.9978051
+},
+{
+  "type": "node",
+  "id": 9021639458,
+  "lat": 51.5979093,
+  "lon": -4.0018723
+},
+{
+  "type": "node",
+  "id": 9634216229,
+  "lat": 51.5994354,
+  "lon": -3.9938012
+},
+{
+  "type": "node",
+  "id": 9875498880,
+  "lat": 51.5976005,
+  "lon": -4.0011450
+},
+{
+  "type": "node",
+  "id": 10570126431,
+  "lat": 51.5986590,
+  "lon": -3.9944988
+},
+{
+  "type": "way",
+  "id": 11085915,
+  "nodes": [
+    27462737,
+    98843414,
+    8603351675,
+    1145408951,
+    98843415,
+    1145409080,
+    98843313
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 12125276,
+  "nodes": [
+    27462737,
+    109924954,
+    109924957,
+    109924960,
+    109924963,
+    7235839813,
+    109924964,
+    7235839814,
+    8935860419,
+    109924966,
+    109924967,
+    7235839812,
+    109924968,
+    109924970,
+    109924973,
+    109924975,
+    109924978,
+    109924979,
+    109924981,
+    9875498880,
+    1259624254,
+    9021639458,
+    1259624359,
+    1259624533,
+    109924986,
+    109924987,
+    1259624493,
+    1259624518,
+    109924992,
+    109924993
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Mill Lane",
+    "name:cy": "Lôn y Felin",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23769796,
+  "nodes": [
+    257535027,
+    27462737
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 33815131,
+  "nodes": [
+    387319239,
+    387318022,
+    387318024,
+    387318026,
+    387318027,
+    387318029,
+    387318030,
+    387318032,
+    387318034,
+    387318036,
+    387318038,
+    387318040,
+    387318042,
+    387318044,
+    387318046,
+    387318049,
+    387318051,
+    387318053,
+    387318055,
+    387318057,
+    387318058,
+    387318059,
+    387318060,
+    387318061,
+    387318062,
+    387318063,
+    387318064,
+    387318065
+  ],
+  "tags": {
+    "access": "private",
+    "created_by": "Potlatch 0.5d",
+    "highway": "residential",
+    "name": "Mill Gardens"
+  }
+},
+{
+  "type": "way",
+  "id": 59148637,
+  "nodes": [
+    1817907897,
+    27779571,
+    27779574,
+    3992731836,
+    27779575,
+    3992731835,
+    257535124
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 59148642,
+  "nodes": [
+    9634216229,
+    41682665,
+    10570126431
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773840055,
+  "nodes": [
+    98844303,
+    27462737
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1133760573,
+  "nodes": [
+    10570126431,
+    257535026
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 257535069,
+  "lat": 51.5987080,
+  "lon": -3.9960917
+},
+{
+  "type": "node",
+  "id": 257535070,
+  "lat": 51.5986947,
+  "lon": -3.9955982
+},
+{
+  "type": "way",
+  "id": 23769805,
+  "nodes": [
+    257535069,
+    257535070
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "cycleway",
+    "layer": "1",
+    "lit": "no",
+    "name": "Clyne Cycle Path",
+    "segregated": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27779570,
+  "lat": 51.6014181,
+  "lon": -3.9968278
+},
+{
+  "type": "node",
+  "id": 27779571,
+  "lat": 51.5999113,
+  "lon": -3.9965382
+},
+{
+  "type": "node",
+  "id": 27779574,
+  "lat": 51.5997885,
+  "lon": -3.9965073
+},
+{
+  "type": "node",
+  "id": 27779575,
+  "lat": 51.5996407,
+  "lon": -3.9963448
+},
+{
+  "type": "node",
+  "id": 27779578,
+  "lat": 51.5996387,
+  "lon": -3.9951721
+},
+{
+  "type": "node",
+  "id": 27779579,
+  "lat": 51.5996719,
+  "lon": -3.9942810
+},
+{
+  "type": "node",
+  "id": 27779582,
+  "lat": 51.5996569,
+  "lon": -3.9941461
+},
+{
+  "type": "node",
+  "id": 27779583,
+  "lat": 51.5996401,
+  "lon": -3.9939961
+},
+{
+  "type": "node",
+  "id": 109540576,
+  "lat": 51.6011476,
+  "lon": -3.9967699
+},
+{
+  "type": "node",
+  "id": 257535123,
+  "lat": 51.5996198,
+  "lon": -3.9957195
+},
+{
+  "type": "node",
+  "id": 257535124,
+  "lat": 51.5996024,
+  "lon": -3.9960733
+},
+{
+  "type": "node",
+  "id": 291189674,
+  "lat": 51.5999246,
+  "lon": -3.9933580
+},
+{
+  "type": "node",
+  "id": 291189723,
+  "lat": 51.6000997,
+  "lon": -3.9937578
+},
+{
+  "type": "node",
+  "id": 291189724,
+  "lat": 51.6000303,
+  "lon": -3.9939618
+},
+{
+  "type": "node",
+  "id": 291189725,
+  "lat": 51.5999770,
+  "lon": -3.9941849
+},
+{
+  "type": "node",
+  "id": 291189726,
+  "lat": 51.5999717,
+  "lon": -3.9944767
+},
+{
+  "type": "node",
+  "id": 1005435115,
+  "lat": 51.6003141,
+  "lon": -3.9966278
+},
+{
+  "type": "node",
+  "id": 1005435116,
+  "lat": 51.6003597,
+  "lon": -3.9959501
+},
+{
+  "type": "node",
+  "id": 1005435117,
+  "lat": 51.6004217,
+  "lon": -3.9957769
+},
+{
+  "type": "node",
+  "id": 1005435118,
+  "lat": 51.6005235,
+  "lon": -3.9956773
+},
+{
+  "type": "node",
+  "id": 1005435119,
+  "lat": 51.6005731,
+  "lon": -3.9956529
+},
+{
+  "type": "node",
+  "id": 1721938358,
+  "lat": 51.6004729,
+  "lon": -3.9954987
+},
+{
+  "type": "node",
+  "id": 1721938380,
+  "lat": 51.6003283,
+  "lon": -3.9961644
+},
+{
+  "type": "node",
+  "id": 1817907897,
+  "lat": 51.6000147,
+  "lon": -3.9965644
+},
+{
+  "type": "node",
+  "id": 2073025663,
+  "lat": 51.6009820,
+  "lon": -3.9955375
+},
+{
+  "type": "node",
+  "id": 2073025668,
+  "lat": 51.6008832,
+  "lon": -3.9955662
+},
+{
+  "type": "node",
+  "id": 3992731835,
+  "lat": 51.5996084,
+  "lon": -3.9962358
+},
+{
+  "type": "node",
+  "id": 3992731836,
+  "lat": 51.5996827,
+  "lon": -3.9964154
+},
+{
+  "type": "node",
+  "id": 3992731837,
+  "lat": 51.5999785,
+  "lon": -3.9935246,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "kerb": "flush",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7834686848,
+  "lat": 51.5996018,
+  "lon": -3.9967091,
+  "tags": {
+    "fixme": "Check Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 7834686849,
+  "lat": 51.5997244,
+  "lon": -3.9967382
+},
+{
+  "type": "node",
+  "id": 7834686850,
+  "lat": 51.5998402,
+  "lon": -3.9967342
+},
+{
+  "type": "node",
+  "id": 7834686851,
+  "lat": 51.6002234,
+  "lon": -3.9968723
+},
+{
+  "type": "node",
+  "id": 7834686852,
+  "lat": 51.5999085,
+  "lon": -3.9967422
+},
+{
+  "type": "node",
+  "id": 7834686853,
+  "lat": 51.6001259,
+  "lon": -3.9969045
+},
+{
+  "type": "node",
+  "id": 7834686854,
+  "lat": 51.6001051,
+  "lon": -3.9971526
+},
+{
+  "type": "node",
+  "id": 7834704353,
+  "lat": 51.5996503,
+  "lon": -3.9948607
+},
+{
+  "type": "node",
+  "id": 7834704358,
+  "lat": 51.5996251,
+  "lon": -3.9955795,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "kerb": "flush",
+    "tactile_paving": "yes",
+    "traffic_calming": "table"
+  }
+},
+{
+  "type": "way",
+  "id": 23769814,
+  "nodes": [
+    7834704353,
+    27779579,
+    27779582,
+    27779583
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26562745,
+  "nodes": [
+    291189674,
+    3992731837,
+    291189723,
+    291189724,
+    291189725,
+    291189726
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Glyn Crescent"
+  }
+},
+{
+  "type": "way",
+  "id": 59148637,
+  "nodes": [
+    1817907897,
+    27779571,
+    27779574,
+    3992731836,
+    27779575,
+    3992731835,
+    257535124
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 86502494,
+  "nodes": [
+    1005435115,
+    1721938380,
+    1005435116,
+    1005435117,
+    1005435118,
+    1005435119,
+    2073025668,
+    2073025663
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Y Deri"
+  }
+},
+{
+  "type": "way",
+  "id": 160119663,
+  "nodes": [
+    1005435118,
+    1721938358
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Y Deri"
+  }
+},
+{
+  "type": "way",
+  "id": 839614192,
+  "nodes": [
+    7834686851,
+    7834686853
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 839614193,
+  "nodes": [
+    7834686854,
+    7834686853,
+    7834686852,
+    7834686850,
+    7834686849,
+    7834686848
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 839614210,
+  "nodes": [
+    257535123,
+    7834704358,
+    27779578,
+    7834704353
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 839614211,
+  "nodes": [
+    27779570,
+    109540576,
+    1005435115,
+    1817907897
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436"
+  }
+},
+{
+  "type": "node",
+  "id": 257535123,
+  "lat": 51.5996198,
+  "lon": -3.9957195
+},
+{
+  "type": "node",
+  "id": 257535124,
+  "lat": 51.5996024,
+  "lon": -3.9960733
+},
+{
+  "type": "way",
+  "id": 23769815,
+  "nodes": [
+    257535124,
+    257535123
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "maxweight:signed": "no",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27462737,
+  "lat": 51.5979848,
+  "lon": -3.9949373
+},
+{
+  "type": "node",
+  "id": 41682665,
+  "lat": 51.5986749,
+  "lon": -3.9944861,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "traffic_signals",
+    "kerb": "lowered",
+    "supervised": "no",
+    "tactile_paving": "yes",
+    "traffic_signals:direction": "both",
+    "traffic_signals:sound": "yes",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 98843313,
+  "lat": 51.5965366,
+  "lon": -3.9955321
+},
+{
+  "type": "node",
+  "id": 98843414,
+  "lat": 51.5978257,
+  "lon": -3.9949312,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 98843415,
+  "lat": 51.5969790,
+  "lon": -3.9952593,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844301,
+  "lat": 51.5969250,
+  "lon": -3.9954144,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844303,
+  "lat": 51.5978463,
+  "lon": -3.9950636
+},
+{
+  "type": "node",
+  "id": 109924954,
+  "lat": 51.5980614,
+  "lon": -3.9956973
+},
+{
+  "type": "node",
+  "id": 109924957,
+  "lat": 51.5980681,
+  "lon": -3.9959657
+},
+{
+  "type": "node",
+  "id": 109924960,
+  "lat": 51.5979654,
+  "lon": -3.9966929
+},
+{
+  "type": "node",
+  "id": 109924963,
+  "lat": 51.5978840,
+  "lon": -3.9968907
+},
+{
+  "type": "node",
+  "id": 109924964,
+  "lat": 51.5976847,
+  "lon": -3.9974624
+},
+{
+  "type": "node",
+  "id": 109924966,
+  "lat": 51.5976309,
+  "lon": -3.9979827
+},
+{
+  "type": "node",
+  "id": 109924967,
+  "lat": 51.5975224,
+  "lon": -3.9982216
+},
+{
+  "type": "node",
+  "id": 109924968,
+  "lat": 51.5972844,
+  "lon": -3.9984290
+},
+{
+  "type": "node",
+  "id": 109924970,
+  "lat": 51.5971937,
+  "lon": -3.9985578
+},
+{
+  "type": "node",
+  "id": 109924973,
+  "lat": 51.5971458,
+  "lon": -3.9987208
+},
+{
+  "type": "node",
+  "id": 109924975,
+  "lat": 51.5972102,
+  "lon": -3.9992820
+},
+{
+  "type": "node",
+  "id": 109924978,
+  "lat": 51.5972364,
+  "lon": -3.9995620
+},
+{
+  "type": "node",
+  "id": 109924979,
+  "lat": 51.5974070,
+  "lon": -4.0005319
+},
+{
+  "type": "node",
+  "id": 109924981,
+  "lat": 51.5975647,
+  "lon": -4.0010584
+},
+{
+  "type": "node",
+  "id": 109924986,
+  "lat": 51.5982062,
+  "lon": -4.0026161
+},
+{
+  "type": "node",
+  "id": 109924987,
+  "lat": 51.5982138,
+  "lon": -4.0026802
+},
+{
+  "type": "node",
+  "id": 109924992,
+  "lat": 51.5980022,
+  "lon": -4.0038907
+},
+{
+  "type": "node",
+  "id": 109924993,
+  "lat": 51.5979491,
+  "lon": -4.0042175
+},
+{
+  "type": "node",
+  "id": 257535026,
+  "lat": 51.5983224,
+  "lon": -3.9947684
+},
+{
+  "type": "node",
+  "id": 257535027,
+  "lat": 51.5981198,
+  "lon": -3.9948862
+},
+{
+  "type": "node",
+  "id": 562647913,
+  "lat": 51.5970893,
+  "lon": -3.9953510,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 1145408863,
+  "lat": 51.5967076,
+  "lon": -3.9955018
+},
+{
+  "type": "node",
+  "id": 1145408951,
+  "lat": 51.5971366,
+  "lon": -3.9951954
+},
+{
+  "type": "node",
+  "id": 1145409080,
+  "lat": 51.5966868,
+  "lon": -3.9953784
+},
+{
+  "type": "node",
+  "id": 1259624254,
+  "lat": 51.5978379,
+  "lon": -4.0017202
+},
+{
+  "type": "node",
+  "id": 1259624359,
+  "lat": 51.5979682,
+  "lon": -4.0019976
+},
+{
+  "type": "node",
+  "id": 1259624493,
+  "lat": 51.5982031,
+  "lon": -4.0027945
+},
+{
+  "type": "node",
+  "id": 1259624518,
+  "lat": 51.5980612,
+  "lon": -4.0035919
+},
+{
+  "type": "node",
+  "id": 1259624533,
+  "lat": 51.5980919,
+  "lon": -4.0023369
+},
+{
+  "type": "node",
+  "id": 7235839812,
+  "lat": 51.5973895,
+  "lon": -3.9983337
+},
+{
+  "type": "node",
+  "id": 7235839813,
+  "lat": 51.5977609,
+  "lon": -3.9971975
+},
+{
+  "type": "node",
+  "id": 7235839814,
+  "lat": 51.5976732,
+  "lon": -3.9977203
+},
+{
+  "type": "node",
+  "id": 8603351675,
+  "lat": 51.5974818,
+  "lon": -3.9950618
+},
+{
+  "type": "node",
+  "id": 8603351676,
+  "lat": 51.5974685,
+  "lon": -3.9952093
+},
+{
+  "type": "node",
+  "id": 8935860419,
+  "lat": 51.5976595,
+  "lon": -3.9978051
+},
+{
+  "type": "node",
+  "id": 9021639458,
+  "lat": 51.5979093,
+  "lon": -4.0018723
+},
+{
+  "type": "node",
+  "id": 9634216229,
+  "lat": 51.5994354,
+  "lon": -3.9938012
+},
+{
+  "type": "node",
+  "id": 9875498880,
+  "lat": 51.5976005,
+  "lon": -4.0011450
+},
+{
+  "type": "node",
+  "id": 10570126431,
+  "lat": 51.5986590,
+  "lon": -3.9944988
+},
+{
+  "type": "way",
+  "id": 11085915,
+  "nodes": [
+    27462737,
+    98843414,
+    8603351675,
+    1145408951,
+    98843415,
+    1145409080,
+    98843313
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 11085983,
+  "nodes": [
+    98843313,
+    1145408863,
+    98844301,
+    562647913,
+    8603351676,
+    98844303
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 12125276,
+  "nodes": [
+    27462737,
+    109924954,
+    109924957,
+    109924960,
+    109924963,
+    7235839813,
+    109924964,
+    7235839814,
+    8935860419,
+    109924966,
+    109924967,
+    7235839812,
+    109924968,
+    109924970,
+    109924973,
+    109924975,
+    109924978,
+    109924979,
+    109924981,
+    9875498880,
+    1259624254,
+    9021639458,
+    1259624359,
+    1259624533,
+    109924986,
+    109924987,
+    1259624493,
+    1259624518,
+    109924992,
+    109924993
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Mill Lane",
+    "name:cy": "Lôn y Felin",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23769796,
+  "nodes": [
+    257535027,
+    27462737
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 59148642,
+  "nodes": [
+    9634216229,
+    41682665,
+    10570126431
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773840055,
+  "nodes": [
+    98844303,
+    27462737
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1133760573,
+  "nodes": [
+    10570126431,
+    257535026
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1145409035,
+  "lat": 51.5981704,
+  "lon": -3.9945365
+},
+{
+  "type": "node",
+  "id": 1773630526,
+  "lat": 51.5980979,
+  "lon": -3.9945741
+},
+{
+  "type": "way",
+  "id": 165836319,
+  "nodes": [
+    1145409035,
+    1773630526
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "path",
+    "layer": "1",
+    "name": "Swansea and Mumbles Railway",
+    "railway": "abandoned",
+    "segregated": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27779570,
+  "lat": 51.6014181,
+  "lon": -3.9968278
+},
+{
+  "type": "node",
+  "id": 27779571,
+  "lat": 51.5999113,
+  "lon": -3.9965382
+},
+{
+  "type": "node",
+  "id": 27779574,
+  "lat": 51.5997885,
+  "lon": -3.9965073
+},
+{
+  "type": "node",
+  "id": 27779575,
+  "lat": 51.5996407,
+  "lon": -3.9963448
+},
+{
+  "type": "node",
+  "id": 27779578,
+  "lat": 51.5996387,
+  "lon": -3.9951721
+},
+{
+  "type": "node",
+  "id": 27779579,
+  "lat": 51.5996719,
+  "lon": -3.9942810
+},
+{
+  "type": "node",
+  "id": 27779582,
+  "lat": 51.5996569,
+  "lon": -3.9941461
+},
+{
+  "type": "node",
+  "id": 27779583,
+  "lat": 51.5996401,
+  "lon": -3.9939961
+},
+{
+  "type": "node",
+  "id": 109540576,
+  "lat": 51.6011476,
+  "lon": -3.9967699
+},
+{
+  "type": "node",
+  "id": 257535123,
+  "lat": 51.5996198,
+  "lon": -3.9957195
+},
+{
+  "type": "node",
+  "id": 257535124,
+  "lat": 51.5996024,
+  "lon": -3.9960733
+},
+{
+  "type": "node",
+  "id": 1005435115,
+  "lat": 51.6003141,
+  "lon": -3.9966278
+},
+{
+  "type": "node",
+  "id": 1005435116,
+  "lat": 51.6003597,
+  "lon": -3.9959501
+},
+{
+  "type": "node",
+  "id": 1005435117,
+  "lat": 51.6004217,
+  "lon": -3.9957769
+},
+{
+  "type": "node",
+  "id": 1005435118,
+  "lat": 51.6005235,
+  "lon": -3.9956773
+},
+{
+  "type": "node",
+  "id": 1005435119,
+  "lat": 51.6005731,
+  "lon": -3.9956529
+},
+{
+  "type": "node",
+  "id": 1721938358,
+  "lat": 51.6004729,
+  "lon": -3.9954987
+},
+{
+  "type": "node",
+  "id": 1721938380,
+  "lat": 51.6003283,
+  "lon": -3.9961644
+},
+{
+  "type": "node",
+  "id": 1817907897,
+  "lat": 51.6000147,
+  "lon": -3.9965644
+},
+{
+  "type": "node",
+  "id": 2073025663,
+  "lat": 51.6009820,
+  "lon": -3.9955375
+},
+{
+  "type": "node",
+  "id": 2073025668,
+  "lat": 51.6008832,
+  "lon": -3.9955662
+},
+{
+  "type": "node",
+  "id": 3992731835,
+  "lat": 51.5996084,
+  "lon": -3.9962358
+},
+{
+  "type": "node",
+  "id": 3992731836,
+  "lat": 51.5996827,
+  "lon": -3.9964154
+},
+{
+  "type": "node",
+  "id": 7834686848,
+  "lat": 51.5996018,
+  "lon": -3.9967091,
+  "tags": {
+    "fixme": "Check Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 7834686849,
+  "lat": 51.5997244,
+  "lon": -3.9967382
+},
+{
+  "type": "node",
+  "id": 7834686850,
+  "lat": 51.5998402,
+  "lon": -3.9967342
+},
+{
+  "type": "node",
+  "id": 7834686851,
+  "lat": 51.6002234,
+  "lon": -3.9968723
+},
+{
+  "type": "node",
+  "id": 7834686852,
+  "lat": 51.5999085,
+  "lon": -3.9967422
+},
+{
+  "type": "node",
+  "id": 7834686853,
+  "lat": 51.6001259,
+  "lon": -3.9969045
+},
+{
+  "type": "node",
+  "id": 7834686854,
+  "lat": 51.6001051,
+  "lon": -3.9971526
+},
+{
+  "type": "node",
+  "id": 7834704353,
+  "lat": 51.5996503,
+  "lon": -3.9948607
+},
+{
+  "type": "node",
+  "id": 7834704358,
+  "lat": 51.5996251,
+  "lon": -3.9955795,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "kerb": "flush",
+    "tactile_paving": "yes",
+    "traffic_calming": "table"
+  }
+},
+{
+  "type": "way",
+  "id": 23769814,
+  "nodes": [
+    7834704353,
+    27779579,
+    27779582,
+    27779583
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 59148637,
+  "nodes": [
+    1817907897,
+    27779571,
+    27779574,
+    3992731836,
+    27779575,
+    3992731835,
+    257535124
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 86502494,
+  "nodes": [
+    1005435115,
+    1721938380,
+    1005435116,
+    1005435117,
+    1005435118,
+    1005435119,
+    2073025668,
+    2073025663
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Y Deri"
+  }
+},
+{
+  "type": "way",
+  "id": 160119663,
+  "nodes": [
+    1005435118,
+    1721938358
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Y Deri"
+  }
+},
+{
+  "type": "way",
+  "id": 839614192,
+  "nodes": [
+    7834686851,
+    7834686853
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 839614193,
+  "nodes": [
+    7834686854,
+    7834686853,
+    7834686852,
+    7834686850,
+    7834686849,
+    7834686848
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 839614210,
+  "nodes": [
+    257535123,
+    7834704358,
+    27779578,
+    7834704353
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 839614211,
+  "nodes": [
+    27779570,
+    109540576,
+    1005435115,
+    1817907897
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436"
+  }
+},
+{
+  "type": "node",
+  "id": 1817907885,
+  "lat": 51.5996573,
+  "lon": -3.9959335
+},
+{
+  "type": "node",
+  "id": 7834686794,
+  "lat": 51.5996590,
+  "lon": -3.9958829
+},
+{
+  "type": "way",
+  "id": 839614180,
+  "nodes": [
+    1817907885,
+    7834686794
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "fixme": "Check for better description",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27779570,
+  "lat": 51.6014181,
+  "lon": -3.9968278
+},
+{
+  "type": "node",
+  "id": 27779571,
+  "lat": 51.5999113,
+  "lon": -3.9965382
+},
+{
+  "type": "node",
+  "id": 27779574,
+  "lat": 51.5997885,
+  "lon": -3.9965073
+},
+{
+  "type": "node",
+  "id": 27779575,
+  "lat": 51.5996407,
+  "lon": -3.9963448
+},
+{
+  "type": "node",
+  "id": 27779578,
+  "lat": 51.5996387,
+  "lon": -3.9951721
+},
+{
+  "type": "node",
+  "id": 27779579,
+  "lat": 51.5996719,
+  "lon": -3.9942810
+},
+{
+  "type": "node",
+  "id": 27779582,
+  "lat": 51.5996569,
+  "lon": -3.9941461
+},
+{
+  "type": "node",
+  "id": 27779583,
+  "lat": 51.5996401,
+  "lon": -3.9939961
+},
+{
+  "type": "node",
+  "id": 109540576,
+  "lat": 51.6011476,
+  "lon": -3.9967699
+},
+{
+  "type": "node",
+  "id": 257535123,
+  "lat": 51.5996198,
+  "lon": -3.9957195
+},
+{
+  "type": "node",
+  "id": 257535124,
+  "lat": 51.5996024,
+  "lon": -3.9960733
+},
+{
+  "type": "node",
+  "id": 291189674,
+  "lat": 51.5999246,
+  "lon": -3.9933580
+},
+{
+  "type": "node",
+  "id": 291189723,
+  "lat": 51.6000997,
+  "lon": -3.9937578
+},
+{
+  "type": "node",
+  "id": 291189724,
+  "lat": 51.6000303,
+  "lon": -3.9939618
+},
+{
+  "type": "node",
+  "id": 291189725,
+  "lat": 51.5999770,
+  "lon": -3.9941849
+},
+{
+  "type": "node",
+  "id": 291189726,
+  "lat": 51.5999717,
+  "lon": -3.9944767
+},
+{
+  "type": "node",
+  "id": 1005435115,
+  "lat": 51.6003141,
+  "lon": -3.9966278
+},
+{
+  "type": "node",
+  "id": 1005435116,
+  "lat": 51.6003597,
+  "lon": -3.9959501
+},
+{
+  "type": "node",
+  "id": 1005435117,
+  "lat": 51.6004217,
+  "lon": -3.9957769
+},
+{
+  "type": "node",
+  "id": 1005435118,
+  "lat": 51.6005235,
+  "lon": -3.9956773
+},
+{
+  "type": "node",
+  "id": 1005435119,
+  "lat": 51.6005731,
+  "lon": -3.9956529
+},
+{
+  "type": "node",
+  "id": 1721938380,
+  "lat": 51.6003283,
+  "lon": -3.9961644
+},
+{
+  "type": "node",
+  "id": 1817907897,
+  "lat": 51.6000147,
+  "lon": -3.9965644
+},
+{
+  "type": "node",
+  "id": 2073025663,
+  "lat": 51.6009820,
+  "lon": -3.9955375
+},
+{
+  "type": "node",
+  "id": 2073025668,
+  "lat": 51.6008832,
+  "lon": -3.9955662
+},
+{
+  "type": "node",
+  "id": 3992731835,
+  "lat": 51.5996084,
+  "lon": -3.9962358
+},
+{
+  "type": "node",
+  "id": 3992731836,
+  "lat": 51.5996827,
+  "lon": -3.9964154
+},
+{
+  "type": "node",
+  "id": 3992731837,
+  "lat": 51.5999785,
+  "lon": -3.9935246,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "kerb": "flush",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7834686848,
+  "lat": 51.5996018,
+  "lon": -3.9967091,
+  "tags": {
+    "fixme": "Check Junction"
+  }
+},
+{
+  "type": "node",
+  "id": 7834686849,
+  "lat": 51.5997244,
+  "lon": -3.9967382
+},
+{
+  "type": "node",
+  "id": 7834686850,
+  "lat": 51.5998402,
+  "lon": -3.9967342
+},
+{
+  "type": "node",
+  "id": 7834686851,
+  "lat": 51.6002234,
+  "lon": -3.9968723
+},
+{
+  "type": "node",
+  "id": 7834686852,
+  "lat": 51.5999085,
+  "lon": -3.9967422
+},
+{
+  "type": "node",
+  "id": 7834686853,
+  "lat": 51.6001259,
+  "lon": -3.9969045
+},
+{
+  "type": "node",
+  "id": 7834686854,
+  "lat": 51.6001051,
+  "lon": -3.9971526
+},
+{
+  "type": "node",
+  "id": 7834704353,
+  "lat": 51.5996503,
+  "lon": -3.9948607
+},
+{
+  "type": "node",
+  "id": 7834704358,
+  "lat": 51.5996251,
+  "lon": -3.9955795,
+  "tags": {
+    "crossing": "unmarked",
+    "crossing:island": "no",
+    "crossing:markings": "no",
+    "highway": "crossing",
+    "kerb": "flush",
+    "tactile_paving": "yes",
+    "traffic_calming": "table"
+  }
+},
+{
+  "type": "way",
+  "id": 23769814,
+  "nodes": [
+    7834704353,
+    27779579,
+    27779582,
+    27779583
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26562745,
+  "nodes": [
+    291189674,
+    3992731837,
+    291189723,
+    291189724,
+    291189725,
+    291189726
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Glyn Crescent"
+  }
+},
+{
+  "type": "way",
+  "id": 59148637,
+  "nodes": [
+    1817907897,
+    27779571,
+    27779574,
+    3992731836,
+    27779575,
+    3992731835,
+    257535124
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 86502494,
+  "nodes": [
+    1005435115,
+    1721938380,
+    1005435116,
+    1005435117,
+    1005435118,
+    1005435119,
+    2073025668,
+    2073025663
+  ],
+  "tags": {
+    "highway": "residential",
+    "name": "Y Deri"
+  }
+},
+{
+  "type": "way",
+  "id": 839614192,
+  "nodes": [
+    7834686851,
+    7834686853
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 839614193,
+  "nodes": [
+    7834686854,
+    7834686853,
+    7834686852,
+    7834686850,
+    7834686849,
+    7834686848
+  ],
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 839614210,
+  "nodes": [
+    257535123,
+    7834704358,
+    27779578,
+    7834704353
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 839614211,
+  "nodes": [
+    27779570,
+    109540576,
+    1005435115,
+    1817907897
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "20 mph",
+    "name": "Derwen Fawr Road",
+    "name:cy": "Heol Derwen Fawr",
+    "ref": "B4436"
+  }
+},
+{
+  "type": "node",
+  "id": 7834686795,
+  "lat": 51.5995733,
+  "lon": -3.9957173
+},
+{
+  "type": "node",
+  "id": 7834704359,
+  "lat": 51.5995578,
+  "lon": -3.9960730
+},
+{
+  "type": "way",
+  "id": 839614182,
+  "nodes": [
+    7834686795,
+    7834704359
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 27462737,
+  "lat": 51.5979848,
+  "lon": -3.9949373
+},
+{
+  "type": "node",
+  "id": 41682665,
+  "lat": 51.5986749,
+  "lon": -3.9944861,
+  "tags": {
+    "bicycle": "yes",
+    "button_operated": "yes",
+    "crossing": "traffic_signals",
+    "crossing:island": "yes",
+    "highway": "traffic_signals",
+    "kerb": "lowered",
+    "supervised": "no",
+    "tactile_paving": "yes",
+    "traffic_signals:direction": "both",
+    "traffic_signals:sound": "yes",
+    "traffic_signals:vibration": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 98843313,
+  "lat": 51.5965366,
+  "lon": -3.9955321
+},
+{
+  "type": "node",
+  "id": 98843414,
+  "lat": 51.5978257,
+  "lon": -3.9949312,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 98843415,
+  "lat": 51.5969790,
+  "lon": -3.9952593,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844301,
+  "lat": 51.5969250,
+  "lon": -3.9954144,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 98844303,
+  "lat": 51.5978463,
+  "lon": -3.9950636
+},
+{
+  "type": "node",
+  "id": 109924954,
+  "lat": 51.5980614,
+  "lon": -3.9956973
+},
+{
+  "type": "node",
+  "id": 109924957,
+  "lat": 51.5980681,
+  "lon": -3.9959657
+},
+{
+  "type": "node",
+  "id": 109924960,
+  "lat": 51.5979654,
+  "lon": -3.9966929
+},
+{
+  "type": "node",
+  "id": 109924963,
+  "lat": 51.5978840,
+  "lon": -3.9968907
+},
+{
+  "type": "node",
+  "id": 109924964,
+  "lat": 51.5976847,
+  "lon": -3.9974624
+},
+{
+  "type": "node",
+  "id": 109924966,
+  "lat": 51.5976309,
+  "lon": -3.9979827
+},
+{
+  "type": "node",
+  "id": 109924967,
+  "lat": 51.5975224,
+  "lon": -3.9982216
+},
+{
+  "type": "node",
+  "id": 109924968,
+  "lat": 51.5972844,
+  "lon": -3.9984290
+},
+{
+  "type": "node",
+  "id": 109924970,
+  "lat": 51.5971937,
+  "lon": -3.9985578
+},
+{
+  "type": "node",
+  "id": 109924973,
+  "lat": 51.5971458,
+  "lon": -3.9987208
+},
+{
+  "type": "node",
+  "id": 109924975,
+  "lat": 51.5972102,
+  "lon": -3.9992820
+},
+{
+  "type": "node",
+  "id": 109924978,
+  "lat": 51.5972364,
+  "lon": -3.9995620
+},
+{
+  "type": "node",
+  "id": 109924979,
+  "lat": 51.5974070,
+  "lon": -4.0005319
+},
+{
+  "type": "node",
+  "id": 109924981,
+  "lat": 51.5975647,
+  "lon": -4.0010584
+},
+{
+  "type": "node",
+  "id": 109924986,
+  "lat": 51.5982062,
+  "lon": -4.0026161
+},
+{
+  "type": "node",
+  "id": 109924987,
+  "lat": 51.5982138,
+  "lon": -4.0026802
+},
+{
+  "type": "node",
+  "id": 109924992,
+  "lat": 51.5980022,
+  "lon": -4.0038907
+},
+{
+  "type": "node",
+  "id": 109924993,
+  "lat": 51.5979491,
+  "lon": -4.0042175
+},
+{
+  "type": "node",
+  "id": 257535026,
+  "lat": 51.5983224,
+  "lon": -3.9947684
+},
+{
+  "type": "node",
+  "id": 257535027,
+  "lat": 51.5981198,
+  "lon": -3.9948862
+},
+{
+  "type": "node",
+  "id": 562647913,
+  "lat": 51.5970893,
+  "lon": -3.9953510,
+  "tags": {
+    "highway": "speed_camera"
+  }
+},
+{
+  "type": "node",
+  "id": 1145408863,
+  "lat": 51.5967076,
+  "lon": -3.9955018
+},
+{
+  "type": "node",
+  "id": 1145408951,
+  "lat": 51.5971366,
+  "lon": -3.9951954
+},
+{
+  "type": "node",
+  "id": 1145409080,
+  "lat": 51.5966868,
+  "lon": -3.9953784
+},
+{
+  "type": "node",
+  "id": 1259624254,
+  "lat": 51.5978379,
+  "lon": -4.0017202
+},
+{
+  "type": "node",
+  "id": 1259624359,
+  "lat": 51.5979682,
+  "lon": -4.0019976
+},
+{
+  "type": "node",
+  "id": 1259624493,
+  "lat": 51.5982031,
+  "lon": -4.0027945
+},
+{
+  "type": "node",
+  "id": 1259624518,
+  "lat": 51.5980612,
+  "lon": -4.0035919
+},
+{
+  "type": "node",
+  "id": 1259624533,
+  "lat": 51.5980919,
+  "lon": -4.0023369
+},
+{
+  "type": "node",
+  "id": 7235839812,
+  "lat": 51.5973895,
+  "lon": -3.9983337
+},
+{
+  "type": "node",
+  "id": 7235839813,
+  "lat": 51.5977609,
+  "lon": -3.9971975
+},
+{
+  "type": "node",
+  "id": 7235839814,
+  "lat": 51.5976732,
+  "lon": -3.9977203
+},
+{
+  "type": "node",
+  "id": 8603351675,
+  "lat": 51.5974818,
+  "lon": -3.9950618
+},
+{
+  "type": "node",
+  "id": 8603351676,
+  "lat": 51.5974685,
+  "lon": -3.9952093
+},
+{
+  "type": "node",
+  "id": 8935860419,
+  "lat": 51.5976595,
+  "lon": -3.9978051
+},
+{
+  "type": "node",
+  "id": 9021639458,
+  "lat": 51.5979093,
+  "lon": -4.0018723
+},
+{
+  "type": "node",
+  "id": 9634216229,
+  "lat": 51.5994354,
+  "lon": -3.9938012
+},
+{
+  "type": "node",
+  "id": 9875498880,
+  "lat": 51.5976005,
+  "lon": -4.0011450
+},
+{
+  "type": "node",
+  "id": 10570126431,
+  "lat": 51.5986590,
+  "lon": -3.9944988
+},
+{
+  "type": "way",
+  "id": 11085915,
+  "nodes": [
+    27462737,
+    98843414,
+    8603351675,
+    1145408951,
+    98843415,
+    1145409080,
+    98843313
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 11085983,
+  "nodes": [
+    98843313,
+    1145408863,
+    98844301,
+    562647913,
+    8603351676,
+    98844303
+  ],
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 12125276,
+  "nodes": [
+    27462737,
+    109924954,
+    109924957,
+    109924960,
+    109924963,
+    7235839813,
+    109924964,
+    7235839814,
+    8935860419,
+    109924966,
+    109924967,
+    7235839812,
+    109924968,
+    109924970,
+    109924973,
+    109924975,
+    109924978,
+    109924979,
+    109924981,
+    9875498880,
+    1259624254,
+    9021639458,
+    1259624359,
+    1259624533,
+    109924986,
+    109924987,
+    1259624493,
+    1259624518,
+    109924992,
+    109924993
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "20 mph",
+    "name": "Mill Lane",
+    "name:cy": "Lôn y Felin",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23769796,
+  "nodes": [
+    257535027,
+    27462737
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 59148642,
+  "nodes": [
+    9634216229,
+    41682665,
+    10570126431
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "no",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773840055,
+  "nodes": [
+    98844303,
+    27462737
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "oneway": "yes",
+    "ref": "A4067",
+    "sidewalk": "left",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1133760573,
+  "nodes": [
+    10570126431,
+    257535026
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30 mph",
+    "name": "Mumbles Road",
+    "name:cy": "Heol y Mwmbwls",
+    "ref": "A4067",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 11118789817,
+  "lat": 51.5982229,
+  "lon": -3.9954246
+},
+{
+  "type": "node",
+  "id": 11118789818,
+  "lat": 51.5983082,
+  "lon": -3.9953408
+},
+{
+  "type": "way",
+  "id": 1198614408,
+  "nodes": [
+    11118789818,
+    11118789817
+  ],
+  "tags": {
+    "bridge": "yes",
+    "heritage": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "wikidata": "Q29490142"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

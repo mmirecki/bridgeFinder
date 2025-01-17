@@ -1,0 +1,293 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:01:17Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 7428665542,
+  "lat": 51.2008866,
+  "lon": -3.1365034
+},
+{
+  "type": "node",
+  "id": 7428665543,
+  "lat": 51.2008034,
+  "lon": -3.1365254
+},
+{
+  "type": "way",
+  "id": 794265919,
+  "nodes": [
+    7428665543,
+    7428665542
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3407172943,
+  "lat": 51.2051234,
+  "lon": -3.1222277
+},
+{
+  "type": "node",
+  "id": 3407172944,
+  "lat": 51.2051271,
+  "lon": -3.1223035
+},
+{
+  "type": "way",
+  "id": 464724622,
+  "nodes": [
+    3407172943,
+    3407172944
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "prow_ref": "WL 23/61",
+    "surface": "grass",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7233446164,
+  "lat": 51.2051734,
+  "lon": -3.1220803
+},
+{
+  "type": "node",
+  "id": 7233446165,
+  "lat": 51.2052335,
+  "lon": -3.1221098
+},
+{
+  "type": "way",
+  "id": 775326707,
+  "nodes": [
+    7233446164,
+    7233446165
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7233446167,
+  "lat": 51.2052643,
+  "lon": -3.1223461
+},
+{
+  "type": "node",
+  "id": 7233446168,
+  "lat": 51.2052727,
+  "lon": -3.1223036
+},
+{
+  "type": "way",
+  "id": 775326709,
+  "nodes": [
+    7233446168,
+    7233446167
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "lit": "no",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4601428417,
+  "lat": 51.2059206,
+  "lon": -3.1110984
+},
+{
+  "type": "node",
+  "id": 4601428418,
+  "lat": 51.2059365,
+  "lon": -3.1111547
+},
+{
+  "type": "way",
+  "id": 465145256,
+  "nodes": [
+    4601428418,
+    4601428417
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "prow_ref": "WL 23/107",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5149656515,
+  "lat": 51.2054634,
+  "lon": -3.1093656
+},
+{
+  "type": "node",
+  "id": 5149656516,
+  "lat": 51.2054432,
+  "lon": -3.1093012
+},
+{
+  "type": "way",
+  "id": 530292667,
+  "nodes": [
+    5149656515,
+    5149656516
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "prow_ref": "WL 23/62",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

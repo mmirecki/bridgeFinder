@@ -1,0 +1,806 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:54:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 11987860705,
+  "lat": 57.5434983,
+  "lon": -5.2924595
+},
+{
+  "type": "node",
+  "id": 11987860706,
+  "lat": 57.5434197,
+  "lon": -5.2925173
+},
+{
+  "type": "way",
+  "id": 1293118972,
+  "nodes": [
+    11987860706,
+    11987860705
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11987860707,
+  "lat": 57.5455947,
+  "lon": -5.2902105
+},
+{
+  "type": "node",
+  "id": 11987860708,
+  "lat": 57.5455295,
+  "lon": -5.2902200
+},
+{
+  "type": "way",
+  "id": 1293118974,
+  "nodes": [
+    11987860708,
+    11987860707
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 699254053,
+  "lat": 57.5061452,
+  "lon": -5.2337947
+},
+{
+  "type": "node",
+  "id": 699254054,
+  "lat": 57.5060586,
+  "lon": -5.2341379
+},
+{
+  "type": "way",
+  "id": 55649255,
+  "nodes": [
+    699254053,
+    699254054
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "40 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1870-08-19",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7397204022,
+  "lat": 57.5098433,
+  "lon": -5.2252745
+},
+{
+  "type": "node",
+  "id": 7397204023,
+  "lat": 57.5097868,
+  "lon": -5.2253696
+},
+{
+  "type": "way",
+  "id": 791261384,
+  "nodes": [
+    7397204022,
+    7397204023
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "40 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1870-08-19",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8812460830,
+  "lat": 57.5304888,
+  "lon": -5.2284569
+},
+{
+  "type": "node",
+  "id": 8812460831,
+  "lat": 57.5305824,
+  "lon": -5.2285320
+},
+{
+  "type": "way",
+  "id": 952093688,
+  "nodes": [
+    8812460831,
+    8812460830
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 25298990,
+  "lat": 57.5185943,
+  "lon": -5.2048158,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25298992,
+  "lat": 57.5169176,
+  "lon": -5.2100085,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25298994,
+  "lat": 57.5154541,
+  "lon": -5.2162742,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25298996,
+  "lat": 57.5122040,
+  "lon": -5.2255868,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25298998,
+  "lat": 57.5066426,
+  "lon": -5.2364229,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299000,
+  "lat": 57.5020140,
+  "lon": -5.2461589,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299002,
+  "lat": 57.4991960,
+  "lon": -5.2516249,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299004,
+  "lat": 57.4974429,
+  "lon": -5.2543401,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299005,
+  "lat": 57.4957887,
+  "lon": -5.2557032,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299007,
+  "lat": 57.4940932,
+  "lon": -5.2576017,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299009,
+  "lat": 57.4931270,
+  "lon": -5.2595990,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 25299010,
+  "lat": 57.4914237,
+  "lon": -5.2668499,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746035,
+  "lat": 57.4909004,
+  "lon": -5.2709585
+},
+{
+  "type": "node",
+  "id": 369746036,
+  "lat": 57.4912508,
+  "lon": -5.2690601,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746037,
+  "lat": 57.4917235,
+  "lon": -5.2650582,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746038,
+  "lat": 57.4923189,
+  "lon": -5.2627150,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746039,
+  "lat": 57.4926230,
+  "lon": -5.2612387,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746040,
+  "lat": 57.4934360,
+  "lon": -5.2587604,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746041,
+  "lat": 57.4946525,
+  "lon": -5.2567219,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746042,
+  "lat": 57.4983060,
+  "lon": -5.2531110,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746043,
+  "lat": 57.5009770,
+  "lon": -5.2487150,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746044,
+  "lat": 57.5015819,
+  "lon": -5.2475487,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746045,
+  "lat": 57.5034495,
+  "lon": -5.2430212,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746046,
+  "lat": 57.5044330,
+  "lon": -5.2404047
+},
+{
+  "type": "node",
+  "id": 369746047,
+  "lat": 57.5050461,
+  "lon": -5.2390515,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746048,
+  "lat": 57.5059971,
+  "lon": -5.2379786,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746049,
+  "lat": 57.5076513,
+  "lon": -5.2350818,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746050,
+  "lat": 57.5080028,
+  "lon": -5.2344274,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746052,
+  "lat": 57.5083041,
+  "lon": -5.2331854,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746053,
+  "lat": 57.5084524,
+  "lon": -5.2324104,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746054,
+  "lat": 57.5087694,
+  "lon": -5.2317237,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746056,
+  "lat": 57.5100572,
+  "lon": -5.2297695,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746057,
+  "lat": 57.5140260,
+  "lon": -5.2222790,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746058,
+  "lat": 57.5143880,
+  "lon": -5.2212094,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746060,
+  "lat": 57.5180670,
+  "lon": -5.2059153
+},
+{
+  "type": "node",
+  "id": 369746061,
+  "lat": 57.5192741,
+  "lon": -5.2035069,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 369746062,
+  "lat": 57.5203112,
+  "lon": -5.2021229,
+  "tags": {
+    "created_by": "Merkaartor 0.12"
+  }
+},
+{
+  "type": "node",
+  "id": 434105599,
+  "lat": 57.4908706,
+  "lon": -5.2712936
+},
+{
+  "type": "node",
+  "id": 434105601,
+  "lat": 57.4908626,
+  "lon": -5.2716283
+},
+{
+  "type": "node",
+  "id": 519995500,
+  "lat": 57.5176135,
+  "lon": -5.2072963
+},
+{
+  "type": "node",
+  "id": 1920568188,
+  "lat": 57.5198776,
+  "lon": -5.2027015
+},
+{
+  "type": "node",
+  "id": 2952923000,
+  "lat": 57.5218003,
+  "lon": -5.2008087
+},
+{
+  "type": "node",
+  "id": 4083540101,
+  "lat": 57.5070480,
+  "lon": -5.2358839
+},
+{
+  "type": "node",
+  "id": 4083540130,
+  "lat": 57.5079854,
+  "lon": -5.2344598
+},
+{
+  "type": "node",
+  "id": 7004345799,
+  "lat": 57.5002008,
+  "lon": -5.2499832
+},
+{
+  "type": "node",
+  "id": 7004364542,
+  "lat": 57.5048689,
+  "lon": -5.2393654
+},
+{
+  "type": "node",
+  "id": 7004364546,
+  "lat": 57.5039294,
+  "lon": -5.2417485
+},
+{
+  "type": "node",
+  "id": 7829446336,
+  "lat": 57.5083570,
+  "lon": -5.2329088
+},
+{
+  "type": "node",
+  "id": 7829446343,
+  "lat": 57.5093509,
+  "lon": -5.2308413
+},
+{
+  "type": "way",
+  "id": 383656985,
+  "nodes": [
+    434105601,
+    434105599,
+    369746035,
+    369746036,
+    25299010,
+    369746037,
+    369746038,
+    369746039,
+    25299009,
+    369746040,
+    25299007,
+    369746041,
+    25299005,
+    25299004,
+    369746042,
+    25299002,
+    7004345799,
+    369746043,
+    369746044,
+    25299000,
+    369746045,
+    7004364546,
+    369746046,
+    7004364542,
+    369746047,
+    369746048,
+    25298998,
+    4083540101,
+    369746049,
+    4083540130,
+    369746050,
+    369746052,
+    7829446336,
+    369746053,
+    369746054,
+    7829446343,
+    369746056,
+    25298996,
+    369746057,
+    369746058,
+    25298994,
+    25298992,
+    519995500,
+    369746060,
+    25298990,
+    369746061,
+    1920568188,
+    369746062,
+    2952923000
+  ],
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60 mph",
+    "maxspeed:type": "GB:nsl_single",
+    "old_ref": "B855",
+    "ref": "A890",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 519995339,
+  "lat": 57.5175037,
+  "lon": -5.2044196
+},
+{
+  "type": "node",
+  "id": 519995446,
+  "lat": 57.5175731,
+  "lon": -5.2045544
+},
+{
+  "type": "way",
+  "id": 41961921,
+  "nodes": [
+    519995339,
+    519995446
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 26487129,
+  "lat": 57.5166837,
+  "lon": -5.2022437
+},
+{
+  "type": "node",
+  "id": 519995845,
+  "lat": 57.5166673,
+  "lon": -5.2023565
+},
+{
+  "type": "way",
+  "id": 41961929,
+  "nodes": [
+    26487129,
+    519995845
+  ],
+  "tags": {
+    "bridge": "yes",
+    "electrified": "no",
+    "gauge": "1435",
+    "layer": "1",
+    "maxspeed": "40 mph",
+    "name": "Kyle of Lochalsh Line",
+    "operator": "Network Rail",
+    "railway": "rail",
+    "ref": "KYL",
+    "ref:elr": "KYL",
+    "start_date": "1870-08-19",
+    "usage": "branch"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

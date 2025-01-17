@@ -1,0 +1,277 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:23:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 10914863,
+  "lat": 57.0097997,
+  "lon": -6.3507135
+},
+{
+  "type": "node",
+  "id": 2171484140,
+  "lat": 57.0097411,
+  "lon": -6.3509073
+},
+{
+  "type": "way",
+  "id": 69695449,
+  "nodes": [
+    10914863,
+    2171484140
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "OS OpenData StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2171484183,
+  "lat": 57.0105313,
+  "lon": -6.3440941
+},
+{
+  "type": "node",
+  "id": 2171484189,
+  "lat": 57.0106573,
+  "lon": -6.3437497
+},
+{
+  "type": "way",
+  "id": 207012731,
+  "nodes": [
+    2171484189,
+    2171484183
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "OS OpenData StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10914924,
+  "lat": 57.0157733,
+  "lon": -6.3386254
+},
+{
+  "type": "node",
+  "id": 2171484548,
+  "lat": 57.0157840,
+  "lon": -6.3389074
+},
+{
+  "type": "way",
+  "id": 207012732,
+  "nodes": [
+    10914924,
+    2171484548
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "OS OpenData StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10914928,
+  "lat": 57.0180596,
+  "lon": -6.3379718
+},
+{
+  "type": "node",
+  "id": 3206476469,
+  "lat": 57.0181014,
+  "lon": -6.3381932
+},
+{
+  "type": "way",
+  "id": 314603564,
+  "nodes": [
+    10914928,
+    3206476469
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "OS OpenData StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10914929,
+  "lat": 57.0187158,
+  "lon": -6.3427421
+},
+{
+  "type": "node",
+  "id": 6511518298,
+  "lat": 57.0186952,
+  "lon": -6.3425480
+},
+{
+  "type": "way",
+  "id": 693559919,
+  "nodes": [
+    6511518298,
+    10914929
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "layer": "1",
+    "source": "OS OpenData StreetView",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 833568074,
+  "lat": 57.0149359,
+  "lon": -6.3171218
+},
+{
+  "type": "node",
+  "id": 3206476468,
+  "lat": 57.0149345,
+  "lon": -6.3173558
+},
+{
+  "type": "way",
+  "id": 314603566,
+  "nodes": [
+    833568074,
+    3206476468
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "track",
+    "source": "OS OpenData StreetView",
+    "tracktype": "grade1"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

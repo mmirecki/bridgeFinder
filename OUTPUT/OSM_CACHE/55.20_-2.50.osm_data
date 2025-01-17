@@ -1,0 +1,59 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T18:42:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 897293681,
+  "lat": 55.2028120,
+  "lon": -2.4863773
+},
+{
+  "type": "node",
+  "id": 3542768464,
+  "lat": 55.2028809,
+  "lon": -2.4867488
+},
+{
+  "type": "way",
+  "id": 348044767,
+  "nodes": [
+    897293681,
+    3542768464
+  ],
+  "tags": {
+    "bridge": "yes",
+    "designation": "public_bridleway",
+    "highway": "track",
+    "layer": "1",
+    "motor_vehicle": "private",
+    "name": "North Haul Road",
+    "source:name": "OS_OpenData_Locator"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

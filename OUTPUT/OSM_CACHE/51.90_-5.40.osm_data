@@ -1,0 +1,64 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T16:50:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 10768438439,
+  "lat": 51.9039629,
+  "lon": -5.3030607
+},
+{
+  "type": "node",
+  "id": 10768438440,
+  "lat": 51.9038818,
+  "lon": -5.3030164
+},
+{
+  "type": "way",
+  "id": 1157898806,
+  "nodes": [
+    10768438440,
+    10768438439
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "designation": "public_footpath",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Pembrokeshire Coast Path",
+    "name:cy": "Llwybr Arfordir Penfro",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}

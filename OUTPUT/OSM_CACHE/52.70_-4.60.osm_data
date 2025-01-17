@@ -1,0 +1,111 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2025-01-15T17:11:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 10810862526,
+  "lat": 52.7848425,
+  "lon": -4.5201226
+},
+{
+  "type": "node",
+  "id": 10810862527,
+  "lat": 52.7847463,
+  "lon": -4.5200554
+},
+{
+  "type": "way",
+  "id": 1162417354,
+  "nodes": [
+    10810862526,
+    10810862527
+  ],
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 765279787,
+  "lat": 52.7997523,
+  "lon": -4.5308785
+},
+{
+  "type": "node",
+  "id": 6750526114,
+  "lat": 52.7997658,
+  "lon": -4.5308510
+},
+{
+  "type": "node",
+  "id": 6750526115,
+  "lat": 52.7997442,
+  "lon": -4.5308951
+},
+{
+  "type": "way",
+  "id": 718950576,
+  "nodes": [
+    6750526114,
+    765279787,
+    6750526115
+  ],
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 759226682,
+  "nodes": [
+    7091719300,
+    7091719299,
+    7091719298,
+    7091719297,
+    7091719296,
+    7091719295,
+    7091719294,
+    7091719293,
+    7091719300
+  ],
+  "tags": {
+    "building": "yes"
+  }
+}
+
+  ]
+}
