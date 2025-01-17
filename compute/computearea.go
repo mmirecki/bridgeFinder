@@ -49,7 +49,7 @@ func ComputeArea(knownBridges map[int64]known_uk_bridges.KnownBridge, minLatLng,
 	waysById := make(map[int64][]*data.UnderWay)
 
 	for _, way := range combinedWays {
-		if way.IsExactKnownBridge || !way.HasNeighbouringKnownBridge {
+		if way.IsExactKnownBridge || way.HasNeighbouringKnownBridge {
 			continue
 		}
 
